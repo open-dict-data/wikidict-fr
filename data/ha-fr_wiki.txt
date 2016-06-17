@@ -1,0 +1,554 @@
+Afirka	Afrique
+Japan	Japon
+Norway	Norvège
+Ireland	Irlande (pays)
+Hungariya	Hongrie
+An Spàinn	Espagne
+Amurika	États-Unis
+Beljik	Belgique
+Luksamburg	Luxembourg (pays)
+Duniya	Terre
+Yan-adam	Homo sapiens
+Finland	Finlande
+Sweden	Suède
+Denmark	Danemark
+Poland	Pologne
+Lithuania	Lituanie
+Italiya	Italie
+Switzerland	Suisse
+Austriya	Autriche
+Greek	Grèce
+Turkiyya	Turquie
+Portugal	Portugal
+Turai	Europe
+Asiya	Asie
+Amirka ta Arewa	Amérique du Nord
+Wikipedia	Wikipédia
+Berlin	Berlin
+Airbus	Airbus
+Na'ura	Ordinateur
+Yanar gizo	Internet
+Barack Obama	Barack Obama
+Pariis	Paris
+Kenya	Kenya
+Ethiopia	Éthiopie
+Zaki	Lion
+Faransa	France
+Esperanto	Espéranto
+Kare	Chien
+Birtaniya	Royaume-Uni
+Kyanwa	Chat
+Sin	Chine
+Kifi	Poisson
+Rasha	Russie
+Teku	Mer
+São Paulo	São Paulo
+Jamus	Allemagne
+Iceland	Islande
+Istoniya	Estonie
+Jirgin sama	Avion
+Ɗaya	1 (nombre)
+Biyu	2 (nombre)
+Uku	3 (nombre)
+Huɗu	4 (nombre)
+Biyar	5 (nombre)
+Laitfiya	Lettonie
+Ukraniya	Ukraine
+Kazech	République tchèque
+Slofakiya	Slovaquie
+Sloveniya	Slovénie
+MOldufiniya	Moldavie
+Romainiya	Roumanie
+Bulgairiya	Bulgarie
+Masadoiniya	Macédoine (pays)
+Albaniya	Albanie
+Kroatiya	Croatie
+Azerbaijan	Azerbaïdjan
+Andorra	Andorre
+Cyprus	Chypre (pays)
+Georgia (country)	Géorgie (pays)
+Kazakystan	Kazakhstan
+Malta	Malte
+Monaco	Monaco
+Montenegro	Monténégro
+Vatican	Vatican
+San Marino	Saint-Marin
+Indonesiya	Indonésie
+Afirka ta kudu	Afrique du Sud
+Aljeriya	Algérie
+Uzbekistan	Ouzbékistan
+Ruwa	Eau
+Chile	Chili
+Isa Almasihu	Jésus-Christ
+Singafora	Singapour
+Ilmi	Science
+Liechtenstein	Liechtenstein
+Hitler	Adolf Hitler
+Facebook	Facebook
+Baharain	Bahreïn
+Armeniya	Arménie
+Serbiya	Serbie
+Wata	Lune
+Santanbul	Istanbul
+Asturaliya	Australie
+Koriya ta Arewa	Corée du Nord
+Kambodiya	Cambodge
+Musulunci	Islam
+Rana	Soleil
+Angela Merkel	Angela Merkel
+Timor-Leste	Timor oriental
+Duniyoyi	Planète
+Cadi	Tchad
+Indiya	Inde
+Mangolia	Mongolie
+Dabba	Animal
+Shuka	Plante
+Kaza	Gallus gallus domesticus
+Jersey	Jersey
+Aladu	Porc
+Iran	Iran
+Irak	Irak
+Isra'ila	Israël
+Yemen	Yémen
+Jordan	Jordanie
+Kyrgystan	Kirghizistan
+Kuwait	Koweït
+Laos	Laos
+Lebanon	Liban
+Maldives	Maldives
+Maleziya	Malaisie
+Myanmar	Birmanie
+Nepal	Népal
+Oman	Oman
+Pakistan	Pakistan
+Qatar	Qatar
+Saudiyya	Arabie saoudite
+Sri Lanka	Sri Lanka
+Siriya	Syrie
+Tajikistan	Tadjikistan
+Thailand	Thaïlande
+Turkmenistan	Turkménistan
+Taraiyar larabawa	Émirats arabes unis
+Vietnam	Viêt Nam
+Koriya ta Kudu	Corée du Sud
+Da Simpsons	Les Simpson
+Afghanistan	Afghanistan
+Bangladash	Bangladesh
+Mali	Mali
+Angola	Angola
+Bhutan	Bhoutan
+Brunei	Brunei
+Filipin	Philippines
+Togo	Togo
+Benin	Bénin
+Botswana	Botswana
+Burkina faso	Burkina Faso
+Burundi	Burundi
+Jamhuriyar dimokuradiyya Kwango	République démocratique du Congo
+Gine	Guinée
+Kameru	Cameroun
+Libya	Libye
+Muritaniya	Mauritanie
+Nijar	Niger
+Nijeriya	Nigeria
+Uganda	Ouganda
+Senegal	Sénégal
+Julius Caesar	Jules César
+Sudan	Soudan
+Majalisar Ɗinkin Duniya	Organisation des Nations unies
+Kofi Annan	Kofi Annan
+Montevideo	Montevideo
+Biri	Singe
+Augustus	Auguste
+Gibraltar	Gibraltar
+Mota	Automobile
+Buenos Aires	Buenos Aires
+Abarba	Ananas
+Zinedine Yazid Zidane	Zinédine Zidane
+Baibûl	Bible
+Gaskiyan Cocin Isa	Véritable Jésus Église
+Concepción, Chile	Concepción (Chili)
+Końskowola	Końskowola
+Maciji	Serpentes
+Kimiya	Chimie
+Lima	Lima
+Santiago de Chile	Santiago
+Osasco	Osasco (Brésil)
+Dong Hoi Filin	Aéroport de Đồng Hới
+Curitiba	Curitiba
+Confucius	Confucius
+Kiristancìì	Christianisme
+Nahiya	Continent
+Tsuntsu	Oiseau
+Main Page	Wikipédia:Accueil principal
+Saratov	Saratov
+Bus	Autobus
+Åland	Åland
+Makkah	La Mecque
+Canary Islands	Îles Canaries
+Category:Candidates for speedy deletion	Catégorie:Wikipédia:Suppression immédiate demandée
+Sahara	Sahara
+Kyautar Nobel	Prix Nobel
+Sauro	Culicidae
+Raƙumi	Camelus
+Giwa	Éléphant
+Ƙudan zuma	Abeille
+Margaret Thatcher	Margaret Thatcher
+Nelson Mandela	Nelson Mandela
+Category:Fàransà	Catégorie:France
+Hakkokin Yan-adam	Droits de l'homme
+Hong Kong	Hong Kong
+Rio de Janeiro	Rio de Janeiro
+Addini	Religion
+Muhammad	Mahomet
+Isle of Man	Île de Man
+Ronald Reagan	Ronald Reagan
+Fernando Alonso	Fernando Alonso
+Bishiya	Arbre
+APACHE	Apache HTTP Server
+Lissafi	Nombre
+Masara	Maïs
+Ƙasashen Duniya	Liste des pays du monde
+Dabbar beya	Ursidae
+Sankara	Cancer
+Kurãme	Surdité
+Polio	Poliomyélite
+Makaman nukiliya	Arme nucléaire
+Macau	Macao
+Raƙumin dawa	Girafe
+Wikipedia:Community Portal	Wikipédia:Le Bistro
+Jimina	Autruche d'Afrique
+Tara	9 (nombre)
+Jaki	Âne commun
+Tuje	Otidiformes
+Jamhuriyar Sin	Taïwan (île)
+Bakwai	7 (nombre)
+Takwas	8 (nombre)
+Dabbar rendiya	Cervidae
+Tafarnuwa	Ail cultivé
+Shida	6 (nombre)
+Moshchena	Mochtchena
+Paltoga	Paltoga
+Selena	Selena
+Goma	10 (nombre)
+Guernsey	Guernesey
+Kahuhu	Huppe fasciée
+Kyankyaso	Blattaria
+Galantoyi	Cigogne blanche
+Kada	Crocodilia
+Kurciya	Streptopelia
+Zaƙami	Datura stramonium
+Hausawa	Haoussas
+Mošovce	Mošovce
+Benazir Bhutto	Benazir Bhutto
+Mahmoud Ahmadinejad	Mahmoud Ahmadinejad
+Dokokin nan goma	Décalogue
+Damisa	Léopard
+Ido	Ido
+Larabawa	Arabes
+Madinah	Médine
+Zaghawa (Sprache)	Zaghawa (langue)
+Gyaɗa	Arachide
+Ɗari	100 (nombre)
+Hawainiya	Chamaeleonidae
+Firinji	Réfrigérateur
+Khomeini	Rouhollah Khomeini
+Ɗaɗɗoya	Basilic (plante)
+Zirin Gaza	Bande de Gaza
+Radio Studio 54 Network	Radio Studio 54 Network
+Ashirin	20 (nombre)
+Arbaʼin	40 (nombre)
+Palestin autonomija	Autorité palestinienne
+Talatin	30 (nombre)
+Dubu	1 000 (nombre)
+Desmond Tutu	Desmond Tutu
+Villeneuve-d'Ascq	Villeneuve-d'Ascq
+Tsibirin Bermuda	Triangle des Bermudes
+Dabgi	Oryctérope du Cap
+Kotun Shari'ar Miyagun Laifuka	Cour pénale internationale
+Template:Commonscat	Modèle:Commonscat
+Afirnawan Amirka	Afro-Américains
+Ƙwayoyin cuta na Ebola	Maladie à virus Ebola
+Hausa	Haoussa
+Ali Khamenei	Ali Khamenei
+Sao Vang Filin	Aéroport de Thọ Xuân
+Sittin	60 (nombre)
+Tsamiya	Tamarinier
+Kuɓewa	Gombo
+Rogo	Manioc
+Karkandan	Rhinocéros noir
+Cutar murar aladu	Grippe A (H1N1) de 2009
+Umaru Musa Yar'Adua	Umaru Yar'Adua
+Abbott (bakin dutse)	Abbot (cratère)
+Abbe (bakin dutse)	Abbe (cratère)
+Tattalin arzikin duniya	Crise financière
+Dila	Chacal doré
+Balbela	Héron garde-bœufs
+Rimi	Ceiba pentandra
+Ashuwaki	Salvadora persica
+Zamfara	État de Zamfara
+Zariya	Zaria
+Zirman	Ricin commun
+Kuka	Baobab africain
+Ɓauna	Buffle d'Afrique
+Alkama	Blé tendre
+Kwari	Mouche domestique
+Gweba	Goyavier
+Zabo	Pintade
+Dage	Ratel
+Herzegovina	Herzégovine
+CFA franc ( sefar yammaci Afirka)	Franc CFA
+Kaduna	Kaduna
+Gwaggon biri	Babouin olive
+Boko Haram	Boko Haram
+Jaffna	Jaffna
+Maiduguri	Maiduguri
+Afifiya	Tortue
+Gwaza	Colocasia esculenta
+Soso	Luffa
+Zogale	Moringa oleifera
+Casaʼin	90 (nombre)
+Jibda	Civettictis civetta
+Dumya	Oie-armée de Gambie
+Ƙirƙa	Chlorocebus aethiops
+Batsiya	Ourebia ourebi
+Benik Afobe	Benik Afobe
+43 (adadan)	43 (nombre)
+Zawo	Gymnarque du Nil
+Barewa	Gazella rufifrons
+Shamuwa	Cigogne d'Abdim
+Baba	Indigofera
+Dadis Mousa Camara	Moussa Dadis Camara
+Mayen kifi	Martin-pêcheur pie
+Agadez	Agadez
+Mazo	Guib harnaché
+Adnan Ahmed	Adnan Ahmed
+Marek Grechuta	Marek Grechuta
+Jan baki	Travailleur à bec rouge
+Ajami	Adjami
+Gauraka	Grue couronnée
+Baƙurna	Cephalophus rufilatus
+Kumurci	Cobra cracheur à cou noir
+Matiyu	Évangile selon Matthieu
+Ahmadu Bello	Ahmadu Bello
+Kwara	État de Kwara
+Julia Savicheva	Julia Savicheva
+Gwamki	Hippotragus equinus
+Tan Son Nhat Filin	Aéroport international de Tân Sơn Nhất
+Gaiwa	Protopterus annectens
+Babba da jaka	Marabout d'Afrique
+Labarin kasa na Nijeriya	Géographie du Nigeria
+Waaken Santanbul	Pois d'Angole
+Jihar Katsina	État de Katsina
+Danya	Marula
+Kano	État de Kano
+Ybe	État de Yobe
+Tamanin	80 (nombre)
+Sabaʼin	70 (nombre)
+Hamsin	50 (nombre)
+Yanyawa	Renard pâle
+Wushi-wushi	Dendrocygne fauve
+Ƙirinjijiya	Dendrocygne veuf
+Gada	Céphalophe de Grimm
+Da Nang Filin	Aéroport international de Đà Nẵng
+Yankan Allah	Amadine cou-coupé
+VietJet Air	VietJet Air
+Hazbiya	Pigeon roussard
+51 (adadan)	51 (nombre)
+Ca Mau Filin	Aéroport de Cà Mau
+Help:Contents	Aide:Sommaire
+Alan A'Court	Alan A'Court
+Katsina	Katsina
+Zakaran ƙeƙuwa	Vanneau à tête noire
+Hankaka	Corbeau pie
+Tsanwaka	Rollier d'Abyssinie
+C. W. Alcock	Charles Alcock
+Kurege	Xerus erythropus
+Kabarai	Tisserin gendarme
+Sisita	Cordonbleu à joues rouges
+Cilakowa	Calao à bec noir
+Shaun Barker	Shaun Barker
+Kwango	Kwango
+Jetstar Pacific Airlines	Jetstar Pacific
+Aya	Souchet comestible
+Tom Baddeley	Tom Baddeley
+Category:Turkiyya	Catégorie:Turquie
+Category:Afirka ta kudu	Catégorie:Afrique du Sud
+Category:Nijeriya	Catégorie:Nigeria
+Category:Vietnam	Catégorie:Viêt Nam
+Category:Tsuntsu	Catégorie:Oiseau
+Category:Shuka	Catégorie:Plante
+Category:Addini	Catégorie:Religion
+Category:Duniya	Catégorie:Terre
+Hausa Bakwai	Royaume haoussa
+Duniyar Computer	Computerworld
+Gafiya	Cricetomys gambianus
+Karfasa	Tilapia (genre)
+Shaho	Aigle
+Tommy Banks (footballer)	Tommy Banks (football)
+Albert Adomah	Albert Adomah
+Kimba	Xylopia aethiopica
+Riɗi	Sésame
+Albert Aldridge	Albert Aldridge
+Sarauniya Amina	Amina de Zaria
+Bert Addinall	Bert Addinall
+Category:Stubs	Catégorie:Wikipédia:ébauche
+ESB Villeneuve-d'Ascq	Entente Sportive Basket de Villeneuve-d'Ascq - Lille Métropole
+Edmond Debeaumarché	Edmond Debeaumarché
+Simon Barker	Simon Barker
+Terry Bailey	Terry Bailey
+Template:Tl	Modèle:M
+Template:Userbox	Modèle:BUtilisateur
+Category:Ƙasā̀shē	Catégorie:Pays
+Wikipedia:Administrators	Wikipédia:Administrateur
+Wikipedia:Vital 100	Wikipédia:Articles vitaux/Niveau 2
+Misra	Égypte
+Template:Bot	Modèle:Bot
+Kanada	Canada
+Category:Slovakia	Catégorie:Slovaquie
+Category:Tūrai	Catégorie:Europe
+Template:Documentation	Modèle:Documentation
+Wikipedia:Community portal	Wikipédia:Accueil de la communauté
+Category:User languages	Catégorie:Wikipédiens par langue
+Sung Jae-ki	Sung Jae-ki
+Template:Softredirect	Modèle:Redirection douce
+Template:Delete	Modèle:Suppression Immédiate
+Category:Wikipedia	Catégorie:Wikipédia
+Wikipedia:General disclaimer	Wikipédia:Avertissements généraux
+Wikipedia:Statistics	Wikipédia:Statistiques
+Template:Navbox	Modèle:Méta palette de navigation
+Template:!	Modèle:!
+Template:=	Modèle:=
+Template:Navbar	Modèle:Tnavbar
+Template:Unicode	Modèle:UCode
+Template:Col-break	Modèle:Col-break
+Template:Col-begin	Modèle:Col-début
+Template:Col-end	Modèle:Col-fin
+Wikipedia:Vital articles	Wikipédia:Articles vitaux
+Category:Afirka	Catégorie:Afrique
+Category:Adadan	Catégorie:Nombre
+Template:Babel	Modèle:Boîte Babel
+Template:Reflist	Modèle:Références
+Template:Stub	Modèle:Ébauche
+Template:User af-1	Modèle:Utilisateur af-1
+Template:User als-1	Modèle:Utilisateur als-1
+Template:User ar-1	Modèle:Utilisateur ar-1
+Template:User ast-1	Modèle:Utilisateur ast-1
+Template:User az	Modèle:Utilisateur az
+Template:User bar-1	Modèle:Utilisateur bar-1
+Template:See also	Modèle:Article connexe
+Template:User da-2	Modèle:Utilisateur da-2
+Template:User da	Modèle:Utilisateur da
+Template:User ca-1	Modèle:Utilisateur ca-1
+Template:User ca-4	Modèle:Utilisateur ca-4
+Template:User be-2	Modèle:Utilisateur be-2
+Template:User da-1	Modèle:Utilisateur da-1
+Template:User cs-1	Modèle:Utilisateur cs-1
+Template:User bg-1	Modèle:Utilisateur bg-1
+Template:User de	Modèle:Utilisateur de
+Template:User de-1	Modèle:Utilisateur de-1
+Template:User el	Modèle:Utilisateur el
+Template:User de-3	Modèle:Utilisateur de-3
+Template:User en-3	Modèle:Utilisateur en-3
+Template:User el-1	Modèle:Utilisateur el-1
+Template:User en-1	Modèle:Utilisateur en-1
+Template:User en-2	Modèle:Utilisateur en-2
+Template:User en-4	Modèle:Utilisateur en-4
+Template:User en	Modèle:Utilisateur en
+Template:User de-2	Modèle:Utilisateur de-2
+Template:User tr-2	Modèle:Utilisateur tr-2
+Template:User tr	Modèle:Utilisateur tr
+Category:Asiya	Catégorie:Asie
+Category:User uk	Catégorie:Utilisateur uk
+Category:User uk-N	Catégorie:Utilisateur uk-M
+Template:Mod	Modèle:Mod
+Template:SIL	Modèle:Lien ISO 639-3
+Template:User uk	Modèle:Utilisateur uk
+Template:ITA	Modèle:Italie
+Template:Wikivar	Modèle:Wikivar
+Template:Country showdata	Modèle:Country showdata
+Template:Image label	Modèle:Image label
+Template:Ambox	Modèle:Méta bandeau d'avertissement
+Template:Infobox Country	Modèle:Infobox Pays
+Template:Documentation/docname	Modèle:Documentation/docname
+Template:Cite journal	Modèle:Article
+Category:User en-4	Catégorie:Utilisateur en-4
+Category:User en	Catégorie:Utilisateur en
+Category:User en-2	Catégorie:Utilisateur en-2
+Template:Cite web	Modèle:Lien web
+Template:Country data	Modèle:Country data
+Template:Pp-template	Modèle:Protection
+Template:IPA	Modèle:Prononciation API
+Category:Amurika	Catégorie:Amérique
+Template:MONTHNAME	Modèle:MONTHNAME
+Template:Country data Nigeria	Modèle:Country data Nigeria
+Template:Image label end	Modèle:Image label fin
+Wikipedia:Nospam	Wikipédia:Pages protégées à la création
+Template:Tlx	Modèle:Lien vers modèle avec paramètres
+Template:Purge	Modèle:Purger le cache
+Template:Sportivo	Modèle:Infobox Sportif
+Template:Country flag2	Modèle:Drapeau/callback
+Kungiyar Agaji Ta Red Cross Ta Duniya	Comité international de la Croix-Rouge
+Template:Image label small	Modèle:Image label small
+Template:Disambig	Modèle:Homonymie
+Category:User az	Catégorie:Utilisateur az
+Category:User be	Catégorie:Utilisateur be
+Category:User cs-1	Catégorie:Utilisateur cs-1
+Category:User da-1	Catégorie:Utilisateur da-1
+Category:User ar-1	Catégorie:Utilisateur ar-1
+Category:User be-2	Catégorie:Utilisateur be-2
+Category:User da-2	Catégorie:Utilisateur da-2
+Category:User tr-2	Catégorie:Utilisateur tr-2
+Category:User af	Catégorie:Utilisateur af
+Category:User af-1	Catégorie:Utilisateur af-1
+Category:User als	Catégorie:Utilisateur als
+Category:User als-1	Catégorie:Utilisateur als-1
+Category:User ar	Catégorie:Utilisateur ar
+Category:User ast	Catégorie:Utilisateur ast
+Category:User ast-1	Catégorie:Utilisateur ast-1
+Category:User az-N	Catégorie:Utilisateur az-M
+Category:User bar	Catégorie:Utilisateur bar
+Category:User bar-1	Catégorie:Utilisateur bar-1
+Category:User bg	Catégorie:Utilisateur bg
+Category:User bg-1	Catégorie:Utilisateur bg-1
+Category:User ca	Catégorie:Utilisateur ca
+Category:User ca-1	Catégorie:Utilisateur ca-1
+Category:User ca-4	Catégorie:Utilisateur ca-4
+Category:User cs	Catégorie:Utilisateur cs
+Category:User da	Catégorie:Utilisateur da
+Category:User de	Catégorie:Utilisateur de
+Category:User de-2	Catégorie:Utilisateur de-2
+Category:User de-3	Catégorie:Utilisateur de-3
+Category:User el	Catégorie:Utilisateur el
+Category:User el-1	Catégorie:Utilisateur el-1
+Category:User el-N	Catégorie:Utilisateur el-M
+Category:User en-3	Catégorie:Utilisateur en-3
+Category:User en-N	Catégorie:Utilisateur en-M
+Category:User ha	Catégorie:Utilisateur ha
+Category:User ha-N	Catégorie:Utilisateur ha-M
+Category:User tr	Catégorie:Utilisateur tr
+Category:User tr-N	Catégorie:Utilisateur tr-M
+Category:Bishiya	Catégorie:Arbre
+Category:Kudi	Catégorie:Monnaie
+Category:Ingila kwallon kafa players	Catégorie:Footballeur anglais
+Category:Kifi	Catégorie:Poisson
+Category:Amfani	Catégorie:Fruit alimentaire
+Category:Biri	Catégorie:Singe
+Category:Dabba	Catégorie:Animal
+Kabewa	Cucurbita pepo
+Iska	Air
+Template:Flag	Modèle:Pays
+Trojany	Trojany (Mazovie)
+Doya	Igname
+Template:Image label begin	Modèle:Image label début
+Category:User ha-0	Catégorie:Utilisateur ha-0
+Category:User en-1	Catégorie:Utilisateur en-1
+Category:User de-1	Catégorie:Utilisateur de-1
+Category:User da-N	Catégorie:Utilisateur da-M
+Template:Start date	Modèle:Date début
+Malan boɗe ido	Rhopalocères
+Special:RecentChanges	Spécial:Modifications récentes
+Module:Citation/CS1	Module:Biblio
+Tsaure	Citronnelle de brousse
+Module:Infobox	Module:Infobox
+Adam Armstrong (footballer)	Adam Armstrong

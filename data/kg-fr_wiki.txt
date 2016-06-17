@@ -1,0 +1,904 @@
+Afelika	Afrique
+Japan	Japon
+Norge	Norvège
+Hongrie	Hongrie
+Espania	Espagne
+Belezi	Belgique
+Luxembourg	Luxembourg (pays)
+Ntoto	Terre
+Muntu	Homo sapiens
+Finlandi	Finlande
+Suedi	Suède
+Danemark	Danemark
+Pologne	Pologne
+Lietuva	Lituanie
+Italia	Italie
+Suisi	Suisse
+Autriche	Autriche
+Gelesi	Grèce
+Turki	Turquie
+Mputulukesi	Portugal
+Mputu	Europe
+Azia	Asie
+Pays-Bas	Pays-Bas
+Berlin	Berlin
+Ludinatelo	Ordinateur
+Paris	Paris
+Kenya	Kenya
+Itiopia	Éthiopie
+Gana	Ghana
+Nkosi	Lion
+Fwalansa	France
+Royaume-Uni	Royaume-Uni
+Nyawu	Chat
+Sina	Chine
+Kifalanse	Français
+Brazil	Brésil
+François Hollande	François Hollande
+Rusia	Russie
+Kalunga	Mer
+Alemanyi	Allemagne
+Belarusia	Biélorussie
+Kidoitce	Allemand
+Islande	Islande
+Estonia	Estonie
+Ndèke	Avion
+Vita	Guerre
+4 (ntalu)	4 (nombre)
+Latvia	Lettonie
+Uklenyi	Ukraine
+République tchèque	République tchèque
+Slovakia	Slovaquie
+Slovenia	Slovénie
+Vilnius	Vilnius
+Moldova	Moldavie
+Romania	Roumanie
+Balgaria	Bulgarie
+Roma	Rome
+Makedonia	Macédoine (pays)
+Albania	Albanie
+Kroatia	Croatie
+Bosna	Bosnie-Herzégovine
+Azerbaidjan	Azerbaïdjan
+Andora	Andorre
+Kipros	Chypre (pays)
+Kazakhstan	Kazakhstan
+Malta	Malte
+Monako	Monaco
+Monte Negro	Monténégro
+Vatican	Vatican
+Saint-Marin	Saint-Marin
+Repubilika ya Afelika ya Sudi	Afrique du Sud
+Algeria	Algérie
+Uzbekistan	Ouzbékistan
+Maza	Eau
+Chile	Chili
+Yesu	Jésus-Christ
+Ndinga	Langage
+Kizabu	Science
+Liechtenstein	Liechtenstein
+Ubuntu	Ubuntu
+Skopje	Skopje
+Kilatini	Latin
+Bahrain	Bahreïn
+Armenia	Arménie
+Serbie	Serbie
+Australia	Australie
+Fizika	Physique
+Kisilamu	Islam
+Dinu	Dent
+Mweta	Planète
+Moskva	Moscou
+Saint Petersburg	Saint-Pétersbourg
+Tasadi	Tchad
+Nôde	Nord
+India	Inde
+Kibende	Fer
+Kibulu	Animal
+Mutako	Cuivre
+Ayiti	Haïti
+Iran	Iran
+Israel	Israël
+Jordan	Jordanie
+Kuwait	Koweït
+Amelika	Amérique
+Oman	Oman
+Qatar	Qatar
+Lukalu	Train
+Vietnam	Viêt Nam
+Wolo	Or
+Mali	Mali
+Ngola	Angola
+Tanzania	Tanzanie
+Repubilika ya Afelika ya Kati	République centrafricaine
+Togo	Togo
+Tunisia	Tunisie
+Zambia	Zambie
+Zimbabwe	Zimbabwe
+Beijing (kizunga)	Pékin
+Sudan ya Sudi	Soudan du Sud
+Benin	Bénin
+Botswana	Botswana
+Burkina Faso	Burkina Faso
+Burundi	Burundi
+Komoro	Comores (pays)
+Repubilika ya Kôngo	République du Congo
+Repubilika ya Kôngo ya Dimokalasi	République démocratique du Congo
+Djibuti	Djibouti
+Bavaria	Bavière
+Ginea ya Ekwatelo	Guinée équatoriale
+Baden-Württemberg	Bade-Wurtemberg
+Eritrea	Érythrée
+Ngabu	Gabon
+Gambia	Gambie
+Ginea	Guinée
+Ginea-Bisau	Guinée-Bissau
+Côte d'Ivoire	Côte d'Ivoire
+Kamerun	Cameroun
+Kap Verde	Cap-Vert
+Lesotho	Lesotho
+Liberia	Liberia
+Libia	Libye
+Malagasi	Madagascar
+Malawi	Malawi
+Stuttgart	Stuttgart
+Moritania	Mauritanie
+Mauritius	Maurice (pays)
+Maroko	Maroc
+Musambiki	Mozambique
+Namibia	Namibie
+Nijer	Niger
+Nizeria	Nigeria
+Uganda	Ouganda
+Rwanda	Rwanda
+Santu Tome na Prinsipe	Sao Tomé-et-Principe
+Senangale	Sénégal
+Seychell	Seychelles
+Sierra Leone	Sierra Leone
+Sômâlia	Somalie
+Sudan	Soudan
+Swati	Swaziland
+Hamburg	Hambourg
+Langi	Couleur
+Prague	Prague
+Bule	Bleu
+Schleswig-Holstein	Schleswig-Holstein
+Mecklenburg-Vorpommern	Mecklembourg-Poméranie-Occidentale
+Niedersachsen	Basse-Saxe
+Nordrhein-Westfalen	Rhénanie-du-Nord-Westphalie
+Hessen	Hesse (Land)
+Rheinland-Pfalz	Rhénanie-Palatinat
+Saarland	Sarre (Land)
+Sachsen	Saxe (Land)
+Thüringen	Thuringe
+Sachsen-Anhalt	Saxe-Anhalt
+Brandenburg	Brandebourg
+Bremen (kizunga)	Brême (Land)
+Kalasi:Categories	Catégorie:Accueil
+Kispanya	Espagnol
+Mbuma	Fruit (botanique)
+Uetersen	Uetersen
+Tomabîlu	Automobile
+Bordo	Bordeaux
+Barcelona	Barcelone
+Nanasi	Ananas
+Kihindi	Hindi
+Potsdam	Potsdam
+Munich	Munich
+Stockholm	Stockholm
+Vaduz	Vaduz
+Biblia	Bible
+Ho Chi Minh City	Hô-Chi-Minh-Ville
+Dibundu ya Kieleka ya Yesu	Véritable Jésus Église
+Kingelezi	Anglais
+Đồng Hới	Đồng Hới
+Concepción	Concepción (Chili)
+Końskowola	Końskowola
+1917	1917
+Kurów	Kurów
+1971	1971
+1969	1969
+Santiago de Chile	Santiago
+Loire-Atlantique	Loire-Atlantique
+Ain (kizunga)	Ain (département)
+Aisne (kizunga)	Aisne (département)
+Vosges (kizunga)	Vosges (département)
+Allier (kizunga)	Allier (département)
+Jura (kizunga)	Jura (département)
+Hautes-Alpes	Hautes-Alpes
+Alpes-de-Haute-Provence	Alpes-de-Haute-Provence
+Alpes-Maritimes	Alpes-Maritimes
+Ardèche (kizunga)	Ardèche (département)
+Ardennes (kizunga)	Ardennes (département)
+Ariège (kizunga)	Ariège (département)
+Aube (kizunga)	Aube (département)
+Aude (kizunga)	Aude (département)
+Aveyron (kizunga)	Aveyron (département)
+Bouches-du-Rhône	Bouches-du-Rhône
+Calvados (kizunga)	Calvados (département)
+Cantal (kizunga)	Cantal (département)
+Charente (kizunga)	Charente (département)
+Charente-Maritime	Charente-Maritime
+Cher (kizunga)	Cher (département)
+Corrèze (kizunga)	Corrèze (département)
+Haute-Corse	Haute-Corse
+Corse-du-Sud	Corse-du-Sud
+Côte-d'Or	Côte-d'Or
+Côtes-d'Armor	Côtes-d'Armor
+Creuse (kizunga)	Creuse (département)
+Dordogne (kizunga)	Dordogne (département)
+Doubs (kizunga)	Doubs (département)
+Drôme (kizunga)	Drôme (département)
+Essonne (kizunga)	Essonne (département)
+Eure (kizunga)	Eure (département)
+Eure-et-Loir	Eure-et-Loir
+Finistère	Finistère
+Nilo	Nil
+Nzâdi Kôngo	Congo (fleuve)
+Adis Abeba	Addis-Abeba
+Ndjamena	N'Djaména
+Bamako	Bamako
+Chiguayante	Chiguayante
+Guyane	Guyane
+Chillán	Chillán
+Abuja	Abuja
+Tübingen	Tübingen
+Libreville	Libreville
+Kinsasa	Kinshasa
+Balazavile	Brazzaville
+Dodoma	Dodoma
+Lwanda	Luanda
+Windhoek	Windhoek
+Mubu	Rivière
+Osasko	Osasco (Brésil)
+Kuritiba	Curitiba
+Afelika ya Lumonso	Afrique de l'Ouest
+Georgia (country)	Georgia
+Kiyesu	Christianisme
+Kontina	Continent
+Mbanza ya kimfumu	Capitale
+Monzón	Monzón
+Kimputulukesi	Portugais
+Ngonda (manaka)	Mois
+Almazán	Almazán
+Mukânda ya ngudi	Wikipédia:Accueil principal
+Saratov	Saratov
+Troyes	Troyes
+Kalasi:Candidates for speedy deletion	Catégorie:Wikipédia:Suppression immédiate demandée
+Montpellier	Montpellier
+Carcassonne	Carcassonne
+Poitiers	Poitiers
+Agen	Agen
+Kimvuka ya Afelika	Union africaine
+Dimokalasi	Démocratie
+Bayuda	Juifs
+Nyama ya mabele	Mammifère
+Nzau	Éléphant
+Kiswahili	Swahili
+Kitsunkwo	Langues chinoises
+Kalasi:Falanse	Catégorie:France
+Kalasi:Musique	Catégorie:Musique
+Bumpika	Esclavage
+Shanghai (kizunga)	Shanghai
+Málaga	Malaga
+Lukwikilu	Religion
+Kibang'la	Bengali
+Ronald Reagan	Ronald Reagan
+Kizulu	Zoulou
+Sasa	Zazaki
+Kutanga	Arithmétique
+Dikâlu (velo)	Bicyclette
+Chongqing (kizunga)	Chongqing
+Tianjin (kizunga)	Tianjin
+Yinsi	Liste des pays du monde
+Mukaba ya ntangu	Fuseau horaire
+Sida	Syndrome d'immunodéficience acquise
+Gard	Gard
+Gers (kizunga)	Gers (département)
+Gironde (kizunga)	Gironde (département)
+Haute-Garonne	Haute-Garonne
+Hauts-de-Seine	Hauts-de-Seine
+Hérault (kizunga)	Hérault (département)
+Ille-et-Vilaine	Ille-et-Vilaine
+Indre (kizunga)	Indre (département)
+Indre-et-Loire	Indre-et-Loire
+Isère (kizunga)	Isère (département)
+Landes (kizunga)	Landes (département)
+Loir-et-Cher	Loir-et-Cher
+Loire (kizunga)	Loire (département)
+Haute-Loire	Haute-Loire
+Loiret (kizunga)	Loiret (département)
+Lot (kizunga)	Lot (département)
+Lot-et-Garonne	Lot-et-Garonne
+Lozère (kizunga)	Lozère (département)
+Maine-et-Loire	Maine-et-Loire
+Manche (kizunga)	Manche (département)
+Marne (kizunga)	Marne (département)
+Haute-Marne	Haute-Marne
+Mayenne (kizunga)	Mayenne (département)
+Meurthe-et-Moselle	Meurthe-et-Moselle
+Meuse (kizunga)	Meuse (département)
+Morbihan	Morbihan
+Moselle (kizunga)	Moselle (département)
+Nièvre (kizunga)	Nièvre (département)
+Nord (kizunga)	Nord (département français)
+Oise (kizunga)	Oise (département)
+Orne (kizunga)	Orne (département)
+Pas-de-Calais	Pas-de-Calais
+Puy-de-Dôme	Puy-de-Dôme
+Hautes-Pyrénées	Hautes-Pyrénées
+Pyrénées-Atlantiques	Pyrénées-Atlantiques
+Pyrénées-Orientales	Pyrénées-Orientales
+Bas-Rhin	Bas-Rhin
+Haut-Rhin	Haut-Rhin
+Haute-Saône	Haute-Saône
+Saône-et-Loire	Saône-et-Loire
+Sarthe (kizunga)	Sarthe (département)
+Savoie (kizunga)	Savoie (département)
+Haute-Savoie	Haute-Savoie
+Seine-et-Marne	Seine-et-Marne
+Seine-Maritime	Seine-Maritime
+Seine-Saint-Denis	Seine-Saint-Denis
+Deux-Sèvres	Deux-Sèvres
+Somme (kizunga)	Somme (département)
+Tarn (kizunga)	Tarn (département)
+Tarn-et-Garonne	Tarn-et-Garonne
+Territoire de Belfort	Territoire de Belfort
+Val-d'Oise	Val-d'Oise
+Val-de-Marne	Val-de-Marne
+Var (kizunga)	Var (département)
+Vaucluse (kizunga)	Vaucluse (département)
+Vendée (kizunga)	Vendée (département)
+Vienne (kizunga)	Vienne (département)
+Haute-Vienne	Haute-Vienne
+Yonne (kizunga)	Yonne (département)
+Yvelines	Yvelines
+Hualqui	Hualqui
+Nerja	Nerja
+Torrox	Torrox
+Moclinejo	Moclinejo
+Ronda	Ronda (Espagne)
+Alcaucín	Alcaucín
+Cañete la Real	Cañete la Real
+Kixhosa	Xhosa (langue)
+Kilabu	Arabe
+Kapoti	Préservatif
+Kiunsita	Occitan
+Lebu	Lebu
+Guangdong	Guangdong
+Guangxi Zhuang	Guangxi
+Los Ángeles (Chile)	Los Ángeles
+Jiangsu	Jiangsu
+Zhejiang	Zhejiang
+Guadeloupe	Guadeloupe
+Madinina	Martinique
+Mayota	Mayotte
+La Réunion	La Réunion
+Xizang	Région autonome du Tibet
+Heilongjiang	Heilongjiang
+San Pedro de la Paz	San Pedro de la Paz
+Nha Trang	Nha Trang
+Rafael Correa	Rafael Correa
+Motorhead	Motörhead
+Mbuluku	Âne commun
+Sichuan	Sichuan
+Juan Carlos I	Juan Carlos Ier
+Vung Tau	Vũng Tàu
+API	Alphabet phonétique international
+Hebei	Hebei
+Kibaha	Bahaïsme
+Irlande	Irlande (île)
+Mposo	Semaine
+Lordi	Lordi
+Marseille	Marseille
+Moshchena	Mochtchena
+Paltoga	Paltoga
+Entrena	Entrena
+Podgorica	Podgorica
+Ntu	Tête (anatomie)
+Muyimbu ya nsi	Hymne national
+Nzila ya busula	Point cardinal
+Rammstein	Rammstein
+Ca Mau	Cà Mau
+Da Lat	Đà Lạt
+Da Nang	Đà Nẵng
+Racibórz	Racibórz
+Phan Thiet	Phan Thiết
+Université Niccolò Cusano	Université Nicolas-de-Cues
+Afelika ya Node	Afrique du Nord
+Afelika ya Sudi	Afrique australe
+Afelika ya Lunene	Afrique de l'Est
+Modern Talking	Modern Talking
+Afelika ya Kati	Afrique centrale
+Magribia	Maghreb
+Nyosi	Apis mellifera
+Mbele	Couteau
+Bandinga ya kibantu	Langues bantoues
+Patua	Dialecte
+Kisikôngo	Kikongo
+Nice	Nice
+Kishona	Shona (langue)
+Nsangu ya mbote	Évangiles
+Yingo	Léopard
+Kifalu	Rhinocéros
+Busula	Boussole
+Bambangi ya Yehowa	Témoins de Jéhovah
+Kinobenia	Auvergnat
+Kigasuku	Gascon
+Kikôngo	Kituba
+Kimbundu	Kimbundu
+Kongo	Congo
+Kiluba	Luba-katanga
+Dingala	Lingala
+Kibubu	Gorille
+Arancón	Arancón
+Nkuku	Canne à sucre
+Zandu	Marché
+Tosa Inu	Tosa (chien)
+Soka	Hache
+Radio Studio 54 Network	Radio Studio 54 Network
+Ágreda	Ágreda
+.cg	.cg
+Sizo	Paire de ciseaux
+Anhui	Anhui
+Nei Mongol	Mongolie-Intérieure
+Świnoujście	Świnoujście
+Fujian	Fujian
+Talcahuano	Talcahuano
+Clermont-Ferrand	Clermont-Ferrand
+Hainan	Haïnan
+Gansu	Gansu
+Dikûmbi	Véhicule
+Mafuta	Huile
+Yunnan	Yunnan
+Shandong	Shandong
+Henan	Henan
+Liaoning	Liaoning
+Dikongo	Lance
+Jilin	Jilin
+Hunan	Hunan
+Qinghai	Qinghai
+Rhône (kizunga)	Rhône (département)
+Hubei	Hubei
+Shanxi	Shanxi
+Guizhou	Guizhou
+Charleville-Mézières	Charleville-Mézières
+Shaanxi	Shaanxi
+Template:Commonscat	Modèle:Commonscat
+Kitupi	Tupinambá (langue)
+Jiangxi	Jiangxi
+Joseph Kabila	Joseph Kabila
+Deni Sasu Ngeso	Denis Sassou-Nguesso
+Ningxia Hui	Ningxia
+Kimpenzi	Chimpanzé
+Nzeniele	Ingénieur
+La Rochelle	La Rochelle
+Mandioko	Manioc
+Dalapo ya Ngabu	Drapeau du Gabon
+Kuvete ya Wesete	Cuvette-Ouest
+Maniema	Maniema
+Kôngo ya Kati	Bas-Congo
+Kivu ya Node	Nord-Kivu
+Nkwezo	Caoutchouc (matériau)
+Bourges	Bourges
+Albi	Albi
+Bourg-en-Bresse	Bourg-en-Bresse
+Angoulême	Angoulême
+Bansi ya balabu	Monde arabe
+Tulle	Tulle
+Nzila ya lukalu	Voie ferrée
+Dalapo ya Repubilika ya Kôngo	Drapeau de la République du Congo
+Dalapo ya Repubilika ya Kongo Demokratiki	Drapeau de la République démocratique du Congo
+Laon	Laon
+Kabinda (kizunga)	Cabinda
+Bambenga	Pygmée
+Babantu	Bantous
+Châteauroux	Châteauroux
+Villa Alemana	Villa Alemana
+Gap	Gap
+Caltojar	Caltojar
+Vodu	Vaudou
+Digne	Digne-les-Bains
+Saint-Lô	Saint-Lô
+Foix	Foix
+Moulins	Moulins (Allier)
+Kenge	Kenge
+Mont-de-Marsan	Mont-de-Marsan
+Guéret	Guéret
+Berat (kizunga)	Préfecture de Berat
+La Roche-sur-Yon	La Roche-sur-Yon
+Bengo	Bengo (province)
+Mende	Mende (Lozère)
+Vlorë (kizunga)	Préfecture de Vlorë
+Durrës (kizunga)	Préfecture de Durrës
+Dibër	Préfecture de Dibër
+Privas	Privas
+Lezhë (kizunga)	Préfecture de Lezhë
+Shkodër (kizunga)	Préfecture de Shkodër
+Gjirokastër (kizunga)	Préfecture de Gjirokastër
+Korçë (kizunga)	Préfecture de Korçë
+Elbasan (kizunga)	Préfecture d'Elbasan
+Łobez	Łobez
+Kizûnga Nzâdi	Zaïre (province)
+Goma	Goma
+Joseph Kasa Vubu	Joseph Kasa-Vubu
+Bandinga ya Afrika	Langues en Afrique
+Bidimbu ya Repubilika ya Kongo Demokratiki	Armoiries de la République démocratique du Congo
+Gaitana	Gaitana
+Mbandaka	Mbandaka
+Matadi	Matadi
+Kizûnga Wizi	Uíge (province)
+Telama besi Kongo	Debout Congolais
+Lubitu	Lobito
+Mboma	Boma
+Ndindi	Pointe-Noire (République du Congo)
+Angola Avante	Angola Avante
+Tirana (kizunga)	Préfecture de Tirana
+Muamba	Huile de palme
+Kukës (kizunga)	Préfecture de Kukës
+Fier (kizunga)	Préfecture de Fier
+Wanzio	Ange
+Kimpubensawu	Provençal
+Mobilisa	Mobilisation
+Dolizi	Dolisie
+Bambanza ya Kongo-Kinsasa	Villes de la République démocratique du Congo
+Álora	Álora (Espagne)
+Kasâyi (kizûnga)	Kasaï (district)
+Kikwit	Kikwit
+Antoine Gizenga	Antoine Gizenga
+Serebro	Serebro
+La Congolaise	La Congolaise
+Adolphe Muzito	Adolphe Muzito
+Almaluez	Almaluez
+Faraján	Faraján
+Pascal Lisuba	Pascal Lissouba
+Cútar	Cútar
+Lualaba	Lwalaba
+Pointe-Noire (bisongidila)	Pointe-Noire
+Kwilu	Kwilu
+Tshuapa	Tshuapa (district)
+Kilemusi	Limousin (dialecte)
+Banyarwanda	Banyarwandas
+Marien Nguabi	Marien Ngouabi
+Mbizi	Ambriz
+Tsiowa	Cabinda (ville)
+Masuku	Franceville
+Bambundu	Mbundu (peuple d'Afrique)
+Kimpa Mvita	Kimpa Vita
+Kaudai	Caodaïsme
+Paramore	Paramore
+Aliud	Aliud
+Baraona	Baraona
+Medinaceli	Medinaceli
+Marbella	Marbella
+Láchar	Láchar
+Burgo de Osma-Ciudad de Osma	El Burgo de Osma
+Kivu ya Sudi	Sud-Kivu
+Benalmádena	Benalmádena
+Comares	Comares
+Fuengirola	Fuengirola
+Torremolinos	Torremolinos
+Vélez-Málaga	Vélez-Málaga
+Mijas	Mijas
+Estepona	Estepona
+Mbânza Kôngo	Mbanza-Kongo
+Navaleno (Soria)	Navaleno
+Atajate	Atajate
+Fulbert Yulu	Fulbert Youlou
+Kwilu (Kikwit)	Kwilu (district)
+Antequera	Antequera
+Kamina	Kamina
+FLEC	Front pour la Libération de l'enclave de Cabinda
+Bakôngo	Kongos
+Arenas	Arenas Club de Getxo
+Bakongo (Balazavile)	Bacongo
+Villanueva del Rosario	Villanueva del Rosario
+Karibe	Caraïbes
+Radio Okapi	Radio Okapi
+Periana	Periana
+Bandundu	Bandundu (ville)
+Joachim Yhombi-Opango	Joachim Yhombi-Opango
+Simoni Kimbangu	Simon Kimbangu
+Tolox	Tolox
+Dizanga Malebo	Pool Malebo
+CAKE	Cake (groupe)
+Kizunga Kwango	Kwango (district)
+Bernard Kolélas	Bernard Kolélas
+Kuvete	Cuvette (département)
+Bayaka	Aka (peuple)
+Kôngo ya Ntotila	Royaume de Kongo
+Baluba	Luba (peuple)
+Banana	Banana (République démocratique du Congo)
+Barca	Barqa (Libye)
+Bateke	Teke (peuple)
+Kisinto	Shintoïsme
+Benahavís	Benahavís
+Benalauría	Benalauría
+Benaoján	Benaoján
+Benarrabá	Benarrabá
+Buenza	Bouenza
+Almarza	Almarza
+Aldealices	Aldealices
+Aldealafuente	Aldealafuente
+Alentisque	Alentisque
+Adradas	Adradas
+Alconaba	Alconaba
+Abejar	Abejar
+Almajano	Almajano
+Arenillas	Arenillas
+Aldealpozo	Aldealpozo
+Alcubilla de las Peñas	Alcubilla de las Peñas
+Aldealseñor	Aldealseñor
+Alcubilla de Avellaneda	Alcubilla de Avellaneda
+Covaleda	Covaleda
+Casarejos	Casarejos
+Calatañazor	Calatañazor
+Almazul	Almazul
+Alpanseque	Alpanseque
+Arcos de Jalón	Arcos de Jalón
+Aldehuela de Periáñez	Aldehuela de Periáñez
+Beratón	Beratón
+Almenar de Soria	Almenar de Soria
+Cigudosa	Cigudosa
+Ausejo de la Sierra	Ausejo de la Sierra
+Arévalo de la Sierra	Arévalo de la Sierra
+Castillejo de Robledo	Castillejo de Robledo
+Las Aldehuelas	Las Aldehuelas
+Ciria	Ciria
+Duruelo de la Sierra	Duruelo de la Sierra
+Quintana Redonda	Quintana Redonda
+Langa de Duero (Soria)	Langa de Duero
+Miño de San Esteban	Miño de San Esteban
+Deza	Deza
+Montejaque	Montejaque
+Alhaurín el Grande	Alhaurín el Grande
+Ilebo	Ilebo
+Kuilu (Repubilika ya Kongo)	Kouilou
+Mbanza-Ngungu	Mbanza-Ngungu
+Pool	Pool (Congo)
+Wiji	Uíge
+Júzcar	Júzcar
+Casares	Casares
+Manilva	Manilva
+Archidona	Archidona
+Fuente de Piedra	Fuente de Piedra
+Algarrobo	Algarrobo (Espagne)
+Cártama	Cártama
+Kilengadusi	Languedocien
+Campillos	Campillos
+Gaucín	Gaucín
+Frigiliana	Frigiliana
+Ojén	Ojén
+Villanueva de Tapia	Villanueva de Tapia
+Niari	Niari
+Benamargosa	Benamargosa
+Totalán	Totalán
+Alhaurín de la Torre	Alhaurín de la Torre
+Ekwatelo	Équateur (district)
+Muanda (Ngabu)	Moanda (Gabon)
+Mbanza Soyo	Soyo
+Colmenar	Colmenar
+Muanda (RKD)	Moanda (République démocratique du Congo)
+Coín	Coín
+Jimera de Líbar	Jimera de Líbar
+Kwango	Kwango
+Owando	Owando
+Rincón de la Victoria	Rincón de la Victoria
+Musi Nzadi Ankento	La Zaïroise
+Kalasi:Alemanyi	Catégorie:Allemagne
+Kalasi:Italia	Catégorie:Italie
+Kalasi:Rusia	Catégorie:Russie
+Kalasi:Espania	Catégorie:Espagne
+Kalasi:Sina	Catégorie:Chine
+Kalasi:Australia	Catégorie:Australie
+Cortes de la Frontera	Cortes de la Frontera
+Kalasi:Repubilika ya Kongo ya Dimokalasi	Catégorie:République démocratique du Congo
+Kalasi:Republika ya Itiopia	Catégorie:Éthiopie
+Kalasi:Repubilika ya Tanzania	Catégorie:Tanzanie
+Kalasi:Vietnam	Catégorie:Viêt Nam
+Kalasi:Lukwikilu	Catégorie:Religion
+Kalasi:Bizabu	Catégorie:Sciences
+Kalasi:Ntoto	Catégorie:Terre
+Nsi ya Luangu	Royaume de Loango
+Mashina vremeni	Mashina Vremeni
+Nzinga Nkuwu	Nzinga Nkuwu
+Dibûndu ya Kimbangu	Église kimbanguiste
+Alameda	Alameda (Espagne)
+Noki	Noqui
+Alfarnatejo	Alfarnatejo
+El Burgo	El Burgo
+Cómpeta	Cómpeta
+Ardales	Ardales
+Alfarnate	Alfarnate
+Monda	Monda
+Villanueva del Trabuco	Villanueva del Trabuco
+Pujerra	Pujerra
+Benamocarra	Benamocarra
+Arriate	Arriate
+Alpandeire	Alpandeire
+Igualeja	Igualeja
+Sayalonga	Sayalonga
+Benadalid	Benadalid
+Sedella	Sedella
+Cartajima	Cartajima
+Parauta	Parauta
+El Borge	El Borge
+Alozaina	Alozaina
+Teba	Teba
+Cuevas Bajas	Cuevas Bajas
+Genalguacil	Genalguacil
+Riogordo	Riogordo
+Humilladero	Humilladero
+Almargen	Almargen
+Casarabonela	Casarabonela
+Mollina	Mollina
+Jubrique	Jubrique
+Casabermeja	Casabermeja
+Istán	Istán
+Iznate	Iznate
+Algatocín	Algatocín
+Macharaviaya	Macharaviaya
+Bandînga ya Repubilika ya Kôngo	Langues en République du Congo
+Canillas de Aceituno	Canillas de Aceituno
+Villanueva de Algaidas	Villanueva de Algaidas
+Almáchar	Almachar
+Valle de Abdalajís	Valle de Abdalajis
+Cuevas del Becerro	Cuevas del Becerro
+Viñuela	La Viñuela
+Salares	Salares
+Cuevas de San Marcos	Cuevas de San Marcos
+Canillas de Albaida	Canillas de Albaida
+Sierra de Yeguas	Sierra de Yeguas
+Yunquera	Yunquera
+Kibibaloapi	Vivaro-alpin
+Guaro	Guaro
+Carratraca	Carratraca
+Pizarra	Pizarra
+Árchez	Árchez
+Almogía	Almogía
+Kalasi:Kikristo	Catégorie:Christianisme
+Nkayi	Nkayi
+Nzeto	N'Zeto
+Balâdi	Lari (peuple)
+Bundu ya Kongo	Bundu dia Kongo
+Djiri	Djiri
+Vivi	Vivi
+Lukula	Lukula (territoire)
+Tshela	Tshela
+Kinsasa (kizunga)	Kinshasa (commune)
+Bahumbu	Humbu
+Kikongo	Kikongo (homonymie)
+Kwamuntu	Kwamouth
+Luangu	Loango
+Madibu	Madibou
+Mayi-Ndombe	Mai-Ndombe
+Makelekele	Makélékélé
+Mfilu	Mfilou
+Mungali	Moungali
+Nibolek	Nibolek
+Bankundu	Nkundu (peuple)
+Wenze	Ouenzé
+Frederic Bitsangu	Pasteur Ntumi
+Poto-Poto	Poto-Poto
+Sophie Kanza	Sophie Lihau-Kanza
+Basuku	Suku (peuple)
+Talangayi	Talangaï
+Thomas Kanza	Thomas Kanza
+Bavili	Vili (peuple)
+Kivili	Vili (langue)
+Bayansi	Yanzi (peuple)
+Template:Tl	Modèle:M
+Template:Userbox	Modèle:BUtilisateur
+Wikipedia:Administrators	Wikipédia:Administrateur
+Wikipedia:Vital 100	Wikipédia:Articles vitaux/Niveau 2
+Misiri	Égypte
+Template:Bot	Modèle:Bot
+Kalasi:Hongrie	Catégorie:Hongrie
+Kalasi:Bansi ya Mputu	Catégorie:Pays d'Europe
+Kalasi:Mputu	Catégorie:Europe
+Template:Documentation	Modèle:Documentation
+Wikipedia:Community Portal	Wikipédia:Accueil de la communauté
+Kalasi:Users by language	Catégorie:Wikipédiens par langue
+Sung Jae-ki	Sung Jae-ki
+Template:Softredirect	Modèle:Redirection douce
+Template:Delete	Modèle:Suppression Immédiate
+Kalasi:Ndinga	Catégorie:Langue
+Kalasi:Wikipedia	Catégorie:Wikipédia
+Wikipedia:Privacy policy	Wikipédia:Politique de confidentialité
+Template:!	Modèle:!
+Template:!-	Modèle:!-
+Template:E	Modèle:X10
+Template:Clear	Modèle:Clr
+Wikipedia:Vital articles	Wikipédia:Articles vitaux
+Kalasi:Afelika	Catégorie:Afrique
+Kalasi:Bantalu	Catégorie:Nombre
+Template:Babel	Modèle:Boîte Babel
+Template:Babel de	Modèle:Utilisateur de
+Template:Babel en-2	Modèle:Utilisateur en-2
+Template:Babel en-4	Modèle:Utilisateur en-4
+Template:Babel en-0	Modèle:Utilisateur en-0
+Template:Babel fr-1	Modèle:Utilisateur fr-1
+Template:Babel it-3	Modèle:Utilisateur it-3
+Template:User sk	Modèle:Utilisateur sk
+Template:Babel tr	Modèle:Utilisateur tr
+Kalasi:Azia	Catégorie:Asie
+Kalasi:Castilla y León	Catégorie:Castille-et-León
+Template:Mod	Modèle:Mod
+Template:Afrika	Modèle:Palette Pays d'Afrique
+Template:Music	Modèle:Infobox Musique (artiste)
+Kalasi:User en-4	Catégorie:Utilisateur en-4
+Kalasi:User en	Catégorie:Utilisateur en
+Kalasi:User en-2	Catégorie:Utilisateur en-2
+Template:Template other	Modèle:Template other
+Template:Pp-template	Modèle:Protection
+Template:·	Modèle:·
+Kalasi:Amelika	Catégorie:Amérique
+Template:Kanda	Modèle:Infobox Groupe ethnique
+Template:Babel oc-4	Modèle:Utilisateur oc-4
+Wikipedia:Nospam	Wikipédia:Pages protégées à la création
+Template:Bisongidila	Modèle:Homonymie
+Kalasi:Bizunga ya Ngola	Catégorie:Province de l'Angola
+Template:Mputu	Modèle:Palette Pays d'Europe
+Kalasi:Bapolitiki ya Repubilika ya Kongo ya Dimokalasi	Catégorie:Personnalité politique congolaise (RDC)
+Kalasi:User sk	Catégorie:Utilisateur sk
+Kalasi:User fr	Catégorie:Utilisateur fr
+Kalasi:User la	Catégorie:Utilisateur la
+Kalasi:User oc	Catégorie:Utilisateur oc
+Kalasi:User sh	Catégorie:Utilisateur sh
+Kalasi:User cs-3	Catégorie:Utilisateur cs-3
+Kalasi:User it-3	Catégorie:Utilisateur it-3
+Kalasi:User oc-4	Catégorie:Utilisateur oc-4
+Kalasi:User sk-2	Catégorie:Utilisateur sk-2
+Kalasi:User sh-2	Catégorie:Utilisateur sh-2
+Kalasi:User fr-N	Catégorie:Utilisateur fr-M
+Kalasi:User ca	Catégorie:Utilisateur ca
+Kalasi:User ca-3	Catégorie:Utilisateur ca-3
+Kalasi:User cs	Catégorie:Utilisateur cs
+Kalasi:User sk-N	Catégorie:Utilisateur sk-M
+Kalasi:User de	Catégorie:Utilisateur de
+Kalasi:User en-0	Catégorie:Utilisateur en-0
+Kalasi:User es	Catégorie:Utilisateur es
+Kalasi:User es-3	Catégorie:Utilisateur es-3
+Template:Babel la-3	Modèle:Utilisateur la-3
+Kalasi:User it	Catégorie:Utilisateur it
+Kalasi:User kg	Catégorie:Utilisateur kg
+Kalasi:User la-3	Catégorie:Utilisateur la-3
+Kalasi:Babwala ya Falansa	Catégorie:Ville de France
+Kalasi:La Rioja	Catégorie:La Rioja
+Kalasi:Bansi ya Afelika	Catégorie:Pays d'Afrique
+Template:Babel es-3	Modèle:Utilisateur es-3
+Kalasi:User tr	Catégorie:Utilisateur tr
+Kalasi:User tr-N	Catégorie:Utilisateur tr-M
+Kalasi:Kizunga ya Alemanyi	Catégorie:État de l'Allemagne
+Kalasi:Repubilika ya Ngola	Catégorie:Angola
+Kalasi:Ngabu	Catégorie:Gabon
+Kalasi:Namibia	Catégorie:Namibie
+Kalasi:Repubilika ya Kongo	Catégorie:République du Congo
+Template:Babel ca-3	Modèle:Utilisateur ca-3
+Template:Babel cs-3	Modèle:Utilisateur cs-3
+Kalasi:Bapolitiki ya Espania	Catégorie:Personnalité politique espagnole
+Kalasi:Bapolitiki ya Repubilika ya Kongo	Catégorie:Personnalité politique congolaise (RC)
+Kalasi:Bapolitiki ya Fwalansa	Catégorie:Personnalité politique française
+Kalasi:Albania	Catégorie:Albanie
+Kalasi:Université en Italia	Catégorie:Université italienne
+Kalasi:Andalucía	Catégorie:Andalousie
+Kalasi:Dalapo	Catégorie:Drapeau
+Kalasi:Babwala ya Ngabu	Catégorie:Ville du Gabon
+The Prodigy	The Prodigy
+Kalasi:Babwala ya Namibia	Catégorie:Ville de Namibie
+Kalasi:Babwala ya Repubilika ya Kongo	Catégorie:Ville de la République du Congo
+Mwela	Air
+Kalasi:Málaga	Catégorie:Malaga
+Kalasi:Bizunga ya Repubilika ya Kongo	Catégorie:Département de la République du Congo
+Trojany	Trojany (Mazovie)
+Kalasi:Bizunga ya Repubilika ya Kongo ya Dimokalasi	Catégorie:Province de la République démocratique du Congo
+Kalasi:Soria	Catégorie:Soria
+Kalasi:Kizunga ya Albania	Catégorie:Préfecture d'Albanie
+Kalasi:Kizunga ya Sina	Catégorie:Province de Chine
+Kalasi:Babantu	Catégorie:Ville
+Template:Babel ln-0	Modèle:Utilisateur ln-0
+Kibembe	Bembe (langue de la République démocratique du Congo)
+Kipele-pele	Rhopalocères
+Muanda	Moanda
+Special:RecentChanges	Spécial:Modifications récentes
+Ranque Franque	Luis Ranque Franque

@@ -1,0 +1,2749 @@
+អាហ្វ្រិក	Afrique
+ជប៉ុន	Japon
+អង់គ្លេស	Angleterre
+ស្កុតឡែន	Écosse
+វ៉ែល	Pays de Galles
+អៀរឡង់ខាងជើង	Irlande du Nord
+សាធារណរដ្ឋអៀរឡង់	Irlande (pays)
+ប្រទេសហុងគ្រី	Hongrie
+អេស្ប៉ាញ	Espagne
+សហរដ្ឋអាមេរិក	États-Unis
+ផែនដី	Terre
+ប៊ឺណឺស លី	Tim Berners-Lee
+ស៊ុយអែត	Suède
+ប្រទេសប៉ូឡូញ	Pologne
+អ៊ីតាលី	Italie
+ព័រទុយហ្គាល់	Portugal
+អឺរ៉ុប	Europe
+អាស៊ី	Asie
+វិគីភីឌា	Wikipédia
+ភីអេចភី	PHP
+ទីក្រុងញូវយ៉ក	New York
+កុំព្យូទ័រ	Ordinateur
+អ៊ីនធើណេត	Internet
+បារ៉ាក់ អូបាម៉ា	Barack Obama
+ប៉ារីស	Paris
+អាប្រាហាម លីនខូន	Abraham Lincoln
+ប្រព័ន្ធប្រតិបត្តការ Android	Android
+Google ស្វែងរក	Google
+ម៉ិកស៊ិក	Mexique
+មហាសមុទ្រអាត្លង់ទិក	Océan Atlantique
+មហាសមុទ្រប៉ាស៊ីហ្វិក	Océan Pacifique
+ថ្ងៃច័ន្ទ	Lundi
+ខែមករា	Janvier
+ខែកុម្ភៈ	Février
+ខែមីនា	Mars (mois)
+ភពអង្គារ	Mars (planète)
+ខែមេសា	Avril
+ខែឧសភា	Mai
+ខែមិថុនា	Juin
+ខែកក្កដា	Juillet
+ខែសីហា	Août
+ខែកញ្ញា	Septembre
+ខែតុលា	Octobre
+ខែវិច្ឆិកា	Novembre
+ខែធ្នូ	Décembre
+អង្គារ	Mardi
+ថ្ងៃពុធ	Mercredi
+ថ្ងៃព្រហស្បតិ៍	Jeudi
+ថ្ងៃសុក្រ	Vendredi
+ថ្ងៃសៅរ៍	Samedi
+ថ្ងៃអាទិត្យ	Dimanche
+សេះ (​អុក​)	Cavalier (échecs)
+បារាំង	France
+សត្វឆ្កែ	Chien
+រាជាណាចក្ររួម	Royaume-Uni
+ឆ្មា	Chat
+ភាសាបារាំង	Français
+ប្រេស៊ីល	Brésil
+រុស្ស៊ី	Russie
+ការ៉េ	Carré
+សមុទ្រ	Mer
+អាល្លឺម៉ង់	Allemagne
+ភាសាអាល្លឺម៉ង់	Allemand
+ប្រទេសអាយឡែន	Islande
+ភពសៅរ៍	Saturne (planète)
+១ (លេខ)	1 (nombre)
+២ (លេខ)	2 (nombre)
+៣ (លេខ)	3 (nombre)
+៥	5 (nombre)
+ចតុកោណកែង	Rectangle
+មុំកែង	Angle droit
+អ៊ុយក្រែន	Ukraine
+ទីក្រុងរ៉ូម	Rome
+អាល់បានី	Albanie
+អាស៊ែបៃហ្សង់	Azerbaïdjan
+អង់ដូរ៉ា	Andorre
+សាធារណរដ្ឋកាហ្សាក់ស្ថាន	Kazakhstan
+បុរីវ៉ាទីកង់	Vatican
+គុយបា	Cuba
+ឥណ្ឌូនេស៊ី	Indonésie
+អាហ្វ្រិកខាងត្បូង	Afrique du Sud
+ប្រវត្តិសង្ខេប ក្រុមតន្រ្តី រ៉ុក linkin park	Linkin Park
+ប្រទេសអាល់ហ្សេរី	Algérie
+ស្រា	Vin
+ទឹក	Eau
+ទូរទស្សន៏	Télévision
+ភាសាអាយឡែន	Islandais
+ឈីលី	Chili
+ព្រះយេស៊ូវ គ្រីស្ទ	Jésus-Christ
+ភពពុធ	Mercure (planète)
+ប្រវត្តិសាស្ត្រ	Histoire
+ភពសុក្រ	Vénus (planète)
+ភាសា	Langage
+ភពព្រហស្បតិ៍	Jupiter (planète)
+ភពអ៊ុយរ៉ានុស	Uranus (planète)
+វិគីភីឌាភាសាអង់គ្លេស	Wikipédia en anglais
+ភពណិបទូន	Neptune (planète)
+សិង្ហបុរី	Singapour
+ភ្លុយតុង	Pluton (planète naine)
+ហ្វេសប៊ុក	Facebook
+សង្គ្រាមលោកលើកទីមួយ	Première Guerre mondiale
+សង្គ្រាមលោកលើកទី២	Seconde Guerre mondiale
+ទំព័រគំរូ:Corruption	Corruption
+Ubuntu	Ubuntu
+លីនុច	Linux
+គណិតវិទ្យា	Mathématiques
+បារ៉ែន	Bahreïn
+ព្រះចន្ទ	Lune
+អូស្ត្រាលី	Australie
+រូបវិទ្យា	Physique
+ជីវវិទ្យា	Biologie
+កូរ៉េខាងជើង	Corée du Nord
+ព្រះរាជាណាចក្រកម្ពុជា	Cambodge
+ឌីណូស័រ	Dinosaure
+សាសនាឥស្លាម	Islam
+សេរីភាព	Paix
+សហភាពអឺរ៉ុប	Union européenne
+ចេក	Banane
+ណាប៉ូលេអុងបូណាប៉ារត៍	Napoléon Ier
+ព្រះអាទិត្យ	Soleil
+ឆ្នាំពន្លឺ	Année-lumière
+អូសេអានី	Océanie
+ប្រព័ន្ធព្រះអាទិត្យ	Système solaire
+អុីដ្រូសែន	Hydrogène
+ទីម័រខាងកើត	Timor oriental
+ម៉ុង ប្លុង	Mont Blanc
+សឺរេស	(1) Cérès
+អៀរីស	(136199) Éris
+ភព	Planète
+តន្ត្រី	Musique
+ភាសាអ៊ីតាលី	Italien
+អាលុយមីញ៉ូម	Aluminium
+នូវែលសេឡង់	Nouvelle-Zélande
+ឥណ្ឌា	Inde
+អង់ដ្រេ ម៉ារី អំពែរ	André-Marie Ampère
+វីលីម ហ្សេកស្ពែរ	William Shakespeare
+ប៉ាឡាវ	Palaos
+ម៉ុងហ្គោលី	Mongolie
+ជេនហ្គិស ខាន់	Gengis Khan
+កូឡុំប៊ី	Colombie
+ព្រះពុទ្ធសាសនា	Bouddhisme
+ហ្គាតេម៉ាឡា	Guatemala
+មហាសមុទ្រអាកទិក	Océan Arctique
+អ៊ីរ៉ង់	Iran
+ភាសាប៉ូឡូញ	Polonais
+ហ្សកដង់	Jordanie
+កៀហ៊្សីស៊ីស្ថាន	Kirghizistan
+គុយវ៉ែត	Koweït
+ឡាវ	Laos
+លីបង់	Liban
+ទ្វីបអាមេរិក	Amérique
+ម៉ាឡេស៊ី	Malaisie
+មីយ៉ាន់ម៉ា	Birmanie
+នេប៉ាល់	Népal
+ប៉ាគីស្ថាន	Pakistan
+MySQL	MySQL
+អារ៉ាប៊ីសាអូឌីត	Arabie saoudite
+ស្រីលង្កា	Sri Lanka
+ផ្លាតូ	Platon
+តាជីគីស្ថាន	Tadjikistan
+YouTube	YouTube
+អារីស្តូត	Aristote
+ថៃ	Thaïlande
+វិទ្យុ	Radiodiffusion
+តួរមិនីស្ថាន	Turkménistan
+វៀតណាម	Viêt Nam
+កូរ៉េខាងត្បូង	Corée du Sud
+សាធារណរដ្ឋឥស្លាមអាហ្វហ្កានីស្ថាន	Afghanistan
+ព្រែកជីកស៊ុយអែស	Canal de Suez
+បង់ក្លាដែស្ស	Bangladesh
+សូក្រាត	Socrate
+ធ្វិតថឺរ	Twitter
+ប៊្រុយណេ	Brunei
+ហ្វីលីពីន	Philippines
+អ៊ីសាក់ ញូតុន	Isaac Newton
+OpenStreetMap	OpenStreetMap
+អាល់បឺត អែងស្តែង	Albert Einstein
+ប្រទេសហ្សំប៊ី	Zambie
+ប៉េកាំង	Pékin
+មហាត្មះគន្ធី	Mohandas Karamchand Gandhi
+ឆាលែស ដាវីន	Charles Darwin
+ជូលីស៍ សេសារ	Jules César
+ឥន្ទធនូ	Arc-en-ciel
+អង្គការសហប្រជាជាតិ	Organisation des Nations unies
+ភូមិវិទ្យា	Géographie
+ទីក្រុងប្រាក	Prague
+បន្ទុកអគ្គីសនី	Charge électrique
+ខេត្តជើងភ្នំ (ប្រទេសអ៊ីតាលី)	Piémont
+មហាសមុទ្រឥណ្ឌា	Océan Indien
+អូសាម៉ា ប៊ីន ឡាឌែន	Oussama ben Laden
+ភាសាអេស្ប៉ាញ	Espagnol
+ភីឡាដេលផ្យា	Philadelphie
+ញូវយ៉ក	État de New York
+វ្លាឌីមៀរ អ៊ីលីច លេនីន	Vladimir Ilitch Lénine
+អូហ្គុសទុស	Auguste
+លោកកៃយុសសេសារ	Caligula
+ត្រាហ្សាន	Trajan
+Kde	KDE
+កូរ៉ាស៊ូន អាគីណូ	Corazon Aquino
+ទីក្រុងតូខ្យូ	Tokyo
+ហ្វឺឌីណាន់ដ៏ ម៉ាហ្សេឡង់	Fernand de Magellan
+ស៊ីសេរ៉ូ	Cicéron
+ភ្នំពេញ	Phnom Penh
+ទីក្រុងព្រៃនគរ	Hô-Chi-Minh-Ville
+ទីក្រុងហានូយ	Hanoï
+គ្រិស្តសាសនា	Véritable Jésus Église
+ភាសាអង់គ្លេស	Anglais
+គូឡាឡាំពួ	Kuala Lumpur
+២០០១	2001
+JavaScript	JavaScript
+HTML5	HTML5
+ល្បឿនពន្លឺ	Vitesse de la lumière
+JPEG	JPEG
+អេឡិចត្រុង	Électron
+ចក្រភព រ៉ូម	Empire romain
+Microsoft	Microsoft
+គីមីវិទ្យា	Chimie
+ស៊ីទ្រុងជ្រូក	C sharp
+បេណេឌីកទី១៦	Benoît XVI
+៧ កក្កដា	7 juillet
+បាល់ទាត់	Football
+ទីក្រុងបូកូតា	Bogota
+ថ្ងៃទី៣១ខែធ្នូ	31 décembre
+រិសថា	(4) Vesta
+ស៊ីដនីយ៏	Sydney
+ភ្លើង	Feu
+ខ្យល់	Atmosphère terrestre
+កោះស៊ូម៉ាត្រា	Sumatra
+ចាការតា	Jakarta
+ចំណាត់ថ្នាក់ក្រុម:Wikipedia templates	Catégorie:Espace Modèle
+កោះជ្វា	Java (île)
+ចំណាត់ថ្នាក់ក្រុម:ចំណាត់ថ្នាក់ក្រុមនៃទំព័រគំរូវិគីភីឌា	Catégorie:Modèle par thème
+កាលីម៉ាន់តាន់	Kalimantan
+ខេត្តបន្ទាយមានជ័យ	Province de Banteay Mean Chey
+វិគីភីឌា:ប្រអប់ខ្សាច់	Wikipédia:Bac à sable
+អាកាសយានដ្ឋាន ដុង ហ៊យ	Aéroport de Đồng Hới
+អាន់ ហ្វ្រែង	Anne Frank
+ខុង ជឺ	Confucius
+ម៉ារីលីន ម៉ុនរ៉ូ	Marilyn Monroe
+ចំណាត់ថ្នាក់ក្រុម:គណិតវិទ្យា	Catégorie:Mathématiques
+ចំណាត់ថ្នាក់ក្រុម:ប្រវត្តិសាស្ត្រខ្មែរ	Catégorie:Histoire du Cambodge
+ចំណាត់ថ្នាក់ក្រុម:ប្រវត្តិសាស្រ្តសិង្ហបុរី	Catégorie:Histoire de Singapour
+សមុទ្រ មេឌីទែរ៉ានេ	Mer Méditerranée
+វីនដូអេច	Windows 8
+ទំព័រគំរូ:ប្រទេសនៅទ្វីបអាស៊ី	Modèle:Palette Pays d'Asie
+ទំព័រគំរូ:Agree	Modèle:Pour
+ទន្លេហ្គារ៉ូន	Garonne
+ស៊ីតថល	Seattle
+ជញ្ជាំង ប៊ែរឡាំង	Mur de Berlin
+ស្រូវ	Riz
+ទំព័រគំរូ:Lang-tr	Modèle:Lang-tr
+ទំព័រគំរូ:ផតថល	Modèle:Portail
+ទំព័រគំរូ:តំបន់នៃពិភពលោក	Modèle:Palette Régions du monde
+ប៊ីល ហ្គេត	Bill Gates
+ភាសាជប៉ុន	Japonais
+ប្រជុំវីជ្ជា	Encyclopédie
+ឌីវីឌី	DVD
+ទំព័រដើម	Wikipédia:Accueil principal
+Central processing unit	Processeur
+រេស៊ីស្ទ័រ	Résistance (composant)
+កីឡាអូឡាំពិក	Jeux olympiques
+សមុទ្រ កាសព្យែន	Mer Caspienne
+ឈី ហ្គីវ៉ារ៉ា	Che Guevara
+ទីក្រុងកាបូល	Kaboul
+ហ្គ្រាប្រីអ៊ែល ហ្រ្គារ៉ាស្សៀ ម៉ារ៉ាហ្គេស	Gabriel García Márquez
+ទស្សនវិជ្ជា	Philosophie
+ចំណាត់ថ្នាក់ក្រុម:លុប	Catégorie:Wikipédia:Suppression immédiate demandée
+លិទ្ធិកុម្មុយនិស្ត	Communisme
+ហ៊ីលឡារី រូដហេម គ្លីនតុន	Hillary Clinton
+Boeing 737	Boeing 737
+អាហារនៅប្រទេសបារំាង និង របៀបធ្វើ	Cuisine française
+មណ្ឌលម៉ាញេតូ	Magnétosphère
+UTC+7	UTC+07:00
+ភាសាកាតាឡាន	Catalan
+បណ្ណាល័យ	Bibliothèque
+នីល ហេនរីក ដេវីដ ប៊័រ	Niels Bohr
+និវេសនវិទ្យា	Écologie
+ក្លឹបបាល់ទាត់បារសេឡូណា	FC Barcelone (football)
+នយោបាយ	Politique
+ធនាគារពិភពលោក	Banque mondiale
+ប្រជាធិបតេយ្យ	Démocratie
+អង្គការសន្ធិសញ្ញាអាត្លង់ទិកខាងជើង	Organisation du traité de l'Atlantique Nord
+ម៉ារី ស្កូដូស្កា គុយរី	Marie Curie
+រង្វាន់ណូបែល	Prix Nobel
+មជ្ឈិមបូព៌ា	Moyen-Orient
+រាជវង្សហាន	Dynastie Han
+ប្រទេស	État
+គ្រឹស្តុបផើ កូឡំបូស (Christopher Columbus)	Christophe Colomb
+ព្រែកជីកប៉ាណាម៉ា	Canal de Panama
+មហាសមុទ្រខាងត្បូង	Océan Austral
+ត្រីផ្សោតនៅកម្ពុជា	Dauphin
+ក្មេង	Enfant
+លេអុនហាដ អយល័រ	Leonhard Euler
+ណាប៉ូលេអុងទី៣	Napoléon III
+ភាសារុស្ស៊ី	Russe
+ល្វី ដ៏អស្ចារ្យ	Louis XIV
+សមាគមប្រជាជាតិអាស៊ីអាគ្នេយ៍	Association des nations de l'Asie du Sud-Est
+ប្រវត្តិសាស្ត្របារាំង	Histoire de France
+តុលាការយុត្តិធម៌អន្តរជាតិ	Cour internationale de justice
+យូណេស្កូ	Organisation des Nations unies pour l'éducation, la science et la culture
+អង្គការសុខភាពពិភពលោក	Organisation mondiale de la santé
+អង្គការពាណិជ្ជកម្មពិភពលោក	Organisation mondiale du commerce
+ភាសាចិន	Langues chinoises
+ធម្មជាតិ	Nature
+ឈាម	Sang
+រញ្ជួយផែនដី	Séisme
+សមុទ្រឡាប់តែវ	Mer de Laptev
+ភ្លើងចរាចរ	Feu de circulation
+ម៉ាទីន ឡូតធឺរ ឃីង	Martin Luther King
+ត្រីកោណមាត្រ	Trigonométrie
+ធរណីមាត្រ	Géométrie
+វេយ្យាករណ៍	Grammaire
+សេដ្ឋកិច្ច	Sciences économiques
+អក្សរក្រិច	Alphabet grec
+អក្សរឡាតាំង	Alphabet latin
+រឿងមហាភារតយុទ្ធ	Mahabharata
+ការិយាល័យសហព័ន្ធស៊ើបអង្កេត	Federal Bureau of Investigation
+វីយោឡុង	Violon
+ឃឹម	Cymbalum
+អេឡិចសាន់ដឺ ដឹ ហ្គារ៉ែត	Alexandre le Grand
+សង្គម	Société (sciences sociales)
+ការអប់រំ	Éducation
+មនុស្សប្រុស	Homme
+វិគីភីឌាភាសាអេស៉្បាញ	Wikipédia en espagnol
+សិទ្ធិមនុស្ស	Droits de l'homme
+ទាសភាព	Esclavage
+សង្គ្រាមស៊ីវិល	Guerre civile
+ភ្នំ	Montagne
+ហុងកុង	Hong Kong
+សង្គ្រាមត្រជាក់	Guerre froide
+សេអ៊ូល	Séoul
+សង្គ្រាមវៀតណាម	Guerre du Viêt Nam
+ម៉ៃឃើល ហ្វារ៉ាដេយ	Michael Faraday
+អង់រីកូ ហ្វែរមី	Enrico Fermi
+ភាសាអ៊ុយក្រែន	Ukrainien
+HTML	Hypertext Markup Language
+ច្យូហានេស គូទេនបឺគ	Johannes Gutenberg
+ភាសាដាណឺម៉ាក	Danois
+ភាសាអេស្តូនី	Estonien
+ហិណ្ឌូសាសនា	Hindouisme
+ភាសាពែក	Persan
+សាសនា	Religion
+ភាសាកូរ៉េ	Coréen
+ភាសាខ្មែរ	Khmer
+ហ្រ្គេតស៊ីងមួន	Sigmund Freud
+ភាសាថៃ	Thaï
+ភាសាម៉ាឡេ	Malais (langue)
+ភាសាឥណ្ឌូនេស៊ី	Indonésien
+ភាសាហេប្រ៊ូ	Hébreu
+ចន ឡុក	John Locke
+ថ្លើម	Foie
+ចិត្តវិទ្យា	Psychologie
+មហាសមុទ្រ	Océan
+ពុទ្ធប្រវត្តិសង្ខេប	Siddhartha Gautama
+ចរិយាមារយាទ	Éthique
+សារជីវកម្មផ្សព្វផ្សាយព័ត៌មានរបស់ចក្រភពអង់គ្លេស(BBC)	British Broadcasting Corporation
+ក្លិបបាល់ទាត់ឆេលស៊ី	Chelsea Football Club
+គ្រោងឆ្អឹងមនុស្ស	Squelette humain
+ក (អវយវៈ)	Cou
+រាជវង្សថាង	Dynastie Tang
+John F. Kennedy	John Fitzgerald Kennedy
+LibreOffice	LibreOffice
+ផ្លូវរូងដីក្រោមសមុទ្រ	Tunnel sous la Manche
+តារាងខួបនៃធាតុគីមី	Tableau périodique des éléments
+ប្រូម៉ាស	Fromage
+ទំពាំងបាយជូរ	Raisin
+បន្លែ	Légume
+បច្ចេកវិទ្យា	Technologie
+វិស្វកម្ម	Ingénierie
+ទំនាក់ទំនង	Communication
+វិជ្ជាជីវៈខាងសារព័ត៌មាន	Journalisme
+កាសែត	Journal
+ទូរស័ព្ទ	Téléphone
+វប្បធម៌	Culture
+សំស្ក្រឹត	Sanskrit
+ប្រដាប់របត់ឈាម	Appareil cardiovasculaire
+The Guardian	The Guardian
+សមីការឌីផេរ៉ង់ស្យែល	Équation différentielle
+មៃក្រូសូហ្វអ៊ិសេល	Microsoft Excel
+មុំ	Angle
+សំទុះ	Accélération
+ព្រះសិវៈ	Shiva
+ព្រះវិស្ណុ	Vishnou
+Local Area Network	Réseau local
+Wide Area Network	Réseau étendu
+ព្រះព្រហ្ម	Brahmā
+កម្លាំង	Force (physique)
+អេឡិចត្រូម៉ាញ៉េទិច	Électromagnétisme
+កសិកម្ម	Agriculture
+សំលៀកបំពាក់	Vêtement
+ក្រដាស	Papier
+សុញ្ញកាស	Vide
+ស៊ីនេម៉ាទិច	Cinématique
+ក្រលាផ្ទៃ	Aire (géométrie)
+ទ្រឹស្តីបទពីតាករ	Théorème de Pythagore
+ចំនួនកុំផ្លិច	Nombre complexe
+Cristiano Ronaldo	Cristiano Ronaldo
+អ្នកថតរូប	Photographie
+ល្ខោន	Théâtre
+គ្រឿងអេឡិចត្រូនិច	Composant électronique
+ព័ត៌មានវិទ្យា	Technologie de l'information
+អាស៊ីអាគ្នេយ៍	Asie du Sud-Est
+ក្រុងសៀមរាប	Siem Reap
+បញ្ជីរាយនាម ប្រទេស	Liste des pays du monde
+វិគីភីឌាភាសាព័រទុយហ្គាល់	Wikipédia en portugais
+ប្រដាប់រំលាយអាហារ	Digestion
+កីឡាចាក់សាប	Escrime
+រោគផ្ដាសាយធម្មតា	Rhume
+រោគសរសៃប្រសាទ	Trouble psychique
+ប្រតិទិន ក្រេកូរី	Calendrier grégorien
+សុខភាព	Santé
+ជម្ងឺរលាកទងសួត	Pneumonie aiguë
+ជំងឺអេដស៍	Syndrome d'immunodéficience acquise
+កូដ QR	Code QR
+ជំងឺទឹកនោមផ្អែម	Diabète sucré
+ទំព័រគំរូ:Location map Belgium	Modèle:Géolocalisation/Belgique
+ទំព័រគំរូ:Location map Croatia	Modèle:Géolocalisation/Croatie
+ទំព័រគំរូ:Location map Ukraine	Modèle:Géolocalisation/Ukraine
+ទំព័រគំរូ:Location map Burma	Modèle:Géolocalisation/Birmanie
+ទំព័រគំរូ:Location map Philippines	Modèle:Géolocalisation/Philippines
+ទំព័រគំរូ:Location map Vietnam	Modèle:Géolocalisation/Viêt Nam
+ទំព័រគំរូ:Location map Cambodia	Modèle:Géolocalisation/Cambodge
+ទំព័រគំរូ:Location map Thailand	Modèle:Géolocalisation/Thaïlande
+ទំព័រគំរូ:Location map Indonesia	Modèle:Géolocalisation/Indonésie
+ទំព័រគំរូ:Location map Australia	Modèle:Géolocalisation/Australie
+ញូតុន	Newton (unité)
+ចក្រភព អូតូម៉ង់	Empire ottoman
+ម៉ាស៊ីនចំហេះក្នុង	Moteur à combustion interne
+ក្បាច់គិតលេខ	Boulier
+វឺតប្រែស	WordPress
+Joomla!	Joomla!
+ដើមដូង	Cocos nucifera
+ភាសាណាវ៉ាថ្ល៍	Nahuatl
+ភាសាម៉ាយ៉ាយូកាតិក	Maya yucatèque
+អែនជេលីណា ចូលី	Angelina Jolie
+អ៊ីលដឺហ្រ្វែន	Île-de-France
+ភាសាអារ៉ាប់	Arabe
+Thanksgiving	Thanksgiving
+តំបន់ឃ្ជឺស្សឺ	Kyūshū
+តំបន់ស៊ីកុគឹ	Shikoku
+នាយករដ្ឋមន្ត្រី	Premier ministre
+ទង់ជាតិ	Drapeau
+ខ្មៅដៃ	Crayon
+សហភាពសូវៀត	Union des républiques socialistes soviétiques
+ចំណុចរលាយ	Point de fusion
+កាមេរ៉ា	Appareil photographique
+កម្មវិធីទូរទស្សន៍	Émission de télévision
+ខេត្តខាហ្គុស៊ីម៉ា	Préfecture de Kagoshima
+ភាសាស៊ី	C (langage)
+ម៉ង់តេរីយើ	Montesquieu
+វិគីភីឌា:អត្ថបទពិសេស	Wikipédia:Articles de qualité
+ពិភពលោក	Monde (univers)
+ឈូក	Nelumbo nucifera
+ឡងប៊ិច (កាលីផ្វនញ៉ា)	Long Beach (Californie)
+រង្វង់	Cercle
+ប្លង់	Plan (mathématiques)
+វិគីភីឌាភាសាកូរ៉េ	Wikipédia en coréen
+ទៀបកោះម៉ាឡេ	Péninsule Malaise
+អេប៉ុងហ្ស៍ (ពពុះទឹក)	Porifera
+មធ្យមនព្វន្ធ	Moyenne arithmétique
+World Cup	Coupe du monde de football
+សម្ដេចប៉ាប	Pape
+IATA	Association internationale du transport aérien
+បុណ្យណូអែល	Noël
+ត្រីកោណ	Triangle
+លោកអេលីសេ រីខ្លាស	Élisée Reclus
+អ្នកប្រើប្រាស់:អេង ឡុង/សង្គមវិទ្យាមូលដ្ឋាន	Sociologie
+សញ្ញាសំលេងអន្តរជាតិ	Alphabet phonétique international
+តៃវ៉ាន់	Taïwan (île)
+Friedrich Schiller	Friedrich von Schiller
+ជំនឿបាហៃ	Bahaïsme
+១	1
+អាប្រាហាម ម៉ាស្លូ	Abraham Maslow
+ខ្ទឹមស	Ail cultivé
+អ៊ូលេនបាធរ	Oulan-Bator
+កោះ	Île
+ភាសាផ្លូវការ	Langue officielle
+ខ្សែអេក្វាទ័រ	Équateur terrestre
+ទិស	Point cardinal
+លេខអាតូម	Numéro atomique
+អាល់ហ្វ្រិដ ណូបែល	Alfred Nobel
+សម្ដេចប៉ាប យូហាន ទី២៣	Jean XXIII
+កិរិយាសព្ទ	Verbe
+ទីតានិច	Titanic
+សត្វឆ្អឹងកង	Vertébrés
+បាគូ	Huppe fasciée
+អំពែរ	Ampère
+ISO 3166-1	ISO 3166-1
+១ មុនគ.ស	1 av. J.-C.
+ម៉ែត្រការ៉េ	Mètre carré
+ជំនួយ:Interlanguage links	Plancton
+សហស្សវត្សរ៍ទី២	IIe millénaire
+ខេត្តកំពង់គោ	Province de Long An
+ទ្រឹស្តីបទទ្វេធា	Formule du binôme de Newton
+សមុទ្រជប៉ុន	Mer du Japon
+អាស៊ីខាងកើត	Asie de l'Est
+អាមេរិក កណ្ដាល	Amérique centrale
+គ្រីស្ទអឌែលហ្វៀន	Christadelphe
+បរិមាត្រ	Périmètre
+ចក្រភព អូទ្រីស-ហុងគ្រី	Autriche-Hongrie
+បណ្ណាល័យជាតិ	Bibliothèque publique
+ផាយថុន	Python (langage)
+អានន្ទ	Ânanda (bouddhisme)
+អាស៊ីហ្គេមឆ្នាំ១៩៥១	Jeux asiatiques de 1951
+បាកាន	Bagan
+ចិន	Monde chinois
+សំទុះទំនាញដី	Accélération normale de la pesanteur terrestre
+ច្បាប់ធម្មតា	Common law
+អ្នកម្តាយ តេរេសា​ (Mother Teresa)	Mère Teresa
+ប្លូក	Blog
+រោគគ្រុនចាញ់	Dengue
+ដុល្លារហុងកុង	Dollar de Hong Kong
+Xian JH-7	Xian JH-7
+ខ្សែបណ្ដោយ	Méridien
+ខេត្តឃ្លាំង	Province de Sóc Trăng
+ខេត្តទឹកខ្មៅ	Province de Cà Mau
+សមុទ្រខារ៉ា	Mer de Kara
+ផ្លេតបន្ទោរ	Foudre
+កំរងកោះ	Archipel
+តួប្រុស	Acteur
+អំបូរភាសាយូតូអាហ្សតិក	Langues uto-aztèques
+ចាស្ទីន ពីពេ្រ	Justin Bieber
+ក្រុម​ភាសា​ថៃកៈដៃ	Langues tai-kadai
+ចក្រភព រុស្ស៊ី	Empire russe
+មឞវជ	Mošovce
+បេណាហ្សៀរ ប៊ូតូ	Benazir Bhutto
+ស៊ីឌី	Disque compact
+ឧទ្ធម្ភាគចក្រ	Hélicoptère
+គុណនាម	Adjectif
+វីតាមីន	Vitamine
+វែបសាយ	Site web
+តំបន់ហុកកៃដូ	Hokkaidō
+រូបមន្តសមមូលម៉ាស់-ថាមពល	E=mc2
+សមុទ្រ អារ៉ាល់	Mer d'Aral
+ហូ ជីមិញ	Hô Chi Minh
+ម៉ាក ហ្សុកឃឺបឺក	Mark Zuckerberg
+ប្រតិកម្មគីមី	Réaction chimique
+ខេត្តក្រមួនស	Province de Kiên Giang
+ខេត្តមាត់ជ្រូក	Province d'An Giang
+ខេត្តរោងដំរី	Province de Tây Ninh
+ខេត្តព្រះត្រពាំង	Province de Trà Vinh
+Binomial nomenclature	Nom binominal
+ខេត្តពលលាវ	Province de Bạc Liêu
+ខេត្តផ្សារដែក	Province de Đồng Tháp
+វ៉ែសបែង	Cisjordanie
+ភាសាបាលី	Pali
+គេហទំព័រ	Page web
+ចតុកោណ	Quadrilatère
+ឈិន ឡុង	Jackie Chan
+ទិវាកុមារអន្តរជាតិ	Journée de l'enfance
+Yahoo!	Yahoo!
+បន្ទាត់	Droite (mathématiques)
+ហ្មរិឩពឡ	Marioupol
+G8	Groupe des sept (économie)
+អង្កត់ផ្ចិត	Diamètre
+គ្រូបង្រៀន	Instituteur
+ស្នាដៃនៃបុព្វបុរសខ្មែរ	Écriture
+ស្ដេចប៉ាប យ៉ូហាន ប៉ូលទី១	Jean-Paul Ier
+ណៃពិដោ	Naypyidaw
+ISO 4217	ISO 4217
+ព្យែរ គុយរី	Pierre Curie
+ក្រុមប្រឹក្សាសន្តិសុខ អង្គការសហប្រជាជាតិ	Conseil de sécurité des Nations unies
+ពហុកោណ	Polygone
+ទិវានៃក្ដីស្រលាញ់	Saint-Valentin
+ហ្គូហ្គល	Marché
+សមុទ្រចិនខាងត្បូង	Mer de Chine méridionale
+និវេសនប្រព័ន្ធ	Écosystème
+សមុទ្រលឿង	Mer Jaune
+យ៉ាំងហ្គូន	Rangoun
+សូរព្យញ្ជនៈ	Consonne
+ច្បាប់ចលនារបស់ញូតុន	Lois du mouvement de Newton
+ឈូងសមុទ្របេងហ្គាល់	Golfe du Bengale
+ទិវានារីអន្តរជាតិ	Journée internationale de la femme
+.jp	.jp
+ភ្នំហ្វឹជី	Mont Fuji
+ប៉ុលពត	Pol Pot
+Xian H-6	Xian H-6
+Chengdu J-7	Chengdu J-7
+Shenyang J-8	Shenyang J-8
+ភ្នំភ្លើង អ៊ីស៊ាឡឺក	Eyjafjallajökull
+ម៉ាក្រូសេដ្ឋកិច្ច	Macroéconomie
+ដីជ្រោយហ្គាស្សា	Bande de Gaza
+​វិទ្យុ​ស្ទូឌីយោ 54 បណ្តាញ	Radio Studio 54 Network
+អេលីប	Ellipse (mathématiques)
+វិទ្យុអាស៊ីសេរី	Radio Free Asia
+សមាគមន៍សារព័ត៌មាន	Associated Press
+អធិដ្ឋាន	Prière
+គណៈកម្មាធិការអូឡាំពិកអន្តរជាតិ	Comité international olympique
+Skype	Skype
+.kh	.kh
+ចតុកោណស្មើ	Losange
+ទន្លេមេគង្គ	Mékong
+មេកានិច	Mécanique (science)
+វិចិត្រសាលវលញ្ឆករប្រទេស	Galerie des emblèmes des pays du monde
+ហែងរីហ ហឺត	Heinrich Rudolf Hertz
+អង់រី បិកកឺរ៉ែល	Henri Becquerel
+ទស្សនាវដ្ដី	Magazine
+សមីការដឺក្រេទី២	Équation du second degré
+រូពីឥណ្ឌូនេស៊ី	Roupie indonésienne
+សមុទ្រអុកហុតស្គ៍	Mer d'Okhotsk
+ចិត្តវិភាគ	Psychanalyse
+ខ្មែរម៉ាស្ទើ	Webmestre
+.kr	.kr
+URL	Uniform Resource Locator
+ក្រុមបាល់ទាត់ជម្រើសជាតិ អេស្ប៉ាញ	Équipe d'Espagne de football
+Google Earth	Google Earth
+ប៊ែនហាដ រីម៉ាន	Bernhard Riemann
+កោន	Cône (géométrie)
+អាតុល	Atoll
+ទិន្នន័យ	Donnée
+ខ្លែង	Cerf-volant
+ស្ថាបត្យករ	Architecte
+មហាអំណាច អាប់ស៊ីស	Axe Rome-Berlin-Tokyo
+វិគីភីឌា:FAQ	Aide:FAQ
+.th	.th
+ចក្រភព អាល្លឺម៉ង់	Empire allemand
+ក្រុមបាល់ទាត់ជម្រើសជាតិ អាល្លឺម៉ង់	Équipe d'Allemagne de football
+ហេរី ផោតធ័រ និង សិលាទេព	Harry Potter à l'école des sorciers
+អង្គការ Creative Commons	Creative Commons
+ឥណ្ឌូចិន	Indochine
+ប្រាសាទអង្គរវត្ត	Angkor Vat
+ទ្រឹស្ដីរ៉ឺឡាទីវីតេ	Théorie de la relativité
+ប្រុស	Mâle (biologie)
+Toulon	Toulon
+ប៉ាស្កាល់	Pascal (unité)
+ទ្រឹស្ដីល្បែង	Théorie des jeux
+សមុទ្រចិនខាងកើត	Mer de Chine orientale
+ខ្នុរ	Jacquier
+ប្រលេឡូក្រាម	Parallélogramme
+ប្រាសាទព្រះវិហារ	Temple de Preah Vihear
+ចតុកោណព្នាយ	Trapèze
+ស៊ូស៊ី	Sushi
+រូប៊ិក ខ្យូប	Rubik's Cube
+កាល	Plaute
+ចង្រិត	Gryllidae
+ទិវាពលកម្មអន្ដរជាតិ	Journée internationale des travailleurs
+ស្ទឹង	Ruisseau
+សមុទ្រអង់ដាម៉ង់	Mer d'Andaman
+ប៉ិបស៊ី	Pepsi-Cola
+ក្រុមបាល់ទាត់ជម្រើសជាតិ អង់គ្លេស	Équipe d'Angleterre de football
+ក្រុមបាល់ទាត់ជម្រើសជាតិ បារាំង	Équipe de France de football
+ទំព័រគំរូ:Commonscat	Modèle:Commonscat
+វិគីភីឌាភាសាអាល្លឺម៉ង់	Wikipédia en allemand
+អាស៊ីខាងលិច	Proche-Orient
+យេនឌ័រ	Identité de genre
+អង្គការសហភាពអន្តរជាតិដើម្បីអភិរក្សធម្មជាតិ	Union internationale pour la conservation de la nature
+ទីក្រុងមេឌេយីណ	Medellín
+ប៉ារ៉ាបូល	Parabole
+ខេត្តអ៊ីវ៉ាតិ	Préfecture d'Iwate
+ទ្វារសមុទ្រមលក្កា	Détroit de Malacca
+មហាយាន	Bouddhisme mahāyāna
+ប្រព័ន្ធប្រតិបត្តការ iOS	IOS (Apple)
+ចំនួនបឋម	Nombre premier
+សង្គ្រាម ប្រាំមួយ ថ្ងៃ	Guerre des Six Jours
+ក្រុងឡូវែល រដ្ឋម៉ាស្សាឈូស៊ែត	Lowell (Massachusetts)
+សមុទ្រជ្វា	Mer de Java
+សិប្បកម្មខ្ញុំ	Minecraft
+ច្រកសមុទ្រធ្ងន់ធ្ងរ	Dire Straits
+វីហ្សួលបេហ៊្សិក.ណេត	Visual Basic .NET
+បំណែងចែករដ្ឋបាលនៃកម្ពុជា	Subdivisions du Cambodge
+អនុគមន៍ដឺក្រេទី២	Fonction du second degré
+ច្បាប់អំពែរ	Théorème d'Ampère
+ជំងឺអ៊ីបូឡា	Maladie à virus Ebola
+ច្រកកូរ៉េ	Détroit de Corée
+ឆកសមុទ្រកូរ៉េ	Golfe de Corée
+កង្កែប	Anoures
+ខ្សែទឹកឃឹរ៉ុស៊ីអុ	Kuroshio
+ចំណាត់ថ្នាក់ក្រុម:ព្រះមហាក្សត្រ	Catégorie:Monarque
+ចំណាត់ថ្នាក់ក្រុម:រដ្ឋាភិបាល	Catégorie:Gouvernement
+ទំព័រគំរូ:Infobox legislature	Modèle:Infobox Législature
+ទន្លេយ៉ាលូ	Yalou
+ទំព័រគំរូ:ប្រវត្តិសាស្ត្រថៃ	Modèle:Palette Histoire de la Thaïlande
+ទំព័រគំរូ:ប្រវត្តិសាស្ត្រចិន	Modèle:Palette Histoire de la Chine
+ទំព័រគំរូ:ប្រវត្តិសាស្ត្រអាស៊ី	Modèle:Palette Histoire de l'Asie
+មីហ្គេល អ៊ីដាលហ្គោ អ៊ី កុស្ទីយ៉ា	Miguel Hidalgo
+នរោត្តម សីហមុនី	Norodom Sihamoni
+ហ៊ុន សែន	Hun Sen
+តូក្យូស្កាយទ្រី	Tokyo Skytree
+ហោ ណាំហុង	Hor Namhong
+ភាសាប៉ាស្តូ	Pachto
+ធនាគារកណ្ដាល	Banque centrale
+Pidgin	Pidgin (logiciel)
+​វិលហែម វុឌ	Wilhelm Wundt
+យិដា តាដូ	Gerda Taro
+មនុស្សពីងពាង	Spider-Man
+សារធាតុគីមី	Substance chimique
+ចលនានៅក្នុងរូបវិទ្យា	Mouvement (mécanique)
+ជម្ងឺកញ្ជ្រឹល	Rougeole
+ក្រុមបាល់ទាត់ជម្រើសជាតិ អាហ្សង់ទីន	Équipe d'Argentine de football
+ខ្យល់ព្រះអាទិត្យ	Vent solaire
+បាល់ទាត់ពិភពលោក ២០១៤	Coupe du monde de football de 2014
+ម៉ូបាល (អាល់ឡាបាម៉ា)	Mobile (Alabama)
+កុំព្យូទ័រផ្រូក្រាមមីង(Computer programming)	Programmation informatique
+ខេត្តឈីបា	Préfecture de Chiba
+អាំងតេក្រាល	Intégration (mathématiques)
+ខេត្តអៃឈិ	Préfecture d'Aichi
+វិបត្តិសេដ្ឋកិច្ចឆ្នាំ ១៩៩៧	Crise économique asiatique
+ខ្មែរ	Adulte
+សិល្បៈប្រើវោហារបង្ហូរគំនិត	Rhétorique
+ឃីមីហ្គាយ៉ុ	Kimi ga yo
+សាល អូហ្គុស្ទីន ដឺ គូឡុំ	Charles-Augustin Coulomb
+ខេត្តអាគីតា	Préfecture d'Akita
+ថ្នាក់ពាក្យ	Nature (grammaire)
+ស្ថានភាពអភិរក្ស	Statut de conservation
+កាន់ជិ	Kanji
+នាម	Nom
+ប្រវត្តិសាស្ត្រចិន	Histoire de la Chine
+អវតារ	Avatar (hindouisme)
+ច្បាប់គូឡុំ	Loi de Coulomb (électrostatique)
+រឿង រ៉ូមេអូ និង ហ្ស៊ុយលីយេ	Roméo et Juliette
+សាលីណា កូមាស់	Selena Gomez
+ក្រុម (តារាងខួបនៃធាតុគីមី)	Groupe du tableau périodique
+ក្រុមបាល់ទាត់ជម្រើសជាតិ ប្រេស៊ីល	Équipe du Brésil de football
+ទ្រឹស្ដីគមនាគមន៍	Théorie de la communication
+កាល ឡែមស្ដែនណឺ	Karl Landsteiner
+បាល់ប៉ូឡូញ	Polandball
+ឯកសារភាពយន្ត	Documentaire
+អនុគមន៍ត្រីកោណមាត្រ	Fonction trigonométrique
+ហ្រាន្ដកូស ហ្វីឡុន	François Fillon
+ខួប (តារាងខួបនៃធាតុគីមី)	Période du tableau périodique
+ល្បែងទាញព្រ័ត្រ	Tir à la corde
+Article (grammar)	Article (grammaire)
+មេដ្យានទ័រ	Compas (géométrie)
+Rfid	Radio-identification
+អ៊ីប៉ូតេនុស	Hypoténuse
+ហិចហ្វាន់	Gestion alternative
+ISO 3166	ISO 3166
+សញ្ញាជាតិកូរ៉េខាងជើង	Armoiries de la Corée du Nord
+មេហ្គា	Méga
+គីឡូ	Kilo
+ការតាំងសមាធិ	Méditation
+ប៉េតា	Péta
+យ៉ុតតា	Yotta
+សង់ទី	Centi
+ហ្គីហ្គា	Giga
+តេរ៉ា	Téra
+ហ្វង់តូ	Femto
+ហ្សិតតា	Zetta
+ច្រកតារតារី	Détroit de Tartarie
+ហ្សិបតូ	Zepto
+កាតែត	Cathète
+អាត់តូ	Atto
+យ៉ុកតូ	Yocto
+ដេស៊ី	Déci
+ម៉ាស៊ីនស្វែងរក	Métamoteur
+អាំងតេក្រាលមិនកំនត់	Primitive
+Shenyang J-15	Shenyang J-15
+កម្មវិធីទីផ្សារអ៊ីម៉ែល	Logiciel d'envoi de courrier électronique de masse
+គណបក្សហ៊្វុនស៊ិនប៉ិច	Front uni national pour un Cambodge indépendant, neutre, pacifique et coopératif
+ខេត្តក្យូតុ	Préfecture de Kyoto
+តំលៃដាច់ខាត	Valeur absolue
+ហេដ្ឋារចនាសម្ព័ន្ធ	Infrastructure
+សាស្ត្រាចារ្យ	Professeur (titre)
+តេគីឡា	Tequila
+សន្ធិសញ្ញាប្រេស្ត-លីតូវស្ក	Traité de Brest-Litovsk
+William Thomson, 1st Baron Kelvin	William Thomson (Lord Kelvin)
+អាណាខេត្តអូសាកា	Préfecture d'Osaka
+ខេត្តអិហ៊ីមិ	Préfecture d'Ehime
+វាំងននដែក	Rideau de fer
+Kara (band)	Kara (groupe)
+វីលៀម ជែម	William James
+ខេត្តយ៉ាម៉ាកាតា	Préfecture de Yamagata
+ច្រកតៃវ៉ាន់	Détroit de Taïwan
+គំរោងម៉ាន់ហាត់ថាន់	Projet Manhattan
+ខេត្តយ៉ាម៉ាហ្គឹឈិ	Préfecture de Yamaguchi
+ខេត្តខាន់ណាហ្គាវ៉ា	Préfecture de Kanagawa
+បញ្ចកោណ	Pentagone
+តំបន់ជឺហ្គុកឹ	Région de Chūgoku
+ខេត្តណាហ្គាណុ	Préfecture de Nagano
+ខេត្តសៃតាម៉ា	Préfecture de Saitama
+ខេត្តមីអិ	Préfecture de Mie
+ណុត	Nœud (unité)
+តំបន់តុហុកកឹ	Région de Tōhoku
+ខេត្តហ្គឺនម៉ា	Préfecture de Gunma
+ជ្រូកទឹក	Dugong
+ខ្សែទឹកមហាសមុទ្រ	Courant marin
+ខេត្តមីយ៉ាសាគី	Préfecture de Miyazaki
+ខេត្តឃឹម៉ាម៉ុតុ	Préfecture de Kumamoto
+មូលដ្ឋានូបនីយកម្មភាសា	Localisation linguistique
+Mikoyan MiG-29	Mikoyan-Gourevitch MiG-29
+សប្ដាហ៏ពិសិដ្ឋ	Semaine sainte
+ឈូងសមុទ្រថៃ	Golfe de Thaïlande
+លី ក្វាន់យូ	Lee Kuan Yew
+កម្មសិទ្ធិបញ្ញា	Propriété intellectuelle
+អាណាខេត្តណារ៉ា	Préfecture de Nara
+បុព្វបទនៅក្នុងប្រព័ន្ធខ្នាតអន្តរជាតិ	Préfixes du système international d'unités
+យន្តហោះប៉ូឡូញកំទេចឆ្នាំ២០១០	Accident de l'avion présidentiel polonais à Smolensk
+ជនភៀសខ្លួន	Réfugié
+ហង់រី កាវិនឌីស	Henry Cavendish
+បុណ្យចូលឆ្នាំចិន	Nouvel an chinois
+ថេរវាទ	Bouddhisme theravāda
+តំបន់ខាន់តូ	Région de Kantō
+ខេត្តនីហ្គាតាក់	Préfecture de Niigata
+ខេត្តយ៉ាម៉ាណាស៊ី	Préfecture de Yamanashi
+ខេត្តស៊ីម៉ាណិ	Préfecture de Shimane
+ខេត្តតុយ៉ាម៉ា	Préfecture de Toyama
+ខេត្តអូកាយ៉ាម៉ា	Préfecture d'Okayama
+ISO 3166-2	ISO 3166-2
+ខេត្តអយតាក់	Préfecture d'Ōita
+ខេត្តខូឈិ	Préfecture de Kōchi
+អង្គការអន្តរជាតិនៃនយោបាយរបស់បារាំង	Organisation internationale de la francophonie
+ភ្នំមេរ៉ាពី	Merapi
+ព្រះធម៌	Dharma
+តំបន់ឈឺប៊ឹ	Région du Chūbu
+រោគក្អកមាន់	Coqueluche
+គន្ថនិទ្ទេស	Bibliographie
+អាហារខ្មែរ	Cuisine cambodgienne
+កម្ពុជា នៅកីឡាអូឡាំពិករដូវក្ដៅ ២០០៨	Cambodge aux Jeux olympiques d'été de 2008
+គីមឈី	Kimchi
+ខេត្តកំពង់ចាម	Province de Kampong Cham
+ខ្សែទឹកហ្គ្រីនលែនខាងកើត	Courant du Groenland oriental
+ខ្សែទឹកប៉ាស៊ីហ្វិកខាងជើង	Courant du Pacifique nord
+ខ្សែទឹកហាំបុល	Courant de Humboldt
+ខ្សែទឹកអូស្ត្រាលីខាងកើត	Courant est-australien
+ដុនបូស្កូ	Jean Bosco
+ធ្នូរង្វង់	Arc (géométrie)
+អប្សរា	Apsara
+ស្រុក	District
+រាជវង្សចោឡា	Dynastie Chola
+ខ្លារខិន ២ (រថក្រោះ)	Char Leopard 2
+មហាអំណាច កណ្ដាល	Empires centraux
+អិចសា	Exa
+ហិកតូ	Hecto
+ដេកា	Déca (préfixe du système international d'unités)
+រ៉ូបឺតកាប៉ា	Robert Capa
+មីល្លី	Milli
+មីក្រូ	Micro (préfixe du système international)
+ពីកូ	Pico
+ណាណូ	Nano
+លីប៉ូល ស៊ីដាស៊ាងហ័រ	Léopold Sédar Senghor
+វិគីភីឌាភាសាឥណ្ឌូនេស៊ី	Wikipédia en indonésien
+ទន្ដគោម	Agave
+ប្រវតិ្តBoney M	Boney M.
+វីមេអូ	Vimeo
+អំពើអនិត្យានុកូល	Violence conjugale
+ហង់រី ការចេរ ប្រេស្សុង	Henri Cartier-Bresson
+ត្រីកោណសម័ង្ស	Triangle équilatéral
+ម៉ាក់ណូលា	Magnolia
+ចូសេហ្វ ហិនរី	Joseph Henry
+មន ស	Mûrier blanc
+ពិធីបញ្ជាប់ពាក្យ	Fiançailles
+ត្រីកោណកែង	Triangle rectangle
+សមុទ្រហ្វីលីពីន	Mer des Philippines
+ប្រព័ន្ធកូអ័រដោណេភូមិសាស្ត្រ	Géopolitique
+Eurocopter Tiger	Eurocopter EC665 Tigre
+តេត្រាអែត	Tétraèdre
+សឺន សាន	Son Sann
+ម៉ោងផែនដី	Earth Hour
+នរោត្ដម សីហនុ	Norodom Sihanouk
+ទន្លេរីយ៉ូហ្គ្រែនដេ	Río Grande (fleuve)
+សំព័រ	Artocarpus
+កម្មវិធីអភិវឌ្ឍន៍សហប្រជាជាតិ	Programme des Nations unies pour le développement
+ម៉ាស៊ីនថត លេកា	Leica
+សេវាសាធារណៈ	Service public
+មេគុណជីនី	Coefficient de Gini
+នីត្រូគ្លីសេរីន	Nitroglycérine
+វណ្ណយុត្តិ	Diacritique
+ទង់ជាតិកម្ពុជា	Drapeau du Cambodge
+ក្រុងអង្គរ	Angkor
+ក្រពេញទីមុស	Thymus (anatomie)
+ទ្រឹស្តីបទកូស៊ីនុស	Loi des cosinus
+ទក្សិណ ជិនវ័ត្រ	Thaksin Shinawatra
+ប្រធាន	Sujet (grammaire)
+ហិនរី រ៉េម៉ុន	Henry Jarvis Raymond
+អ៊ែង​ហ្គ្រី បឺដ	Angry Birds
+អ៊ីពែបូល	Hyperbole (mathématiques)
+វិសមភាពស្វ័យគុណ	Inégalité (mathématiques)
+ប៊ិច	Stylo
+ចេក​	Banane plantain
+XHTML	XHTML
+ចម្ប៉ាក្រហម	Magnolia champaca
+គ្រោះទុរ្ភិក្ស	Famine
+អរិយសច្ច៤	Quatre nobles vérités
+ស្តាទិច	Mécanique statique
+ខេត្តណាហ្គាសាគី	Préfecture de Nagasaki
+វិគីភីឌាភាសាស្វីស	Wikipédia en suédois
+ភ្លើងឆេះព្រៃ	Feu de forêt
+ទ្រឹស្តីបទស៊ីនុស	Loi des sinus
+ច្បាប់ហ៊ូក	Loi de Hooke
+ក្រុមបាល់ទាត់ជម្រើសជាតិ ជប៉ុន	Équipe du Japon de football
+រោគឈឺចាប់ក្នុងសន្លាក់ឆ្អឹង	Arthrite
+ប្លុកហ្គឺ (Blogger)	Blogger
+ធម្មនុញ្ញនៃអង្គការសហប្រជាជាតិ	Charte des Nations unies
+Boeing AH-64 Apache	Boeing AH-64 Apache
+អេមីល្យូ ហ្គីណូ សេហ្គ្រែ	Emilio Gino Segrè
+Sukhoi Su-27	Soukhoï Su-27 Flanker
+ម៉ាស៊ីនត្រជាក់	Climatisation
+កាំ	Rayon (géométrie)
+អភិសិទ្ធិ វេជ្ជាជីវៈ	Abhisit Vejjajiva
+HAL Tejas	HAL Tejas
+លីមីត	Limite (mathématiques)
+អ៊ីដ្រូស្តាទិច	Hydrostatique
+វិគីភីឌាភាសាជប៉ុន	Wikipédia en japonais
+គោលនយោបាយរូបិយវត្ថុ	Politique monétaire
+យានដឹកជញ្ជូនសាធារណៈ	Transport en commun
+ការសំភាសន៏	Interview
+ពាណិជ្ជកម្មអន្តរជាតិ	Commerce international
+ចក្រភពអាណានិគមបារាំង	Empire colonial français
+ពន្ធលើប្រាក់ចំណូល	Impôt sur le revenu
+HTML tag	Élément HTML
+រូបចំលាក់	Statue
+នាឡិកាខ្សាច់	Sablier
+ពុយមីស	Ponce
+FM	Modulation de fréquence
+សង្គមស៊ីវិល	Société civile
+សមុទ្របូហៃ	Mer de Bohai
+ការិយាល័យ	Bureau (immobilier)
+ការបង្រៀនដែនដីបរិសុទ្ធ	Formation en ligne
+ម៉ែត្រក្នុងមួយវិនាទី	Mètre par seconde
+រូបមន្តហេរុង	Formule de Héron
+ទន្សោង	Banteng
+វីតាមីន B	Vitamine B
+គណៈកម្មាធិការជាតិអូឡាំពិក	Comité national olympique
+ប៉មតូក្យូ	Tour de Tokyo
+ទិវាទឹកអន្តរជាតិ	Journée mondiale de l'eau
+រូបមន្តអយល័រ	Formule d'Euler
+ស៊ីយ៉ាញួរ	Cyanure
+អរិយដ្ឋង្គិកមគ្គ	Noble Chemin octuple
+សហភាពឥណ្ឌូចិន	Indochine française
+ចន្ទគតិ	Calendrier lunaire
+ការវិភាគតាមអ៊ីនធើណែត	Visiteur unique
+សំទុះមុំ	Accélération angulaire
+អាស៊ីហ្គេមឆ្នាំ១៩៧០	Jeux asiatiques de 1970
+គោលនយោបាយសារពើពន្ធ	Politique budgétaire
+ឡាហ្គូន	Lagune
+Mathew Brady	Mathew Brady
+អប់សិន (ហិរញ្ញវត្ថុ)	Option
+អាយុសង្ឃឹម	Espérance de vie humaine
+ជំនួយ:Using colours	Aide:Couleurs
+ខុទ្ទកាល័យ	Conseil d'administration
+សីដក់	Sepak takraw
+ធនាគារអភិវឌ្ឍន៍អាស៊ី	Banque asiatique de développement
+បញ្ជីរដ្ឋមានអាវុធនុយក្លេអ៊ែរ	Liste des États dotés de l'arme nucléaire
+ទីផ្សារអ៊ីធើណែត	Marketing électronique
+សៀវភៅ	Le Livre de la jungle
+បារីអេឡិចត្រូនិច	Cigarette électronique
+Eagles (ក្រុមភ្លេង)	Eagles
+កំណើនសេដ្ឋកិច្ច	Croissance économique
+យន្តសាស្រ្តរថយន្ត	Construction automobile
+អាឌាម លេមបឺត	Adam Lambert
+រូបមន្តដឺម័រ	Formule de de Moivre
+អនុគមន៍ហ្គាំម៉ា	Fonction gamma
+ផ្សារធំថ្មី	Marché central de Phnom Penh
+ច្បាប់ប៉ាស្កាល់	Principe de Pascal
+សញ្ញាជាតិបង់ក្លាដែស្ស	Emblème du Bangladesh
+នាង​សីតា	Sītā
+សូរ (​ភាសាសាស្ត្រ​)	Langue à tons
+ខ្មែរក្រហម	Khmers rouges
+ម៉ូឌុល​យ៉ាំង	Module d'élasticité
+យុន ជីមិ-ហូ	Yun Chi-ho
+កែវម៉ាស៊ីនថត	Objectif photographique
+ទីភ្នាក់ងារសារព័ត៌មាន	Agence de presse
+វិគីភីឌាភាសាស្លូវ៉ាគី	Wikipédia en slovaque
+ថេរហ្វារ៉ាដេយ	Constante de Faraday
+ប្រវត្តិអ៊ីនធើណេត	Histoire d'Internet
+សមភាពគួរកត់សំគាល់	Binôme (mathématique)
+ខូប្រា	Coprah
+ទ្រឹស្តីបទមេនេឡូស	Théorème de Ménélaüs
+អត្ថបទ(ប្រើបា្រស់ភាសា)	Contexte (linguistique)
+ជូគ័រលាង	Zhuge Liang
+បំលែងឡាប្លាស	Transformation de Laplace
+សញ្ញាជាតិតួរគី	Armoiries de la Turquie
+បឹងទន្លេសាប	Tonlé Sap
+Dassault Mirage 2000	Dassault Mirage 2000
+ចំនួនអវិជ្ជមាន	Nombre négatif
+វិសុទ្ធិមគ្គ	Visuddhimagga
+សញ្ញាជាតិវៀតណាម	Armoiries du Viêt Nam
+ខ្មែរ (ជនជាតិ)	Khmers
+សញ្ញាជាតិកូរ៉េខាងត្បូង	Armoiries de la Corée du Sud
+សញ្ញាជាតិឡាវ	Armoiries du Laos
+សញ្ញាជាតិប៉ាគីស្ថាន	Armoiries du Pakistan
+Tigranes the Great	Tigrane II d'Arménie
+អាណាចក្រខ្មែរ	Empire khmer
+ត្រីពណ៌	Drapeau tricolore
+សញ្ញាជាតិប៊្រុយណេ	Armoiries de Brunei
+រង្វង់ត្រីកោណមាត្រ	Cercle trigonométrique
+ចំរៀករង្វង់	Secteur circulaire
+អនុគមន៍ដឺក្រេទី៣	Équation cubique
+អនុគមន៍អ៊ីពែបូលីក	Fonction hyperbolique
+ឆាវ ឆាវ	Cao Cao
+Sukhoi Su-30	Soukhoï Su-30
+កម្មវិធីស្បៀងអាហារពិភពលោក	Programme alimentaire mondial
+រៀល	Riel
+សមុទ្រស្ទើរបិទ	Mer bordière
+ច្រកសិង្ហបុរី	Détroit de Singapour
+វិគីភីឌាភាសារុស្ស៊ី	Wikipédia en russe
+សញ្ញាជាតិអូម៉ង់	Emblème d'Oman
+ភាសាកម្មវិធី Lua	Lua
+សញ្ញាជាតិប៊ូតាន	Emblème du Bhoutan
+ភ្លេងជាតិថៃ	Phleng Chat
+ព្រះរតនត្រ័យ	Trois Joyaux
+អាហារនៅប្រទេសម៉ិចស៊ិក	Cuisine mexicaine
+ច្រកឡាប៉េរូស	Détroit de La Pérouse
+ខ្នាតកំលាយនៅក្នុងប្រព័ន្ធខ្នាតអន្តរជាតិ	Unités dérivées du système international
+ផ្សារហិរញ្ញវត្ថុ	Marché financier
+ញ៉ែ	Flirt
+ព្រះឆាយាល័ក្ខកម្ពុជា	Armoiries du Cambodge
+ទិវាអង្គការសហប្រជាជាតិ	Journée des Nations unies
+ខ្សែទឹកអាត្លង់ទិកខាងជើង	Dérive nord atlantique
+ប្រវត្តិសាស្ត្រវៀតណាម	Histoire du Viêt Nam
+ខ្សែទឹកខាណារី	Courant des Canaries
+ទ្រឹស្តីបទឆិវ៉ា	Théorème de Ceva
+LinkedIn	LinkedIn
+ទីក្រុងព្រែកឫស្សី	Cần Thơ
+ជនជាតិចាម	Royaume de Champā
+រីស្ស៉ាត កាពុសស៊ីនស្គី	Ryszard Kapuściński
+ប្រវត្តិសាស្ត្រភូមា	Histoire de la Birmanie
+ស៊ាន ឃីងស្តន	Sean Kingston
+កងទ័ពជើងទឹកបារាំង	Marine nationale française
+ចំប៉ី	Plumeria
+ពហុកីឡាដ្ឋានសុផាចាឡាសៃ	Stade Suphachalasai
+អនុគមន៍បេសែ្សល	Fonction de Bessel
+លោក អាប់ឌូ ឌីអោហ្វ	Abdou Diouf
+វិធីហ្វៃណៃថ៍អ៊េលម៉ិន	Méthode des éléments finis
+ច្បាប់អគ្គីសនីវិភាគរបស់ហ្វារ៉ាដេយ	Lois de Faraday (électrochimie)
+ខេត្តព្រះសីហនុ	Sihanoukville
+មានប្រ	Anggun
+ប្រហុក	Prahok
+និកាយនៃព្រះពុទ្ធសាសនា	École du bouddhisme
+ដុនបូស្កូសាឡេស៊ាន្ត	Salésiens
+ខ្នាតគោលនៅក្នុងប្រព័ន្ធខ្នាតអន្តរជាតិ	Unités de base du système international
+អង្គរធំ	Angkor Thom
+Kara	Kara
+១៤១	141 (nombre)
+ព្រះបាទសុទ្ធោទន	Shuddhodana
+វិទ្យុសម្លេងសហរដ្ឋអាមេរិក	Voice of America
+ជេឃ្វីរី	JQuery
+ទិវាពិភពលោកគ្មានថ្នាំជក់	Journée mondiale sans tabac
+គម្ពីរបញ្ចតន្ត្រ	Pañchatantra
+មេដ្យាន	Médiane (géométrie)
+T-80	T-80
+សញ្ញាជាតិកាតារ	Armoiries du Qatar
+សញ្ញាយ៉ាកូប៊ី	Symbole de Jacobi
+ភាសាចាម	Cham (langue)
+សត្វព្រៃ	Vie sauvage
+មីហ៊្គោ	MeeGo
+វិភាគចិត្តវិទ្យា	Psychologie analytique
+លីវ ប៉ី	Liu Bei
+ម៉ាត្សឹស៊ីតា ខូណុស្កិ	Kōnosuke Matsushita
+សង្គ្រាមគ្រីមៀ	Guerre de Crimée
+ក្ងោកបៃតង	Paon spicifère
+នាវាចរណ៏	Navigateur (marine)
+Pinterest	Pinterest
+អាស៊ីហ្គេមឆ្នាំ១៩៦២	Jeux asiatiques de 1962
+ទ្រឹស្តីបទទ្វេធាអាបែល	Théorème binomial d'Abel
+អៀង ធីរិទ្ធ	Ieng Thirith
+ភ្នំសេមេរូ	Semeru
+កោះសមុយ	Ko Samui
+ថវិការដ្ឋាភិបាល	Budget de l'État
+អាំងតេក្រាលដោយផ្នែក	Intégration par parties
+ផ្សោតក្បាលត្រឡោក	Dauphin de l'Irrawaddy
+Near Field Communication	Communication en champ proche
+ហិរញ្ញវត្ថុសាធារណៈ	Finances publiques
+កប៉ាល់ ជួង	Cloche de navire
+សាលាសំណាក់	Pavillon (architecture)
+ជយវម៌្មទី១	Jayavarman Ier
+ប្រាសាទក្រោលគោ	Krol Kô
+ខ្សែទឹកកាលីហ្វរនៀ	Courant de Californie
+រូបមន្តអយល័រ-ម៉ាក្លូរីន	Formule d'Euler-Maclaurin
+១៤៨	148 (nombre)
+ធនាគារជាតិនៃកម្ពុជា	Banque nationale du Cambodge
+AIDC F-CK-1 Ching-kuo	AIDC F-CK-1 Ching-Kuo
+OSM	OSM
+ប្រមោញ	Athérure malais
+ខេត្តសាឡៈវ៉ាន់	Province de Saravane
+ប្រាសាទមេបុណ្យខាងកើត	Mebon oriental
+ទិន្នន័យបើកចំហ	Données ouvertes
+ទិន ហ្វី	Stephen Chow
+ចម្ប៉ាខែក	Magnolia figo
+ហាំង ង៉ោ	Haing S. Ngor
+ព្រះបាទសូរ្យវរ្ម័នទី២	Suryavarman II
+ហ្គោស ចុកតុង	Goh Chok Tong
+ហិនរី វីលសុន	Henry Wilson
+ហុងដា សូអ៊ិជិរ៉ូ	Soichiro Honda
+ស៊ុន ឈាន	Sun Quan
+ឆាវ ភី	Cao Pi
+សមុទ្រកូរ៉ូ	Mer de Koro
+ពិម្ពិសារ	Bimbisâra
+ដូមីនិក សាវីយ៉ូ	Dominique Savio
+ក្រុមបាល់ទាត់ជម្រើសជាតិកម្ពុជា	Équipe du Cambodge de football
+Seo Jae-pil	Philip Jaisohn
+ព្រះសារីបុត្រ	Sariputta
+ទ្រឹស្តីបទគ្រីន	Théorème de Green
+ប្រាសាទអូសាកា	Château d'Osaka
+ការប្រើប្រាស់ភាសា	Linguistique appliquée
+គោព្រៃ	Kouprey
+VCD	Vidéo CD
+បេអាត​ រិចន័រ	Beat Richner
+ថ្ងៃបាស់ស្ទីល	Fête nationale française
+កម្ពុជាប្រជាធិបតេយ្យ	Kampuchéa démocratique
+សាលាក្ដីខ្មែរក្រហម	Chambres extraordinaires au sein des tribunaux cambodgiens
+ណាសសែរ អាល់ មូហាមមេដ អាល់ អាហ៍មេដ អាល់ អាបាហ៍	Nasser al-Mohammed al-Sabah
+ស៊ុនធិ បុណ្យ រ័តក្លិន	Sonthi Boonyaratglin
+ខេត្តផុងសាលី	Province de Phongsaly
+ខេត្តបកែវ	Province de Bokeo
+ខេត្តចំប៉ាសក្តិ	Province de Champassak
+កិលេស	Passion (émotion)
+ព្រះបាទជ័យវរ្ម័នទី៧	Jayavarman VII
+កស្សបៈ	Mahakashyapa
+កាំង ហ្កិច អ៊ាវ	Kang Kek Ieu
+កំពស់ត្រីកោណ	Hauteur d'un triangle
+អាយតនៈ	Āyatana
+វិសមភាពរវាងមធ្យម	Inégalité
+ស៊ឺ ម៉ាអ៉ី	Sima Yi
+ចំនុចហ្គែរហ្គោន	Cercle inscrit
+ប្រវត្តិសាស្រ្តនៃរូបថត	Histoire de la photographie
+ឋានន្តរសក្ដិរាជវង្សនិងអភិជន	Titre de noblesse
+សឺង ង៉ុកថាញ់	Son Ngoc Thanh
+ក្រុមហ៊ុនអាកាសចរណ៍ជាតិ កម្ពុជាអង្គរអ៊ែរ	Cambodia Angkor Air
+វិសមភាពនេស្ប៉ីត	Inégalité de Nesbitt
+កីឡាឧបទ្វីបអាស៊ីអាគ្នេយ៍លើកទី៥	Jeux d'Asie du Sud-Est de 1969
+មហាបរិនិព្វានសូត្រ	Mahaparinibbana Sutta
+ទ្រឹស្តីបទមេអំបៅ	Théorème du papillon
+កន្ថឹក	Tupaia belangeri
+វណ្ណ មូលីវណ្ណ	Vann Molyvann
+ហេង សំរិន	Heng Samrin
+ខៀវ សំផន	Khieu Samphân
+ជេកខប រីស	Jacob Riis
+ព្យែរ វ៉ារីញ៉ុង	Pierre Varignon
+នួន ជា	Nuon Chea
+អៀង សារី	Ieng Sary
+ជយវម៌្មទី៣	Jayavarman II
+អជាតសត្តុ	Ajatashatru
+បន្ទាត់អយល័រ	Droite d'Euler
+ប្រវត្តិសាស្ត្រថៃ	Histoire de la Thaïlande
+បុណ្យសែនព្រះខែ	Fête de la mi-automne
+មហាមោគ្គលាន	Moggallana
+ប្រេម ទីនសូឡានុន្ទ	Prem Tinsulanonda
+ឌីណាមិក HTML	HTML dynamique
+នូហាក់ ភូមសៈវ៉ាន់	Nouhak Phoumsavanh
+កុំផ្លិចឆ្លាស់	Conjugué
+ការកើនឡើងនៃចំនួនប្រជាជននៅលើពិភពលោក	Croissance démographique
+ស៊ីហ្គេមលើកទី៩	Jeux d'Asie du Sud-Est de 1977
+ប្រាសាទអកយំ	Ak Yum
+ហង់រី មូហូ	Henri Mouhot
+ប្រវត្តិសាស្ត្រលាវ	Histoire du Laos
+ព្រះបរមរាជវាំង	Palais royal de Phnom Penh
+តារាងអាំងតេក្រាល	Table de primitives
+បន្ទាត់សេកង់	Droite sécante
+ពហុកោណស្មើ	Polygone équilatéral
+ប្រាសាទតាកែវ	Ta Keo
+សម្ដេចប៉ាបហ្វ្រង់សូ័រ	François (pape)
+ព្រះពុទ្ធ​២៨​ព្រះអង្គ	Vingt-huit bouddhas
+ទ្រឹស្តីបទតូលេមី	Théorème de Ptolémée
+Regional Internet registry	Registre Internet régional
+គុណវិបត្តិនៃការជក់បារី	Effets du tabac sur la santé
+ខ្វែងជ័យបុរី	Province de Sayaboury
+ខ្វែងជើងខ្វែង	Province de Xieng Khouang
+ខេត្តឧត្តមជ័យ	Province d'Oudomxay
+ខេត្តកោះកុង	Province de Kaoh Kong
+ខេត្តកណ្ដាល	Province de Kandal
+ម៉ារី ដូមីនិក ម៉ាសារីលូ	Marie-Dominique Mazzarello
+ព្រះនាងយសោធរា	Yashodhara
+អនុគមន៍បែតា	Fonction bêta
+ទ្រឹស្តីបទតង់សង់	Loi des tangentes
+លិង្គ	Lingam
+ឌិត ប្រន	Dith Pran
+មធ្យមនព្វន្ធ-ធរណីមាត្រ	Moyenne arithmético-géométrique
+កូម៌ៈ	Kûrma
+អាស៊ីហ្គេមឆ្នាំ១៩៧៤	Jeux asiatiques de 1974
+អាកាសយានដ្ឋានអន្តរជាតិតានសូនណាត្ត	Aéroport international de Tân Sơn Nhất
+KAI T-50 Golden Eagle	T-50 Golden Eagle
+វីគីប្រជុំ	Wikimania
+អាស៊ីហ្គេម	Jeux asiatiques
+ទង់ជាតិសិង្ហបុរី	Drapeau de Singapour
+បង្អួចឆ្នាំ 2000	Windows 2000
+តារាងអាំងតេក្រាលនៃអនុគមន៍សនិទាន	Primitives de fonctions rationnelles
+តារាងអាំងតេក្រាលនៃអនុគមន៍អ៊ីពែបូលីក	Primitives de fonctions hyperboliques
+សមីការដឺក្រេទី១	Équation linéaire
+តារាងអាំងតេក្រាលនៃអនុគមន៍ច្រាស់អ៊ីពែបូលីក	Primitives de fonctions hyperboliques réciproques
+សញ្ញាជាតិអាហ្វហ្គានីស្ថាន	Armoiries de l'Afghanistan
+E-commerce	Commerce électronique
+Sukhoi Superjet 100	Soukhoï Superjet 100
+អ្នក​មាន​ជាង​គេ​លើ​ពិភពលោក	Liste des milliardaires du monde
+គណកម្មាធិការអូឡាំពិកកូរ៉េ	Comité olympique sud-coréen
+ច្រកខាន់ម៉ុង	Détroit de Kanmon
+អាស៊ីហ្គេមឆ្នាំ២០០២	Jeux asiatiques de 2002
+ឆកសមុទ្រលាវតុង	Baie de Liaodong
+ឆកសមុទ្របូហៃ	Baie de Bohai
+T-ARA	T-ara
+អាស៊ីហ្គេមឆ្នាំ១៩៨៦	Jeux asiatiques de 1986
+អាណាស្រុកម៉ូបាល (អាល់ឡាបាម៉ា)	Comté de Mobile
+កូរ៉េ	Éducation en Corée du Sud
+ម្កាក់	Prunier de Cythère
+បារខែម	BarCamp
+ដើមត្នោត	Palmier de Palmyre
+ព្រះបាទសូរ្យវរ្ម័នទី១	Suryavarman Ier
+ខេត្តកំពង់ធំ	Province de Kampong Thom
+ខេត្តព្រះវិហារ	Province de Preah Vihear
+ខេត្ត ហួ ផាន់	Province de Houaphan
+ខ្វែងអាចម៍ក្រពើ	Province d'Attapeu
+បញ្ជីទីក្រុងនិងទីប្រជុំជននៅកម្ពុជា	Villes du Cambodge
+ខេត្តខាំមួន	Province de Khammouane
+ខេត្តប៉ៃលិន	Pailin
+ឆាយាលក្សសារព័ត៌មាន	Photojournalisme
+ឧទ្យានជាតិភ្នំគូលែន	Parc national de Phnom Kulen
+បារីសង់	Barycentre (géométrie affine)
+វិសមភាពប៊ូល	Inégalité de Boole
+ស៊ីសុវត្ថិ មុនីវង្ស	Sisowath Monivong
+អង្គឌួង	Ang Duong
+ក្រុមបាល់ទាត់ជម្រើសជាតិ កូរ៉េខាងត្បូង	Équipe de Corée du Sud de football
+សុញ្ញតា	Śūnyatā
+គោលនយោបាយសាធារណៈ	Politique publique
+ឆកសមុទ្រចាការតា	Baie de Jakarta
+Xian MA60	Xian MA60
+ប្រមា	Hystrix brachyura
+ភូមិសាស្រ្ដនៃប្រទេសកម្ពុជា	Géographie du Cambodge
+កស្ថានីយភ្នំបូកគោ	Station d'altitude de Bokor
+នរោត្តម	Norodom Ier
+ម៉ាសែលលីន ចាមប៉ាញេត	Marcellin Champagnat
+ព្រះបាទយសោវរ្ម័នទី១	Yasovarman Ier
+អេដូអារដូ អាម៉ាល់ឌី	Edoardo Amaldi
+Chengdu J-20	Chengdu J-20
+វេយ្យាករណ៍អង់គ្លេស	Grammaire anglaise
+ព្រះបាទឥន្រ្ទវរ្ម័នទី១	Indravarman Ier
+ស៊ីឡាត	Pencak-Silat
+ទ្រឹស្តីបទវ្យែត	Relations entre coefficients et racines
+ប្រាសាទភ្នំបាខែង	Phnom Bakheng
+តារាងអាំងតេក្រាលនៃអនុគមន៍អិចស្ប៉ូណង់ស្យែល	Primitives de fonctions exponentielles
+តារាងអាំងតេក្រាលនៃអនុគមន៍អសនិទាន	Primitives de fonctions irrationnelles
+តារាងអាំងតេក្រាលនៃអនុគមន៍លោការីត	Primitives de fonctions logarithmes
+អាំងតេក្រាលហ្វ្រេនែល	Intégrale de Fresnel
+គោលនយោបាយសេដ្ឋកិច្ច	Politique économique
+ប្រាសាទភិមានអាកាស	Phimeanakas
+Baskin​-Robbins បាន	Baskin-Robbins
+ទិវាសេរីភាពសារព័ត៌មានពិភពលោក	Journée mondiale de la liberté de la presse
+ប្រាសាទតាព្រហ្ម	Ta Prohm
+អាជ្ញាធរអន្តរកាលសហប្រជាជាតិនៅកម្ពុជា	Autorité provisoire des Nations unies au Cambodge
+ប្រាសាទធម្មនន្ទ	Thommanon
+អាំងតេក្រាលផ្ទៃ	Intégrale de surface
+ប្រាសាទមេបុណ្យខាងលិច	Mebon occidental
+ប្រាសាទបន្ទាយក្តី	Banteay Kdei
+ប្រាសាទបន្ទាយសំរែ	Banteay Samré
+រួបថតនៅក្នុងសង្គ្រាម	Photographie de guerre
+មជ្ឈិមនិកាយ	Majjhima Nikaya
+ស្រះស្រង់	Srah Srang
+ខេត្តតាកែវ	Province de Takeo
+បជាបតិគោតមី	Mahaprajapati Gautami
+លានស្តេចគំលង់	Terrasse du Roi lépreux
+ខេត្តហ៊ីរ៉ូស៊ីម៉ា	Préfecture de Hiroshima
+ព្រះសហគមន៏កាតូលិកភូមិភាគភ្នំពេញ	Vicariat apostolique de Phnom-Penh
+បន្ទប់រៀន	Salle de classe
+សេដ្ឋកិច្ចកម្ពុជា	Économie du Cambodge
+ជំរំជនភៀសខ្លួន	Camp de réfugiés
+ហ្គូតហ្គោល	Google Sites
+ទីភ្នាក់ងារសហប្រតិបត្តការអន្តរជាតិកូរ៉េ	KOICA
+ខេត្តឧត្ដរមានជ័យ	Province d'Otdar Mean Cheay
+ប្រភេទស្រាទំពាំងបាយជូរពីប្រទេសបារាំង	Viticulture en France
+អុក	Makruk
+បទនគររាជ	Nokoreach
+នគររាជសីមា	Nakhon Ratchasima
+ចំនួនអាកស៊ីម៉ែដ	Nombre d'Archimède
+សង្គ្រាមកម្ពុជា-វៀតណាម	Guerre Cambodge - Viêt Nam
+តំលៃលើការចាប់អារម្មណ៍	Coût par mille impressions
+១៥០	150 (nombre)
+ស្ទឹងស៊ីលីវូង	Ciliwung
+ISO 3166-2:KH	ISO 3166-2:KH
+ទ្រឹស្តីបទពីក	Théorème de Pick
+ខេត្តសៀមរាប	Province de Siem Reap
+ខេត្តមណ្ឌលគិរី	Province de Mondol Kiri
+ខេត្តកំពង់ស្ពឺ	Province de Kampong Spoe
+ប្រាសាទបាយ័ន	Bayon (Angkor)
+អុនសេន	Onsen
+ឧត្តមស្នងការអង្គការសហប្រជាជាតិទទួលបន្ទុកសិទ្ធិមនុស្ស	Haut-Commissariat des Nations unies aux droits de l'homme
+សម រង្ស៊ី	Sam Rainsy
+ត្រីតុកកែជ្រូក	Cromileptes altivelis
+ធុតង្គ	Dhutanga
+ជាតក	Jātaka
+ក្រុងហាកុណិ (ខេត្តកាណាហ្គាវ៉ា)	Hakone
+អនុគមន៍ត្រីកោណមាត្រច្រាស់	Arc sinus
+ប្រវត្តិសាស្ត្រខ្មែរ	Histoire du Cambodge
+ម៉ាជូ ពីជូ	Machu Picchu
+គណនីធនាគារ	Types de dépôts bancaires
+ក្រុមអសនិក (អាកាសចរណ៍)	Escadrille
+Pilatus PC-7	Pilatus PC-7
+អម្ពបាលី	Ambapali
+ត្រកៀតប៉ោង	Jacinthe d'eau
+ជ្រោយណុតុ	Péninsule de Noto
+ចតុកោណចារឹកក្នុងរង្វង់	Quadrilatère inscriptible
+១៣៨	138 (nombre)
+គីឡូម៉ែត្រការ៉េ	Kilomètre carré
+ជី កុង	Ji Gong
+ចេននី រីវឺរ៉ា	Jenni Rivera
+ពហុកោណនិយ័ត	Polygone régulier
+១៤៤	144 (nombre)
+ឆកសមុទ្រឡៃចូ	Baie de Laizhou
+១៤០	140 (nombre)
+១៤៣	143 (nombre)
+១៤៧	147 (nombre)
+១៤៦	146 (nombre)
+១៤៩	149 (nombre)
+១៤២	142 (nombre)
+១៣៩	139 (nombre)
+១៤៥	145 (nombre)
+ប្រទេសមួយ ប្រព័ន្ធពីរ	Un pays, deux systèmes
+ត្រកៀត	Pontederiaceae
+បណ្តាញផ្លូវហាយវេអាស៊ី	Réseau routier asiatique
+អាស៊ីហ្គេមឆ្នាំ១៩៥៤	Jeux asiatiques de 1954
+អាស៊ីហ្គេមឆ្នាំ១៩៥៨	Jeux asiatiques de 1958
+អាស៊ីហ្គេមឆ្នាំ១៩៦៦	Jeux asiatiques de 1966
+អាស៊ីហ្គេមឆ្នាំ១៩៧៨	Jeux asiatiques de 1978
+អាស៊ីហ្គេមឆ្នាំ១៩៨២	Jeux asiatiques de 1982
+អាស៊ីហ្គេមឆ្នាំ១៩៩០	Jeux asiatiques de 1990
+អាស៊ីហ្គេមឆ្នាំ១៩៩៤	Jeux asiatiques de 1994
+អាស៊ីហ្គេមឆ្នាំ១៩៩៨	Jeux asiatiques de 1998
+Hongdu JL-8	Nanghang K-8 Karokorum
+ច្រកចូហរ	Détroit de Johor
+ព្រះសង្ឃ	Moine
+នគរលូ	Lu (État)
+ត្រីរាជ	Pangasianodon gigas
+ទ្រឹស្តីបទស្តេអាត	Théorème de Stewart
+Yeghishe Charents	Yéghiché Tcharents
+ភាពលំអៀង	Biais (distorsion)
+CAC/PAC JF-17 Thunder	JF-17 Thunder
+ខេត្តរតនគិរី	Province de Rotanah Kiri
+បញ្ចក្ខន្ធ	Skandha
+Gloomy Sunday	Sombre Dimanche (chanson)
+ខេត្តហ្លួងព្រះបាង	Province de Luang Prabang
+ខេត្តកំពត	Province de Kampot
+សង្គ្រាមឥណ្ឌូចិនលើកទី១	Guerre d'Indochine
+ខេត្តស្វាយរៀង	Province de Svay Rieng
+សង្គាយនា	Conciles bouddhiques
+ISO 9362	ISO 9362
+ប៉ាកាយ៉ា	Pacaya
+ខ្លែងប្រម៉ង់	Fauconnet à collier
+ទិវាអក្ខរកម្មអន្តរជាតិ	Journée internationale de l'alphabétisation
+ទ្រឹស្ដីបទការ៉េទាំង៤របស់ឡាហ្គ្រង់	Théorème des quatre carrés de Lagrange
+សុត្តន្តបិដក	Sutta Pitaka
+ខេត្តអូគីណាវ៉ា	Préfecture d'Okinawa
+លានជល់ដំរី	Terrasse des éléphants
+គណបក្សប្រជាជនកម្ពុជា	Parti du peuple cambodgien
+ទន្លេបាទី	Tonlé Bati
+អាស៊ីខាងត្បូង	Asie du Sud
+អាំងតេក្រាលឌីរិចឡេ	Intégrale de Dirichlet
+កំណាត់រង្វង់	Segment circulaire
+ខេត្តក្រចេះ	Province de Kratie
+ប្រាសាទបាគង	Bakong
+ប្រាសាទបក្សីចាំក្រុង	Baksei Chamkrong
+ប្រាសាទបន្ទាយស្រី	Banteay Srei
+ប្រាសាទបាពួន	Baphûon
+សមីការឌីផេរ៉ង់ស្យែលប៊ែរនូយី	Équation différentielle de Bernoulli
+កណ្ដុរភ្នំ	Rhizomys
+ខេត្តបាត់ដំបង	Province de Battambang
+តំបន់ត្រីកោណមាស	Triangle d'or (Asie)
+ប្រាសាទបឹងមាលា	Beng Mealea
+សង្គ្រាមផ្ទៃក្នុងកម្ពុជា	Guerre civile cambodgienne (1967-1975)
+ESET	Eset
+អាស៊ីហ្គេមរដូវរងារ	Jeux asiatiques d'hiver
+ក្រុងយ៉ាណៃ	Yanai
+កុសិនារា	Kushinagar
+KM	Kilomètre
+បញ្ជីព្រះមហាក្សត្រកម្ពុជា	Monarques du Cambodge
+ផ្លូវកណ្ដាល	Voie du milieu
+ជម្រើសអ្នកប្រើប្រាស់	Théorie du consommateur (microéconomie)
+ខេត្តពោធិ៍សាត់	Province de Pouthisat
+វិស័យអប់រំនៅប្រទេសជប៉ុន	Système éducatif au Japon
+ខេត្តស្ទឹងត្រែង	Province de Stoeng Treng
+ប្រព័ន្ធគោល	Base (arithmétique)
+ក្រុមប្រឹក្សាអូឡាំពិកអាស៊ី	Conseil olympique d'Asie
+McDonnell Douglas F-15E Strike Eagle	McDonnell Douglas F-15E Strike Eagle
+២៤២	242 (nombre)
+តារាងអាំងតេក្រាលនៃអនុគមន៍ត្រីកោណមាត្រ	Primitives de fonctions trigonométriques
+ច្រកកាលីម៉ាតា	Détroit de Karimata
+បញ្ជី ប្រទេស មានចំនួនអ្នកអានសៀវភៅ	Liste des pays par taux d'alphabétisation
+សារមន្ទីរទួលស្លែង	Tuol Sleng
+ខេត្តកែប	Kep
+ទ្រឹស្តីបទវីវីអានី	Théorème de Viviani
+VietJet Air	VietJet Air
+ភវវម៌្មទី១	Bhava Varman Ier
+ក្រុងសិរីសោភ័ណ	Sisophon
+ក្រុងកំពង់ចាម	Kampong Cham (ville)
+សាកលវិទ្យាល័យ ចុឡាលុងករណ៍	Université Chulalongkorn
+អនុគមន៍ស៊ីនុសកាឌីណាល់	Sinus cardinal
+ខេត្តព្រៃវែង	Province de Prey Veng
+បញ្ជីរាយនាម សេដ្ឋវិទូ	Liste d'économistes
+អនុគមន៍ពហុហ្គាំម៉ា	Fonction polygamma
+ទ្រឹស្តីបទកូស៊ី-អាដាម៉ា	Théorème de Cauchy-Hadamard
+កប្ប	Kalpa (temps)
+សាធារណរដ្ឋប្រជាមានិតកម្ពុជា	République populaire du Kampuchéa
+នគរវ្នំ	Fou-nan
+ក្រុងកំពត	Kampot (ville)
+ខេត្តកំពង់ឆ្នាំង	Province de Kampong Chhnang
+ស៊ីហ្គេម	Jeux d'Asie du Sud-Est
+ទ្រឹស្តីបទមេដ្យាន	Théorème de la médiane
+ISO 3166-3	ISO 3166-3
+ព្រះនាងមាយា	Māyā (reine)
+ព្រះបាទជ័យវរ្ម័នទី៣	Jayavarman III
+ស៊ីសុវត្ថិ	Sisowath
+ពោធិបក្ខិយធម៌	Trente-sept éléments de l'Éveil
+ព្រហ្មវិហារធម៌	Quatre Incommensurables
+បាល់ទាត់កញ្ចុំផ្កាយ	Galactik Football
+ការ​បញ្ចាំង​ស្លាយ	Diaporama
+វីគីភីឌាភាសាខ្មែរ	Composé organique volatil
+ចំប៉ីសៀម	Rose du désert
+ជំនួយ:មាតិកា	Aide:Sommaire
+ស៊ីហ្គេមលើកទី២៣	Jeux d'Asie du Sud-Est de 2005
+ច្បាប់ប្រលេឡូក្រាម	Règle du parallélogramme
+The Phnom Penh Post	Phnom Penh Post
+ចំនុចប៊្រូការ	Points de Brocard
+AgustaWestland Apache	AgustaWestland Apache
+សាលាប្រព័ន្ធសាលារដ្ឋស្រុកម៉ូបាល	Écoles Publiques du Comté de Mobile
+ភ្នំភ្លើងអ៊ីស៊ាឡឺកធ្វើអោយខកខានការហោះហើរនៅអឺរ៉ុប	Répercussions de l'éruption de l'Eyjafjöll en 2010 sur le trafic aérien
+មីក្រូម៉ែត្រការ៉េ	Ordre de grandeur de superficies
+ធនធានដែលមិនកកើតឡើងវិញ	Ressource non renouvelable
+ខ្សែទឹកអៀមីងហ្គើរ	Courant d'Irminger
+ស៊ីហ្គេមលើកទី១១	Jeux d'Asie du Sud-Est de 1981
+ជួរភ្នំដងរែក	Monts Dângrêk
+ប្រាសាទព្រះខ័ន	Preah Khan
+រូបមន្តញូតុន-កូត្ស	Formule de Newton-Cotes
+កបិលវត្ថុ	Kapilavastu
+ភ្នំគូលេន	Phnom Kulen
+ទីភ្នាក់ងារសហប្រតិបត្តិការអន្តរជាតិជប៉ុន	Agence de coopération internationale du Japon
+ស្វាកន្ទុយស	Pygathrix nigripes
+រូបមន្តត្រីកោណមាត្រត្រង់ kπ/7	Formules trigonométriques en kπ/7
+ប្រាសាទភ្នំក្រោម	Phnom Krom
+Nanchang Q-5	Nanchang Q-5
+ស៊ីហ្គេមលើកទី២១	Jeux d'Asie du Sud-Est de 2001
+រាត្រីមួយក្រោយសង្គ្រាម	Un soir après la guerre
+ប្រដាល់សេរី	Pradal Serey
+សុន សេន	Son Sen
+គណកម្មាធិការអូឡាំពិកជប៉ុន	Comité olympique japonais
+ចំនួនតេត្រាអែក	Nombre tétraédrique
+ក្រុងកំពង់ធំ	Kampong Thom
+អាំងតេក្រាលអយល័រ	Intégrale d'Euler
+ចំណុចរំពុះ	Point d'ébullition
+ក្រុងប៉ោយប៉ែត	Poipet
+របាំព្រះរាជទ្រព្យ	Ballet royal du Cambodge
+ក្រុងកំពង់ឆ្នាំង	Kampong Chhnang (ville)
+តារាងអាំងតេក្រាលនៃអនុគមន៍ច្រាស់ត្រីកោណមាត្រ	Primitives de fonctions circulaires réciproques
+អាកាសយានដ្ឋានអន្តរជាតិភ្នំពេញ	Aéroport international de Phnom Penh
+ព្រះនិព្វាន៤ថ្នាក់	Quatre êtres nobles
+សាធារណរដ្ឋខ្មែរ	République khmère
+អក្សរខ្មែរ	Alphasyllabaire khmer
+អាកាសយានដ្ឋានអន្តរជាតិសៀមរាបអង្គរ	Aéroport international de Siem Reap-Angkor
+បច្ចេកវិទ្យាសារពត៌មាន	Journalisme en ligne
+ក្មេងទំនើង	Délinquance juvénile
+ចេនឡា	Chenla
+ប្រកែកនយោបាយថៃ ស.ក.២០១០	Manifestations politiques thaïlandaises de 2010
+ស្ដេចចក្រពត្តិ	Chakravartin
+តថាគត	Tathāgata
+ប្រាសាទនាគព័ន្ធ	Neak Pean
+ជា ស៊ីម	Chea Sim
+នគរឆឹន	Chen (État)
+ប្រព័ន្ធផ្សព្វផ្សាយសុក្រិត្យ	Social Media Optimization
+អាំងតេក្រាលប្តូរអថេរ	Intégration par changement de variable
+កម្មវីធីសូនីវីហ្គាស	Sony Vegas
+ស៊ីហ្គេមលើកទី២៥	Jeux d'Asie du Sud-Est de 2009
+ខ្សែទឹកអេក្វាទ័រខាងត្បូង	Courant équatorial sud
+សិក្ខាបទ៥	Cinq Préceptes
+ការប្រកួតកីឡាជើងឯកចុងបូព៌ា	Jeux de l'Extrême-Orient
+កងទ័ពអេហ្ស៊ីប	Forces armées égyptiennes
+ប្រាសាទប្រែរូប	Prè Rup
+ប្រាសាទក្រវាន់	Prasat Kravan
+មេកានិច​សូលីដ	Mécanique du solide
+ការប្រកួតកីឡា កម្ពុជា	Championnat du Cambodge de football
+ប្រាសាទព្រះគោ	Preah Kô
+ប្រាសាទលលៃ	Lolei
+ក្បាលស្ពាន	Kbal Spean
+ប្រាសាទតាសោម	Ta Som
+ស្ពានថ្ម	Spean Thma
+CAIC Z-10	CAIC WZ-10
+អាំងតេក្រាលត្រីកោណមាត្រ	Cosinus intégral
+សមីការឌីផេរ៉ងស្យែលក្លែរ៉ូ	Équation différentielle de Clairaut
+សាសនា សកល	Symbole religieux
+ខ្សែទឹកណរវេយ	Courant norvégien
+ទង់ព្រះពុទ្ធសាសនា	Drapeau bouddhique
+មករ	Makara
+ISO 3166-1 alpha-2	ISO 3166-1 alpha-2
+តំបន់អឌ្ឍច័ន្ទមាស	Croissant d'or
+បណ្ឌិត្យ​សភា​នីតិ​អន្តរជាតិ​នៃ​ទីក្រុង​ឡាអេ	Académie de droit international de La Haye
+ស៊ីហ្គេមលើកទី២៦	Jeux d'Asie du Sud-Est de 2011
+សម្រែកនៃដុលោរ៉េស៏	Grito de Dolores
+ប្រពលវប្បកម្ម	Agriculture intensive
+សមភាពការ៉េទាំង៤របស់អឺលែរ	Identité des quatre carrés d'Euler
+ស៊េរីត្រីកោណមាត្រ	Série trigonométrique
+រូបមន្តប្រាម៉ាហ្គឹបតា	Formule de Brahmagupta
+Shenyang J-11	Shenyang J-11
+មុំក្នុង	Angle externe
+ផលបូក រីម៉ាន	Somme de Riemann
+ប្រាសាទអ៊ីវ៉ាឃឹនី	Château d'Iwakuni
+ផ្នែកពិត	Partie réelle
+សេដ្ឋកិច្ចតំបន់ អាសីុ	Économie de l'Asie
+សមភាពការ៉េទាំង៨របស់ដេហ្គេន	Identité des huit carrés de Degen
+រូប	Rūpa
+Kawasaki OH-1	Kawasaki OH-1
+កីឡាអាស៊ីខាងកើត	Jeux de l'Asie de l'Est
+ស៊ីហ្គេមលើកទី២០	Jeux d'Asie du Sud-Est de 1999
+បុណ្យ តារា	Tanabata
+ក្រុងតាកែវ	Takeo
+ស្ពានឃីងតៃ	Kintai kyo
+សមីការកូស៊ី-អយល័រ	Équation différentielle d'Euler
+ស្ពានខាន់ម៉ុងក្យូ	Pont Kanmon
+កីឡាអាស៊ីខាងត្បូង	Jeux d'Asie du Sud
+OSGeo	Fondation Open Source Geospatial
+វិគីភីឌា:ស្ថានទូតខ្មែរ	Wikipédia:Ambassade
+Bottleneck	Goulot d'étranglement (production)
+ស៊ីហ្គេមលើកទី១៩	Jeux d'Asie du Sud-Est de 1997
+ស៊ីហ្គេមលើកទី១៧	Jeux d'Asie du Sud-Est de 1993
+ស៊ីហ្គេមលើកទី១០	Jeux d'Asie du Sud-Est de 1979
+រាជវង្សហុងបាង	Dynastie Hồng Bàng
+ស៊ីហ្គេមលើកទី២៤	Jeux d'Asie du Sud-Est de 2007
+ស៊ីហ្គេមលើកទី១៤	Jeux d'Asie du Sud-Est de 1987
+ទីឃនិកាយ	Dīgha Nikāya
+ហ្វ្រង់កូ រ៉ាសិតទី	Franco Rasetti
+ខ្សែទឹករង្វល់របស់មហាសមុទ្រ	Gyre océanique
+កូស៊ីនុសអ៊ីពែបូលីក	Cosinus hyperbolique
+វិទ្យុតាមអ៊ីនធើណែត	Radio numérique
+តូនី វ៉ាការ៉ូ	Tony Vaccaro
+កោះទន្សាយ	Koh Tonsay
+អាន ដ្យឿង វឿង	Dynastie Thục
+តង់សង់អ៊ីពែបូលីក	Tangente hyperbolique
+ខ្មែរលើ	Khmer Loeu
+ស៊ីនុសអ៊ីពែបូលីក	Sinus hyperbolique
+កីឡាឧបទ្វីបអាស៊ីអាគ្នេយ៍លើកទី៣	Jeux d'Asie du Sud-Est de 1965
+កីឡាឧបទ្វីបអាស៊ីអាគ្នេយ៍លើកទី៤	Jeux d'Asie du Sud-Est de 1967
+កីឡាឧបទ្វីបអាស៊ីអាគ្នេយ៍លើកទី៦	Jeux d'Asie du Sud-Est de 1971
+កីឡាឧបទ្វីបអាស៊ីអាគ្នេយ៍លើកទី៨	Jeux d'Asie du Sud-Est de 1975
+វិសមភាពស្យ៉ឺរ	Inégalité de Schur
+ឈូងសមុទ្រ	Golfe
+អនុគមន៍ហ្គុឌែរម៉ាន់	Fonction de Gudermann
+វិធីសាស្រ្តហ្រ្វូបេនៀស	Méthode de Frobenius
+សាកលវិទ្យាល័យអាគីតា	Université d'Akita
+ផ្នែកនិម្មិត	Partie imaginaire
+ចន វ៉នណុក	John Warnock
+មួយម៉ូនីកា	Agnes Monica
+Candies	Candies
+កីឡាឧបទ្វីបអាស៊ីអាគ្នេយ៍លើកទី១	Jeux d'Asie du Sud-Est de 1959
+កីឡាអាស៊ីកណ្ដាល	Jeux de l'Asie centrale
+កីឡាឧបទ្វីបអាស៊ីអាគ្នេយ៍លើកទី២	Jeux d'Asie du Sud-Est de 1961
+ស៊ីហ្គេមលើកទី១៦	Jeux d'Asie du Sud-Est de 1991
+ស៊ីហ្គេមលើកទី១៥	Jeux d'Asie du Sud-Est de 1989
+ស៊ីហ្គេមលើកទី១៨	Jeux d'Asie du Sud-Est de 1995
+កីឡាឧបទ្វីបអាស៊ីអាគ្នេយ៍លើកទី៧	Jeux d'Asie du Sud-Est de 1973
+សាកលវិទ្យាល័យហ្វឹគឹអ៊ី	Université de Fukui
+ខ្មែរក្រោម	Khmer Krom
+ស៊ីហ្គេមលើកទី២២	Jeux d'Asie du Sud-Est de 2003
+ស៊ីហ្គេមលើកទី១៣	Jeux d'Asie du Sud-Est de 1985
+ស៊ីហ្គេមលើកទី១២	Jeux d'Asie du Sud-Est de 1983
+ទ្រឹស្តីបទកាសី	Théorème de Casey
+សមាគមអូឡាំពិកឥណ្ឌា	Indian Olympic Association
+ប្រាសាទព្រះប៉ាលីឡៃ	Preah Palilay
+ESET NOD32 Antivirus	NOD32
+ស្រីសុរិយោពណ៌ទី២	Ponhea Yat
+វិគីភីឌា:Glossary	Aide:Jargon de Wikipédia
+បុណ្យ	Punya
+ចំណាត់ថ្នាក់ក្រុម:ប្រទេសជប៉ុន	Catégorie:Japon
+ចំណាត់ថ្នាក់ក្រុម:ម៉ិកសិច	Catégorie:Mexique
+ទ្រឹស្តីបទប្រាម៉ាហ្គឹបតា	Théorème de Brahmagupta
+ចេមនិងផ្លែប៉ែសយក្ស	James et la Grosse Pêche
+បន្ទប់សារពត៌មាន	Salle de rédaction
+ចំណាត់ថ្នាក់ក្រុម:ឥណ្ឌូនេស៊ី	Catégorie:Indonésie
+ចំណាត់ថ្នាក់ក្រុម:សិង្ហបុរី	Catégorie:Singapour
+ចំណាត់ថ្នាក់ក្រុម:រូបវិទ្យា	Catégorie:Physique
+ចំណាត់ថ្នាក់ក្រុម:វិទ្យាសាស្រ្តធម្មជាតិ	Catégorie:Sciences naturelles
+ចំណាត់ថ្នាក់ក្រុម:ជីវវិទ្យា	Catégorie:Biologie
+ចំណាត់ថ្នាក់ក្រុម:សាសនា	Catégorie:Religion
+ចំណាត់ថ្នាក់ក្រុម:កីឡា	Catégorie:Sport
+ចំណាត់ថ្នាក់ក្រុម:វិទ្យាសាស្ត្រ	Catégorie:Sciences
+ប្រជាមតិទាក់ទងនឹងឯករាជភាពរបស់ស្កុតឡែនឆ្នំា២០១៤	Référendum sur l'indépendance de l'Écosse
+សំយុត្តនិកាយ	Samyutta Nikāya
+សំយោជនៈ	Punarbhava
+សាសនាក្នុងប្រទេសចិន	Religion en Chine
+ចំនួនហ្គាលីលេ	Nombre de Galilée
+ត្រីគល់រាំង	Catlocarpio siamensis
+ប្រវត្តិសាស្រ្តរបស់ទូរទស្សន៍	Histoire des techniques de télévision
+ប្រវត្តិវិទ្យុ	Histoire de la radio
+ប្រវត្តិសាស្រ្តអ្នកកាសែត	Histoire du journalisme
+ប្រវត្តិច្បាប់រក្សាសិទ្ធ	Histoire du droit d'auteur
+Honda HA-420 HondaJet	Honda HA-420 HondaJet
+នពតល ប៉័ទមៈ	Noppadon Pattama
+កោះរុង	Koh Rong
+ស្ដង់ដា	Standard
+ចំនុចកណ្ដាល	Milieu d'un segment
+ខុទ្ទកនិកាយ	Khuddaka Nikāya
+ចាន់ ស៊ី	Chan Sy
+ប៉ាន់ រិទ្ធី	Rithy Panh
+ទំព័រគំរូ:Dts	Modèle:Date triable
+បុណ្យកឋិន	Kathina
+គែន	Khên
+វិសមភាព កុលហ្គោម៉ូរ៉ូវ	Inégalité de Kolmogorov
+ទីក្រុងរ៉ូមបុរាណ	Rome antique
+រឹសគូប	Racine cubique
+ប្រាសាទកោះកេរ	Koh Ker
+នរោត្ដម សុរាម្រិត	Norodom Suramarit
+អាស៊ីហ្គេមអ៊ីនដរ	Jeux asiatiques en salle
+ការវាយប្រហារដែនអាកាសនៅទីក្រុងបេកដាត ថ្ងៃទី ១២ កក្តដា ២០០៧	Raid aérien du 12 juillet 2007 à Bagdad
+ក្លឹបបាល់ទាត់ ភ្នំពេញក្រោន	Phnom Penh Crown
+សញ្ញាណលោការីត	Identités logarithmiques
+វត្តភ្នំ	Wat Phnom
+ប្រាសាទសំបូរព្រៃគុក	Sambor Prei Kuk
+គណបក្សសិទ្ធិមនុស្ស	Parti des droits de l'homme
+កោះត្រឡាច	Côn Son
+ក្រុមហ៊ុនអាកាសចរណ៏រ៉ូយ៉ាល់ខ្មែរអ៊ែរឡាញ	Royal Khmer Airlines
+អាគីតា	Akita (homonymie)
+ស្រុកពួក	Puok
+ស្រុកក្រឡាញ់	Kralanh
+ស្រុកជីក្រែង	Chi Kraeng
+ស្រុកអង្គរជុំ	Angkor Chum
+ស្រុកស្រីសន្ធរ	Srey Santhor (district)
+ទ្រឹស្ដីបទវ៉ារីញ៉ុង	Théorème de Varignon
+ចំណាយរដ្ឋាភិបាល	Dépenses publiques
+សារមន្ទីរជាតិ	Musée national du Cambodge
+ឧទ្យានជាតិព្រះសុរាម្រិតកុសុមៈគិរីរម្យ	Parc national de Kirirom
+អ្នកសារពត័មាន	Journaliste
+រង្វង់ប៊្រូការ	Cercle de Brocard
+ប៉ែន សុវណ្ណ	Pen Sovan
+ចំណាត់ថ្នាក់ក្រុម:អូឡាំពិក	Catégorie:Jeux olympiques
+ចំណាត់ថ្នាក់ក្រុម:ព្រះពុទ្ធសាសនា	Catégorie:Bouddhisme
+វប្បធម៍បារាំង	Culture française
+ប្រទេសនៅអាមេរិកខាងជើង	Liste des pays d'Amérique du Nord
+បញ្ជីឈ្មោះអនុគមន៍គណិតវិទ្យា	Liste de fonctions numériques
+ប្រអប់ខ្សាច់	Sandbox
+Open Access Week	Open Access Week
+ណូរី	Train de bambou
+ស្ថានីយទូរទស្សន៍	Chaîne de télévision
+ទ្រឹស្តីបទទែរគេម	Théorème de Terquem
+ពហុកីឡដ្ឋានជាតិអូឡាំពិក	Stade olympique de Phnom Penh
+ព្រះពុទ្ធសាសនានៅប្រទេសបារាំង	Bouddhisme en France
+ជំងឺរលាកបំពង់ក	Pharyngite
+ទេសចរបារាំង	Tourisme en France
+កម្ពុជាសម័យលង្វែក	Lovek
+ឃុំប្រាសាទ (ស្រុកព្រះនេត្រព្រះ)	Prasat
+អង្គការសង្គមអភិរក្សសត្វព្រៃ	Wildlife Conservation Society
+សាកលវិទ្យាល័យអប់រំអៃឈិ	Université d'éducation d'Aichi
+ការដឹងគ្រប់គ្រាន់នៃវិធីដកដង្ហើម១៦យ៉ាង	Ānāpānasati
+ឧទ្យានជាតិវីរៈជ័យ	Parc national de Virachey
+ទំព័រគំរូ:Lang-ta	Modèle:Lang-ta
+ចំនួនអូតូម៉ហ្វីស	Nombre automorphe
+អូរកែវ	Óc Eo
+ពហុធាប៊ែរនូយី	Polynôme de Bernoulli
+ព្រះធម្មចក្កប្បវត្តនសូត្រ	Dhammacakkappavattana Sutta
+ប្រាសាទព្រះពិធូរ	Preah Pithu
+អ្នកលឿង	Neak Luong
+ឃុំរលួស (ស្រុកស្វាយចេក)	Roluos
+ខេត្តបលិខាំសៃ	Province de Borikhamxay
+ខណ្ឌរដ្ឋបាលសាលាភីឡាដេលផ្យា	District scolaire de Philadelphie
+ស្ពានព្រះមុនីវង្ស	Pont Monivong
+សោតទស្សន៏	Œuvre audiovisuelle
+ភ្នំឧដុង្គ	Oudong
+ទ្រឹស្តីបទមីកេល	Théorème de Miquel
+ជនជាតិចារាយ(ខ្មែរលើ)	Jaraï
+ស្ថាបត្យករខ្មែរ	Architecture khmère
+តារាងនៃស៊េរីគណិតវិទ្យា	Formulaire de développement en série entière
+ប្រាសាទតានៃ	Ta Nei
+ចំងាយពីចំនុចមួយទៅបន្ទាត់	Distance d'un point à une droite
+ចៅ​សែន​ កុសល​ឈុំ	Chau Sen Cocsal
+ចំនួនថេរត្រីកោណមាត្រពិត	Table de lignes trigonométriques exactes
+បដ្ឋាន	Paṭṭhāna
+ជញ្ជាំងក្រហម	Cluny le Fléau
+ខ្មែរឥស្សរៈ	Khmers issarak
+ព្រះរាជាណាចក្រកម្ពុជា (១៩៥៣-១៩៧០)	Royaume du Cambodge (1953-1970)
+មហេន្ទ្រវម៌្មទី១	Mahendra Varman
+បណ្តុំកន្សោមរ៉ាឌីកាល់	Radical imbriqué
+កោណ្ឌញ្ញៈ	Ajnata Kaundinya
+WNBT	WNBC
+ស៊ីនុសអាំងតេក្រាល	Sinus intégral
+កត្តាអាំងតេក្រាល	Facteur intégrant
+ប្រជាសាស្ត្រនៃកម្ពុជា	Démographie du Cambodge
+អ្នកស្រែ	Les Gens de la rizière
+ការបោះឆ្នោតនៅកម្ពុជា	Élections au Cambodge
+ធនាគារអេស៊ីលីដា	ACLEDA Bank
+ក្លឹបបាល់ទាត់ បៀលប្រាយយូណាយធីត	Build Bright United
+សញ្ញាជាតិរបស់បណ្ដាប្រជាជាតិនៅអាស៊ី	Armoiries d'Asie
+ណាយ៉ាន់ ចាន់ដា	Nayan Chanda
+បរមសោករាជ	Barom Soccoroch
+ទំព័រគំរូ:Location map USA2	Modèle:Géolocalisation/États-Unis
+ប្រាសាទបាតជុំ	Bat Chum
+ទ្រឹស្តីបទអូស្រ្តូស្គី	Théorème d'Ostrowski
+ព្រហ្មជាលសូត្រ	Brahmājālasutta
+បណ្ដាញទូរទស្សន៍កម្ពុជា	Cambodian Television Network
+Cambodge Soir	Cambodge Soir
+ចំណាត់ថ្នាក់ក្រុម:អត្ថបទខ្លីមិនពេញលេញ	Catégorie:Wikipédia:ébauche
+ចំណាត់ថ្នាក់ក្រុម:ទ្វីប	Catégorie:Continent
+ចំណាត់ថ្នាក់ក្រុម:ភូមិវិទ្យា	Catégorie:Géologie
+ចំណាត់ថ្នាក់ក្រុម:យន្តហោះ	Catégorie:Type d'aéronef
+ឆាលេស ហ្គេសស្គី	Charles Geschke
+ពិធីបុណ្យចូលឆ្នាំខ្មែរ	Chaul Chhnam
+ជា វិជ្ជា	Chea Vichea
+ព្រះរាជពិធីច្រត់ព្រះនង្គ័ល	Chrat Preah Nongkal
+កាលប្បវត្តិកម្ពុជា	Chronologie du Cambodge
+ប្រវត្តិសិល្បៈភាពយន្តខ្មែរ	Cinéma cambodgien
+ខ្សែកោងក្លេលី	Clélie (mathématiques)
+រស់ សេរីសុទ្ធា	Ros Serey Sothear
+យុទ្ធនាការកម្ពុជា	Théâtre d'opérations cambodgien pendant la Guerre du Viêt Nam
+របាំខ្មែរ	Danse cambodgienne
+ជូ ដាវី	Davy Chou
+ចំងាយពីចំនុចមួយទៅប្លង់	Distance d'un point à un plan
+បញ្ជីស្រុក ក្រុង និង ខណ្ឌកម្ពុជា	Liste des districts du Cambodge
+តារាងដេរីវេធម្មតា	Dérivées usuelles
+ក្រឡាន	Khao lam
+បឹងយក្សឡោម	Yak Loum
+បសេនទិកោសល	Pasenadi
+វីរៈ តារា	Virak Dara
+ព្រឹទ្ធសភាកម្ពុជា	Sénat (Cambodge)
+វ៉ិចទ័រប្រាប់ទិស	Vecteur directeur
+អនុគមន៍ដសុន	Fonction de Dawson
+ខេមបូឌា ដេលី	The Cambodia Daily
+ជនជាតិខ្មែរអ៊ីស្លាម	Islam au Cambodge
+វិទ្យាស្ថានពុទ្ធសាសនបណ្ឌិត្យ	Institut bouddhique (Cambodge)
+ជយទេវីទី១	Jayadevî
+កម្ពុជាសម័យអាណានិគមបារាំង	Protectorat français du Cambodge
+ទំព័រគំរូ:ប្រព័ន្ធព្រះអាទិត្យ	Modèle:Palette Système solaire
+កឹម សុខា	Kem Sokha
+លំពង្សរាជា	Lampong Reachea
+វិគីភីឌា:សារ ទំព័រគំរូ/លំហឈ្មោះ ការពិភាក្សារបស់អ្នកប្រើប្រាស់	Aide:Modèles pour l'espace Discussion utilisateur
+អនុរុទ្ធ	Anuruddha
+អង្គជ័យ	Neay Trasac Paem Chay
+និព្វានបាទ	Nippean Bat
+ពីរ៉ាមីត	Pyramide
+បុណ្យភ្ជុំបិណ្ឌ	Pchum ben
+ពហុធាអាបែល	Polynôme d'Abel
+ស្ពានគីហ្សូណា	Pont Kizuna
+ស្ពានព្រែកតាមាក់	Pont Prek Tamak
+ការគ្រប់គ្រងរបស់ខ្មែរក្រហមនៅកម្ពុជា	Crimes du régime Khmer rouge
+យ៉ូសែប ឆ្មារសាឡាស់	Joseph Chhmar Salas
+ស៊ីន ស៊ីសាមុត	Sinn Sisamouth
+សិទ្ធានរាជា	Sithean Reachea
+ស្រីសុរិយោទ័យទី១	Soriyoteï Ier
+ស្រីសុរិយោវង្ស	Soriyovong
+ពន្ធតែមប្រិ៍	Droit d'enregistrement
+តារាង គោល	Table des bases
+ធម្មាសោករាជ	Thommo Soccoroch
+ទ្រឹស្តីបទអាឡាស៊ី	Théorème d'Alasia
+ទ្រឹស្តីបទក្លែរ៉ូ	Théorème de Clairaut (géométrie)
+ទ្រឹស្តីបទហ្គែរហ្គោន	Théorème de Gergonne
+ទ្រឹស្តីបទគីរ៉ា	Théorème de Girard
+ទ្រឹស្ដីបទចំនុចកណ្ដាល	Théorème des milieux
+វិគីភីឌាភាសាខ្មែរ	Wikipédia en khmer
+ការបោះឆ្នោតជ្រើសតាំងតំណាងរាស្ត្រ នីតិកាលទី៥ ឆ្នាំ២០១៣	Élections législatives cambodgiennes de 2013
+គ្រោះមហន្តរាយ	Catastrophe
+វិគីភីឌា:Reference desk	Wikipédia:Oracle
+ទំព័រគំរូ:Authority control	Modèle:Autorité
+ទំព័រគំរូ:Quote	Modèle:Citation
+ទំព័រគំរូ:Wikipedia languages	Modèle:Wikipedialang
+ទំព័រគំរូ:Location map Scotland	Modèle:Géolocalisation/Écosse
+ទំព័រគំរូ:Location map England	Modèle:Géolocalisation/Angleterre
+ចំណាត់ថ្នាក់ក្រុម:សេដ្ឋកិច្ច	Catégorie:Économie
+វិគីភីឌា:សុំប្តូរអត្តនាម	Wikipédia:Demande de renommage de compte utilisateur
+ចំណាត់ថ្នាក់ក្រុម:ជនជាតិ ភាគតិច ក្នុង ប្រទេស កម្ពុជា	Catégorie:Groupe ethnique du Cambodge
+វិគីភីឌា:Oversight	Wikipédia:Masqueur de modifications
+វិគីភីឌា:IP block exemption	Wikipédia:Exemption de blocage d'IP
+វិគីភីឌា:រូបយន្ត	Wikipédia:Bot
+ចំណាត់ថ្នាក់ក្រុម:Hidden categories	Catégorie:Catégorie cachée
+ទំព័រគំរូ:WP:UBS	Modèle:Palette Boîtes Utilisateur
+អេហ៊្សីប	Égypte
+ជំនួយ:ទំព័រគំរូ	Aide:Modèle
+ឦសានវម៌្មទី១	Içanavarman Ier
+វិគីភីឌា:វិគីគម្រោង	Projet:Accueil
+យីហ៊ុប	Magnolia coco
+ទំព័រគំរូ:Bot	Modèle:Bot
+វិគីភីឌា:អ្វីៗដែលវិគីភីឌាមិនអនុញ្ញាត	Wikipédia:Ce que Wikipédia n'est pas
+ឧទ្យានជាតិបុទុមសាគរ	Parc national de Botum Sakor
+កាណាដា	Canada
+ចំណាត់ថ្នាក់ក្រុម:ប្រទេសអាយឡែន	Catégorie:Islande
+វិគីភីឌា:អំពីវិគីភីឌា	Wikipédia:À propos
+ចំណាត់ថ្នាក់ក្រុម:ខ្នាតក្រលាផ្ទៃ	Catégorie:Unité de surface
+ជំនួយ:ពាក្យទិព្វ	Aide:Mot magique
+សហព័ន្ធខ្មែរកម្ពុជាក្រោម	Fédération des Khmers du Kampuchéa Krom
+ទំព័រគំរូ:Flagicon	Modèle:Drapeau
+ចំណាត់ថ្នាក់ក្រុម:អឺរ៉ុប	Catégorie:Europe
+ចំណាត់ថ្នាក់ក្រុម:ជំនួយក្នុងវិគីភីឌា	Catégorie:Espace Aide
+វិគីភីឌា:ទំព័រអ្នកប្រើប្រាស់	Aide:Page utilisateur
+វិគីភីឌា:ព្រឹត្តិការណ៍​ថ្មីៗ	Portail:Actualité
+ទំព័រគំរូ:Documentation	Modèle:Documentation
+វិគីភីឌា:អ្នកប្រើប្រាស់	Aide:Statuts des utilisateurs
+វិគីភីឌា:Protection policy	Wikipédia:Protection
+វិគីភីឌា:WikiLove	Wikipédia:WikiLove
+វិគីភីឌា:Userboxes	Wikipédia:Boîte Utilisateur
+វិគីភីឌា:ហត្ថលេខា	Aide:Signature
+វិគីភីឌា:អត្ថបទខ្លីមិនពេញលេញ	Aide:Ébauche
+វិគីភីឌា:លក្ខណៈវិនិច្ឆ័យនៃលុបជាបន្ទាន់	Wikipédia:Critères de suppression immédiate
+វិគីភីឌា:Most wanted articles	Wikipédia:Articles à créer
+ចំណាត់ថ្នាក់ក្រុម:ទំព័រអសង្ស័យកម្ម អំពីឈ្មោះទីកន្លែង	Catégorie:Homonymie de toponyme
+្ឞ្ញ ហ្សអិ-អិអៀ	Sung Jae-ki
+ទំព័រគំរូ:Facebook navbox	Modèle:Palette Facebook
+វិគីភីឌា:Huggle	Wikipédia:Huggle
+ទំព័រគំរូ:Softredirect	Modèle:Redirection douce
+ទំព័រគំរូ:លុបជាបន្ទាន់	Modèle:Suppression Immédiate
+ក្លោងទ្វារ:ចិន	Portail:Monde chinois
+វិគីភីឌា:វិគីគម្រោង ជីវប្រវត្តិ	Projet:Biographie
+ទំព័រគំរូ:Succession	Modèle:Succession
+ជំនួយ:ប្រអប់ព័ត៌មាន	Aide:Infobox
+ក្រុងដូនកែវ	Doun Kaev
+ឧទ្យានជាតិកែប	Parc national de Kep
+ឧទ្យានជាតិមុនីវង្យបូកគោ	Parc national de Preah Monivong
+ត្រីកោណមាត្រកុំផ្លិច	Trigonométrie complexe
+វិសមភាពតូលេមី	Inégalité de Ptolémée
+ឧទ្យានជាតិព្រះសីហនុរាម	Parc national de Ream
+ចំណាត់ថ្នាក់ក្រុម:ភាសា	Catégorie:Langue
+ចំណាត់ថ្នាក់ក្រុម:វេយ្យាករណ៍	Catégorie:Grammaire
+ចំណាត់ថ្នាក់ក្រុម:វិគីភីឌា	Catégorie:Wikipédia
+វិគីភីឌា:ការបដិសេធ ទូទៅ	Wikipédia:Avertissements généraux
+ជំនួយ:ចំណាត់ថ្នាក់ក្រុម	Aide:Catégorie
+វិគីភីឌា:សារទំព័រគំរូ	Aide:Liste de modèles
+វិគីភីឌា:អសង្ស័យកម្ម	Wikipédia:Conventions de style
+Portal:Contents/Portals	Portail:Accueil
+គណបក្សសង្គ្រោះជាតិ	Parti du sauvetage national du Cambodge
+ទំព័រគំរូ:Navbox	Modèle:Méta palette de navigation
+ជំនួយ:រូបមន្ត	Aide:Formules TeX
+ជំនួយ:តំណភ្ជាប់	Aide:Liens
+ទំព័រគំរូ:Citation needed	Modèle:Citation nécessaire
+តំបន់ពាណិជ្ជកម្មសេរី	Zone de libre-échange
+ទំព័រគំរូ:Error	Modèle:Error
+ទំព័រគំរូ:!	Modèle:!
+ចំណាត់ថ្នាក់ក្រុម:Flag templates	Catégorie:Modèle drapeau
+ទំព័រគំរូ:((	Modèle:((
+ទំព័រគំរូ:))	Modèle:))
+ទំព័រគំរូ:=	Modèle:=
+ទំព័រគំរូ:Navbar	Modèle:Tnavbar
+ទំព័រគំរូ:Loop	Modèle:Loop
+ទំព័រគំរូ:Void	Modèle:Void
+ទំព័រគំរូ:Key press	Modèle:Touche
+ទំព័រគំរូ:Okina	Modèle:Okina
+ទំព័រគំរូ:Sc	Modèle:Petites capitales
+ទំព័រគំរូ:Small	Modèle:Petit
+ទំព័រគំរូ:Clear	Modèle:Clr
+ទំព័រគំរូ:Col-break	Modèle:Col-break
+ទំព័រគំរូ:Col-begin	Modèle:Col-début
+ទំព័រគំរូ:Col-end	Modèle:Col-fin
+ទំព័រគំរូ:Trim	Modèle:Trim
+ទំព័រគំរូ:Color	Modèle:Coloré
+ទំព័រគំរូ:Nowrap	Modèle:Nobr
+ទំព័រគំរូ:Bots	Modèle:Bots
+ទំព័រគំរូ:Abbr	Modèle:Abréviation
+វិគីភីឌា:វិគីគម្រោង ទំព័រគំរូ	Projet:Modèle
+ចំណាត់ថ្នាក់ក្រុម:ខ្សែកោង	Catégorie:Courbe
+ទំព័រគំរូ:Babel	Modèle:Boîte Babel
+ទំព័រគំរូ:Commons	Modèle:Commons
+ទំព័រគំរូ:Reflist	Modèle:Références
+ទំព័រគំរូ:NavPeriodicTable	Modèle:Infobox Élément/Mini table périodique
+វិគីភីឌា:Citing sources	Wikipédia:Citez vos sources
+ទំព័រគំរូ:អត្ថបទខ្លីមិនពេញលេញ	Modèle:Ébauche
+ទំព័រគំរូ:User af-1	Modèle:Utilisateur af-1
+ទំព័រគំរូ:User als-1	Modèle:Utilisateur als-1
+ទំព័រគំរូ:User az	Modèle:Utilisateur az
+ទំព័រគំរូ:User bar-1	Modèle:Utilisateur bar-1
+ទំព័រគំរូ:See also	Modèle:Article connexe
+ទំព័រគំរូ:User de	Modèle:Utilisateur de
+ទំព័រគំរូ:User de-1	Modèle:Utilisateur de-1
+ទំព័រគំរូ:User et-1	Modèle:Utilisateur et-1
+ទំព័រគំរូ:User el	Modèle:Utilisateur el
+ទំព័រគំរូ:User es	Modèle:Utilisateur es
+ទំព័រគំរូ:User de-3	Modèle:Utilisateur de-3
+ទំព័រគំរូ:User en-3	Modèle:Utilisateur en-3
+ទំព័រគំរូ:User en-1	Modèle:Utilisateur en-1
+ទំព័រគំរូ:User en-2	Modèle:Utilisateur en-2
+ទំព័រគំរូ:User en-4	Modèle:Utilisateur en-4
+ទំព័រគំរូ:User fi	Modèle:Utilisateur fi
+ទំព័រគំរូ:User en-0	Modèle:Utilisateur en-0
+ទំព័រគំរូ:User es-4	Modèle:Utilisateur es-4
+ទំព័រគំរូ:User en	Modèle:Utilisateur en
+ទំព័រគំរូ:User de-2	Modèle:Utilisateur de-2
+ទំព័រគំរូ:User es-1	Modèle:Utilisateur es-1
+ទំព័រគំរូ:User fa	Modèle:Utilisateur fa
+ទំព័រគំរូ:User fr-1	Modèle:Utilisateur fr-1
+ទំព័រគំរូ:User id-3	Modèle:Utilisateur id-3
+ទំព័រគំរូ:User it-3	Modèle:Utilisateur it-3
+ទំព័រគំរូ:User tr-2	Modèle:Utilisateur tr-2
+ទំព័រគំរូ:User fr-2	Modèle:Utilisateur fr-2
+ទំព័រគំរូ:User tr	Modèle:Utilisateur tr
+ទំព័រគំរូ:User ja	Modèle:Utilisateur ja
+ទំព័រគំរូ:User ja-1	Modèle:Utilisateur ja-1
+ទំព័រគំរូ:User it-1	Modèle:Utilisateur it-1
+ទំព័រគំរូ:User fr	Modèle:Utilisateur fr
+ទំព័រគំរូ:User gsw-1	Modèle:Utilisateur gsw-1
+ចំណាត់ថ្នាក់ក្រុម:Navigational boxes	Catégorie:Palette de navigation
+ទំព័រគំរូ:ទិន្នន័យ នៃប្រទេសតាជីគីស្ថាន	Modèle:Country data Tadjikistan
+ចំណាត់ថ្នាក់ក្រុម:អាស៊ី	Catégorie:Asie
+ចំណាត់ថ្នាក់ក្រុម:User uk-N	Catégorie:Utilisateur uk-M
+ទំព័រគំរូ:Lang-ja	Modèle:Lang-ja
+ទំព័រគំរូ:Football squad player	Modèle:Fs player
+ទំព័រគំរូ:ទិន្នន័យប្រទេស គុយវ៉ែត	Modèle:Country data Koweït
+ទំព័រគំរូ:Mod	Modèle:Mod
+ទំព័រគំរូ:Now Commons	Modèle:Image sur Commons
+ទំព័រគំរូ:User it	Modèle:Utilisateur it
+ទំព័រគំរូ:User uk	Modèle:Utilisateur uk
+ទំព័រគំរូ:User es-2	Modèle:Utilisateur es-2
+ទំព័រគំរូ:ស្វាគមន៍	Modèle:Bienvenue nouveau
+ទំព័រគំរូ:គម្រោងវិគីជាបងប្អូន	Modèle:Projets Wikimedia
+ចំណាត់ថ្នាក់ក្រុម:External link templates	Catégorie:Modèle créant un lien externe
+ទំព័រគំរូ:Month header	Modèle:Palette Mois
+ទំព័រគំរូ:ទិន្នន័យប្រទេស ស្លូវ៉ាគី	Modèle:Country data Slovaquie
+ចំណាត់ថ្នាក់ក្រុម:ទំព័រគំរូសំរាប់កូអរដោនេ	Catégorie:Modèle de coordonnées
+ទំព័រគំរូ:Country flagnavy	Modèle:Marine de guerre/callback
+ទំព័រគំរូ:USA	Modèle:États-Unis
+ទំព័រគំរូ:ទិន្នន័យប្រទេស អេត្យូពី	Modèle:Country data Éthiopie
+ទំព័រគំរូ:ទិន្នន័យប្រទេស ឆេក	Modèle:Country data République tchèque
+ទំព័រគំរូ:ទិន្នន័យ នៃប្រទេសថៃ	Modèle:Country data Thaïlande
+ទំព័រគំរូ:ទិន្នន័យប្រទេស គុយបា	Modèle:Country data Cuba
+ទំព័រគំរូ:ទិន្នន័យប្រទេស អាល់បានី	Modèle:Country data Albanie
+ទំព័រគំរូ:ទិន្នន័យ នៃប្រទេសប៉េរូ	Modèle:Country data Pérou
+ទំព័រគំរូ:ទិន្នន័យ នៃប្រទេសម៉ាកាវ	Modèle:Country data Macao
+ទំព័រគំរូ:ទិន្នន័យ នៃប្រទេសអ៊ូបេគីស្ថាន	Modèle:Country data Ouzbékistan
+ចំណាត់ថ្នាក់ក្រុម:User ms	Catégorie:Utilisateur ms
+ទំព័រគំរូ:Continent-based templates	Modèle:Modèles basés continent
+ទំព័រគំរូ:Months	Modèle:Palette Éphéméride
+ទំព័រគំរូ:ទិន្នន័យ នៃប្រទេសឡាតវី	Modèle:Country data Lettonie
+ទំព័រគំរូ:Football kit	Modèle:Football kit
+ទំព័រគំរូ:ទិន្នន័យ នៃប្រទេសម៉ាល់តា	Modèle:Country data Malte
+ទំព័រគំរូ:ទិន្នន័យ នៃប្រទេសម៉ូណាកូ	Modèle:Country data Monaco
+ទំព័រគំរូ:ទិន្នន័យ នៃប្រទេសដាណឺម៉ាក	Modèle:Country data Danemark
+ទំព័រគំរូ:ទិន្នន័យ នៃប្រទេសប៉ូឡូញ	Modèle:Country data Pologne
+ទំព័រគំរូ:Wikipedia policies and guidelines	Modèle:Palette Règles et recommandations
+ចំណាត់ថ្នាក់ក្រុម:User fr-1	Catégorie:Utilisateur fr-1
+ទំព័រគំរូ:ទិន្នន័យ នៃប្រទេសណ័រវ៉េ	Modèle:Country data Norvège
+ទំព័រគំរូ:ទិន្នន័យប្រទេស ហ្សកហ៊្សី	Modèle:Country data Géorgie
+ទំព័រគំរូ:Wikiquote	Modèle:Wikiquote
+ទំព័រគំរូ:Country showdata	Modèle:Country showdata
+ទំព័រគំរូ:Image label	Modèle:Image label
+ទំព័រគំរូ:ទិន្នន័យប្រទេស ស្រីលង្កា	Modèle:Country data Sri Lanka
+ទំព័រគំរូ:ទិន្នន័យ នៃប្រទេសមិចសិច	Modèle:Country data Mexique
+ទំព័រគំរូ:ទិន្នន័យប្រទេស ក្រិច	Modèle:Country data Grèce
+ទំព័រគំរូ:ទិន្នន័យ នៃប្រទេសអារ៉ាប៊ីសាអូឌីត	Modèle:Country data Arabie saoudite
+ទំព័រគំរូ:Category tree	Modèle:Category tree
+ទំព័រគំរូ:ទិន្នន័យប្រទេស ក្រូអាត	Modèle:Country data Croatie
+ទំព័រគំរូ:ប្រអប់ព័ត៌មាន អ្នកនិពន្ធ	Modèle:Infobox Écrivain
+ទំព័រគំរូ:Ja icon	Modèle:Ja
+ទំព័រគំរូ:ទិន្នន័យ នៃប្រទេសសហភាពអារ៉ាប់អេមីរ៉េត	Modèle:Country data Émirats arabes unis
+ទំព័រគំរូ:Infobox television	Modèle:Infobox Émission de télévision
+ទំព័រគំរូ:Geographic location	Modèle:Localisation ville
+ទំព័រគំរូ:Prose	Modèle:À délister
+ទំព័រគំរូ:Infobox musical artist	Modèle:Infobox Musique (artiste)
+ទំព័រគំរូ:ទិន្នន័យប្រទេស Serbia	Modèle:Country data Serbie
+ទំព័រគំរូ:Collapsible list	Modèle:Collapsible list
+ទំព័រគំរូ:ទិន្នន័យ នៃប្រទេសអូស្រ្តាលី	Modèle:Country data Australie
+ទំព័រគំរូ:ទិន្នន័យ​នៃប្រទេសប៉ាឡេស្ទីន	Modèle:État de Palestine
+ទំព័រគំរូ:Subatomic particle	Modèle:Subatomic particle
+ទំព័រគំរូ:In use	Modèle:En cours
+ទំព័រគំរូ:Es icon	Modèle:Es
+ទំព័រគំរូ:ទិន្នន័យ នៃប្រទេសបារាំង	Modèle:Country data France
+ទំព័រគំរូ:Ambox	Modèle:Méta bandeau d'avertissement
+ទំព័រគំរូ:Update	Modèle:Mettre à jour
+ទំព័រគំរូ:ប្រអប់ព័ត៌មាន មន្ទីរពេទ្យ	Modèle:Infobox Hôpital
+ទំព័រគំរូ:Image requested	Modèle:À illustrer
+ទំព័រគំរូ:ប្រអប់ព័ត៌មាន ភ្លេងជាតិ	Modèle:Infobox Hymne
+ទំព័រគំរូ:Navigation templates	Modèle:Palette Modèles navigationnels
+ទំព័រគំរូ:Very long	Modèle:Trop long
+ទំព័រគំរូ:ទិន្នន័យ​នៃប្រទេសគាហ្គីស្ថាន	Modèle:Kirghizistan
+ទំព័រគំរូ:ប្រអប់ព័ត៌មាន សាលារៀន	Modèle:Infobox École
+ទំព័រគំរូ:Userboxbottom	Modèle:BUfin
+ទំព័រគំរូ:ចំណាត់ថ្នាក់ក្រុមនៃទំព័រគំរូ	Modèle:Aide catégorie de modèles
+ទំព័រគំរូ:ប្រអប់ព័ត៌មាន ប្រទេស	Modèle:Infobox Pays
+ទំព័រគំរូ:Max	Modèle:Max
+ទំព័រគំរូ:Infobox software	Modèle:Infobox Logiciel
+ទំព័រគំរូ:ទិន្នន័យប្រទេស ឡាវ	Modèle:Country data Laos
+ទំព័រគំរូ:Infobox airline	Modèle:Infobox Compagnie aérienne
+ទំព័រគំរូ:Wide image	Modèle:Image panoramique
+ទំព័រគំរូ:ទិន្នន័យ នៃប្រទេសអូទ្រីស	Modèle:Country data Autriche
+ទំព័រគំរូ:ប្រអប់ព័ត៌មាន ជម្លោះយោធា	Modèle:Infobox Conflit militaire
+វិគីភីឌា:សំណួរ	Aide:Poser une question
+ទំព័រគំរូ:Redirect4	Modèle:Str left
+ទំព័រគំរូ:ទិន្នន័យ នៃប្រទេសនេប៉ាល់	Modèle:Country data Népal
+ទំព័រគំរូ:Pagelist	Modèle:MultiParamètres-Lien
+ទំព័រគំរូ:Resolved	Modèle:Fait
+ទំព័រគំរូ:Str sub long	Modèle:Str sub long
+ទំព័រគំរូ:Documentation/docname	Modèle:Documentation/docname
+ទំព័រគំរូ:ទិន្នន័យ នៃប្រទេសហ្វាំងឡង់	Modèle:Country data Finlande
+ទំព័រគំរូ:Selfref	Modèle:Voir aussi Wikipédia
+ទំព័រគំរូ:Flatlist	Modèle:Liste éléments
+ទំព័រគំរូ:ទិន្នន័យ​នៃប្រទេសហ្វីលីពីន	Modèle:Philippines
+ទំព័រគំរូ:ទិន្នន័យ នៃប្រទេសអេស៊ីប	Modèle:Country data Égypte
+ទំព័រគំរូ:ទិន្នន័យ នៃប្រទេសលីថូនី	Modèle:Country data Lituanie
+ទំព័រគំរូ:ប្រអប់ព័ត៌មាន គណបក្សនយោបាយ	Modèle:Infobox Parti politique
+ទំព័រគំរូ:ទិន្នន័យប្រទេស ជប៉ុន	Modèle:Country data Japon
+ទំព័រគំរូ:Expand section	Modèle:Section vide ou incomplète
+ទំព័រគំរូ:ទិន្នន័យ នៃប្រទេសហូឡង់	Modèle:Country data Pays-Bas
+ទំព័រគំរូ:Navbox with columns	Modèle:Méta palette de navigation avec colonnes
+ទំព័រគំរូ:ប្រអប់ព័ត៌មាន ល្បែងវីដេអូ	Modèle:Infobox Jeu vidéo
+ទំព័រគំរូ:S-start	Modèle:S-start
+ទំព័រគំរូ:IsLeapYear	Modèle:ISLEAPYEAR
+ទំព័រគំរូ:Age in years and days	Modèle:Âge en années et jours
+ទំព័រគំរូ:Nom	Modèle:Nom
+ទំព័រគំរូ:Cleanup	Modèle:À recycler
+ទំព័រគំរូ:ប្រអប់ព័ត៌មាន សាកលវិទ្យាល័យ	Modèle:Infobox Université
+ទំព័រគំរូ:Cite journal	Modèle:Article
+ទំព័រគំរូ:ទិន្នន័យប្រទេស អាស៊ែបៃហ្សង់	Modèle:Country data Azerbaïdjan
+ទំព័រគំរូ:ទិន្នន័យ​នៃប្រទេសប្រ៊ុយណេ	Modèle:Brunei
+ទំព័រគំរូ:User browser:Firefox	Modèle:Utilisateur Firefox
+ទំព័រគំរូ:User es-0	Modèle:Utilisateur es-0
+ទំព័រគំរូ:Time ago	Modèle:Time ago
+ទំព័រគំរូ:Familytree	Modèle:Arbre généalogique
+ទំព័រគំរូ:ទិន្នន័យប្រទេស វៀតណាម	Modèle:Country data Viêt Nam
+ទំព័រគំរូ:S-aft	Modèle:S-aft
+ទំព័រគំរូ:Featured article	Modèle:Article de qualité
+ទំព័រគំរូ:ទិន្នន័យ នៃប្រទេសរុស្ស៊ី	Modèle:Country data Russie
+ទំព័រគំរូ:Infobox monarch	Modèle:Infobox Panchen Lama
+ចំណាត់ថ្នាក់ក្រុម:User en-4	Catégorie:Utilisateur en-4
+ចំណាត់ថ្នាក់ក្រុម:User en	Catégorie:Utilisateur en
+ចំណាត់ថ្នាក់ក្រុម:User zh	Catégorie:Utilisateur zh
+ចំណាត់ថ្នាក់ក្រុម:User zh-N	Catégorie:Utilisateur zh-M
+ចំណាត់ថ្នាក់ក្រុម:User en-2	Catégorie:Utilisateur en-2
+ទំព័រគំរូ:Infobox instrument	Modèle:Infobox Musique (instrument)
+ទំព័រគំរូ:TOC right	Modèle:Sommaire à droite
+ទំព័រគំរូ:ប្រអប់ព័ត៌មាន ប្រាសាទ	Modèle:Infobox Temple hindouiste
+ទំព័រគំរូ:RankedMedalTable	Modèle:TableauMédaillesTriable
+ទំព័រគំរូ:User zh	Modèle:Utilisateur zh
+ទំព័រគំរូ:Lang-kk	Modèle:Lang-kk
+ទំព័រគំរូ:Template other	Modèle:Template other
+ទំព័រគំរូ:Legend	Modèle:Légende
+ទំព័រគំរូ:ប្រអប់ព័ត៌មាន បណ្ណាល័យ	Modèle:Infobox Bibliothèque
+ទំព័រគំរូ:Cite web	Modèle:Lien web
+ទំព័រគំរូ:YouTube	Modèle:YouTube
+ទំព័រគំរូ:ទិន្នន័យ នៃប្រទេសអ៊ីតាលី	Modèle:Country data Italie
+ទំព័រគំរូ:Current	Modèle:Événement en cours
+ទំព័រគំរូ:ទិន្នន័យប្រទេស	Modèle:Country data
+ទំព័រគំរូ:Won	Modèle:Lauréat
+ទំព័រគំរូ:Tnavbar-collapsible	Modèle:Tnavbar-collapsible
+ទំព័រគំរូ:Coor URL	Modèle:Coord/URL
+ទំព័រគំរូ:Pp-template	Modèle:Protection
+ទំព័រគំរូ:Min	Modèle:Min
+ទំព័រគំរូ:Wiktionary	Modèle:Wiktionnaire
+ទំព័រគំរូ:Multi-listen start	Modèle:Multi-son début
+ទំព័រគំរូ:ទិន្នន័យ នៃប្រទេសស៊ុយអែត	Modèle:Country data Suède
+ទំព័រគំរូ:Chem	Modèle:Formule chimique
+ទំព័រគំរូ:Language icon	Modèle:Indication de langue
+ទំព័រគំរូ:Lang-sr	Modèle:Lang-sr
+ទំព័រគំរូ:User ru	Modèle:Utilisateur ru
+ទំព័រគំរូ:Admin	Modèle:Admin
+ទំព័រគំរូ:IPA	Modèle:Prononciation API
+ទំព័រគំរូ:អត្ថន័យដទៃទៀត	Modèle:Voir homonymes
+ទំព័រគំរូ:ទិន្នន័យប្រទេស សហភាពសូវៀត	Modèle:Country data Union soviétique
+ទំព័រគំរូ:ទិន្នន័យ នៃប្រទេសឥណ្ឌា	Modèle:Country data Inde
+ទំព័រគំរូ:Language with name	Modèle:Langue avec nom
+ទំព័រគំរូ:Rellink	Modèle:Rellink
+ទំព័រគំរូ:Navbox subgroup	Modèle:Méta palette de navigation sous-groupe
+ទំព័រគំរូ:Birth year and age	Modèle:Date de naissance
+ទំព័រគំរូ:List of African capitals	Modèle:Palette Capitales d'Afrique
+ទំព័រគំរូ:ប្រអប់ព័ត៌មាន ក្រុមជនជាតិ	Modèle:Infobox Groupe ethnique
+ទំព័រគំរូ:Archive box	Modèle:Archives
+ទំព័រគំរូ:MONTHNAME	Modèle:MONTHNAME
+វិគីភីឌា:Text of GNU Free Documentation License	Wikipédia:Licence de documentation libre GNU
+ទំព័រគំរូ:Sisterlinks	Modèle:Autres projets
+ទំព័រគំរូ:ទិន្នន័យប្រទេស អង់ដូរ៉ា	Modèle:Country data Andorre
+ទំព័រគំរូ:ប្រអប់ព័ត៌មាន តំបន់ការពារ	Modèle:Infobox Aire protégée
+ទំព័រគំរូ:Border	Modèle:Bordure
+ទំព័រគំរូ:ទិន្នន័យប្រទេស ព័រទុយហ្គាល់	Modèle:Country data Portugal
+ទំព័រគំរូ:Death date and age	Modèle:Date de décès
+ទំព័រគំរូ:MONTHNUMBER	Modèle:MONTHNUMBER
+ចំណាត់ថ្នាក់ក្រុម:People stubs	Catégorie:Wikipédia:ébauche personne
+ទំព័រគំរូ:Top icon	Modèle:Icône de titre
+ចំណាត់ថ្នាក់ក្រុម:Template:Country data templates	Catégorie:Modèle Country data
+ទំព័រគំរូ:Birth category header	Modèle:Naissance
+ចំណាត់ថ្នាក់ក្រុម:ជ័យលាភីរង្វាន់ណូបែល ផ្នែករូបវិទ្យា	Catégorie:Lauréat du prix Nobel de physique
+ចំណាត់ថ្នាក់ក្រុម:ជ័យលាភីរង្វាន់ណូបែល ផ្នែកគីមីវិទ្យា	Catégorie:Lauréat du prix Nobel de chimie
+ទំព័រគំរូ:Navbox with collapsible groups	Modèle:Méta palette de navigation sous-liste
+ទំព័រគំរូ:GeoGroup	Modèle:GeoGroup
+ទំព័រគំរូ:ទិន្នន័យប្រទេស ចិន	Modèle:Country data Chine
+ទំព័រគំរូ:Wikify	Modèle:À wikifier
+ទំព័រគំរូ:ទិន្នន័យ នៃ ប្រទេស អង់គ្លេស	Modèle:Country data Angleterre
+ទំព័រគំរូ:ទិន្នន័យ នៃប្រទេសអៀរឡង់	Modèle:Country data République d'Irlande
+ទំព័រគំរូ:ទិន្នន័យ នៃប្រទេសទួរគី	Modèle:Country data Turquie
+ទំព័រគំរូ:ទិន្នន័យ នៃប្រទេសស្វីស	Modèle:Country data Suisse
+ទំព័រគំរូ:ទិន្នន័យ នៃប្រទេសហ្វីលីពីន	Modèle:Country data Philippines
+ទំព័រគំរូ:Hidden begin	Modèle:Boîte déroulante/début
+ទំព័រគំរូ:ParmPart	Modèle:ParmPart
+ទំព័រគំរូ:Army	Modèle:Armée de terre
+ទំព័រគំរូ:ទិន្នន័យ នៃប្រទេសម៉ាឡេស៊ី	Modèle:Country data Malaisie
+ទំព័រគំរូ:ទិន្នន័យប្រទេស អាមេនី	Modèle:Country data Arménie
+ទំព័រគំរូ:Infobox OS	Modèle:Infobox Système d'exploitation
+ទំព័រគំរូ:ទិន្នន័យ នៃប្រទេសតៃវ៉ាន់	Modèle:Country data Taïwan
+ទំព័រគំរូ:ទិន្នន័យប្រទេស វៀតណាមខាងត្បូង	Modèle:Country data Viêt Nam du Sud
+ទំព័រគំរូ:ទិន្នន័យ នៃប្រទេសឈីលី	Modèle:Country data Chili
+ទំព័រគំរូ:ទិន្នន័យប្រទេស លីបង់	Modèle:Country data Liban
+ទំព័រគំរូ:ទិន្នន័យប្រទេស ចិនតៃប៉ិ	Modèle:Country data Taïpei chinois
+ទំព័រគំរូ:ប្រអប់ព័ត៌មាន សៀវភៅ	Modèle:Infobox Livre
+ទំព័រគំរូ:Tlc	Modèle:Tlc
+ទំព័រគំរូ:ប្រអប់ព័ត៌មាន ភព	Modèle:Infobox Planète
+ទំព័រគំរូ:Compact periodic table	Modèle:Tableau périodique (navigation)
+ទំព័រគំរូ:Lang-fa	Modèle:Lang-fa
+ទំព័រគំរូ:ICD10	Modèle:ICD10
+ទំព័រគំរូ:ទិន្នន័យ​នៃប្រទេសម៉ាឡេស៊ី	Modèle:Malaisie
+ទំព័រគំរូ:Infobox website	Modèle:Infobox Site web
+ទំព័រគំរូ:Globalize	Modèle:Internationaliser
+ទំព័រគំរូ:Image label end	Modèle:Image label fin
+ទំព័រគំរូ:Documentation subpage	Modèle:Sous-page de documentation
+ទំព័រគំរូ:Uncategorized	Modèle:À catégoriser
+ទំព័រគំរូ:ទិន្នន័យ​នៃប្រទេសឥណ្ឌូនេស៊ី	Modèle:Indonésie
+ទំព័រគំរូ:Talk header for guidelines	Modèle:En-tête de page de discussion
+ទំព័រគំរូ:Quote box	Modèle:Encadré texte
+ទំព័រគំរូ:CcTLD	Modèle:Palette Domaines de premier niveau nationaux d'Internet
+ទំព័រគំរូ:Oldid	Modèle:Permalien
+ទំព័រគំរូ:List of Asian capitals by region	Modèle:Palette Capitales d'Asie
+ទំព័រគំរូ:ប្រអប់ព័ត៌មានទីកន្លែងកេរដំណែលពិភពលោក	Modèle:Infobox Patrimoine mondial
+ទំព័រគំរូ:Str len	Modèle:Str len
+ទំព័រគំរូ:Purge	Modèle:Purger le cache
+ទំព័រគំរូ:Lang-de	Modèle:Lang-de
+ទំព័រគំរូ:Lang-la	Modèle:Lang-la
+ទំព័រគំរូ:'	Modèle:'
+ទំព័រគំរូ:Location map USA	Modèle:Géolocalisation/États-Unis (Mainland)
+ទំព័រគំរូ:Lang-el	Modèle:Lang-el
+ទំព័រគំរូ:Chessgames player	Modèle:Chessgames joueur
+ទំព័រគំរូ:ទិន្នន័យ​នៃប្រទេសអារ៉ាប៊ីសាអូឌីត	Modèle:Arabie saoudite
+ទំព័រគំរូ:User page	Modèle:Page personnelle
+ទំព័រគំរូ:DE	Modèle:Allemagne
+ទំព័រគំរូ:Infobox Christian leader	Modèle:Infobox Prélat catholique
+ទំព័រគំរូ:User	Modèle:U
+ទំព័រគំរូ:Spoken Wikipedia	Modèle:Article audio
+ទំព័រគំរូ:University-stub	Modèle:Ébauche/paramètres université
+ទំព័រគំរូ:វិគីភីឌាភាសា	Modèle:Palette Wikipédia
+ទំព័រគំរូ:Clarify	Modèle:Pas clair
+ទំព័រគំរូ:Refimprove	Modèle:À sourcer
+ទំព័រគំរូ:Lorem ipsum	Modèle:Lorem ipsum
+ទំព័រគំរូ:ស្នើសុំប្ដូរឈ្មោះ	Modèle:Renommer mon compte
+ទំព័រគំរូ:Image label small	Modèle:Image label small
+ទំព័រគំរូ:Featured article candidates	Modèle:Portail potentiellement de qualité
+ទំព័រគំរូ:Nihongo	Modèle:Japonais
+ទំព័រគំរូ:User fr-3	Modèle:Utilisateur fr-3
+ទំព័រគំរូ:Th icon	Modèle:Th
+ទំព័រគំរូ:Notelist	Modèle:Notelist
+ទំព័រគំរូ:S-ttl	Modèle:S-ttl
+ទំព័រគំរូ:Infobox former country	Modèle:Infobox Ancienne entité territoriale
+ទំព័រគំរូ:IPA-en	Modèle:API-en
+ទំព័រគំរូ:JPN	Modèle:Japon
+ទំព័រគំរូ:ASIN	Modèle:ASIN
+ជំនួយ:តារាង	Aide:Tableau
+ទំព័រគំរូ:User wikipedia/Checkuser	Modèle:Utilisateur Wikipédia:Checkuser
+ទំព័រគំរូ:ទិន្នន័យ​នៃប្រទេសប៉ាគីស្ថាន	Modèle:Pakistan
+ទំព័រគំរូ:Age in days nts	Modèle:Age en jours
+ទំព័រគំរូ:S-bef	Modèle:S-bef
+ទំព័រគំរូ:Nations at the 2008 Summer Olympics	Modèle:Palette Délégations aux Jeux olympiques d'été de 2008
+ទំព័រគំរូ:Guideline	Modèle:Recommandation
+ទំព័រគំរូ:JULIANDAY	Modèle:JULIANDAY
+ទំព័រគំរូ:Disagree	Modèle:Contre
+ទំព័រគំរូ:DNB portal	Modèle:DNB
+ទំព័រគំរូ:Talkarchive	Modèle:Archive de discussion
+ទំព័រគំរូ:Lt	Modèle:Lt
+ទំព័រគំរូ:ទិន្នន័យ​នៃប្រទេសអ៊ីរ៉ង់	Modèle:Iran
+ទំព័រគំរូ:ទិន្នន័យ​នៃប្រទេសហ្សកដង់	Modèle:Jordanie
+ទំព័រគំរូ:Bibleverse	Modèle:Bibleverse
+ទំព័រគំរូ:Infobox historical event	Modèle:Infobox Événement historique
+ទំព័រគំរូ:ទិន្នន័យ​នៃប្រទេសហុងកុង	Modèle:Hong Kong
+ទំព័រគំរូ:ទិន្នន័យ​នៃប្រទេសកូរ៉េខាងជើង	Modèle:Corée du Nord
+ទំព័រគំរូ:Infobox continent	Modèle:Infobox Continent
+ទំព័រគំរូ:Date	Modèle:Date
+ទំព័រគំរូ:BHU	Modèle:Bhoutan
+ទំព័រគំរូ:ទិន្នន័យ​នៃប្រទេសសិង្ហបុរី	Modèle:Singapour
+ទំព័រគំរូ:ទិន្នន័យ​នៃប្រទេសឥណ្ឌា	Modèle:Inde
+ទំព័រគំរូ:ទិន្នន័យ​នៃប្រទេសម៉ាកាវ	Modèle:Macao
+ទំព័រគំរូ:សបា្ដហ៍	Modèle:Palette Jours de la semaine
+ទំព័រគំរូ:To do	Modèle:À faire
+ទំព័រគំរូ:CURRENTJULIANDAY	Modèle:CURRENTJULIANDAY
+ចំណាត់ថ្នាក់ក្រុម:User ja-N	Catégorie:Utilisateur ja-M
+ទំព័រគំរូ:PDFlink	Modèle:Pdf
+ទំព័រគំរូ:Ca icon	Modèle:Ca
+ទំព័រគំរូ:ទិន្នន័យ នៃប្រទេសអាល្លឺម៉ងខាងកើត	Modèle:Country data Allemagne de l'Ouest
+ទំព័រគំរូ:Lang-ru	Modèle:Lang-ru
+ទំព័រគំរូ:Infobox saint	Modèle:Infobox Saint
+ទំព័រគំរូ:URL	Modèle:URL
+ទំព័រគំរូ:Hidden end	Modèle:Boîte déroulante/fin
+ទំព័រគំរូ:ណែនាំ	Modèle:Homonymie
+ទំព័រគំរូ:ទិន្នន័យ នៃប្រទេសហុងកុង	Modèle:Country data Hong Kong
+ទំព័រគំរូ:DEFAULTSORT	Modèle:DEFAULTSORT
+ទំព័រគំរូ:Copy to Wiktionary	Modèle:Pour Wiktionnaire
+ទំព័រគំរូ:No	Modèle:Pas fait.
+ចំណាត់ថ្នាក់ក្រុម:ទំព័រគំរូ ប្រអប់ព័ត៌មាន	Catégorie:Modèle infobox
+ចំណាត់ថ្នាក់ក្រុម:Lists of flags	Catégorie:Liste de drapeaux
+ទំព័រគំរូ:Topic	Modèle:Terme défini
+ទំព័រគំរូ:ទិន្នន័យប្រទេស Nazi Germany	Modèle:Country data Allemagne nazie
+ចំណាត់ថ្នាក់ក្រុម:ហិរញ្ញវត្ថុសាធារណៈ	Catégorie:Finances publiques
+ចំណាត់ថ្នាក់ក្រុម:អ្នកថតរូប	Catégorie:Photographie
+ទំព័រគំរូ:Contains Japanese text	Modèle:Unicode japonais
+ទំព័រគំរូ:Para	Modèle:Para
+ចំណាត់ថ្នាក់ក្រុម:យន្តហោះយោធា	Catégorie:Avion militaire
+ទំព័រគំរូ:Death year and age	Modèle:Année de décès et âge
+ទំព័រគំរូ:LAO	Modèle:Laos
+ទំព័រគំរូ:User zh-min-nan	Modèle:Utilisateur zh-min-nan
+ទំព័រគំរូ:User zh-min-nan-1	Modèle:Utilisateur zh-min-nan-1
+ទំព័រគំរូ:GRC	Modèle:Grèce
+ទំព័រគំរូ:PRT	Modèle:Portugal
+ទំព័រគំរូ:ទិន្នន័យ​នៃប្រទេសបង់ក្លាដែស្ស	Modèle:Bangladesh
+ទំព័រគំរូ:States of Austria	Modèle:Palette Länder Autriche
+ទំព័រគំរូ:For	Modèle:Autre
+ទំព័រគំរូ:Ifsubst	Modèle:Ifsubst
+ទំព័រគំរូ:Caution	Modèle:Attention
+ចំណាត់ថ្នាក់ក្រុម:អង្គការមិនរកប្រាក់កំរៃ	Catégorie:Organisme sans but lucratif
+ទំព័រគំរូ:High-risk	Modèle:Inclusion
+ទំព័រគំរូ:Lang-uk	Modèle:Lang-uk
+ទំព័រគំរូ:Contains Chinese text	Modèle:Unicode chinois
+ទំព័រគំរូ:KHM	Modèle:Cambodge
+ទំព័រគំរូ:ប្រអប់ព័ត៌មាន អង្គការ	Modèle:Infobox Organisation
+ទំព័រគំរូ:MNE	Modèle:Monténégro
+ទំព័រគំរូ:Category TOC	Modèle:Boîte des catégories
+ទំព័រគំរូ:Resize	Modèle:Resize
+ទំព័រគំរូ:IPA-fr	Modèle:API-fr
+ទំព័រគំរូ:Lang-nl	Modèle:En néerlandais
+ទំព័រគំរូ:ទិន្នន័យ​នៃប្រទេសមីយ៉ាន់ម៉ា	Modèle:Birmanie
+ទំព័រគំរូ:Lang-id	Modèle:Lang-id
+ទំព័រគំរូ:GSE	Modèle:GEs
+ទំព័រគំរូ:MONTHDAYS	Modèle:MONTHDAYS
+ទំព័រគំរូ:ទិន្នន័យ​នៃប្រទេសកូរ៉េខាងត្បូង	Modèle:Corée du Sud
+ទំព័រគំរូ:EMedicine2	Modèle:EMedicine2
+ទំព័រគំរូ:ទិន្នន័យប្រទេស កាតារ	Modèle:Country data Qatar
+ទំព័រគំរូ:User it-2	Modèle:Utilisateur it-2
+ទំព័រគំរូ:Val	Modèle:Val
+ទំព័រគំរូ:Lang-fr	Modèle:En français
+ទំព័រគំរូ:Superimpose	Modèle:Superpose
+ទំព័រគំរូ:FRA	Modèle:France
+ទំព័រគំរូ:Age	Modèle:Âge
+ទំព័រគំរូ:Wrap	Modèle:Wrap
+ទំព័រគំរូ:Pending	Modèle:En attente
+ទំព័រគំរូ:Infobox person	Modèle:Infobox Biographie
+ទំព័រគំរូ:ទិន្នន័យ នៃប្រទេសអ៊ីស្រាអែល	Modèle:Country data Israël
+ទំព័រគំរូ:Number table sorting	Modèle:Smn
+ទំព័រគំរូ:List of European capitals by region	Modèle:Palette Capitales d'Europe
+ទំព័រគំរូ:ទិន្នន័យប្រទេស កូឡុំប៊ី	Modèle:Country data Colombie
+ទំព័រគំរូ:ទិន្នន័យ នៃប្រទេសប៉ាគីស្ថាន	Modèle:Country data Pakistan
+ទំព័រគំរូ:ទិន្នន័យប្រទេស Ghana	Modèle:Country data Ghana
+ទំព័រគំរូ:ទិន្នន័យប្រទេស កូរ៉េខាងត្បូង	Modèle:Country data Corée du Sud
+ទំព័រគំរូ:Legend-line	Modèle:Ligne de légende
+ចំណាត់ថ្នាក់ក្រុម:ព្រះមហាក្សត្រខ្មែរ	Catégorie:Roi du Cambodge
+ទំព័រគំរូ:Election table	Modèle:TableauÉlection
+ទំព័រគំរូ:World Trade Organization	Modèle:Palette Organisation mondiale du commerce
+ទំព័រគំរូ:Coord	Modèle:Coord
+ទំព័រគំរូ:POV	Modèle:Désaccord de neutralité
+ទំព័រគំរូ:Citation/make link	Modèle:Citation/make link
+ចំណាត់ថ្នាក់ក្រុម:20th-century births	Catégorie:Naissance au XXe siècle
+ទំព័រគំរូ:Dmoz	Modèle:Dmoz
+ចំណាត់ថ្នាក់ក្រុម:ពហុកោណ	Catégorie:Polygone
+ទំព័រគំរូ:Fide	Modèle:Fide
+ទំព័រគំរូ:User lb-1	Modèle:Utilisateur lb-1
+ទំព័រគំរូ:User fr-4	Modèle:Utilisateur fr-4
+ទំព័រគំរូ:អាស៊ីហ្គេម	Modèle:Palette Jeux asiatiques
+ទំព័រគំរូ:User la-1	Modèle:Utilisateur la-1
+ទំព័រគំរូ:ទិន្នន័យប្រទេស បារ៉ែន	Modèle:Country data Bahreïn
+ចំណាត់ថ្នាក់ក្រុម:ឯកសារអំពី ទំព័រគំរូ	Catégorie:Documentation de modèle
+ចំណាត់ថ្នាក់ក្រុម:អត្ថបទខ្លីមិនពេញលេញ អំពីកម្ពុជា	Catégorie:Wikipédia:ébauche Cambodge
+ចំណាត់ថ្នាក់ក្រុម:User pdc	Catégorie:Utilisateur pdc
+ចំណាត់ថ្នាក់ក្រុម:User et	Catégorie:Utilisateur et
+ចំណាត់ថ្នាក់ក្រុម:User fr	Catégorie:Utilisateur fr
+ចំណាត់ថ្នាក់ក្រុម:User id	Catégorie:Utilisateur id
+ចំណាត់ថ្នាក់ក្រុម:User ja	Catégorie:Utilisateur ja
+ចំណាត់ថ្នាក់ក្រុម:User km	Catégorie:Utilisateur km
+ចំណាត់ថ្នាក់ក្រុម:User la	Catégorie:Utilisateur la
+ចំណាត់ថ្នាក់ក្រុម:User li	Catégorie:Utilisateur li
+ចំណាត់ថ្នាក់ក្រុម:User sv	Catégorie:Utilisateur sv
+ចំណាត់ថ្នាក់ក្រុម:User th	Catégorie:Utilisateur th
+ចំណាត់ថ្នាក់ក្រុម:User fr-3	Catégorie:Utilisateur fr-3
+ចំណាត់ថ្នាក់ក្រុម:User it-3	Catégorie:Utilisateur it-3
+ចំណាត់ថ្នាក់ក្រុម:User ja-3	Catégorie:Utilisateur ja-3
+ចំណាត់ថ្នាក់ក្រុម:User tr-3	Catégorie:Utilisateur tr-3
+ចំណាត់ថ្នាក់ក្រុម:User et-1	Catégorie:Utilisateur et-1
+ចំណាត់ថ្នាក់ក្រុម:User li-1	Catégorie:Utilisateur li-1
+ចំណាត់ថ្នាក់ក្រុម:User nl-1	Catégorie:Utilisateur nl-1
+ចំណាត់ថ្នាក់ក្រុម:User tr-1	Catégorie:Utilisateur tr-1
+ចំណាត់ថ្នាក់ក្រុម:User ko-4	Catégorie:Utilisateur ko-4
+ចំណាត់ថ្នាក់ក្រុម:User fr-4	Catégorie:Utilisateur fr-4
+ចំណាត់ថ្នាក់ក្រុម:User it-4	Catégorie:Utilisateur it-4
+ចំណាត់ថ្នាក់ក្រុម:User fr-2	Catégorie:Utilisateur fr-2
+ចំណាត់ថ្នាក់ក្រុម:User it-2	Catégorie:Utilisateur it-2
+ចំណាត់ថ្នាក់ក្រុម:User ja-2	Catégorie:Utilisateur ja-2
+ចំណាត់ថ្នាក់ក្រុម:User la-2	Catégorie:Utilisateur la-2
+ចំណាត់ថ្នាក់ក្រុម:User tr-2	Catégorie:Utilisateur tr-2
+ចំណាត់ថ្នាក់ក្រុម:User fr-N	Catégorie:Utilisateur fr-M
+ចំណាត់ថ្នាក់ក្រុម:User it-N	Catégorie:Utilisateur it-M
+ចំណាត់ថ្នាក់ក្រុម:User nl-N	Catégorie:Utilisateur nl-M
+ចំណាត់ថ្នាក់ក្រុម:User ru-N	Catégorie:Utilisateur ru-M
+ចំណាត់ថ្នាក់ក្រុម:User it-5	Catégorie:Utilisateur it-5
+ចំណាត់ថ្នាក់ក្រុម:កំសាន្ត	Catégorie:Divertissement
+ទំព័រគំរូ:Beta	Modèle:Beta
+ចំណាត់ថ្នាក់ក្រុម:User af	Catégorie:Utilisateur af
+ចំណាត់ថ្នាក់ក្រុម:User af-1	Catégorie:Utilisateur af-1
+ចំណាត់ថ្នាក់ក្រុម:User bar	Catégorie:Utilisateur bar
+ចំណាត់ថ្នាក់ក្រុម:User bar-1	Catégorie:Utilisateur bar-1
+ចំណាត់ថ្នាក់ក្រុម:កោះ	Catégorie:Île
+ចំណាត់ថ្នាក់ក្រុម:User de	Catégorie:Utilisateur de
+ចំណាត់ថ្នាក់ក្រុម:User de-2	Catégorie:Utilisateur de-2
+ចំណាត់ថ្នាក់ក្រុម:User de-3	Catégorie:Utilisateur de-3
+ចំណាត់ថ្នាក់ក្រុម:User de-4	Catégorie:Utilisateur de-4
+ចំណាត់ថ្នាក់ក្រុម:User de-N	Catégorie:Utilisateur de-M
+ចំណាត់ថ្នាក់ក្រុម:User el	Catégorie:Utilisateur el
+ចំណាត់ថ្នាក់ក្រុម:User en-3	Catégorie:Utilisateur en-3
+ចំណាត់ថ្នាក់ក្រុម:User en-N	Catégorie:Utilisateur en-M
+ចំណាត់ថ្នាក់ក្រុម:User es	Catégorie:Utilisateur es
+ចំណាត់ថ្នាក់ក្រុម:User es-1	Catégorie:Utilisateur es-1
+ចំណាត់ថ្នាក់ក្រុម:User es-2	Catégorie:Utilisateur es-2
+ចំណាត់ថ្នាក់ក្រុម:User es-4	Catégorie:Utilisateur es-4
+ចំណាត់ថ្នាក់ក្រុម:User es-N	Catégorie:Utilisateur es-M
+ចំណាត់ថ្នាក់ក្រុម:User fi	Catégorie:Utilisateur fi
+ចំណាត់ថ្នាក់ក្រុម:User fi-N	Catégorie:Utilisateur fi-M
+ចំណាត់ថ្នាក់ក្រុម:User gsw	Catégorie:Utilisateur gsw
+ទំព័រគំរូ:N/a	Modèle:N/A
+ចំណាត់ថ្នាក់ក្រុម:User id-1	Catégorie:Utilisateur id-1
+ចំណាត់ថ្នាក់ក្រុម:User id-2	Catégorie:Utilisateur id-2
+ចំណាត់ថ្នាក់ក្រុម:User id-3	Catégorie:Utilisateur id-3
+ទំព័រគំរូ:Beijing	Modèle:Palette Pékin
+ទំព័រគំរូ:ទិន្នន័យ នៃប្រទេសអាល្លឺម៉ង់	Modèle:Country data Allemagne
+ទំព័រគំរូ:Multiple image	Modèle:Multiple image
+ទំព័រគំរូ:ទិន្នន័យប្រទេស ចក្រភពអង់គ្លេស	Modèle:Country data Royaume-Uni
+ចំណាត់ថ្នាក់ក្រុម:ធរណីមាត្រ	Catégorie:Géométrie
+ទំព័រគំរូ:អង្គការសហប្រជាជាតិ	Modèle:Palette Organisation des Nations unies
+ទំព័រគំរូ:ប្រអប់ព័ត៌មាន រោគ-ជំងឺ	Modèle:Infobox Maladie
+ទំព័រគំរូ:User wikipedia/Administrator	Modèle:Utilisateur Wikipédia:Administrateur
+ទំព័រគំរូ:Weather box	Modèle:Climat
+វិគីភីឌា:អត្ថបទ​ប្រចាំ​ថ្ងៃ	Wikipédia:Lumière sur
+ចំណាត់ថ្នាក់ក្រុម:User it	Catégorie:Utilisateur it
+ចំណាត់ថ្នាក់ក្រុម:User it-1	Catégorie:Utilisateur it-1
+ចំណាត់ថ្នាក់ក្រុម:User ja-1	Catégorie:Utilisateur ja-1
+ចំណាត់ថ្នាក់ក្រុម:User km-1	Catégorie:Utilisateur km-1
+ចំណាត់ថ្នាក់ក្រុម:User km-2	Catégorie:Utilisateur km-2
+ចំណាត់ថ្នាក់ក្រុម:User km-3	Catégorie:Utilisateur km-3
+ចំណាត់ថ្នាក់ក្រុម:User km-N	Catégorie:Utilisateur km-M
+ចំណាត់ថ្នាក់ក្រុម:User ko	Catégorie:Utilisateur ko
+ចំណាត់ថ្នាក់ក្រុម:User ko-1	Catégorie:Utilisateur ko-1
+ចំណាត់ថ្នាក់ក្រុម:User ko-2	Catégorie:Utilisateur ko-2
+ចំណាត់ថ្នាក់ក្រុម:User ko-3	Catégorie:Utilisateur ko-3
+ចំណាត់ថ្នាក់ក្រុម:User ksh	Catégorie:Utilisateur ksh
+ចំណាត់ថ្នាក់ក្រុម:User ksh-N	Catégorie:Utilisateur ksh-M
+ចំណាត់ថ្នាក់ក្រុម:User la-1	Catégorie:Utilisateur la-1
+ចំណាត់ថ្នាក់ក្រុម:User lb	Catégorie:Utilisateur lb
+ចំណាត់ថ្នាក់ក្រុម:User lb-1	Catégorie:Utilisateur lb-1
+ទំព័រគំរូ:Multiple issues	Modèle:Problèmes multiples
+ទំព័រគំរូ:Cite doi	Modèle:Citer doi
+ទំព័រគំរូ:ប្រអប់ព័ត៌មាន រូបិយវត្ថុ	Modèle:Infobox Monnaie
+ទំព័រគំរូ:Sup	Modèle:Exp
+ទំព័រគំរូ:Current U.S. Senators	Modèle:Palette Sénateurs du 113e congrès des États-Unis
+ទំព័រគំរូ:Lang-vi	Modèle:Lang-vi
+ទំព័រគំរូ:Distinguish	Modèle:Confusion
+ទំព័រគំរូ:Infobox programming language	Modèle:Infobox Langage de programmation
+ទំព័រគំរូ:He icon	Modèle:He
+ទំព័រគំរូ:Information	Modèle:Information
+ចំណាត់ថ្នាក់ក្រុម:អត្ថបទវិគីភីឌាដែលត្រូវការការបកប្រែ	Catégorie:Traduction incomplète
+ចំណាត់ថ្នាក់ក្រុម:User ru-1	Catégorie:Utilisateur ru-1
+ទំព័រគំរូ:TOC limit	Modèle:Sommaire
+វិគីភីឌា:បាបេល	Wikipédia:Babel
+ទំព័រគំរូ:Expand list	Modèle:Liste incomplète
+ទំព័រគំរូ:Tdeprecated	Modèle:Modèle obsolète
+ទំព័រគំរូ:Infobox particle	Modèle:Infobox Particule
+ទំព័រគំរូ:UN Security Council	Modèle:Palette Conseil de sécurité des Nations unies
+ចំណាត់ថ្នាក់ក្រុម:User ms-2	Catégorie:Utilisateur ms-2
+ទំព័រគំរូ:Redirect2	Modèle:Redirect2
+ចំណាត់ថ្នាក់ក្រុម:សមុទ្រ	Catégorie:Mer
+ទំព័រគំរូ:ISO standards	Modèle:Palette Normes ISO
+ទំព័រគំរូ:User WikiProject Templates	Modèle:Utilisateur Projet/Modèle
+ទំព័រគំរូ:FishBase genus	Modèle:FishBase genre
+ទំព័រគំរូ:Other people	Modèle:Nom de famille
+ទំព័រគំរូ:User OS:Microsoft Windows	Modèle:Utilisateur Windows
+ទំព័រគំរូ:FishBase family	Modèle:FishBase famille
+ទំព័រគំរូ:IPA-all	Modèle:API-
+ទំព័រគំរូ:Chess diagram 8x10	Modèle:Diagramme d'échecs 8x10
+ទំព័រគំរូ:Lang-ko	Modèle:Lang-ko
+ទំព័រគំរូ:Lang-it	Modèle:Lang-it
+ចំណាត់ថ្នាក់ក្រុម:User nds	Catégorie:Utilisateur nds
+ទំព័រគំរូ:Sect1911	Modèle:1911
+ចំណាត់ថ្នាក់ក្រុម:User nds-1	Catégorie:Utilisateur nds-1
+ទំព័រគំរូ:Coord/dms2dec	Modèle:Coord/dms2dec
+ជំនួយ:Archiving a talk page	Aide:Archivage
+ទំព័រគំរូ:ទិន្នន័យ នៃប្រទេសប្រេស៊ីល	Modèle:Country data Brésil
+វិគីភីឌា:WikiProject Computing	Projet:Informatique
+ចំណាត់ថ្នាក់ក្រុម:អង្គការអន្តរជាតិ	Catégorie:Organisation internationale
+ទំព័រគំរូ:មេកានិចកង់ទិច	Modèle:Palette Mécanique quantique
+ទំព័រគំរូ:Sfn	Modèle:Sfn
+ជំនួយ:សៀវភៅ	Aide:Livres
+ចំណាត់ថ្នាក់ក្រុម:សមីការឌីផេរ៉ង់ស្យែល	Catégorie:Équation différentielle
+ចំណាត់ថ្នាក់ក្រុម:ខេត្តក្រុងខ្មែរ	Catégorie:Province du Cambodge
+ចំណាត់ថ្នាក់ក្រុម:User zh-min-nan	Catégorie:Utilisateur zh-min-nan
+ទំព័រគំរូ:Release date and age	Modèle:Existe depuis
+ចំណាត់ថ្នាក់ក្រុម:User zh-min-nan-3	Catégorie:Utilisateur zh-min-nan-3
+ទំព័រគំរូ:Ms icon	Modèle:Ms
+ចំណាត់ថ្នាក់ក្រុម:ឧទ្ធម្ភាគចក្រ	Catégorie:Hélicoptère
+ឈាន	Dhyāna
+ទំព័រគំរូ:ទិន្នន័យ នៃប្រទេសហុងគ្រី	Modèle:Country data Hongrie
+ទំព័រគំរូ:User zh-0	Modèle:Utilisateur zh-0
+ទំព័រគំរូ:Template reference list	Modèle:Références du modèle
+ចំណាត់ថ្នាក់ក្រុម:ឆ្នាំកំណើត ១៩៥១	Catégorie:Naissance en 1951
+ទំព័រគំរូ:Mdash	Modèle:Mdash
+ទំព័រគំរូ:Zh icon	Modèle:Zh
+ទំព័រគំរូ:Advert	Modèle:Promotionnel
+ទំព័រគំរូ:Infobox government agency	Modèle:Infobox Agence gouvernementale
+វិគីភីឌា:Tools	Aide:Utilitaires
+ទំព័រគំរូ:User ru-2	Modèle:Utilisateur ru-2
+ចំណាត់ថ្នាក់ក្រុម:User ru	Catégorie:Utilisateur ru
+ចំណាត់ថ្នាក់ក្រុម:User ru-2	Catégorie:Utilisateur ru-2
+ចំណាត់ថ្នាក់ក្រុម:User ru-3	Catégorie:Utilisateur ru-3
+ចំណាត់ថ្នាក់ក្រុម:វត្តអារាមព្រះពុទ្ធសាសនា	Catégorie:Temple bouddhiste
+ទំព័រគំរូ:S-reg	Modèle:S-reg
+ចំណាត់ថ្នាក់ក្រុម:User sxu	Catégorie:Utilisateur sxu
+ចំណាត់ថ្នាក់ក្រុម:User sxu-1	Catégorie:Utilisateur sxu-1
+ទំព័រគំរូ:Apollo program	Modèle:Palette Programme Apollo
+ចំណាត់ថ្នាក់ក្រុម:User th-1	Catégorie:Utilisateur th-1
+ចំណាត់ថ្នាក់ក្រុម:User th-N	Catégorie:Utilisateur th-M
+ចំណាត់ថ្នាក់ក្រុម:User tr	Catégorie:Utilisateur tr
+ចំណាត់ថ្នាក់ក្រុម:User tr-0	Catégorie:Utilisateur tr-0
+ចំណាត់ថ្នាក់ក្រុម:User tr-4	Catégorie:Utilisateur tr-4
+ចំណាត់ថ្នាក់ក្រុម:User tr-5	Catégorie:Utilisateur tr-5
+ចំណាត់ថ្នាក់ក្រុម:User tr-N	Catégorie:Utilisateur tr-M
+ចំណាត់ថ្នាក់ក្រុម:User vls	Catégorie:Utilisateur vls
+ចំណាត់ថ្នាក់ក្រុម:User vls-1	Catégorie:Utilisateur vls-1
+ទំព័រគំរូ:En icon	Modèle:En
+ទំព័រគំរូ:Nay	Modèle:Pas fait
+ទំព័រគំរូ:Spaces	Modèle:Spaces
+ទំព័រគំរូ:CURRENTWEEKDAY	Modèle:CURRENTWEEKDAY
+ទំព័រគំរូ:ប្រអប់ភាសា	Modèle:Langue
+ទំព័រគំរូ:FishBase species alt	Modèle:FishBase espèce
+ទំព័រគំរូ:ទិន្នន័យប្រទេស Russian SFSR	Modèle:Country data RSFS de Russie
+ទំព័រគំរូ:In-universe	Modèle:Point de vue interne
+ជំនួយ:Files	Wikipédia:Mise en forme des images
+ទំព័រគំរូ:ទិន្នន័យប្រទេស តួកម៉េនីស្ថាន	Modèle:Country data Turkménistan
+ទំព័រគំរូ:Angkorian sites	Modèle:Palette Angkor
+ទំព័រគំរូ:ប្រធានបទអាស៊ី	Modèle:Méta palette de navigation Asie
+ចំណាត់ថ្នាក់ក្រុម:ធរណីមាត្រត្រីកោណ	Catégorie:Géométrie du triangle
+ទំព័រគំរូ:Begin flag gallery	Modèle:Début galerie drapeau
+ទំព័រគំរូ:CENTURY	Modèle:CENTURY
+ចំណាត់ថ្នាក់ក្រុម:គ្រឹះស្ថានឧត្តមសិក្សាសាធារណៈនៅប្រទេសជប៉ុន	Catégorie:Université nationale du Japon
+ទំព័រគំរូ:CURRENTISOYEAR	Modèle:CURRENTISOYEAR
+ទំព័រគំរូ:Fr icon	Modèle:Fr
+ទំព័រគំរូ:Twitter	Modèle:Twitter
+ទំព័រគំរូ:Ko icon	Modèle:Ko
+ទំព័រគំរូ:Lang-hi	Modèle:Lang-hi
+ទំព័រគំរូ:Chembox header	Modèle:Chembox header
+ទំព័រគំរូ:Coord/dec2dms/dm	Modèle:Coord/dec2dms/dm
+ទំព័រគំរូ:EST	Modèle:Estonie
+ទំព័រគំរូ:Football squad end	Modèle:Fs end
+ទំព័រគំរូ:ទិន្នន័យ​នៃប្រទេសរុស្ស៊ី	Modèle:Russie
+ទំព័រគំរូ:WEEKDAYNAME	Modèle:WEEKDAYNAME
+ទំព័រគំរូ:Five Oceans	Modèle:Palette Océans
+ទំព័រគំរូ:ICD9	Modèle:ICD9
+ទំព័រគំរូ:ប្រវត្តិសាស្ត្របារាំង	Modèle:Palette Histoire de France
+ទំព័រគំរូ:MONTH	Modèle:MONTHISO
+ទំព័រគំរូ:CHL	Modèle:Chili
+ទំព័រគំរូ:ASEAN	Modèle:Palette Association des nations de l'Asie du Sud-Est
+ទំព័រគំរូ:Campaign	Modèle:Campagne
+ទំព័រគំរូ:Category handler/numbered	Modèle:Cat handler/numbered
+ទំព័រគំរូ:WEEKDAYNUMBER	Modèle:WEEKDAYNUMBER
+ទំព័រគំរូ:ទិន្នន័យ​នៃប្រទេសស៊ីរី	Modèle:Syrie
+ទំព័រគំរូ:Toolbar	Modèle:Barre d'outils
+ទំព័រគំរូ:ENG	Modèle:Angleterre
+ទំព័រគំរូ:Ffd	Modèle:Suppression image
+ទំព័រគំរូ:Copy to Wikibooks	Modèle:Pour Wikibooks
+ចំណាត់ថ្នាក់ក្រុម:ប្រទេសជាកោះ	Catégorie:État insulaire
+ទំព័រគំរូ:ប្រអប់ព័ត៌មាន ភាសា/family-color	Projet:Charte graphique/Tableau des langues
+ទំព័រគំរូ:Grey	Modèle:Gris
+ទំព័រគំរូ:User la-2	Modèle:Utilisateur la-2
+ទំព័រគំរូ:User ru-1	Modèle:Utilisateur ru-1
+ចំណាត់ថ្នាក់ក្រុម:អាំងតេក្រាល	Catégorie:Intégrale
+ទំព័រគំរូ:User tr-1	Modèle:Utilisateur tr-1
+ទំព័រគំរូ:User zh-1	Modèle:Utilisateur zh-1
+ទំព័រគំរូ:User zh-2	Modèle:Utilisateur zh-2
+ទំព័រគំរូ:User zh-3	Modèle:Utilisateur zh-3
+ចំណាត់ថ្នាក់ក្រុម:រូបវិទូ	Catégorie:Physicien par nationalité
+ទំព័រគំរូ:User zh-4	Modèle:Utilisateur zh-4
+ចំណាត់ថ្នាក់ក្រុម:គមនាគមន៍នៅប្រទេសជប៉ុន	Catégorie:Transport au Japon
+ចំណាត់ថ្នាក់ក្រុម:ប្រទេសហ្សំប៊ី	Catégorie:Zambie
+ទំព័រគំរូ:ទិន្នន័យប្រទេស យូហ៊្គោស្លាវី	Modèle:Country data Yougoslavie
+ទំព័រគំរូ:Calm talk	Modèle:Appel au calme
+ទំព័រគំរូ:Multi-listen end	Modèle:Multi-son fin
+ចំណាត់ថ្នាក់ក្រុម:ការអប់រំនៅប្រទេសជប៉ុន	Catégorie:Éducation au Japon
+ចំណាត់ថ្នាក់ក្រុម:ការអប់រំនៅកម្ពុជា	Catégorie:Éducation au Cambodge
+ការពិភាក្សារបស់អ្នកប្រើប្រាស់:វ័ណថារិទ្ធ/រូបភាពប្រចាំថ្ងៃ	Wikipédia:Image du jour
+ចំណាត់ថ្នាក់ក្រុម:User ja-0	Catégorie:Utilisateur ja-0
+ចំណាត់ថ្នាក់ក្រុម:User nl	Catégorie:Utilisateur nl
+ចំណាត់ថ្នាក់ក្រុម:User zh-1	Catégorie:Utilisateur zh-1
+ចំណាត់ថ្នាក់ក្រុម:User zh-4	Catégorie:Utilisateur zh-4
+ចំណាត់ថ្នាក់ក្រុម:User zh-3	Catégorie:Utilisateur zh-3
+ចំណាត់ថ្នាក់ក្រុម:User zh-2	Catégorie:Utilisateur zh-2
+ចំណាត់ថ្នាក់ក្រុម:មេកានិច	Catégorie:Mécanique
+ចំណាត់ថ្នាក់ក្រុម:រូបវិទូអាល្លឺម៉ង់	Catégorie:Physicien allemand
+ចំណាត់ថ្នាក់ក្រុម:រូបវិទូអ៊ីតាលី	Catégorie:Physicien italien
+ចំណាត់ថ្នាក់ក្រុម:រូបវិទូបារាំង	Catégorie:Physicien français
+ចំណាត់ថ្នាក់ក្រុម:សេវាសាធារណៈ	Catégorie:Service public
+ចំណាត់ថ្នាក់ក្រុម:អិចស្ប៉ូណង់ស្យែល	Catégorie:Exponentielle
+ទំព័រគំរូ:Tnavbar-header	Modèle:Tnavbar-header
+ចំណាត់ថ្នាក់ក្រុម:ព្រឹត្តិការណ៍កីឡាចំរុះ	Catégorie:Compétition multisports
+ចំណាត់ថ្នាក់ក្រុម:គណិតវិទូអាល្លឺម៉ង់	Catégorie:Mathématicien allemand
+ចំណាត់ថ្នាក់ក្រុម:ខេត្តក្រចេះ	Catégorie:Province de Kratie
+ចំណាត់ថ្នាក់ក្រុម:ខេត្តកណ្តាល	Catégorie:Province de Kandal
+ចំណាត់ថ្នាក់ក្រុម:ខេត្តកំពង់ចាម	Catégorie:Province de Kampong Cham
+ទំព័រគំរូ:ទិន្នន័យប្រទេស វៀតណាមខាងជើង	Modèle:Country data Viêt Nam du Nord
+ចំណាត់ថ្នាក់ក្រុម:ខេត្តកំពង់ស្ពឺ	Catégorie:Province de Kampong Spoe
+ចំណាត់ថ្នាក់ក្រុម:ខេត្តកំពង់ធំ	Catégorie:Province de Kampong Thom
+ចំណាត់ថ្នាក់ក្រុម:ខេត្តតាកែវ	Catégorie:Province de Takeo
+ចំណាត់ថ្នាក់ក្រុម:ខេត្តបន្ទាយមានជ័យ	Catégorie:Province de Banteay Mean Chey
+ចំណាត់ថ្នាក់ក្រុម:ខេត្តមណ្ឌលគិរី	Catégorie:Province de Mondol Kiri
+ចំណាត់ថ្នាក់ក្រុម:ខេត្តរតនៈគិរី	Catégorie:Province de Rotanah Kiri
+ចំណាត់ថ្នាក់ក្រុម:ខេត្តស្ទឹងត្រែង	Catégorie:Province de Stoeng Treng
+ចំណាត់ថ្នាក់ក្រុម:ខេត្តស្វាយរៀង	Catégorie:Province de Svay Rieng
+ចំណាត់ថ្នាក់ក្រុម:ខេត្តកោះកុង	Catégorie:Province de Kaoh Kong
+ចំណាត់ថ្នាក់ក្រុម:ខេត្តពោធិ៍សាត់	Catégorie:Province de Pouthisat
+ចំណាត់ថ្នាក់ក្រុម:ចំនួនគត់រឺឡាទីប	Catégorie:Nombre entier
+ចំណាត់ថ្នាក់ក្រុម:ស៊ីហ្គេម	Catégorie:Jeux d'Asie du Sud-Est
+ចំណាត់ថ្នាក់ក្រុម:ត្រីកោណមាត្រ	Catégorie:Trigonométrie
+ចំណាត់ថ្នាក់ក្រុម:ទ្រឹស្តីបទ	Catégorie:Théorème
+ចំណាត់ថ្នាក់ក្រុម:ទ្រឹស្តីបទគណិតវិទ្យា	Catégorie:Théorème de mathématiques
+ចំណាត់ថ្នាក់ក្រុម:អាកាសយានដ្ឋាន	Catégorie:Aéroport
+ចំណាត់ថ្នាក់ក្រុម:រូបវិទូអាមេរិក	Catégorie:Physicien américain
+ចំណាត់ថ្នាក់ក្រុម:រូបវិទូអង់គ្លេស	Catégorie:Physicien anglais
+ចំណាត់ថ្នាក់ក្រុម:រង្វាន់ណូបែល	Catégorie:Prix Nobel
+ចំណាត់ថ្នាក់ក្រុម:ប្រទេសកម្ពុជា	Catégorie:Cambodge
+ចំណាត់ថ្នាក់ក្រុម:អ្នកនយោបាយប៉ាគីស្ថាន	Catégorie:Personnalité politique pakistanaise
+ទំព័រគំរូ:Lang-hy	Modèle:Lang-hy
+ចំណាត់ថ្នាក់ក្រុម:អ្នកនយោបាយខ្មែរ	Catégorie:Personnalité politique cambodgienne
+ចំណាត់ថ្នាក់ក្រុម:អ្នករុករកជនជាតិបារាំង	Catégorie:Explorateur français
+ចំណាត់ថ្នាក់ក្រុម:ស្រីលង្កា	Catégorie:Sri Lanka
+ចំណាត់ថ្នាក់ក្រុម:ទំព័រគំរូឈ្មោះភាសា	Catégorie:Modèle pour les langues
+ចំណាត់ថ្នាក់ក្រុម:ទំព័រគំរូក្នុងរូបវិទ្យា	Catégorie:Modèle physique
+ទំព័រគំរូ:ISO 639 name	Modèle:Langname
+វិគីភីឌា:ត្រូវការអំណះអំណាង	Aide:Citation nécessaire
+ទំព័រគំរូ:ទិន្នន័យប្រទេស Wales	Modèle:Country data Pays de Galles
+ទំព័រគំរូ:MONTHABBREV	Modèle:MONTHABBREV
+ចំណាត់ថ្នាក់ក្រុម:អុនសេន	Catégorie:Source chaude
+ចំណាត់ថ្នាក់ក្រុម:ពហុធា	Catégorie:Polynôme
+ចំណាត់ថ្នាក់ក្រុម:ភាសាជប៉ុន	Catégorie:Langue japonaise
+ចំណាត់ថ្នាក់ក្រុម:មធ្យម	Catégorie:Moyenne
+ចំណាត់ថ្នាក់ក្រុម:ចតុកោណ	Catégorie:Quadrilatère
+ចំណាត់ថ្នាក់ក្រុម:សំភារៈ​សំណង់	Catégorie:Matériau de construction
+ទំព័រគំរូ:S-off	Modèle:S-off
+ចំណាត់ថ្នាក់ក្រុម:សមីការ	Catégorie:Équation
+ពន្ធលើប្រាក់បៀវត្ស	Taxes sur les traitements et salaires
+ចំណាត់ថ្នាក់ក្រុម:ស្ពាននៅប្រទេសជប៉ុន	Catégorie:Pont au Japon
+ទំព័រគំរូ:Hexadecimal	Modèle:Hexadécimal
+ទំព័រគំរូ:S-end	Modèle:S-end
+ចំណាត់ថ្នាក់ក្រុម:វិភាគគណិតវិទ្យា	Catégorie:Analyse
+ចំណាត់ថ្នាក់ក្រុម:វិសមភាព	Catégorie:Inégalité
+ចំណាត់ថ្នាក់ក្រុម:ឧទ្យានជាតិ	Catégorie:Parc national
+ចំណាត់ថ្នាក់ក្រុម:កោះស៊ូម៉ាត្រា	Catégorie:Sumatra
+ចំណាត់ថ្នាក់ក្រុម:មីក្រូសេដ្ឋកិច្ច	Catégorie:Microéconomie
+ចំណាត់ថ្នាក់ក្រុម:HTML	Catégorie:HTML
+ចំណាត់ថ្នាក់ក្រុម:អាស៊ីហ្គេម	Catégorie:Jeux asiatiques
+ចំណាត់ថ្នាក់ក្រុម:អេឡិចត្រូស្តាទិច	Catégorie:Électrostatique
+ចំណាត់ថ្នាក់ក្រុម:អ៊ីសាក់ ញូតុន	Catégorie:Isaac Newton
+ចំណាត់ថ្នាក់ក្រុម:អាកាសចរណ៍	Catégorie:Transport
+ចំណាត់ថ្នាក់ក្រុម:គណិតវិទ្យាថ្នាក់ដំបូង	Catégorie:Mathématiques élémentaires
+ចំណាត់ថ្នាក់ក្រុម:ខេត្តកំពត	Catégorie:Province de Kampot
+ចំណាត់ថ្នាក់ក្រុម:ខេត្តព្រះវិហារ	Catégorie:Province de Preah Vihear
+ចំណាត់ថ្នាក់ក្រុម:ខេត្តបាត់ដំបង	Catégorie:Province de Battambang
+ចំណាត់ថ្នាក់ក្រុម:ខេត្តឧត្ដរមានជ័យ	Catégorie:Province d'Otdar Mean Cheay
+ចំណាត់ថ្នាក់ក្រុម:ខេត្តព្រៃវែង	Catégorie:Province de Prey Veng
+ចំណាត់ថ្នាក់ក្រុម:ខេត្តសៀមរាប	Catégorie:Province de Siem Reap
+ចំណាត់ថ្នាក់ក្រុម:ទ្រឹស្តីបទលេខ	Catégorie:Théorie des nombres
+ទំព័រគំរូ:ប្រអប់ព័ត៌មាន ភាសា	Modèle:Infobox Langue
+ចំណាត់ថ្នាក់ក្រុម:ភាសាអ៊ីតាលី	Catégorie:Langue italienne
+ចំណាត់ថ្នាក់ក្រុម:ភាសាអេស្ប៉ាញ	Catégorie:Langue espagnole
+ចំណាត់ថ្នាក់ក្រុម:រថក្រោះ	Catégorie:Char d'assaut
+ទំព័រគំរូ:Lists by country	Modèle:Palette Listes de pays
+ចំណាត់ថ្នាក់ក្រុម:កោះរបស់ឥណ្ឌូនេស៊ី	Catégorie:Île d'Indonésie
+ទំព័រគំរូ:WPBannerMeta	Modèle:Wikiprojet
+ទំព័រគំរូ:Cross	Modèle:Croix3
+ខេត្តលង់ហោរ	Province de Vĩnh Long
+ចំណាត់ថ្នាក់ក្រុម:ភ្នំពេញ	Catégorie:Phnom Penh
+ចំណាត់ថ្នាក់ក្រុម:ទំព័រគំរូសំរាប់ទង់ជាតិ	Catégorie:Modèle pays et drapeau
+ចំណាត់ថ្នាក់ក្រុម:ឧទ្យានជាតិនៃព្រះរាជាណាចក្រកម្ពុជា	Catégorie:Parc national du Cambodge
+សាកលវិទ្យាល័យភូមិន្ទនីតិសាស្ត្រនិងវិទ្យាសាស្ត្រសេដ្ឋកិច្ច	Université royale de droit et des sciences économiques
+ទំព័រគំរូ:Split	Modèle:À scinder
+ទំព័រគំរូ:រូបវិទ្យា	Modèle:Palette Branches de la physique
+ចំណាត់ថ្នាក់ក្រុម:ធរណីមាត្រអ៊ីពែបូលីក	Catégorie:Géométrie hyperbolique
+វិគីភីឌា:ឯកសារកម្មទំព័រគំរូ	Aide:Documentation de modèle
+ទំព័រគំរូ:CompactTOC8	Modèle:Compacttoc
+ទំព័រគំរូ:Template sandbox notice	Modèle:Sous-page de bac à sable
+ទំព័រគំរូ:Hydrogen compounds	Modèle:Palette Composés de l'hydrogène
+ទំព័រគំរូ:Image frame	Modèle:Imageframe
+ទំព័រគំរូ:Latin Union	Modèle:Palette Union latine
+ចំណាត់ថ្នាក់ក្រុម:ម៉ាញ៉េតូស្តាទិច	Catégorie:Magnétostatique
+ចំណាត់ថ្នាក់ក្រុម:ក្រលាផ្ទៃ	Catégorie:Aire
+ទំព័រគំរូ:Pp-move	Modèle:Nom protégé
+ចំណាត់ថ្នាក់ក្រុម:លោការីត	Catégorie:Logarithme
+ទំព័រគំរូ:CURRENTMINUTE	Modèle:CURRENTMINUTE
+ទំព័រគំរូ:ទិន្នន័យ​នៃប្រទេសអ៊ូបេគីស្ថាន	Modèle:Ouzbékistan
+ទំព័រគំរូ:ខេត្ត-រាជធានីកម្ពុជា	Modèle:Palette Provinces du Cambodge
+ទំព័រគំរូ:ទិន្នន័យ នៃប្រទេសអេស្ប៉ាញ	Modèle:Country data Espagne
+ទំព័រគំរូ:ទិន្នន័យប្រទេស កាណាដា	Modèle:Country data Canada
+ទំព័រគំរូ:Consensus	Modèle:Consensus
+ទំព័រគំរូ:Conservation status	Modèle:Palette Statut de conservation
+ទំព័រគំរូ:Contradiction-inline	Modèle:Contrad
+ទំព័រគំរូ:Coord/prec dec	Modèle:Coord/prec dec
+ទំព័រគំរូ:Council of Europe	Modèle:Palette Conseil de l'Europe
+ទំព័រគំរូ:Flag	Modèle:Pays
+ទំព័រគំរូ:ទិន្នន័យប្រទេស ម៉ាល់ឌីវ	Modèle:Country data Maldives
+ទំព័រគំរូ:ទិន្នន័យ នៃប្រទេសសិង្ហបុរី	Modèle:Country data Singapour
+ទំព័រគំរូ:ទិន្នន័យប្រទេស យេម៉ែន	Modèle:Country data Yémen
+ទំព័រគំរូ:Lang-pl	Modèle:Lang-pl
+ទំព័រគំរូ:Country flag IOC alias USA	Modèle:DrapeauCIO-USA
+ទំព័រគំរូ:DANFS	Modèle:DANFS
+ទំព័រគំរូ:Diff	Modèle:Diff
+ទំព័រគំរូ:ប្រវត្តិសាស្ត្រវៀតណាម	Modèle:Palette Histoire du Viêt Nam
+ចំណាត់ថ្នាក់ក្រុម:Protection templates	Catégorie:Modèle de protection
+ចំណាត់ថ្នាក់ក្រុម:ភាសាអង់គ្លេស	Catégorie:Langue anglaise
+ទំព័រគំរូ:OCA	Modèle:Palette COA
+ទំព័រគំរូ:G8	Modèle:Palette G8
+ទំព័រគំរូ:Countries and regions of the Caucasus	Modèle:Palette Caucase
+ទំព័រគំរូ:Diatomicelements	Modèle:Palette Éléments diatomiques
+ទំព័រគំរូ:Time Persons of the Year 2001–2025	Modèle:Palette Personnalité de l'année 2001-2025
+ទំព័រគំរូ:BranchesofChemistry	Modèle:Palette Branches de la chimie
+ទំព័រគំរូ:Infobox country Olympics	Modèle:Infobox Nation aux Jeux olympiques
+ទំព័រគំរូ:ប្រអប់យុទ្ធនាការ សង្គ្រាមវៀតណាម	Modèle:Batailles de la guerre du Viêt Nam
+ទំព័រគំរូ:Number of portals	Modèle:Nombre de portails
+ទំព័រគំរូ:User vi-2	Modèle:Utilisateur vi-2
+ទំព័រគំរូ:User vi-1	Modèle:Utilisateur vi-1
+ទំព័រគំរូ:User zh-min-nan-4	Modèle:Utilisateur zh-min-nan-4
+ទំព័រគំរូ:User zh-min-nan-2	Modèle:Utilisateur zh-min-nan-2
+ទំព័រគំរូ:User id-2	Modèle:Utilisateur id-2
+ទំព័រគំរូ:PDB	Modèle:PDB
+ទំព័រគំរូ:OMIM2	Modèle:OMIM2
+ទំព័រគំរូ:Nav book tool	Modèle:Navigation livres
+ទំព័រគំរូ:Lang-th	Modèle:Lang-th
+ទំព័រគំរូ:Lang-sq	Modèle:En albanais
+ទំព័រគំរូ:Lang-pa	Modèle:Lang-pa
+ទំព័រគំរូ:Lang-es	Modèle:Lang-es
+ទំព័រគំរូ:Lang-ca	Modèle:Lang-ca
+ទំព័រគំរូ:Km icon	Modèle:Km
+ទំព័រគំរូ:ISO 3166	Modèle:Palette ISO 3166
+ទំព័រគំរូ:Getalias	Modèle:Getalias
+ទំព័រគំរូ:DiseasesDB2	Modèle:DiseasesDB
+ទំព័រគំរូ:Mammal-stub	Modèle:Ébauche/paramètres mammifère
+ចំណាត់ថ្នាក់ក្រុម:នាមត្រូលជនជាតិជប៉ុន	Catégorie:Patronyme japonais
+ចំណាត់ថ្នាក់ក្រុម:ក្រុមហ៊ុនអាកាសចរណ៍	Catégorie:Avion de ligne
+ចំណាត់ថ្នាក់ក្រុម:ពិជគណិត	Catégorie:Algèbre
+ចំណាត់ថ្នាក់ក្រុម:មុំ	Catégorie:Angle
+ចំណាត់ថ្នាក់ក្រុម:នព្វន្ធ	Catégorie:Arithmétique
+ចំណាត់ថ្នាក់ក្រុម:User ko-0	Catégorie:Utilisateur ko-0
+ចំណាត់ថ្នាក់ក្រុម:ស្ពាននៅកម្ពុជា	Catégorie:Pont au Cambodge
+ចំណាត់ថ្នាក់ក្រុម:ព្រះពុទ្ធសាសនានៅប្រទេសបារាំង	Catégorie:Bouddhisme en France
+ចំណាត់ថ្នាក់ក្រុម:អត្ថបទខ្លីមិនពេញលេញ អំពីព្រះពុទ្ធសាសនា	Catégorie:Wikipédia:ébauche bouddhisme
+ទំព័រគំរូ:Multicol	Modèle:Multicol
+សិទ្ធិកុមារ	Droits de l'enfant
+ចំណាត់ថ្នាក់ក្រុម:អាស៊ីខាងកើត	Catégorie:Asie orientale
+ទំព័រគំរូ:Chess diagram 6x6	Modèle:Diagramme d'échecs 6x6
+ចំណាត់ថ្នាក់ក្រុម:អេឡិចត្រូម៉ាញ៉េទិច	Catégorie:Électromagnétisme
+ទំព័រគំរូ:Lang-sa	Modèle:Lang-sa
+ទំព័រគំរូ:Lang-sv	Modèle:Lang-sv
+វិគីភីឌា:វិគីគម្រោងប្រវត្តិសាស្ត្រ	Projet:Histoire
+វិគីភីឌា:WikiProject Education	Projet:Éducation
+វិគីភីឌា:វិគីគម្រោង សាកលវិទ្យាល័យ	Projet:Université
+ទំព័រគំរូ:Precision/tz	Modèle:Precision/tz
+ទំព័រគំរូ:Precision/tz/1	Modèle:Precision/tz/1
+ចំណាត់ថ្នាក់ក្រុម:ខេត្តកំពង់ឆ្នាំង	Catégorie:Province de Kampong Chhnang
+ចំណាត់ថ្នាក់ក្រុម:បណ្ណាល័យ	Catégorie:Bibliothèque
+ចំណាត់ថ្នាក់ក្រុម:មេរថក្រោះសមរភូមិ	Catégorie:Char de combat principal
+ជំនួយ:Books/Frequently Asked Questions	Aide:Livres/FAQ
+ជំនួយ:Books/for experts	Aide:Livres/Aide avancée
+ជំនួយ:អសង្ស័យកម្ម	Aide:Homonymie
+ជំនួយ:មាតិកា/សេចក្តីផ្តើម	Aide:Sommaire/Débuter
+ជំនួយ:ជំនួយពហុភាសា (ព្រាហ្ម)	Aide:Unicode (Indic)
+ចំណាត់ថ្នាក់ក្រុម:យន្តហោះយោធាគ្រូបណ្តុះបណ្តាល	Catégorie:Avion d'entraînement militaire
+ទំព័រគំរូ:Tech-stub	Modèle:Ébauche/paramètres technique
+ទំព័រគំរូ:ទិន្នន័យ​នៃប្រទេសម៉ុងហ្គោល	Modèle:Mongolie
+ចំណាត់ថ្នាក់ក្រុម:ទំព័រគំរូTOC	Catégorie:Modèle de sommaire
+ទំព័រគំរូ:Image label begin	Modèle:Image label début
+ចំណាត់ថ្នាក់ក្រុម:រង្វង់និងស៊្វែរ	Catégorie:Cercle et sphère
+ទំព័រគំរូ:Bg icon	Modèle:Bg
+ចំណាត់ថ្នាក់ក្រុម:កងកម្លាំងអាកាស	Catégorie:Armée de l'air
+ចំណាត់ថ្នាក់ក្រុម:សាកលវិទ្យាល័យនៅប្រទេសជប៉ុន	Catégorie:Université japonaise
+វិគីភីឌា:សារ ទំព័រគំរូ/បោសសំអាត	Aide:Liste de modèles de maintenance
+ចំណាត់ថ្នាក់ក្រុម:User es-0	Catégorie:Utilisateur es-0
+ចំណាត់ថ្នាក់ក្រុម:User km-0	Catégorie:Utilisateur km-0
+ចំណាត់ថ្នាក់ក្រុម:វប្បធម៌ខ្មែរ	Catégorie:Culture cambodgienne
+ទំព័រគំរូ:Geodis	Modèle:Toponymie
+ចំណាត់ថ្នាក់ក្រុម:User en-1	Catégorie:Utilisateur en-1
+ចំណាត់ថ្នាក់ក្រុម:User de-1	Catégorie:Utilisateur de-1
+ចំណាត់ថ្នាក់ក្រុម:Wikipedia protected templates	Catégorie:Modèle protégé
+ទំព័រគំរូ:Nowrap begin	Modèle:Nowrap begin
+ទំព័រគំរូ:Pre	Modèle:Pre
+ទំព័រគំរូ:Split section	Modèle:Section à scinder
+ទំព័រគំរូ:Chaturanga diagram	Modèle:Chaturanga
+ទំព័រគំរូ:ែដលកំពុងរឺកចំេរីន	Modèle:En travaux
+ទំព័រគំរូ:Not English	Modèle:Traduction incomplète
+ទំព័រគំរូ:សង្គ្រាមត្រជាក់	Modèle:Palette Guerre froide
+វិគីភីឌា:WikiProject Council/Guide	Aide:Démarrer un nouveau projet
+ទំព័រគំរូ:Very large	Modèle:Catégorie surpeuplée
+ទំព័រគំរូ:Organisation of Islamic Cooperation	Modèle:Palette Organisation de la coopération islamique
+ចំណាត់ថ្នាក់ក្រុម:កោះជ្វា	Catégorie:Île de Java
+ទំព័រគំរូ:Frac	Modèle:Fraction
+ទំព័រគំរូ:Ntsh	Modèle:Ntsh
+ជំនួយ:របារឧបករណ៍កែប្រែ	Aide:Barre d'outils d'édition
+វិគីភីឌា:គម្រោងវិគីជាបងប្អូន	Wikipédia:Projets frères
+សាកលវិទ្យាល័យ​ត្រាវិញ	Université de Tra Vinh
+ទំព័រគំរូ:Start date	Modèle:Date début
+ទំព័រគំរូ:International organizations	Modèle:Palette Organisation internationale
+ទំព័រគំរូ:SMS	Modèle:SMS
+ទំព័រគំរូ:User zh-min-nan-3	Modèle:Utilisateur zh-min-nan-3
+ទំព័រគំរូ:ការបោះឆ្នោតនៅកម្ពុជា	Modèle:Palette Élections au Cambodge
+ទំព័រគំរូ:Nonfree	Modèle:Nonfree
+ទំព័រគំរូ:FPO number	Modèle:Nombre de portails de qualité
+ទំព័រគំរូ:Begin flag row	Modèle:Début ligne drapeau
+ទំព័រគំរូ:Isfdb name	Modèle:Isfdb nom
+ទំព័រគំរូ:ប្រវត្តិសាស្ត្រភូមា	Modèle:Palette Histoire de la Birmanie
+ទំព័រគំរូ:YEARCC	Modèle:YEARCC
+ទំព័រគំរូ:Football kit box	Modèle:Maillot football onglet
+ទំព័រគំរូ:Infobox Cambodian Province	Modèle:Infobox Province du Cambodge
+ទំព័រគំរូ:End flag row	Modèle:Fin ligne drapeau
+ទំព័រគំរូ:End flag gallery	Modèle:Fin galerie drapeau
+ទំព័រគំរូ:ISOYEAR	Modèle:ISOYEAR
+ទំព័រគំរូ:ប្រវត្តិសាស្ត្រលាវ	Modèle:Palette Histoire du Laos
+ទំព័រគំរូ:YEARYY	Modèle:YEARYY
+ទំព័រគំរូ:List navbox	Modèle:Palette Liste
+ទំព័រគំរូ:ប្រវត្តិសាស្ត្រខ្មែរ	Modèle:Palette Histoire du Cambodge
+ទំព័រគំរូ:La Francophonie	Modèle:Palette Francophonie
+ទំព័រគំរូ:WikiProject Footer	Modèle:Pied de projet
+ទំព័រគំរូ:ចក្រភពនាយសមុទ្ររបស់បារាំង	Modèle:Palette Empire colonial français
+វិគីភីឌា:Kindness Campaign	Wikipédia:WikiLovers, Histoire et Stratégies
+ទំព័រគំរូ:Specialpageslist	Modèle:Palette Pages spéciales
+ទំព័រគំរូ:Month3	Modèle:MoisCalendrier
+ទំព័រគំរូ:Infobox file format	Modèle:Infobox Format de données
+ទំព័រគំរូ:អត្ថបទខ្លី អំពីកម្ពុជា	Modèle:Ébauche/paramètres Cambodge
+វិគីភីឌា:Version 1.0 Editorial Team	Projet:Wikipédia 1.0
+ទំព័រគំរូ:សមាជិកសហភាពអឺរ៉ុប	Modèle:UE-EU-ISO 3166-1 530px
+វិគីភីឌា:Birthday Committee	Wikipédia:Wikipédiens par date d'anniversaire
+ទំព័រគំរូ:EC number	Modèle:N° EC
+វិគីភីឌា:WikiProject Buddhism	Projet:Bouddhisme
+ទំព័រគំរូ:Thank	Modèle:Merci
+ទំព័រគំរូ:នយោបាយកម្ពុជា	Modèle:PolitiqueCambodge
+ទំព័រគំរូ:User id-1	Modèle:Utilisateur id-1
+ទំព័រគំរូ:វីគីភីឌា-សៀវភៅ	Modèle:Livre Wikipédia
+ការប្រាស្រ័យទាក់ទងអន្តរបុគ្គល	Relation interpersonnelle
+ទំព័រគំរូ:UN document	Modèle:UN document
+ទំព័រគំរូ:Unresolved	Modèle:Non résolu
+ទំព័រគំរូ:S-hou	Modèle:S-hou
+ទំព័រគំរូ:Marvelwiki	Modèle:Marvelwiki
+ទំព័រគំរូ:The Sun	Modèle:Palette Soleil
+ទំព័រគំរូ:Infobox Chinese	Modèle:Infobox Sinogramme
+វិគីភីឌា:សារ ទំព័រគំរូ/ប្រភពនៃអត្ថបទ	Aide:Liste de modèles de sources
+ទំព័រគំរូ:Efn	Modèle:Efn
+វិទ្យាស្ថានបច្ចេកវិទ្យាកម្ពុជា	Institut de technologie du Cambodge
+ទំព័រគំរូ:S-ppo	Modèle:S-ppo
+វិគីភីឌា:Babel/km-0	Wikipédia:Babel/fr-0
+ចំណាត់ថ្នាក់ក្រុម:យន្តហោះប្រដេញ	Catégorie:Avion de chasse
+ទំព័រគំរូ:Sun	Modèle:Infobox Soleil
+ទំព័រគំរូ:BirthDeathAge	Modèle:Naissance décès âge
+ទំព័រគំរូ:Indian Rupee	Modèle:Roupie indienne
+ទំព័រគំរូ:Discreet abbreviation	Modèle:Abréviation discrète
+ទំព័រគំរូ:Multi-listen item	Modèle:Multi-son item
+ទំព័រគំរូ:តំណភ្ជាប់ខាងក្រៅ	Modèle:Trop de liens
+ទំព័រគំរូ:Testcases side by side	Modèle:Test côte à côte
+រូបភាពដែលបាត់បង់	L'Image manquante
+ទំព័រគំរូ:ប្រអប់ព័ត៌មាន វត្តអារាមព្រះពុទ្ធសាសនា	Modèle:Infobox Temple bouddhiste
+ទំព័រគំរូ:Howto	Modèle:Guide pratique
+ទំព័រគំរូ:Cleanup-reorganize	Modèle:Plan
+ជំនួយ:ការប្តូរទីតាំងទំព័រ	Aide:Redirection
+ទំព័រគំរូ:Markup	Modèle:Markup
+ទំព័រគំរូ:WEEKDAY	Modèle:WEEKDAY
+ទំព័រគំរូ:Style/IPA	Modèle:Style/IPA
+ទំព័រគំរូ:Style/yid	Modèle:Style/yid
+ទំព័រគំរូ:Infobox comics location	Modèle:Infobox Lieu de fiction (bande dessinée)
+ទំព័រគំរូ:Unichar	Modèle:Unichar
+ទំព័រគំរូ:Subatomic particle/list	Modèle:Subatomic particle/list
+ទំព័រគំរូ:User oops	Modèle:Utilisateur faillible
+ទំព័រគំរូ:Football kit/pattern list	Modèle:Football kit/pattern list
+ទំព័រគំរូ:ទិន្នន័យប្រទេស អូម៉ង់	Modèle:Country data Oman
+ទំព័រគំរូ:ទិន្នន័យប្រទេស កាមេរូន	Modèle:Country data Cameroun
+អាកាសចរណ៍ឡាវ ជើងហោះហើរ លេខ៣០១	Vol 301 Lao Airlines
+សន្ធិសញ្ញាសន្តិភាពទីក្រុងប៉ារីស ឆ្នាំ១៩៩១	Accords de Paris sur le Cambodge de 1991
+ព្យុះហៃយ៉ាន	Typhon Haiyan
+ពិសេស:បំលាស់ប្ដូរថ្មីៗ	Spécial:Modifications récentes
+Module:Citation/CS1	Module:Biblio
+មន្ទារ	Magnolia liliifera
+ខេត្តត្បូងឃ្មុំ	Province de Tbong Khmum
+Module:Coordinates	Module:Coordinates
+វិគីភីឌា:សារ ទំព័រគំរូ/លំហឈ្មោះ អ្នកប្រើប្រាស់	Aide:Modèles pour l'Espace Utilisateur
+ទ្រឹស្តីបទការ៉េបី	Théorème des trois carrés
+Call of Duty: Advanced Warfare	Call of Duty: Advanced Warfare
+បញ្ជីនៃទង់ជាតិអង្គភាពរដ្ឋបាលរាជវង្សង្វៀនរបស់	Drapeaux des unités administratives de la dynastie Nguyen

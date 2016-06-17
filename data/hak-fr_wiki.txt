@@ -1,0 +1,3307 @@
+非洲	Afrique
+日本	Japon
+南美洲	Amérique du Sud
+Nò-vî	Norvège
+Sû-kak-làn	Écosse
+Vî-ngì-sṳ̂	Pays de Galles
+Pet Oi-ngì-làn	Irlande du Nord
+Hiûng-ngà-li	Hongrie
+Sî-pân-ngà	Espagne
+Mî-koet	États-Unis
+Pí-li-sṳ̀	Belgique
+Lù-sêm-pó	Luxembourg (pays)
+Yî-chhiu	Univers
+Thi-khiù	Terre
+Sâng-miang	Vie
+Ngìn-lui	Homo sapiens
+George Washington	George Washington
+Fûn-làn	Finlande
+Shuì-tién	Suède
+Tan-ma̍k	Danemark
+Pô-làn	Pologne
+Li̍p-thâu-vón	Lituanie
+Yi-thai-li	Italie
+Shuì-sṳ	Suisse
+O-thi-li	Autriche
+Hî-lia̍p	Grèce
+Thú-ngí-khì	Turquie
+Phù-thò-ngà	Portugal
+歐洲	Europe
+亞洲	Asie
+北美洲	Amérique du Nord
+南極洲	Antarctique
+Vì-kî Pak-khô	Wikipédia
+Hò-làn	Pays-Bas
+Néu-yok-sṳ	New York
+Fà-sṳ̀n-tun Kô-lùn-pí-â Thi̍t-khî	Washington (district de Columbia)
+Khiu-kîm-sân	San Francisco
+Pak-lìm	Berlin
+Lo̍k-chhám-kî	Los Angeles
+Thien-nó	Ordinateur
+Mióng-chi-mióng-lu	Internet
+Barack Obama	Barack Obama
+Vû-lâ-kûi	Uruguay
+Lùn-tûn	Londres
+Phìn-kó	Pomme
+Pâ-lì-sṳ	Paris
+Â-pak-lâ-hón Lìm-khén	Abraham Lincoln
+Google	Google
+Me̍t-sî-kô	Mexique
+Thai-sî-yòng	Océan Atlantique
+Thai-phìn-yòng	Océan Pacifique
+Kâ-li-fuk-nì-â	Californie
+Pô-sṳ-tun	Boston
+Fó-sên	Mars (planète)
+Âi-set-ngò-pí-â	Éthiopie
+Sṳ̂-é	Lion
+Fap-koet	France
+Sṳ-kie-ngî	Espéranto
+Kiéu-è	Chien
+Yîn-koet	Royaume-Uni
+Meu-é	Chat
+中華人民共和國	Chine
+Fap-ngî	Français
+Ǹg-è	Poisson
+Pâ-sî	Brésil
+François Hollande	François Hollande
+Ngò-lò-sṳ̂	Russie
+Kîn-ǹg	Cetacea
+Chang-fông-hìn	Carré
+Mong-kó	Mangue
+Tô-lùn-tô	Toronto
+Â-lâ-pâ-mâ	Alabama
+Québec-sén	Québec
+Boeing 747	Boeing 747
+Jimmy Wales	Jimmy Wales
+Tet-koet	Allemagne
+Pha̍k-ngò-lò-sṳ̂	Biélorussie
+Tet-ngî	Allemand
+Pên-tó	Islande
+Song-ti	Dieu
+Oi-sâ-nì-â	Estonie
+David Cameron	David Cameron
+Thú-sên	Saturne (planète)
+Ku-thin-yi̍t Fî-kî	Avion
+1	1 (nombre)
+2	2 (nombre)
+3	3 (nombre)
+4	4 (nombre)
+5	5 (nombre)
+George W. Bush	George W. Bush
+Lâ-thot-vì-â	Lettonie
+Vû-khiet-làn	Ukraine
+Tshia̍p-khiet	République tchèque
+Sṳ̂-lo̍k-vì-nì-â	Slovénie
+Lò-mâ-nì-â	Roumanie
+Pó-kâ-li-â	Bulgarie
+Lò-mâ	Rome
+Mâ-khì-tun	Macédoine (pays)
+Â-ngì-pâ-nì-â	Albanie
+Khiet-lò-âi-sî-â	Croatie
+Pô-sṳ-nì-â lâu Het-set-kô-vì-ná	Bosnie-Herzégovine
+Â-set-pai-kiông	Azerbaïdjan
+Set-phû-lu-sṳ̂	Chypre (pays)
+Kak-lû-kit-â	Géorgie (pays)
+Hâ-sat-khiet-sṳ̂-thán	Kazakhstan
+Mí-li-thai	Malte
+Mô-na̍p-kô	Monaco
+Mùng-thi̍t-nui-kô-lò	Monténégro
+Sṳn Mâ-li-nok	Saint-Marin
+Kú-pâ	Cuba
+Eiffel Thiet-thap	Tour Eiffel
+Yin-thu-nì-sî-â	Indonésie
+Wolfgang Amadeus Mozart	Wolfgang Amadeus Mozart
+Pi-tô-fûn	Ludwig van Beethoven
+Thú-ngí-khì-ngî	Turc
+Nàm-fî	Afrique du Sud
+Vû-tsṳ̂-phe̍t-khiet-sṳ̂-thán	Ouzbékistan
+Pô-tsṳ-nàm	Poznań
+Fà-sâ	Varsovie
+Súi	Eau
+Thien-sṳ	Télévision
+Chṳ-li	Chili
+Yâ-sû	Jésus-Christ
+Súi-sên	Mercure (planète)
+Li̍t-sṳ́	Histoire
+Phìn-kó Kûng-sṳ̂	Apple
+Kîm-sên	Vénus (planète)
+Ngî-ngièn	Langage
+Muk-sên	Jupiter (planète)
+Thiên-vòng-sên	Uranus (planète)
+Pu-lie̍t-thap-nì	Bretagne
+Hói-vòng-sên	Neptune (planète)
+Thiên-vùn-ho̍k	Astronomie
+Sîn-kâ-po	Singapour
+Khô-ho̍k	Science
+Montréal	Montréal
+Lie̍t-kî-tûn-sṳ-tên	Liechtenstein
+Kiam-khiâu	Cambridge
+Thi-ngi-chhṳ Sṳ-kie Thai-chan	Seconde Guerre mondiale
+Cologne	Cologne
+Kak-tên-nì-â	Gdynia
+Sṳ̍p-chhiet-chhiâng	Szczecin
+Sṳ-ho̍k	Mathématiques
+Lâ-tên-ngî	Latin
+Pâ-lìm	Bahreïn
+Â-mî-nì-â	Arménie
+Set-ngì-vì-â	Serbie
+Ngie̍t-khiù	Lune
+Àu-thai-li-â	Australie
+Vu̍t-lî-ho̍k	Physique
+Â-kîn-thìn	Argentine
+Pi-lû	Pérou
+Sâng-vu̍t-ho̍k	Biologie
+Tsêu-siên Mìn-tsú Tsú-ngi Ngìn-mìn Khiung-fò-koet	Corée du Nord
+Kán-pu-chhài	Cambodge
+Khiúng-liùng	Dinosaure
+Yî-sṳ̂-làn-kau	Islam
+Lech Wałęsa	Lech Wałęsa
+Lin-é	Roue
+Lyon	Lyon
+Êu-chû Lièn-mèn	Union européenne
+Rhône-Alpes	Rhône-Alpes
+Chhiòn-khiù Chṳ̂-sín Mióng	World Wide Web
+Ńg-ngìn	Femme
+Khiûng-tsiâu	Banane
+Fâ	Fleur
+Mâ-lî-â-na̍p-hói	Fosse des Mariannes
+Chû-mu̍k-lòng-mâ-fûng	Everest
+Sàng-sṳ	Ville
+Nâ-pho-lùn yit-sṳ	Napoléon Ier
+Ngit-tèu	Soleil
+Pâ-sṳ-tet	Louis Pasteur
+大洋洲	Océanie
+Thai-yòng Hì	Système solaire
+Pô-lò-tit-hói	Mer Baltique
+Ngâ-chhṳ	Dent
+Khîn	Hydrogène
+Hoi (氦)	Hélium
+Angela Merkel	Angela Merkel
+Lî	Lithium
+Phì	Béryllium
+Si	Livre (document)
+Ngit	Jour
+Ngièn	Année (calendrier)
+Sṳ-ki	Siècle
+Lò-tsṳ (Pô-làn)	Łódź
+Khà-thok-vì-chṳ	Katowice
+Ngie̍t-sû-fû	Rzeszów
+Phìn	Bore
+Thàn	Carbone
+Tham	Azote
+Yòng	Oxygène
+Hàng-sên	Planète
+Yîm-ngo̍k	Musique
+Rennes	Rennes
+Mo̍k-sṳ̂-khô	Moscou
+Fuk	Fluor
+Yi-thai-li-ngî	Italien
+Nái	Néon
+Sṳn Pí-tet-páu	Saint-Pétersbourg
+Na̍p	Sodium
+北	Nord
+Mî	Magnésium
+Lî (鋁)	Aluminium
+Néu Sî-làn	Nouvelle-Zélande
+南	Sud
+Yin-thu	Inde
+Si̍t	Silicium
+Fap	Francium
+Lìn	Phosphore
+Thiet	Fer
+Tûng-kâ	Tonga
+西	Ouest
+Liù-vòng	Soufre
+東	Est
+Liu̍k	Chlore
+Pâ-pu-â Néu-kí-nui-â	Papouasie-Nouvelle-Guinée
+Vî-lièn Sâ-sṳ-pí-â	William Shakespeare
+Â (氬)	Argon
+Kap	Potassium
+Koi	Calcium
+Yèn	Plomb
+Mùng-kú-koet	Mongolie
+Khong (鈧)	Scandium
+Thai	Titane
+Genghis Khan	Gengis Khan
+Fàm	Vanadium
+Mien-yîn	Maine (État)
+Kok	Chrome
+Mâ	Cheval
+Thûng-vu̍t	Animal
+Sû-li-nàm	Suriname
+Màng	Manganèse
+Pâ-lâ-kûi	Paraguay
+Koi-â-nâ	Guyana
+Ngi-su̍t	Art
+Lòi	Rhénium
+Kô-lùn-pí-â	Colombie
+Kû	Cobalt
+Vû	Tungstène
+Ngiap (鎳)	Nickel
+Fu̍t-kau	Bouddhisme
+Pô-li-vì-â	Bolivie
+Tshṳ̀-nì-tha̍t lâu Tô-pâ-kô	Trinité-et-Tobago
+Chhṳ̍t-vu̍t	Plante
+Sîn	Zinc
+Néu Hàn-pu-ha	New Hampshire
+Pí-â-vùi-sṳ̂-thok-khiet	Białystok
+Ngà-mâi-kâ	Jamaïque
+Mà-sat-chû-set	Massachusetts
+Drenthe-sén	Drenthe
+Overijssel-sén	Overijssel
+Kûa-thi-mâ-là	Guatemala
+Gelderland-sén	Gueldre (province)
+Pâ-hâ-mâ	Bahamas
+Không-nái-tí-khiet-chû	Connecticut
+Kiê-é	Gallus gallus domesticus
+Ha-vî-yî	Hawaï
+Fùng-tû-lâ-sṳ̂	Honduras
+Tô-mí-nì-kâ	Dominique (pays)
+Tô-mí-nì-kâ Khiung-fò-koet	République dominicaine
+Kâ-chû (Thung-vu̍t)	Porc
+Hói-thi	Haïti
+Sat-ngì-ngá-tô	Salvador
+Yî-lóng	Iran
+Yî-là-khiet	Irak
+Â-lâ-sṳ̂-kâ	Alaska
+Kô-sṳ̂-tha̍t Lì-kâ	Costa Rica
+Yî-set-lie̍t	Israël
+Pâ-nâ-mâ	Panama
+Ya̍p-mùn	Yémen
+Phiang-thu̍k	Virus
+Pô-làn-ngî	Polonais
+Yok-tan	Jordanie
+Nì-kâ-lâ-kûa	Nicaragua
+Fu-lò-lî-tha̍t	Floride
+Kit-ngí-kit-sṳ̂-thán	Kirghizistan
+Â-li-sông-ná	Arizona
+Khô-vî-thi̍t	Koweït
+Liàu-koet	Laos
+Lì-pâ-nun	Liban
+O-le̍t-kông	Oregon
+Gi-tuk-gaau zung geh sin	Dieu (christianisme)
+Mâ-ngì-thoi-fû	Maldives
+Yù-thâ	Utah
+Mâ-lòi-sî-â	Malaisie
+Mién-thien	Birmanie
+Nì-pok	Népal
+Â-man	Oman
+Pâ-kî-sṳ̂-thán	Pakistan
+Khà-tha̍t	Qatar
+Mióng-khiù	Tennis
+Sâ-vû-thi Â-lâ-pak	Arabie saoudite
+Sṳ̂-lî-làn-khà	Sri Lanka
+Si-li-â	Syrie
+Kâ	Gallium
+Thap-kit-khiet-sṳ̂-thán	Tadjikistan
+中華民國	Taïwan
+YouTube	YouTube
+Châ	Germanium
+Thai-koet	Thaïlande
+Sṳ̂n	Arsenic
+Thú-khû-man-sṳ̂-thán	Turkménistan
+Abakan	Abakan
+Sî	Sélénium
+Yî	Iridium
+Â-lâ-pak Lièn-ha̍p Thai-kûng-koet	Émirats arabes unis
+Tshiù (溴)	Brome
+Pha̍k (鉑)	Platine
+Ye̍t-nàm	Viêt Nam
+Thai-hòn Mìn-koet	Corée du Sud
+Khiet	Krypton
+Â-fu-hon	Afghanistan
+J. R. R. Tolkien	J. R. R. Tolkien
+Lù	Rubidium
+Kîm	Or
+Men-kâ-lâ-koet	Bangladesh
+Ufa	Oufa
+Ôn-kô-lâ	Angola
+Vùn-lòi	Brunei
+Kúng	Mercure (chimie)
+Fî-li̍t-pîn	Philippines
+Thò	Thallium
+Ngie-sat-khiet Ngiù-tun	Isaac Newton
+Albert Einstein	Albert Einstein
+Sṳ̂	Strontium
+Yet	Yttrium
+Pit	Bismuth
+Vòng-set	Jaune
+Tsan-pí-â	Zambie
+Sîn-pâ-pu-vî	Zimbabwe
+北京	Pékin
+Tuva Khiung-fò-koet	Touva
+Pok-tshṳ-ngá-na̍p	Botswana
+Pho (釙)	Polonium
+Bayern	Bavière
+Baden-Württemberg	Bade-Wurtemberg
+Ngo (砈)	Astate
+Lòi-sò-thok	Lesotho
+Mâ-tha̍t-kâ-sṳ̂-kâ	Madagascar
+Mâ-là-vî	Malawi
+Stuttgart	Stuttgart
+Màu-li-thap-nì-â	Mauritanie
+Pô-làn-ngìn	Polonais (peuple)
+Mo̍k-sông-pí-khiet	Mozambique
+Na̍p-mí-pí-â	Namibie
+Nai-khi̍p-li-â	Nigeria
+Ko	Zirconium
+Nì	Niobium
+Yû-li-vû-sṳ̂ Khái-sat	Jules César
+Sṳ̂-vî-sṳ-làn	Swaziland
+Muk	Molybdène
+Thap	Technétium
+Hamburg	Hambourg
+Thoi-chhia	Métabolisme
+Miên-yi̍t Hì-thúng	Système immunitaire
+Lièn-ha̍p-koet	Organisation des Nations unies
+Sîm-chhong	Cœur
+Thèu-nó	Cerveau
+Phì-fû	Peau
+Ló	Rhodium
+Làm-set	Bleu
+Pâ	Palladium (chimie)
+Ngiùn	Argent
+Kak	Cadmium
+Yîn	Indium
+Siak	Étain
+Yu	Uranium
+Thi (銻)	Antimoine
+Ti	Tellure
+Pu	Plutonium
+Tièn	Iode
+Nai	Neptunium
+Set	Césium
+Phù	Protactinium
+Pi	Baryum
+Thú	Thorium
+Kap (鉿)	Hafnium
+Than (鉭)	Tantale (chimie)
+Luì	Radium
+Tûng	Radon
+Alsace	Alsace
+Auvergne	Auvergne
+Ôn-tet-là-pâng	Andhra Pradesh
+Me̍t-hiet-kîn	Michigan
+Burgundy	Bourgogne
+Aquitaine	Aquitaine
+Schleswig-Holstein	Schleswig-Holstein
+Hâ Saxony	Basse-Saxe
+Pet Rhine-Westphalia	Rhénanie-du-Nord-Westphalie
+Saxony	Saxe (Land)
+Yî-li-nò	Illinois
+Thuringia	Thuringe
+Saxony-Anhalt	Saxe-Anhalt
+Pet Tha̍t-khô-thâ	Dakota du Nord
+Brandenburg	Brandebourg
+Bremen-chû	Brême (Land)
+Nàm Tha̍t-khô-thâ	Dakota du Sud
+Mùng-thai-nâ	Montana
+Fài-ngò-mìn	Wyoming
+Yâ-lu-sat-lâng	Jérusalem
+Oi-tha̍t-hòt	Idaho
+Fà-sṳn-tun	Washington (État)
+Lù (鑪)	Rutherfordium
+Nui-fà-tha̍t	Nevada
+Hàn (𨧀)	Dubnium
+Hí (𨭎)	Seaborgium
+Yin-thu-yòng	Océan Indien
+Khô-sò-vok	Kosovo
+Kâ-le̍t-pí-hói	Mer des Caraïbes
+Pô (𨨏)	Bohrium
+Het (𨭆)	Hassium
+Phan Kî-vùn	Ban Ki-moon
+Ma̍k (䥑)	Meitnérium
+Khô-lò-là-tô	Colorado
+Tha̍t	Darmstadtium
+Siau-pâng	Frédéric Chopin
+Lùn	Roentgenium
+Kô (鎶)	Copernicium
+分類:Chú-yeu fûn-lui	Catégorie:Accueil
+Chi-kâ-kô	Chicago
+Arnhem	Arnhem
+Tûng-kui	Hiver
+Sî-pân-ngà-ngî	Espagnol
+Fî-là-thiet-fî	Philadelphie
+Tî-tû	Araneae
+Hèu-è	Singe
+Kîm-tshièn	Monnaie
+Vì-kit-nì-â	Virginie (État)
+Sî Vì-kit-nì-â	Virginie-Occidentale
+Tshiâng-tséu	Capsicum annuum
+Néu-yok-chû	État de New York
+Sṳ (鈰)	Cérium
+Phú	Praséodyme
+Lò-tet-tó	Rhode Island
+Ńg	Néodyme
+Khûn-chhùng	Insecte
+Mâ-lî-làn	Maryland
+Thi̍t-lâ-ngá	Delaware
+Yû (銪)	Europium
+Ngò-hài-ngò	Ohio
+Vì-kit-ngì	Virgile
+Machiavelli	Nicolas Machiavel
+Pîn-sé-fap-nì-â	Pennsylvanie
+Uetersen	Uetersen
+O-kú-sṳ̂-tû	Auguste
+Néu Chhe̍t-sî-chû	New Jersey
+Fûn-làn-ngî	Finnois
+Yin-thi-ôn-na̍p	Indiana
+Vì-sṳ̂-pha-siên	Vespasien
+Thù-là-chṳ̂n	Trajan
+Hâ-tet-liòng	Hadrien
+Khièu-tshṳ-â	Géorgie (États-Unis)
+Mâ-khù-sṳ̂ O-lie̍t-lî-vû-sṳ̂	Marc Aurèle
+Zagreb	Zagreb
+Tet-khiet-sat-sṳ̂	Texas
+Thai-mí-ngì-na̍p-tet-pâng	Tamil Nadu
+Pet Khà-lò-lòi-na̍p	Caroline du Nord
+Nàm Khà-lò-lòi-na̍p	Caroline du Sud
+Loire-sén	Loire
+Pâ-set-lò-nâ	Barcelone
+Vòng-lî	Ananas
+Me̍t-sî-sî-pí	Mississippi (État)
+Thièn-na̍p-sî	Tennessee
+Néu Me̍t-sî-kô	Nouveau-Mexique
+Mìn-nì-sû-tha̍t	Minnesota
+Vî-sṳ̂-không-sîn	Wisconsin
+Oi-hò-fà	Iowa
+Nui-pu-lâ-sṳ̂-kâ	Nebraska
+Khâm-sat-sṳ̂	Kansas
+Yin-thi-ngî	Hindi
+Me̍t-sû-lî	Missouri (État)
+Lu-yi-sṳ̂-ôn-ná	Louisiane
+Khén-thap-kî	Kentucky
+Â-khén-set	Arkansas
+Neil Armstrong	Neil Armstrong
+O-khiet-lâ-hò-mâ	Oklahoma
+Pet-hói	Mer du Nord
+Mo̍k-sṳ̂-khô-chû	Oblast de Moscou
+Kiel	Kiel
+Schwerin	Schwerin
+Potsdam	Potsdam
+Hanover	Hanovre
+Düsseldorf	Düsseldorf
+Mainz	Mayence
+Wiesbaden	Wiesbaden
+Saarbrücken	Sarrebruck
+Mu-nì-het	Munich
+Erfurt	Erfurt
+Dresden	Dresde
+Kaliningrad-chû	Oblast de Kaliningrad
+Murmansk-chû	Oblast de Mourmansk
+Kak-than-sṳ̂-khiet	Gdańsk
+Fap-làn-khiet-fuk	Francfort-sur-le-Main
+Fut-lò-tshṳ-ngá-fû	Wrocław
+Làn	Lanthane
+Ki (鉕)	Prométhium
+Sân	Samarium
+Â-chhè Thi̍t-phe̍t Hàng-chṳn-khî	Aceh
+Nga̍t (釓)	Gadolinium
+Thi̍t (鋱)	Terbium
+Tit (鏑)	Dysprosium
+Sṳn-kîn	Bible
+Fó	Holmium
+Ngí (鉺)	Erbium
+Tiû	Thulium
+Yi	Ytterbium
+Liu	Lutécium
+Hò-nui-sṳ	Hanoï
+Chṳ̂n Yâ-sû Kau-fi	Véritable Jésus Église
+Yîn-ngî	Anglais
+Màn-kuk	Bangkok
+Kit-lùng-po	Kuala Lumpur
+Pâng-kâ Vú-lî-thung-sén	Îles Bangka Belitung
+Thòi-pet-sṳ	Taipei
+Mî (鋂)	Américium
+Arkhangelsk-chû	Oblast d'Arkhangelsk
+Khiu̍k	Curium
+Thùng-hói-sṳ	Đồng Hới
+Concepción	Concepción (Chili)
+Pet (鉳)	Berkélium
+Khà (鉲)	Californium
+Mìn-kú-lû-sén	Bengkulu (province)
+Oi	Einsteinium
+Fi	Fermium
+Mùn	Mendélévium
+Na	Nobélium
+Ontario-sén	Ontario
+Lò	Lawrencium
+Karelia Khiung-fò-koet	République de Carélie
+Końskowola	Końskowola
+2002-ngièn	2002
+2008-ngièn	2008
+Charles de Gaulle	Charles de Gaulle
+Cham-pî-sén	Jambi (province)
+Komi Khiung-fò-koet	République des Komis
+Nâm-póng-sén	Lampung
+Pet Sû-mùn-tap-lia̍p-sén	Sumatra du Nord
+Syktyvkar	Syktyvkar
+Québec-sṳ	Québec (ville)
+Nenets Chhṳ-chhṳ-khî	Nénétsie
+Liàu-nui-sén	Riau
+Leningrad-chû	Oblast de Léningrad
+Pskov-chû	Oblast de Pskov
+Liàu-nui Khiùn-tó-sén	Îles Riau (province)
+Nizhny Novgorod-chû	Oblast de Nijni Novgorod
+Nàm Sû-mùn-tap-lia̍p-sén	Sumatra du Sud
+Lò-mâ Ti-koet	Empire romain
+Mì-ngiôn Kûng-sṳ̂	Microsoft
+Tver-chû	Oblast de Tver
+Khù-lû-fû	Kurów
+Fa-ho̍k	Chimie
+Smolensk-chû	Oblast de Smolensk
+Yaroslavl-chû	Oblast de Iaroslavl
+Kostroma-chû	Oblast de Kostroma
+Ivanovo-chû	Oblast d'Ivanovo
+Arnold Schwarzenegger	Arnold Schwarzenegger
+Chiuk-khiù	Football
+Ryazan-chû	Oblast de Riazan
+IPhone	IPhone
+Sî Sû-mùn-tap-lia̍p-sén	Sumatra occidental
+Tula-chû	Oblast de Toula
+IPad	IPad
+Mâ-tet-lî	Madrid
+Bryansk-chû	Oblast de Briansk
+Michael Jackson	Michael Jackson
+Kaluga-chû	Oblast de Kalouga
+Loire-Atlantique-sén	Loire-Atlantique
+Ain-sén	Ain (département)
+Allier-sén	Allier (département)
+Khâm-phì-là	Canberra
+Sông Alpes-sén	Hautes-Alpes
+Oryol-chû	Oblast d'Orel
+Sit-nì	Sydney
+Alpes-de-Haute-Provence-sén	Alpes-de-Haute-Provence
+Liu̍k-set	Vert
+Alpes-Maritimes-sén	Alpes-Maritimes
+Hâ-tet-sùn-hò	Fleuve Hudson
+Me̍t-ngì-pún	Melbourne
+Fùng-set	Rouge
+Ardèche-sén	Ardèche (département)
+Jena	Iéna
+Kursk-chû	Oblast de Koursk
+Ariège-sén	Ariège (département)
+Aude-sén	Aude (département)
+Aveyron-sén	Aveyron (département)
+Sîn Nàm Vî-ngì-sṳ̂-chû	Nouvelle-Galles du Sud
+Bouches-du-Rhône-sén	Bouches-du-Rhône
+Àu-thai-li-â Sú-tû Liâng-thi	Territoire de la capitale australienne
+Cantal-sén	Cantal (département)
+Belgorod-chû	Oblast de Belgorod
+Côte-d'Or-sén	Côte-d'Or
+Côtes-d'Armor-sén	Côtes-d'Armor
+Drôme-sén	Drôme (département)
+Finistère-sén	Finistère
+Voronezh-chû	Oblast de Voronej
+Sû-mùn-tap-lia̍p	Sumatra
+Lipetsk-chû	Oblast de Lipetsk
+Van-tan-sén	Banten (province)
+Chûng Cháu-ôa-sén	Java central
+Fùi-sên	Comète
+Rostov-chû	Oblast de Rostov
+Tûng Cháu-ôa-sén	Java oriental
+Ngâ-kâ-tha̍t Sú-tû Thi̍t-khî	Jakarta
+Sî Cháu-ôa-sén	Java occidental
+Adygea Khiung-fò-koet	Adyguée
+Ngit-ngiâ Thi-fông Thi̍t-khî	Territoire spécial de Yogyakarta
+Gera	Gera
+Maykop	Maïkop
+Cháu-ôa-tó	Java (île)
+Kâ-lî-man-tân-chû	Kalimantan
+Séu Sùn-thâ Khiùn-tó	Petites îles de la Sonde
+Sû-lâ-vî-sî-tó	Célèbes
+Mô-lu̍k-kâ Khiùn-tó	Moluques
+Chûng Kâ-lî-man-tân-sén	Kalimantan central
+Tûng Kâ-lî-man-tân-sén	Kalimantan oriental
+Nàm Kâ-lî-man-tân-sén	Kalimantan du Sud
+Kâ-li-sî-â	Galice
+Sî Kâ-lî-man-tân-sén	Kalimantan occidental
+Thai-ho̍k	Université
+Pretoria	Pretoria
+Chok-khiù	Tennis de table
+Â-sṳ̂-thù-lî-â-sṳ̂	Asturies
+Wikipedia:Sandbox	Wikipédia:Bac à sable
+Astrakhan-chû	Oblast d'Astrakhan
+Kham-thap-pu-lî-â	Cantabrie
+Kalmykia Khiung-fò-koet	Kalmoukie
+Weimar	Weimar
+Osasco	Osasco (Brésil)
+Â-là-kung	Aragon (communauté autonome)
+Kak-là-sṳ̂-kô	Glasgow
+Thùng-hói Kî-chhòng	Aéroport de Đồng Hới
+Vú-lîn-ngièn Fûng-kín Miàng-sṳn-khî	Wulingyuan
+分類:Thòi-vân li̍t-sṳ́	Catégorie:Histoire de Taïwan
+Curitiba	Curitiba
+Chloë Grace Moretz	Chloë Moretz
+Khûng-chṳ́	Confucius
+Corbin Bleu	Corbin Bleu
+分類:Sṳ-ho̍k	Catégorie:Mathématiques
+分類:Ngìn-kûng ngî-ngièn	Catégorie:Langue construite
+Pâ-lî-sén	Bali
+Mî-kîm	Dollar américain
+Thi-chûng-hói	Mer Méditerranée
+Hông-chû-sṳ	Hangzhou
+Kî-tuk-kau	Christianisme
+Tûng Nú-sâ Tên-kâ-là-sén	Nusa Tenggara oriental
+Sî Nú-sâ Tên-kâ-là-sén	Nusa Tenggara occidental
+Chûng Sû-lâ-vî-sî-sén	Sulawesi central
+Kô-lùn-tá-lo̍k-sén	Gorontalo
+Pet Sû-lâ-vî-sî-sén	Sulawesi du Nord
+Tûng-nàm Sû-lâ-vî-sî-sén	Sulawesi du Sud-Est
+Nàm Sû-lâ-vî-sî-sén	Sulawesi du Sud
+Sî Sû-lâ-vî-sî-sén	Sulawesi occidental
+Vò-é	Riz
+Mâ-lû-kú-sén	Moluques (province)
+Pet Mâ-lû-kú-sén	Moluques du Nord
+Pâ-pu-â-sén	Papouasie (province indonésienne)
+Sî Pâ-pu-â-sén	Papouasie occidentale
+Dagestan Khiung-fò-koet	Daguestan
+Sú-tû	Capitale
+Monzón	Monzón
+Phù-thò-ngà-ngî	Portugais
+Ngie̍t	Mois
+Mustafa Kemal Atatürk	Mustafa Kemal Atatürk
+Makhachkala	Makhatchkala
+Chechnya Khiung-fò-koet	Tchétchénie
+Grozny	Grozny
+Almazán	Almazán
+Vòng Hien-fàm	Huang Xianfan
+Ingushetia Khiung-fò-koet	Ingouchie
+Magas	Magas
+Pet Ossetia–Alania Khiung-fò-koet	Ossétie-du-Nord-Alanie
+Kabardino-Balkaria Khiung-fò-koet	Kabardino-Balkarie
+Tson-sa̍k	Diamant
+Bill Gates	Bill Gates
+Ngi̍t-ngî	Japonais
+Pak-khô-chhiòn-sû	Encyclopédie
+頭頁	Wikipédia:Accueil principal
+Karachay-Cherkessia Khiung-fò-koet	Karatchaïévo-Tcherkessie
+Saratov	Saratov
+Saratov-chû	Oblast de Saratov
+Orenburg-chû	Oblast d'Orenbourg
+Mordovia Khiung-fò-koet	Mordovie
+Saransk	Saransk
+Yâ-khiù	Baseball
+Làm-khiù	Basket-ball
+Kirov-chû	Oblast de Kirov
+Udmurtia Khiung-fò-koet	Oudmourtie
+Sî-pak-li-â	Sibérie
+Mari El Khiung-fò-koet	République des Maris
+Yoshkar-Ola	Iochkar-Ola
+Stellenbosch	Stellenbosch
+Sverdlovsk-chû	Oblast de Sverdlovsk
+Cape Town	Le Cap
+Chuvash Khiung-fò-koet	Tchouvachie
+Durban	Durban
+Cheboksary	Tcheboksary
+Tat-tat-sṳ̂-thán Khiung-fò-koet	Tatarstan
+Penza-chû	Oblast de Penza
+Là-fî-ngì	Raphaël (peintre)
+Pí-tet Lû-pún-sṳ̂	Pierre Paul Rubens
+Ulyanovsk-chû	Oblast d'Oulianovsk
+Gung-gung-hi-tsaa	Autobus
+Kâ-thai-lò-nì-â	Catalogne
+Bashkortostan Khiung-fò-koet	Bachkirie
+Chelyabinsk-chû	Oblast de Tcheliabinsk
+Pâ-lùn-sî-â Chhṳ-chhṳ-khî	Communauté valencienne
+Khà-sṳ̂-tì-li-â lâu Lòi-ngong	Castille-et-León
+Kurgan-chû	Oblast de Kourgan
+Mô Chhe̍t-tûng	Mao Zedong
+Tyumen-chû	Oblast de Tioumen
+Omsk-chû	Oblast d'Omsk
+Thai-mí-ngì-ngî	Tamoul
+Chet-ho̍k	Philosophie
+分類:Candidates for speedy deletion	Catégorie:Wikipédia:Suppression immédiate demandée
+Altai Khiung-fò-koet	République de l'Altaï
+Kòng-khìm	Piano
+Gorno-Altaysk	Gorno-Altaïsk
+Kemerovo-chû	Oblast de Kemerovo
+Hebe Camargo	Hebe Camargo
+Chṳ̂-pún chú-ngi	Capitalisme
+Koet-kâ	Pays
+Mìn-chhu̍k	Nation
+Khanty-Mansi Chhṳ-chhṳ-khî	Khantys-Mansis
+Yamalo-Nenets Chhṳ-chhṳ-khî	Iamalie
+Montpellier	Montpellier
+分類:Thiên-vùn-ho̍k	Catégorie:Astronomie
+Khakassia Khiung-fò-koet	Khakassie
+Irkutsk-chû	Oblast d'Irkoutsk
+Sakha Khiung-fò-koet	République de Sakha
+Khiet-lò-âi-sî-â-ngî	Croate
+Hon-pó	Hamburger
+Buryatia Khiung-fò-koet	Bouriatie
+Vû-làn Vû-tet	Oulan-Oude
+Amur-chû	Oblast d'Amour
+Ngi-sṳ̍p Sṳ-ki	XXe siècle
+Gotha	Gotha (Allemagne)
+Dijon	Dijon
+Kâ-thai-lò-nì-â-ngî	Catalan
+Nordhausen	Nordhausen
+Kit-lò-na̍p-sén	Gérone
+Eisenach	Eisenach
+Se-pâu Sâng-vu̍t-ho̍k	Biologie cellulaire
+Sṳ-kie Ngiùn-hòng Si̍p-thòn	Banque mondiale
+A-la-pak Liên-mên	Ligue arabe
+Mìn-tsú Tsú-ngi	Démocratie
+Chhîn-chhèu (秦朝)	Dynastie Qin
+Pet Thai-sî-yòng Kûng-yok Chû-chṳt	Organisation du traité de l'Atlantique Nord
+Chhìn Sṳ Fòng	Qin Shi Huang
+Hon-chhèu	Dynastie Han
+Hon Vú-ti Liù Chha̍t	Han Wudi
+Sâng-vu̍t	Organisme (physiologie)
+Kiûn-chú-chṳ	Monarchie
+Khiung-fò-koet	République
+Yí-mô-khiù	Badminton
+Ngièn-chhèu	Dynastie Yuan
+Nazi Tet-koet	Troisième Reich
+Yù-thai-ngìn	Juifs
+Chang Fò	Zheng He
+Chìn-chhèu	Dynastie Jin (265-420)
+Ngí	Oreille
+Phi	Nez
+Ngién	Œil
+Mûn-é	Culicidae
+Mièn-yòng	Mouton
+Lo̍k-thò	Camelus
+Phú-nen thung-vu̍t	Mammifère
+Siong	Éléphant
+Ngie-kûng	Fourmi
+Phûng-é	Abeille
+Hò-làn-ngî	Néerlandais
+Fà-thi̍t Thit-sṳ-nì Kûng-sṳ̂	The Walt Disney Company
+Thot-yong Fu̍t-thông Fu̍t-son	Acide désoxyribonucléique
+Khiô	Aubergine
+Siet	Neige
+Â-pâ	Père
+Fûn	Minute (temps)
+Yù-thai Chhṳ-chhṳ-chû	Oblast autonome juif
+Ngò-lò-sṳ̂-ngî	Russe
+Tûng-nàm-â Koet-kâ Lièn-mèn	Association des nations de l'Asie du Sud-Est
+Sakhalin-chû	Oblast de Sakhaline
+Mien-pâu	Pain
+Sṳ-kie Mo-yi Chû-chṳt	Organisation mondiale du commerce
+漢語	Langues chinoises
+Se-pâu	Cellule (biologie)
+Hiet-yi̍t	Sang
+Hi	Poumon
+Lò-mâ-nì-â-ngî	Roumain
+Pó-kâ-li-â-ngî	Bulgare
+Magadan-chû	Oblast de Magadan
+Chhṳ-yèn Khô-ho̍k	Science de la nature
+Het-chhe̍t Mìn	Akira Kurosawa
+Franklin D. Roosevelt	Franklin Delano Roosevelt
+Thi-khiù Khô-ho̍k	Sciences de la Terre
+Sa̍k-thèu	Roche
+Yùn	Nuage
+Kí-hò-ho̍k	Géométrie
+Tet-lu-kú-ngî	Télougou
+Thai-hì-chhèn	Atmosphère (astronomie)
+Kak-lû-kit-â-ngî	Géorgien
+Kîn-chi-ho̍k	Sciences économiques
+Pîn-kóng	Pangkal Pinang
+漢字	Caractères chinois
+Sî-lî-ngì Sṳ-mû	Alphabet cyrillique
+Lâ-tên sṳ-mû	Alphabet latin
+Vùn-ho̍k	Littérature
+分類:Fap-koet	Catégorie:France
+分類:Yîm-ngo̍k	Catégorie:Musique
+分類:Vùn-ho̍k	Catégorie:Littérature
+Fù-lì	Renard
+La̍p-pá	Trompette
+Â-li̍t-sân-thai sâm-sṳ	Alexandre le Grand
+Kiûn-sṳ-thán-tên Yit-sṳ	Constantin Ier (empereur romain)
+Set-lû-sṳ thai-ti	Cyrus le Grand
+Vùn-mìn	Civilisation
+Kau-yuk	Éducation
+Kâ-thìn	Famille
+Nàm-ngìn	Homme
+Fûn-yîn	Mariage
+Kiûn-sṳ	Armée
+Kâ-pî	Café
+Ngiù-nen	Lait
+Sûn Chûng-sân	Sun Yat-sen
+Â-yuk-vòng	Ashoka
+香港	Hong Kong
+Thai-yîn Ti-koet	Empire britannique
+Sú-ngì	Séoul
+Kâm-nái-thit Koet-chi Kî-chhòng	Aéroport international de New York-John F. Kennedy
+上海	Shanghai
+Lùn-tûn Hî-sṳ̂-lu Kî-chhòng	Aéroport de Londres-Heathrow
+Lùn-tûn Kak-vet Kî-chhòng	Aéroport de Londres-Gatwick
+Set-vì-li-â	Séville
+Chhîn-chhèu	Dynastie Qing
+Â-ngì-pâ-nì-â-ngî	Albanais
+Pâ-sṳ̂-khiet-ngî	Basque
+Â-lâ-kung-ngî	Aragonais
+Yîn-koet Hòng-khûng	British Airways
+Â-mî-nì-â-ngî	Arménien
+Vû-khiet-làn-ngî	Ukrainien
+Pâ-lùn-sî-â	Valence (Espagne)
+Shuì-tién-ngî	Suédois
+Tan-ma̍k-ngî	Danois
+Nò-vî-ngî	Norvégien
+Kô-thi̍t-fu̍t-lòi-tet Vî-liâm Lòi-pu-nì-tsṳ	Gottfried Wilhelm Leibniz
+Tshia̍p-khiet-ngî	Tchèque
+Sṳ̂-lo̍k-phat-khiet-ngî	Slovaque
+Sṳ̂-lo̍k-vì-nì-â-ngî	Slovène
+Hiûng-ngà-li-ngî	Hongrois
+Oi-sâ-nì-â-ngî	Estonien
+Là-thot-vì-â-ngî	Letton
+Li̍p-thâu-vón-ngî	Lituanien
+Pha̍k-ngò-lò-sṳ̂-ngî	Biélorusse
+Kui-mí-thi̍t-lî Mùn-tet-lie̍t-fû	Dmitri Mendeleïev
+Ngièn-chṳ́	Atome
+Lâ-set-fuk	Ernest Rutherford
+Hî-lia̍p-ngî	Grec
+Oi-ngì-làn-ngî	Irlandais
+Pô-sṳ̂-ngî	Persan
+Chûng-kau	Religion
+Chêu-sién-ngî	Coréen
+Chhóng-sṳ-ki	Livre de la Genèse
+Kóng-tûng-fa	Cantonais standard
+Chhut-âi-khi̍p-ki	Livre de l'Exode
+Ye̍t-nàm-ngî	Vietnamien
+Pó-lò	Paul de Tarse
+Kô-mièn-ngî	Khmer
+Thai-ngî	Thaï
+Mâ-lòi-ngî	Malais (langue)
+Yin-nì-ngî	Indonésien
+Mùng-kú-ngî	Mongol
+Hâ-sat-khiet-ngî	Kazakh
+Vû-tsṳ̂-phe̍t-khiet-ngî	Ouzbek
+Thú-khù-màn-ngî	Turkmène
+Yù-thai-kau	Judaïsme
+Hî-pak-lói-ngî	Hébreu
+Â-set-pai-kiông-ngî	Azéri
+Mâ-khì-tun-ngî	Macédonien
+Set-ngì-vì-â-ngî	Serbe
+Set-ngì-vì-â Khiet-lò-thi-â-ngî	Serbo-croate
+Pô-sṳ-nì-â-ngî	Bosnien
+Kâ-lî-sî-â-ngî	Galicien
+Vî-ngì-sṳ̂-ngî	Gallois
+Sû-kak-làn Koi-ngì-ngî	Gaélique écossais
+Siak-khiet-kau	Sikhisme
+John Maynard Keynes	John Maynard Keynes
+Lufthansa Hòng-khûng	Lufthansa
+Ló-chṳ́	Lao Tseu
+Kôn-chhóng	Foie
+Shìn	Rein
+Thu-é	Lapin
+Sṳ̀n-kîn Ne-thúng	Système nerveux
+Sîm-lî-ho̍k	Psychologie
+Sṳt-kâ-mèu-nì	Siddhartha Gautama
+Mâ-tên Lu-tet	Martin Luther
+Yî-kâ	Confucianisme
+Thiên-chú-kau	Église catholique
+Tho-kau	Taoïsme
+Chit-siói	Moelle épinière
+Sa̍t	Langue (anatomie humaine)
+Yî-tshóng	Pancréas
+Hèu-thèu	Larynx
+Fuk-khiet-làn khiùn-tó	Îles Malouines
+Vàng-kak-mo̍k	Diaphragme (organe)
+Lân-mî	Appendice iléo-cæcal
+Elizabeth Ngi-sṳ	Élisabeth II
+Thòng-chhèu	Dynastie Tang
+John F. Kennedy	John Fitzgerald Kennedy
+Mìn-chhèu	Dynastie Ming
+Dwight D. Eisenhower	Dwight David Eisenhower
+Ronald Reagan	Ronald Reagan
+Sat-là-kô-sat	Saragosse
+Kîm Tsang-ngit	Kim Jong-il
+Ngièn-su Chû-khì-péu	Tableau périodique des éléments
+Chû-su̍k	Sus (genre)
+Mariano Rajoy	Mariano Rajoy
+Se-khiûn	Bacteria
+Phù-thò	Raisin
+Phûng-thòng	Miel
+Thông	Sucre
+Vòng-theu	Soja
+Kûng-chhàng-ho̍k	Ingénierie
+Vùn-fa	Culture
+Fan-vun	Sanskrit
+Sùn-fàn Hì-thúng	Appareil cardiovasculaire
+Sôn	Acide
+Yî-ho̍k	Médecine
+Néu-Yok Sṳ-kie Mo-yi Chûng-sîm	World Trade Center
+Hâ Màn-hâ-tun	Lower Manhattan
+Yàm	Sel alimentaire
+分類:Pâ-sî	Catégorie:Brésil
+Màn-hâ-tun	Manhattan
+Ngièn-su	Élément chimique
+Kâ-suk-thu	Accélération
+Li̍t	Force (physique)
+Kú	Tambour (instrument)
+Tsṳt-liông	Masse
+Kîm-su̍k	Métal
+Nùng-ngia̍p	Agriculture
+Sâng-yîm	Son (physique)
+Sṳ̀-kiên	Temps
+Mien-chit	Aire (géométrie)
+Kûng-kîn	Kilogramme
+Kûng-tshak	Mètre
+Miéu	Seconde (temps)
+Pâu-siuk	Maïs
+Kûng-sṳ̂n	Litre
+Fà-ngì-kiê	Wall Street
+Tûng-nàm-â	Asie du Sud-Est
+Tshùng-khin	Chongqing
+Thiên-tsîn	Tianjin
+Vú-hon-sṳ	Wuhan
+Kú Hî-lia̍p	Grèce antique
+Thomas Jefferson	Thomas Jefferson
+Vùi-sṳ̂-khà	Huesca
+Tychy	Tychy
+El Masnou	El Masnou
+Pu-lie̍t-thap-nì-ngî	Breton
+Brittany	Région Bretagne
+Lóng	Surdité
+Chhi̍t-phiang	Maladie
+Khien-không	Santé
+Sok-lî-â	Soria
+Màn-tó-ngî	Mannois
+Chhiâng-môi-su	Pénicilline
+Nantes	Nantes
+Pot-thâm-fó	Tuberculose
+Mà-chiông	Mah-jong
+模板:Location map Taiwan	Modèle:Géolocalisation/Taïwan
+Detroit	Détroit (Michigan)
+Van-lî Tshòng-sàng	Grande Muraille
+Gard-sén	Gard
+Gers-sén	Gers (département)
+Sông Garonne-sén	Haute-Garonne
+Sṳ̀n-sṳn Lò-mâ Ti-koet	Saint-Empire romain germanique
+Ille-et-Vilaine-sén	Ille-et-Vilaine
+Isère-sén	Isère (département)
+Chûng-kau Kói-kiet	Réforme protestante
+Sông Loire-sén	Haute-Loire
+Lot-sén	Lot (département)
+Lozère-sén	Lozère (département)
+Maine-et-Loire-sén	Maine-et-Loire
+Nì-pu-kap-nì-sat ngi-sṳ	Nabuchodonosor II
+Mayenne-sén	Mayenne (département)
+Morbihan-sén	Morbihan
+Nièvre-sén	Nièvre (département)
+Nord-sén	Nord (département français)
+Calais Hói-hia̍p-sén	Pas-de-Calais
+Puy-de-Dôme-sén	Puy-de-Dôme
+Sông Pyrénées-sén	Hautes-Pyrénées
+Pyrénées-Orientales-sén	Pyrénées-Orientales
+Hâ Rhin-sén	Bas-Rhin
+Sông Rhin-sén	Haut-Rhin
+Saône-et-Loire-sén	Saône-et-Loire
+Sarthe-sén	Sarthe (département)
+Sông Savoie-sén	Haute-Savoie
+Tarn-sén	Tarn (département)
+Tarn-et-Garonne-sén	Tarn-et-Garonne
+Var-sén	Var (département)
+Vaucluse-sén	Vaucluse (département)
+Vendée-sén	Vendée (département)
+Yonne-sén	Yonne (département)
+Yî-pí-li-â Pan-tó	Péninsule Ibérique
+Lai-kî	Litchi
+Yâ-è	Cocos nucifera
+Sa̍k-liù	Grenade (fruit)
+Chong-fa	Zhuang (langue)
+Sông-sok-pu-ngî	Haut-sorabe
+Na̍p-ngá-thi̍t-ngî	Nahuatl
+Mí-nàm-kâ-pó-ngî	Minangkabau (langue)
+Mirandés-ngî	Mirandais
+Harvard Thai-ho̍k	Université Harvard
+Néu-yok Chṳn-khèn Kâu-yi-só	New York Stock Exchange
+Lie̍t-yî-tha̍t-sén	Province de Lérida
+Â-lâ-pak-ngî	Arabe
+Kiú-chiu	Kyūshū
+Si-koet	Shikoku
+O-khiet-ngî	Occitan
+Nàm-fî Hò-làn-ngî	Afrikaans
+Lí Mìn-pok	Lee Myung-bak
+Lû Vú-hién	Roh Moo-hyun
+Kâ Mà-chiok	Moineau domestique
+Kô-thiet	Métro de Hong Kong
+澳門	Macao
+Suhl	Suhl
+Mühlhausen	Mühlhausen (Thuringe)
+Sâ-thièn-khî	Sha Tin (district)
+Fù Kím-Thàu	Hu Jintao
+Si̍p Khiûn-phìn	Xi Jinping
+Chhòng-kiáng-lu̍k	Girafe
+Phì-âi-mùng-thi̍t-ngî	Piémontais
+Thap-là-kô-na̍p	Tarragone
+Provence-Alpes-Côte d'Azur	Provence-Alpes-Côte d'Azur
+Chûng-Wàn-Tshàm／Hiông-Kóng-Tshàm(MTR)	Central (MTR)
+Chhṳ̂m-chun-sṳ	Shenzhen
+Kóng-tûng	Guangdong
+Kóng-sî Chong-chhu̍k Chhṳ-chhṳ-khî	Guangxi
+Mô-kài	Le Seigneur des anneaux
+Borredà	Borredà
+Castellar de n'Hug	Castellar de n'Hug
+Hiông-kóng Thai-ho̍k	Université de Hong Kong
+Badajoz	Badajoz
+Lu̍k-yì-tó-yen	Préfecture de Kagoshima
+Kiok	Pied (anatomie humaine)
+Sit-thit	Lacertilia
+Altenburg	Altenbourg
+Kiên	Épaule
+Midi-Pyrénées	Midi-Pyrénées
+Wikipedia:Chhâm-siòng	Wikipédia:Le Bistro
+Fu-mùng-thi̍t	Vermont
+Hiû-sṳ̂-tûn	Houston
+Kóng-chiu-sṳ	Canton (Chine)
+Chiông Kie-sa̍k	Tchang Kaï-chek
+Vûn Kâ-pó	Wen Jiabao
+Nàm-kîn-sṳ	Nankin
+Phiang-yèn	Hôpital
+Kông-sû	Jiangsu
+Chet-kông-sén	Zhejiang
+Thèn Séu-phìn	Deng Xiaoping
+Pet-phu Calais Hói-hia̍p	Nord-Pas-de-Calais
+Pays de la Loire	Pays de la Loire
+Languedoc-Roussillon	Languedoc-Roussillon
+Thiap-sat-lò-nì-kâ	Thessalonique
+西藏自治區	Région autonome du Tibet
+Hàng-thung Thien-fa	Téléphone mobile
+Thò-niâu	Autruche d'Afrique
+Manchester	Manchester
+Pu-lû-khiet-lìm	Brooklyn
+Fòng-heu-khî	Queens
+Liùng-yìn-sṳ	Yongin
+Lòng	Canis lupus
+Mâ-lòi Pan-tó	Péninsule Malaise
+Sîn-yok Sṳn-kîn	Nouveau Testament
+Fan-lóng-thap-cham-sṳ	Phan Rang - Tháp Chàm
+9	9 (nombre)
+Zung-gok Thaai-liuk	Chine continentale
+Het-liùng-kông	Heilongjiang
+Mâ Yîn-kiú	Ma Ying-jeou
+Piên-fò-sṳ	Biên Hòa
+Hiông-kóng-tó	Île de Hong Kong
+Ngà-tsông-sṳ	Nha Trang
+Podolsk	Podolsk
+Pô-tô Lì-kok Thu̍k-li̍p-tóng	Parti indépendantiste portoricain
+Lì-è	Âne commun
+Si-chhôn-sén	Sichuan
+Khiu-yok Sṳn-kîn	Ancien Testament
+Sṳn-tan-chiet	Noël
+Lò-màn Ngî-chhu̍k	Langues romanes
+Sâm-kok-hìn	Triangle
+Steve Jobs	Steve Jobs
+Yin-Êu Ngî-ne	Langues indo-européennes
+Breinigerberg	Breinigerberg
+Lo-fú	Tigre
+Fù-ôn Khà-lo̍k-sṳ̂ Yit-sṳ	Juan Carlos Ier
+Súi-ngièn-sṳ	Suwon
+Sâm-sên Si̍p-thòn	Groupe Samsung
+Louis Couturat	Louis Couturat
+Thai-thièn Kóng-vet-sṳ	Daejeon
+Kîn-ki-tho	Gyeonggi
+Sṳ̂-khâm-tit-nâ-vì-â	Scandinavie
+Fu̍k-fa̍t-chiet	Pâques
+Thien-nó Khô-ho̍k	Informatique
+Koet-chi Yîm-phiêu	Alphabet phonétique international
+Hò-pet	Hebei
+Phú-lìm-sṳ̂-tun Thai-ho̍k	Université de Princeton
+Fôn-hìn-muk	Ciconiiformes
+Chhṳ̀n Súi-pién	Chen Shui-bian
+台灣	Taïwan (île)
+Chṳ-fi-hîn Sú-kî	Smartphone
+Sa̍k-yù	Pétrole
+Hài-è	Chaussure
+Ngiùn-hòng	Banque
+Ngièn-lun Chhṳ-yù	Liberté d'expression
+Oi-ngì-làn	Irlande (île)
+Cheshire	Cheshire (comté)
+Cumbria	Cumbria
+Lancashire	Lancashire
+Northumberland	Northumberland (comté)
+Tyne and Wear	Tyne and Wear
+County Durham	Durham (comté)
+Pet Yorkshire	Yorkshire du Nord
+Lincolnshire	Lincolnshire
+Nottinghamshire	Nottinghamshire
+Derbyshire	Derbyshire
+Merseyside	Merseyside
+Leicestershire	Leicestershire
+Rutland	Rutland
+Lû-sùn	Lu Xun (écrivain)
+Northamptonshire	Northamptonshire
+Devon	Devon (comté)
+Oxfordshire	Oxfordshire
+Wiltshire	Wiltshire
+Hampshire	Hampshire (comté)
+Buckinghamshire	Buckinghamshire
+Surrey	Surrey (comté)
+West Sussex	Sussex de l'Ouest
+East Sussex	Sussex de l'Est
+Kent	Kent
+Thai Lùn-tûn	Grand Londres
+7	7 (nombre)
+8	8 (nombre)
+Lu̍k-é	Cervidae
+Pên	Glace
+Chú ke Khì-tó-vùn	Notre Père
+Ngìn-lui-ho̍k	Anthropologie
+Fùng-hói	Mer Rouge
+Oi-tên-páu	Édimbourg
+Pha̍k-set	Blanc
+Marseille	Marseille
+Thai-chhûng-thèu	Oignon
+6	6 (nombre)
+Kôn-fông ngî-ngièn	Langue officielle
+Kháu-kú-ho̍k	Archéologie
+George H. W. Bush	George H. W. Bush
+Pâ-ngì-kòn pan-tó	Balkans
+Dmitry Medvedev	Dmitri Medvedev
+Entrena	Entrena
+Sîn-kau	Protestantisme
+Selena	Selena
+Mî-koet Thai-khûng Chúng-shu	National Aeronautics and Space Administration
+Thai Put-lie̍t-tiên-tó	Grande-Bretagne
+Pâ-le̍t-sṳ̂-thán	Palestine
+10	10 (nombre)
+Lila Downs	Lila Downs
+Lia̍p-pau	Guépard
+Cleveland (Yîn-koet)	Cleveland (Angleterre)
+Liverpool	Liverpool
+Bremen	Brême
+Sîn Nò-vî-ngî	Nynorsk
+Meu-thèu-tiâu	Strigiformes
+Sṳ̀	Heure
+Fap-lò-ngî	Féroïen
+Kîm-eu-sṳ	Cà Mau
+Meu-khô	Felidae
+Koet-chi Thai-khûng Chhàm	Station spatiale internationale
+Tà-la-sṳ	Đà Lạt
+Tat-tat-ngî	Tatar
+Tshûng-liông	Poids
+Tsûng-su	Phoenix dactylifera
+Fan-tshiet-sṳ	Phan Thiết
+Sî Fut-lî-sî-ngî	Frison (langue)
+Séu Vòng-chṳ́	Le Petit Prince
+Phiàng-fông kûng-tshak	Mètre carré
+Fó-yam-chhùng	Lampyridae
+Li̍p-fông kûng-tshak	Mètre cube
+Fàn-chiet-thûng-vu̍t-mùn	Annelida
+Chhú-khô	Muridae
+Lû-sêm-nì-â-ngî	Rusyn
+Ede (Hò-làn)	Ede (Pays-Bas)
+Fú-kîn	Orque
+Sâ-thi̍t-fut-lî-sî-ngî	Frison oriental
+Liû-khiù-koet	Royaume de Ryūkyū
+Pet-fut-lî-sî-â-ngî	Frison septentrional
+Â-mê-ha̍p-lâ-ngî	Amharique
+蝠婆	Chiroptera
+Tarnobrzeg	Tarnobrzeg
+Vòng Ti	Huángdì
+Tiau-ǹg-thòi Lie̍t-yí	Îles Senkaku
+Khiung-fò-tóng (Mî-koet)	Parti républicain (États-Unis)
+Â-sṳ̂-thù-lî-â-sṳ̂-ngî	Asturien
+中國	Monde chinois
+O-thi-li Pâ-vî-li-â-ngî	Bavarois
+Mìn-chú-tóng (Mî-koet)	Parti démocrate (États-Unis)
+Sàng-tû-sṳ	Chengdu
+Âi-sṳ̂-thi̍t-lùi-mâ-thu-lâ-ngî	Estrémègne
+Sàng-fà-khî	District de Chenghua
+Séu-su mìn-chhu̍k	Minorité
+Pô-lòi-kú	Pleiku
+Â-ha̍p-sṳ̂-vòng	Achaz
+Chûng-chû-sṳ	Chungju
+Yî-liàu Ví-sâng	Soins de santé
+Yòng-suk-yen	Xian de Yangshuo
+Khiet-là-khô-fû	Cracovie
+臺灣省	Province de Taïwan
+Pet-kîn Sú-tû Koet-chi Kî-chhòng	Aéroport international de Pékin
+Sîn-kâ-po Hòng-khûng Kûng-sṳ̂	Singapore Airlines
+Thien-nó Thôn-chhèn Só-mèu	Tomodensitométrie
+Vî-nî-sṳ̂-ngî	Vénitien
+Vû-lòi-khî	Wulai
+Koet-li̍p Thòi-vân Thai-ho̍k	Université nationale de Taïwan
+Vì-phú-sêm-ngî	Vepse
+Fu̍t-lò-ngî	Võro
+Pân-mâ	Zèbre
+Valery Leontiev	Valery Leontiev
+Khô-sî-kâ-ngî	Corse (langue)
+Buryat-ngî	Bouriate
+Sùn-tho-chûng	Méthodisme
+Suk-vú-ngî	Cebuano
+Chavacano-ngî	Chavacano
+Chûng-pí-khô-ngì-ngî	Bicolano central
+Tha̍t-lò-phî-thû Ngî-hì	Langues dravidiennes
+Ló-kiê-sṳ	Lào Cai
+客家語	Hakka (langue)
+Pet-nèn-sṳ	Bắc Ninh
+Liòng-sân-sṳ	Lạng Sơn
+Liùng-chhôn-sṳ	Long Xuyên
+Mî-tshiu-sṳ	Mỹ Tho
+Fut-liù-li-ngî	Frioulan
+Pâng-mî-tsuk	Buôn Ma Thuột
+Kàm-ngî	Gan (langue)
+Pok-vu̍t-kón	Musée
+Yin-thu Yî-lóng Ngî-chhu̍k	Langues indo-iraniennes
+Thai-yùng-meu	Panda géant
+Kalmyk-ngî	Kalmouk
+Mân-ngî	Mandchou
+Kû-li̍p ngî-ngièn	Isolat (linguistique)
+Kit-là-kî-ngî	Gilaki
+Khà-sû-pí-ngî	Cachoube
+Karachay-Balkar-ngî	Karatchaï-balkar
+Maguindanao-ngî	Maguindanao (langue)
+Lùn-pâ-tí-ngî	Lombard (langue)
+Sú	Main
+Thu fú	Du Fu
+Maranao-ngî	Maranao
+O-lî-â-ngî	Oriya
+Ngìn-khiéu	Population
+Nò-man-thi-ngî	Normand
+Pâng-â-sî-nâm-ngî	Pangasinan (langue)
+Nèn-phìn-sṳ	Ninh Bình
+Pet-sat-mí-ngî	Same du Nord
+O-set-thôi-ngî	Ossète
+Sî-sî-lî-ngî	Sicilien
+Sat-tên-nî-â-ngî	Sarde
+Nì-ngá-ngì-ngî	Nepalbhasha
+Valparaíso	Valparaiso
+Kóng-ngi-sṳ	Quảng Ngãi
+Yên-yèn	Acteur
+Thap-kâ-lo̍k-ngî	Tagalog
+Thùng	Bronze
+Tausūg-ngî	Tausug
+Vlaams-ngî	Flamand (dialecte)
+Fà-liùng-ngî	Wallon
+Sú-ngî	Langue des signes
+Międzyrzec Podlaski	Międzyrzec Podlaski
+Phiêu-chún Chhông-ngî	Tibétain
+Ngá-shuì-ngá-shuì-ngî	Waray-waray
+Yì-ku-tshu̍k	Yugur
+N̂g-ngî	Wu (langue)
+Woodrow Wilson	Woodrow Wilson
+Fu̍t-sân-sṳ	Foshan
+Ngiù-chîn Thai-ho̍k	Université d'Oxford
+Sú-tsṳ́	Doigt
+Sṳ̍p-thiàu Kie-min	Décalogue
+Yok-hon-nì-sṳ̂-páu	Johannesburg
+Kî-tuk Kau-fi	Église (institution)
+Pau-é	Léopard
+Sîn-kiông	Xinjiang
+Muk-kôa	Papayer
+Pu-lî-sṳ̂-pân	Brisbane
+Â-mî-ngî	Amis (langue)
+Vî-liâm Lùn-khìm	Wilhelm Röntgen
+Chû-chhèu	Dynastie Zhou
+Ido-ngî	Ido
+Brad Pitt	Brad Pitt
+Pa̍k-kiûng	Maison-Blanche
+Tha̍t-mâ-thai-ngî	Dalmate
+Tat-tat-chhu̍k	Tatars
+Kô-liáng-sṳ	Cao Lãnh
+Thai-fán-sṳ	Osaka
+Sên-khiù-ngî	Lingwa de planeta
+Kiam-khiâu Thai-ho̍k	Université de Cambridge
+Kûng-khín	Hectare
+Sé-lî	Baptême
+Pông-hâ	Asthme
+Chuk	Bambou
+Hiligaynon-ngî	Hiligaïnon
+Fù Tsṳ-mìn	Hô Chi Minh
+Thièn-piên-fú	Ðiện Biên Phủ
+Khûn-sṳ-làn-chû	Queensland
+Ha-liùng-sṳ	Hạ Long
+Kûi-yìn-sṳ	Quy Nhơn
+Mìn-nì-â-pô-li-sṳ̂	Minneapolis
+Li̍t-ka-sṳ	Rạch Giá
+Li-kú-lî-â-ngî	Ligure
+Phô-lò-chû	Bornéo
+Khà-phién-phién-kâm-ngî	Pampangan
+Vù-fâ-kó	Ficus carica
+Sun-fa-sṳ	Hué
+Tshòng-thu	Longueur
+Sṳ̂-chhù-chṳ̂-lu	Route de la soie
+Hói-yòng-sṳ	Hai Duong
+Mô-li-ngî	Maori de Nouvelle-Zélande
+Mên-tûng-ngî	Mindong
+Mên-pet-ngî	Minbei
+Tô-se-pâu sâng-vu̍t	Organisme multicellulaire
+Hîn-ôn-sṳ	Hưng Yên
+Mên-nàm-ngî	Minnan
+Tshiên-ngièn	Millénaire
+Ho̍k-miàng	Nom binominal
+Vì-tô-li-â-chû	Victoria (État)
+Chong-chhu̍k	Zhuang (ethnie)
+Sông-hói-fa	Shanghaïen
+Aung San Suu Kyi翁山蘇姬	Aung San Suu Kyi
+Tshèu-chû-fa	Teochew (dialecte)
+Yok-hon-fuk-yîm	Évangile selon Jean
+William Vòng-chṳ́	William de Cambridge
+Kâm-tsà	Canne à sucre
+Chhṳ̀n Kóng-sâng	Jackie Chan
+12	12 (nombre)
+Vok-là-phú-khiet-ngî	Volapük
+Toshiro Mifune	Toshirō Mifune
+Kám-lám-su	Olivier
+Só-lò-mùn-vòng	Salomon (Bible)
+O-khiet-làn	Auckland
+Chhṳ̍t-sien	Droite (mathématiques)
+11	11 (nombre)
+13	13 (nombre)
+Sûn-chṳ́	Sun Tzu
+Sṳn-lìn	Saint-Esprit
+Lû-pu-lìm	Lublin
+Thì-thèu	Arachide
+100	100 (nombre)
+Tshit-thèu	Genou
+Tô-piên-hìn	Polygone
+Nàm Chûng-koet Hói	Mer de Chine méridionale
+Campora San Giovanni	Campora San Giovanni
+Pien-set-liùng	Chamaeleonidae
+Bloemfontein	Bloemfontein
+Ngiam-set-thí	Chromosome
+O-khiet-làn Vùn-fap Ho̍k-káu	Auckland Grammar School
+Ngióng-kông	Rangoun
+Ma̍k-tông-lò Kûng-sṳ̂	McDonald's
+1000000	Million
+Meu-miàng-sṳ	Maoming
+Liú-chiu-sṳ	Liuzhou
+Pet-pan-khiù	Hémisphère nord
+Ló-chhú	Mus (genre)
+Thí-tsit	Volume
+Het-tsṳ̂	Hertz
+Pak-pân-khiet	Burbank (Californie)
+Sien-lia̍p-thí	Mitochondrie
+Yî-sên	Médecin
+Ki-sa̍k-chhṳn	Stonehenge
+Chúng-thí Kîn-chi-ho̍k	Macroéconomie
+Ágreda	Ágreda
+Lu-kâ-fuk-yîm	Évangile selon Luc
+Sîn Kí-nui-â	Nouvelle-Guinée
+Sṳ́-thù-hàng-chhon	Actes des Apôtres
+Mô-hái	Brachyura
+PH	Potentiel hydrogène
+Khì-tó	Prière
+Ôn-fui-sén	Anhui
+Chûng-chhîn Pet-tho	Chungcheong du Nord
+Chûng-chhîn Nàm-tho	Chungcheong du Sud
+Kông-ngièn-tho (Hôn-koet)	Gangwon
+Nui Mùng-kú	Mongolie-Intérieure
+Kîm Ngit-sṳ̀n	Kim Il-sung
+Chhái-na̍p Koet-chi Phú-chhu Ngî-ngièn Thoi-péu-thòn	Délégation pour l'adoption d'une langue auxiliaire internationale
+Pí-tet-kô-sṳ̍p	Bydgoszcz
+Nottingham	Nottingham
+Thai-ví-vòng	David (Bible)
+Li-vi-ki	Lévitique
+Sṳ̂-thán-fuk Thai-ho̍k	Université Stanford
+Fuk-kian	Fujian
+Kûng-khiet	Gramme
+Mùng-kú-tshu̍k	Mongols
+Khí-sṳ-liu̍k	Apocalypse
+Kong-lîn-sṳ	Gangneung
+Kiê-liùng-sṳ	Gyeryong
+Kô-yòng-sṳ	Goyang
+Kûng-chû-sṳ	Gongju
+Kó-chhôn-sṳ	Gwacheon
+Kông-mìn-sṳ	Gwangmyeong
+Kóng-chû-sṳ (Hôn-koet)	Gwangju (Gyeonggi)
+Kiú-lî-sṳ	Guri
+Kiûn-phú-sṳ	Gunpo
+Kîm-phú-sṳ	Gimpo
+Nàm-yòng-chû-sṳ	Namyangju
+Lun-sân-sṳ	Nonsan
+Thông-chîn-sṳ (Hôn-koet)	Dangjin
+Tûng-theu-chhôn-sṳ	Dongducheon
+Tûng-hói-sṳ (Hôn-koet)	Donghae
+Pó-nèn-sṳ	Boryeong
+Fu-chhôn-sṳ	Bucheon
+Sâm-chit-sṳ	Samcheok
+Shuì-sân-sṳ	Seosan
+Sàng-nàm-sṳ	Seongnam
+Suk-chhó-sṳ	Sokcho
+Sṳ́-hîn-sṳ	Siheung
+Ngà-sân-sṳ	Asan
+Ôn-sân-sṳ	Ansan
+Ôn-sàng-sṳ (Hôn-koet)	Anseong
+Ôn-yông-sṳ	Anyang (Corée du Sud)
+Yòng-chû-sṳ	Yangju
+Vû-sân-sṳ	Osan
+Ngièn-chû-sṳ	Wonju
+Ngi-vòng-sṳ	Uiwang
+Ngi-chṳn-fú-sṳ	Uijeongbu
+Li-chhôn-sṳ (Hôn-koet)	Icheon
+Thî-chhôn-sṳ	Jecheon
+Thiên-ôn-sṳ	Cheonan
+Chhîn-chû-sṳ	Cheongju
+Chhûn-chhôn-sṳ	Chuncheon
+Thai-pha̍k-sṳ	Taebaek
+Po-chû-sṳ	Paju
+Phìn-tshe̍t-sṳ	Pyeongtaek
+Phàu-chhôn-sṳ	Pocheon
+Hò-nàm-sṳ	Hanam
+Fà-sàng-sṳ	Hwaseong
+Buckingham Kiûng	Palais de Buckingham
+Hói-nàm	Haïnan
+Yén-tûng	Extrême-Orient
+Ngiên-kiu	Recherche scientifique
+Kâm-suk	Gansu
+Pha̍k Se-pâu	Leucocyte
+York	York
+Tsiú	Coude
+Sṳ̂n-min-ki	Deutéronome
+Sû-chû-sṳ	Suzhou
+Vûn-chû-sṳ	Wenzhou
+Windsor Sàng-páu	Château de Windsor
+Hòn-chhu̍k	Han (ethnie)
+Nèn-pô-sṳ	Ningbo
+Tet-koet-ngìn	Allemands
+Ko-men	Allergie
+Fù-khì	Hirudinea
+Kîm-yùng	Finance
+1000	1 000 (nombre)
+Mìn-su-ki	Livre des Nombres
+Liu̍k Khiet-vùn	Kevin Rudd
+Ngo̍k-ǹg	Crocodylidae
+Yùn-nàm	Yunnan
+Vû-â	Corvus
+Plymouth	Plymouth (Angleterre)
+Sân-tûng	Shandong
+Pí	Bras (segment de membre)
+Derby-sṳ	Derby (Angleterre)
+Thàn-khîn Fa-ha̍p-vu̍t	Hydrocarbure
+Hò-nàm	Henan
+Montehermoso	Montehermoso
+Liâu-nèn	Liaoning
+El Cid	Rodrigo Díaz de Vivar
+Jim Morrison	Jim Morrison
+Kóng-khiéu	Port
+Thòi-vân Thò-yèn Koet-chi Kî-chhòng	Aéroport international Taiwan Taoyuan
+Kit-lìm	Jilin
+Fù-nàm	Hunan
+Chhiâng-hói	Qinghai
+Vì-ngâ-ngì-tshu̍k	Ouïghours
+Rhône-sén	Rhône (département)
+Koet-kâ Kûng-yèn	Parc national
+Pâ-lì Charles-de-Gaulle Koet-chi Kî-chhòng	Aéroport de Paris-Charles-de-Gaulle
+Chṳ̂-sán	Actif (comptabilité)
+O-le̍t-liòng	Aurélien (empereur romain)
+Fù-pet	Hubei
+Sân-sî	Shanxi
+Hòng-khûng Kûng-sṳ̂	Compagnie aérienne
+Hò-khiéu-vân	Estuaire
+Chûng-set	Brun (couleur)
+Kui-chû	Guizhou
+Berkelland	Berkelland
+Chûng-khi Sṳ̀n-kîn Ne-thúng	Système nerveux central
+Yî-fut-só	Éphèse
+Ôn-tha̍t-màn Hói	Mer d'Andaman
+Yok-sû-â-ki	Livre de Josué
+Sî-pet Yîn-kak-làn	Angleterre du Nord-Ouest
+Shám-sî-sén	Shaanxi
+Tûng-pet Yîn-kak-làn	Angleterre du Nord-Est
+Tûng Midlands	Midlands de l'Est
+Tûng Yîn-kak-làn	Angleterre de l'Est
+Tûng-nàm Yîn-kak-làn	Angleterre du Sud-Est
+Sî-nàm Yîn-kak-làn	Angleterre du Sud-Ouest
+模板:Commonscat	Modèle:Commonscat
+Sî Midlands	Midlands de l'Ouest
+Yorkshire lâu Humber	Yorkshire-et-Humber
+Kòn Se-pâu	Cellule souche
+Lò-mâ-sû	Épître aux Romains
+Mâ-liuk-kap Hói-hia̍p	Détroit de Malacca
+Yù-thai Vòng-koet	Royaume de Juda
+Fî-yí Mî-koet Het-ngìn	Afro-Américains
+Mà-sat-chû-set Lî-kûng Ho̍k-yen	Massachusetts Institute of Technology
+Pô-sṳ-tun Thai-ho̍k	Université de Boston
+Yâ-lû Thai-ho̍k	Université Yale
+Lû-khái-ngî	Rukai (langue)
+Nàm-pet-chêu	Dynasties du Nord et du Sud
+Liû-Sùng	Dynastie Song du Sud (420-479)
+Fûn-lî	Noces
+Pan Chúng-thúng-chṳ	Régime semi-présidentiel
+Kâ-phìn-khiùn	District de Gapyeong
+Kô-sàng-khiùn (Hôn-koet)	District de Goseong (Gangwon)
+Fâi-sân-khiùn	District de Goesan
+Kím-sân-khiùn	District de Geumsan
+Tan-yòng-khiùn (Hôn-koet)	District de Danyang
+Po-ên-khiùn	District de Boeun
+Fù-yì-khiùn	District de Buyeo
+Sû-chhôn-khiùn	District de Seocheon
+Yòng-khiéu-khiùn	District de Yanggu
+Siong-yòng-khiùn	District de Yangyang
+Yòng-phìn-khiùn	District de Yangpyeong
+Lî-chû-sṳ	Yeoju
+Liên-chhôn-khiùn	District de Yeoncheon
+Yún-thùng-khiùn	District de Yeongdong
+Nèn-ye̍t-khiùn	District de Yeongwol
+Lî-sân-khiùn	District de Yesan
+Vok-chhôn-khiùn	District de Okcheon
+Yîm-sàng-khiùn	District de Eumseong
+Lîn-thài-khiùn	District de Inje
+Tsin-san-khiùn	District de Jeongseon
+Chên-phiàng-khiùn	District de Jeungpyeong
+Chṳ́n-chhôn-khiùn	District de Jincheon
+Thiet-ngièn-khiùn	District de Cheorwon
+Chhiâng-yòng-khiùn	District de Cheongyang
+Thai-ôn-khiùn	District de Taean
+Fùng-sàng-khiùn	District de Hongseong
+Fùng-chhôn-khiùn	District de Hongcheon
+Fà-chhôn-khiùn	District de Hwacheon
+Vàng-sàng-khiùn	District de Hoengseong
+Ên-phìn-sṳ	Eunpyeong-gu
+Fî-li̍p-pí-sû	Épître aux Philippiens
+Thiên-koet Pat-fuk	Béatitudes
+Mî-koet Lièn-pâng Chún-phi Ne-thúng	Réserve fédérale des États-Unis
+Kúai-é	Anoures
+Hâ Sî-lî-sî-â-sén	Voïvodie de Basse-Silésie
+Khù-â-vì - Pô-mî-là-nì-â-sén	Voïvodie de Couïavie-Poméranie
+Lû-pu-lìm-sén	Voïvodie de Lublin
+Lû-pu-sṳ̂-khà-sén	Voïvodie de Lubusz
+Lò-tsṳ-sén	Voïvodie de Łódź
+Séu Pô-làn-sén	Voïvodie de Petite-Pologne
+Mâ-tsó-fû-sá-sén	Voïvodie de Mazovie
+O-pô-lòi-sén	Voïvodie d'Opole
+Khak-ngì-pâ-yèn-sân-sén	Voïvodie des Basses-Carpates
+Pô-tet-là-chhia-sén	Voïvodie de Podlachie
+Pô-mî-là-nì-â-sén	Voïvodie de Poméranie
+Sî-lî-sî-â-sén	Voïvodie de Silésie
+Sṳn-sṳ̍p-sṳ-sén	Voïvodie de Sainte-Croix
+Sî Pô-mî-là-nì-â-sén	Voïvodie de Poméranie occidentale
+Pâ-lùn-sî-â-sén	Province de Valence
+Sat-là-kô-sat-sén	Province de Saragosse
+Vùi-sṳ̂-khà-sén	Province de Huesca
+Sok-lî-â-sén	Province de Soria
+Hien-thoi Khì-chhâ	Hyundai Motor
+Sûng-hâi-khî	Shuangxi
+Kîm Tsang-ên	Kim Jong-un
+Pu-nùng-ngî	Bunun (langue)
+Phû-sien-ngî	Puxian
+Kông-sî	Jiangxi
+Wernher von Braun	Wernher von Braun
+Nèn-ha	Ningxia
+Lí Hién-liùng	Lee Hsien Loong
+Kîm-fà-sṳ	Jinhua
+Thòi-chû-sṳ	Taizhou (Zhejiang)
+Phòng-châ-phú-ngî	Pendjabi
+Phú-sṳ̍p-thok-ngî	Pachto
+Yâ-chû	Sanglier
+Chû-hói-sṳ	Zhuhai
+Sân-thèu-sṳ	Shantou
+Shâu-kûan-sṳ	Shaoguan
+Kông-mùn-sṳ	Jiangmen
+Chhám-kông-sṳ	Zhanjiang
+Shàu-khin-sṳ	Zhaoqing
+Fi-chiu-sṳ	Huizhou
+Mòi-chiu-sṳ	Meizhou
+San-mî-sṳ	Shanwei
+Hò-ngièn-sṳ	Heyuan
+Yòng-kông-sṳ	Yangjiang
+Chhîn-yén-sṳ	Qingyuan
+Tûng-kôn-sṳ	Dongguan
+Chûng-sân-sṳ	Zhongshan
+Chhèu-chiu-sṳ	Chaozhou
+Thiên-tén-yen	Xian de Tiandeng
+Liùng-chiu-yen	Xian de Longzhou
+Nèn-mìn-yen	Xian de Ningming
+Thai-sîn-yen	Xian de Daxin
+Mâ-liuk-kap-sṳ	Malacca (ville)
+Khiâu-chhṳ-sṳ	George Town (Penang)
+IPhone 5	IPhone 5
+Nàm-Chhî	Dynastie Qi du Sud
+Mèu-li̍t-yen	Comté de Miaoli
+Sṳn-chhôn-lî	Eucharistie
+Fuk-chiu-sṳ	Fuzhou
+Nàm-phìn-sṳ	Nanping
+Phû-thièn-sṳ	Putian
+Sâm-mìn-sṳ	Sanming
+Tshièn-chiu-sṳ	Quanzhou
+Hà-mûn-sṳ	Xiamen
+Chông-chiu-sṳ	Zhangzhou
+Liùng-ngâm-sṳ	Longyan
+Nèn-tet-sṳ	Ningde
+Sî-pak-li-â Fú	Tigre de Sibérie
+Thiên-ngô-yen	Xian de Tian'e
+Nàm-tan-yen	Xian de Nandan
+Fung-sân-yen	Xian de Fengshan
+Tûng-làn-yen	Xian de Donglan
+Buren	Buren (Gueldre)
+Sîn-chuk-yen	Comté de Hsinchu
+Nó	Encéphale
+Thông Ngiâ-mong	Johann Adam Schall von Bell
+Yáng-chhiong Chín-thôn-ho̍k	Radiologie médicale
+Rumia	Rumia (Pologne)
+Kluczbork	Kluczbork
+La̍p-tsuk	Bougie
+Hiet-chiong	Plasma sanguin
+Southampton	Southampton
+Lu-tet-ki	Livre de Ruth
+Hâ-sat-khiet-chhu̍k	Kazakhs
+Yòng-mî	Anisoptera
+Chit-fûn-ho̍k	Intégration (mathématiques)
+Kô-lìm-tô-chhièn-sû	Première épître aux Corinthiens
+Sî-pân-ngà Ti-koet	Empire espagnol
+Pha̍k-yùn-khî (Kóng-chiu-sṳ)	District de Baiyun (Guangzhou)
+Sṳ-sṳ̂-ki	Livre des Juges
+Po-lîn-chhòi	Épinard
+Pâ-set-lò-nâ-sén	Province de Barcelone
+Nàm-thèu-yen	Comté de Nantou
+Liuk-piên-hìn	Hexagone
+Thòi-pet 101	Taipei 101
+Lùn-tûn Thap-khiâu	Tower Bridge
+Luì-kûng	Tonnerre
+Siù-li Yún-kòn-sien-chhùng	Caenorhabditis elegans
+O-pô-lòi	Opole
+Sopot	Sopot
+Â-sṳ̂-thù-lî-â-sṳ̂-sén Chhṳ̍t-hot-sṳ	Liste des communes des Asturies
+Kám-lám-yù	Huile d'olive
+Chim-sin-fi	Baptisme
+Lie̍t-yî-tha̍t-sén Chhṳ̍t-hot-sṳ	Liste des communes de la province de Lleida
+Vú-yî-sân-sṳ	Wuyishan
+Set-vì-li-â-sén	Province de Séville
+Thap-là-kô-na̍p-sén	Province de Tarragone
+Provence-sén	Provence
+Kî-hài Kûng-chhàng	Génie mécanique
+Apeldoorn	Apeldoorn
+Lìm-pó-ngî	Limbourgeois
+Khái-ngì-chhái	Kielce
+Bytom	Bytom
+Ôn-sit-ngit	Chabbat
+Khìm-sṳ̂-thok-khok-ngá	Częstochowa
+Zabrze	Zabrze
+Ôn-sit-ngit-fi	Église adventiste du septième jour
+Jean Michel Jarre	Jean Michel Jarre
+Thai Pô-làn Thi-khî Kô-yî-fû	Gorzów Wielkopolski
+Là-tô-mê	Radom
+Lo̍k-chham-ki-yen	Comté de Los Angeles
+Słupsk	Słupsk
+Sosnowiec	Sosnowiec
+Gliwice	Gliwice
+Yo̍k-sṳ̂	Pharmacien
+Hi-kôn Yì-chhṳ̍t	Greffe (médecine)
+Pâ-lùn-sî-â-sén Chhṳ̍t-hot-sṳ	Liste des communes de la province de Valence
+Bielsko-Biała	Bielsko-Biała
+Rybnik	Rybnik
+Tân-fu̍t Se-pâu	Monocyte
+Mâ-khó-fuk-yîm	Évangile selon Marc
+Ruda Śląska	Ruda Śląska
+Yok-thán-vòng	Jotham (roi)
+Thò-yèn-yen	Comté de Taoyuan
+Nò-mí	Riz gluant
+Kîn-tû-fú	Préfecture de Kyoto
+Kau-su	Professeur (titre)
+Thai-fán-fú	Préfecture d'Osaka
+Fuk-kông-yen	Préfecture de Fukuoka
+Oi-yèn-yen	Préfecture d'Ehime
+Kô-lìm-tô-heu-sû	Deuxième épître aux Corinthiens
+Khien-mî	Culturisme
+Chhùng-hièn	Lumbricina
+Port Elizabeth	Port Elizabeth
+Kimberley (Nàm-fî)	Kimberley (Afrique du Sud)
+Yok-sâ-fap-vòng	Josaphat (Juda)
+Thòi-vân Hói-hia̍p	Détroit de Taïwan
+Sî Khôi-phú-sén	Cap-Occidental
+Yamaguchi-yen	Préfecture de Yamaguchi
+Khiâu-chhṳ Sâm-sṳ	George III (roi du Royaume-Uni)
+Chûng-koet Thi-fông	Région de Chūgoku
+Mî-koet Thu̍k-li̍p Siên-ngièn	Déclaration d'indépendance des États-Unis
+Sâm-tshûng-yen	Préfecture de Mie
+Yù-mu̍k mìn-chhu̍k	Nomadisme
+Hiông-pak-su	Cèdre
+Hî-pak-lòi-sû	Épître aux Hébreux
+Kâ-lâ-thai-sû	Épître aux Galates
+Màn-é	Anguilliformes
+Sông-chhèu	Dynastie Shang
+Thai-thúi	Cuisse
+Pîn-khù-yen	Préfecture de Hyōgo
+Kiûng-khì-yen	Préfecture de Miyazaki
+Yùng-pún-yen	Préfecture de Kumamoto
+Fò-phìn-sṳ	Hòa Bình
+Stamford Raffles	Thomas Stamford Raffles
+Sha̍m-é	Cicadidae
+Tûng Khôi-phú-sén	Cap-Oriental
+Fap-koet Hòng-khûng	Air France
+Lie̍t-vòng-ki-song	Premier livre des Rois
+Kô-lò-sî-sû	Épître aux Colossiens
+Ngâ-kok-sû	Épître de Jacques
+Yok-hon-yit-sû	Première épître de Jean
+Fî-li-mùn-sû	Épître à Philémon
+Thiap-sat-lò-nì-kâ-heu-sû	Deuxième épître aux Thessaloniciens
+Thiap-sat-lò-nì-kâ-chhièn-sû	Première épître aux Thessaloniciens
+Pí-tet-chhièn-sû	Première épître de Pierre
+Thì-mô-thai-chhièn-sû	Première épître à Timothée
+Lí Kông-yeu	Lee Kuan Yew
+Chṳ̂-kâ-kô Thai-ho̍k	Université de Chicago
+Tsṳ̂-fo-yen	Préfecture de Shiga
+Mu-nì-het Kî-chhòng	Aéroport de Munich-Franz-Josef Strauss
+Yok-hon-ngi-sû	Deuxième épître de Jean
+Thì-mô-thai-heu-sû	Deuxième épître à Timothée
+Thì-tô-sû	Épître à Tite
+Yî-sṳ̂-lâ-ki	Livre d'Esdras
+Nì-hî-mí-ki	Livre de Néhémie
+Pietersburg	Pietersburg
+Séu Pha̍k-Lù	Aigrette garzette
+Chhòn-ngiam-phiang	Maladie infectieuse
+Kôn-yàm	Hépatite
+Chhûn-chiet	Nouvel an chinois
+Shinzō Abe	Shinzō Abe
+Mpumalanga-sén	Mpumalanga
+Pet Khôi-phú-sén	Cap-du-Nord
+Tó-kîn-yen	Préfecture de Shimane
+Kông-sân-yen	Préfecture d'Okayama
+Gauteng-sén	Gauteng
+Thung-fûng	Goutte (maladie)
+Chông-fa-yen	Comté de Changhua
+Thai-fûn-yen	Préfecture d'Ōita
+Tiâu-tshí-yen	Préfecture de Tottori
+Nùng-la̍k	Calendrier chinois
+Kô-tî-yen	Préfecture de Kōchi
+Pha̍k-hèu	Diphtérie
+Exeter	Exeter
+Saint Lawrence-hò	Fleuve Saint-Laurent
+Limpopo-sén	Limpopo (province)
+Kô-tén Kau-yuk	Études supérieures
+Sân-tá-kîn	Sandakan
+Â-pí	Kota Kinabalu
+Ngi̍t-pún thúng-tshṳ sṳ̀-thoi (Thòi-vân)	Taïwan sous domination japonaise
+Phok Kiún-fi	Park Geun-hye
+Berthierville, Québec	Berthierville
+Lévis	Lévis
+Thòi-nàm-sṳ	Tainan
+Laval (Québec)	Laval (Québec)
+Charlemagne, Québec	Charlemagne (Québec)
+Mâ-lòi Pô-lî-nì-sî-â Ngî-chhu̍k	Langues malayo-polynésiennes
+Fên-yòng-sṳ	Hengyang
+Pet-lûn-khî	District de Beilun
+Mân-chiu-tshu̍k	Mandchous
+Zambrów	Zambrów
+Doetinchem	Doetinchem
+Zamość	Zamość
+Malbork	Malbork
+Groesbeek	Groesbeek
+Mì-chit-fûn-ho̍k	Calcul infinitésimal
+Ngo̍k-yòng-sṳ	Yueyang
+BP	BP (entreprise)
+Sú-thiàu	Frite
+Yùn-lìm-yen	Comté de Yunlin
+Kiok-tsṳ́	Orteil
+Vî-liâm Â-li̍t-sân-thai (Hò-làn)	Willem-Alexander (roi des Pays-Bas)
+Krasnystaw	Krasnystaw
+Sî-fù-khî (Hông-chû-sṳ)	District de Xihu (Hangzhou)
+Vì-tô-li-â Kóng	Victoria Harbour
+Sî-kung-khî	Sai Kung (district)
+Mâ-nâ-sî-vòng	Manassé (Juda)
+Kî-kîm-fi	Fondation (institution)
+A-hîn Kôn-yàm	Hépatite A
+Yù-tsiâm-vong-khî	Yau Tsim Mong (district)
+Fûng-sái	Plaqueminier
+Tshṳ̍t-tshòng	Rectum
+Chhṳ-yù Pâng-sén	État-Libre
+Tsó-fo-yen	Préfecture de Saga
+Tet-tó-yen	Préfecture de Tokushima
+Fu̍t-chhṳ̂ Khiung-chṳn Sṳ̀n-siong	Imagerie par résonance magnétique
+Hiông-tshon-yen	Préfecture de Kagawa
+Reading, Berkshire	Reading (Berkshire)
+Kâ-chû Lî-kûng Ho̍k-yen	California Institute of Technology
+Vì-ngì-tshṳ-páu Thai-ho̍k	Université de Wurtzbourg
+Fên-yòng-yen	Xian de Hengyang
+Êu-kí-lî-tet Kí-hò	Géométrie euclidienne
+Si̍t-kuk	Silicon Valley
+Barneveld	Barneveld
+Khiu Tha̍t-sîn	Thaksin Shinawatra
+Thòi-sân-sṳ	Taishan (Guangdong)
+Lièn-phìn-yen	Xian de Lianping
+Kîm-kôa	Citrouille
+Thai Sùn-thâ Khiùn-tó	Grandes îles de la Sonde
+Elburg	Elburg
+Doesburg	Doesburg
+Sî-pet-sén	Nord-Ouest (Afrique du Sud)
+Sien-thon	Segment (mathématiques)
+Kâ-ngi-yen	Comté de Chiayi
+Vûn-tai	Climat tempéré
+Â-kûng	Aïeul
+Thai-khi̍t-khièn	Tai-chi-chuan
+Kiok-khwá	Cheville (anatomie)
+Hò-làn Tâi-thi Sat-khiet-sùn-ngî	Bas saxon
+Pân-kiêu-é	Tourterelle des bois
+Tshòng-khì-yen	Préfecture de Nagasaki
+Hà-chhèu	Dynastie Xia
+Chû-vì Sṳ̀n-kîn Ne-thúng	Système nerveux périphérique
+Lùn-tûn Thai-ho̍k	Université de Londres
+Kip-sú	Série (mathématiques)
+Nelspruit	Nelspruit
+Sâ-là-ye̍t-chû	Sarawak
+Â-chû Thai-phìn-yòng Kîn-tsi Ha̍p-tsok Fi-ngi	Coopération économique pour l'Asie-Pacifique
+Kôan-chiet-yàm	Arthrite
+Geldermalsen	Geldermalsen
+Ngò-piên Yì-chhu̍k Chhṳ-chhṳ-yen	Xian autonome yi d'Ebian
+Chûng-la̍k-sṳ	Chungli
+Montauban	Montauban
+Chhòng-sâ-sṳ	Changsha
+Thai Put-lie̍t-tiên lâu Oi-ngì-làn Lièn-ha̍p Vòng-koet	Royaume-Uni de Grande-Bretagne et d'Irlande
+Kiok-kiên	Talon (anatomie)
+Kûng-fûn	Centimètre
+Lièn-ha̍p Hòng-khûng	United Airlines
+Yen-thèu	Pharynx
+Hò-mí	Millimètre
+Tsûng-tsang-khî (Thòi-pet-sṳ)	District de Zhongzheng
+Mì-mí	Micromètre
+Pâ-mâ Yâu-chhu̍k Chhṳ-chhṳ-yen	Xian autonome yao de Bama
+Khi̍t-han (Sú-ho̍k)	Limite (mathématiques)
+Theu-fú	Tofu
+Phù-sat	Bodhisattva
+Chóng-ló Kau-fi	Presbytérianisme
+Hien-thoi Veloster	Hyundai Veloster
+Pâ-chûng-sṳ	Bazhong
+Fu̍t-kông-yen	Xian de Fogang
+Sâ-pâ-chû	Sabah
+Nàm-nèn-sṳ	Nanning
+Ngâ-li-ôn-ngìn	Aryens
+Yù-sṳn-mî-thi Koet-kâ Kûng-yèn	Parc national de Yosemite
+Chhiâng-set	Cyan
+Ho̍k-yen	Faculté (éducation)
+Kô-hiùng-sṳ	Kaohsiung
+Pet-mî Chhṳ-yù Mo-yi Hia̍p-ngi	Accord de libre-échange nord-américain
+Sû-kak-làn-ngìn	Écossais (peuple)
+Rustenburg	Rustenburg (Afrique du Sud)
+Yen-tsong-fui	Concert
+Yù-fu̍t-chû	Johor
+Ngò-lò-sṳ̂ Lièn-pâng Chhṳ̍t-hot-sṳ	Villes fédérales de Russie
+Fì-tshu̍k	Hui (ethnie)
+Sha̍k-sṳ	Master (diplôme ou grade universitaire)
+Preston, Lancashire	Preston (Lancashire)
+Sî-tí-kâ-vòng	Sédécias
+Sâm-koet	Trois Royaumes de Chine
+Chhûn-chhiû Sṳ̀-khì	Période des Printemps et Automnes
+Chan-koet Sṳ̀-khì	Période des Royaumes combattants
+Mâ-liuk-kap-chû	Malacca (État)
+Pietermaritzburg	Pietermaritzburg
+Sú-vón	Poignet
+Kit-làn-tan-chû	Kelantan
+Tshông-tshu̍k	Tibétains
+Pîn-sàng-chû	Penang
+Blackburn	Blackburn
+Chûng-sin Pha̍k-hiet-khiû	Granulocyte neutrophile
+Pâng-kâ-tó	Bangka
+Phìn-chhông-khiùn	District de Pyeongchang
+Thai-koet Koet-chi Hòng-khûng Kûng-sṳ̂	Thai Airways International
+Thai Ngi̍t-pún Ti-koet	Empire du Japon
+Hiûng-nù	Xiongnu
+Phit-li̍t-chû	Perak
+Lùn-tûn Ti-koet Ho̍k-yen	Imperial College London
+Tsen-sàng-sṳ	Zengcheng
+Kui-lìm-sṳ	Guilin
+Siet-làn-ngô-chû	Selangor
+Tui-kok-sien	Diagonale
+Fi-li-phi Liuk-sṳ	Felipe VI
+Kûng-tún	Tonne
+Phàng-hên-chû	Pahang
+中國象棋	Xiangqi
+Pit-sṳn-hak	Pizza Hut
+Yim-suk Siáu-tsṳ́	Sonic
+Ngo̍k-vûn-khiet-tshu̍k	Evenks
+Kiu-ên	Salut (théologie)
+Nàm-kîn Thai-thù-sat	Massacre de Nankin
+Yún Chṳ-Hau	Yun Chi-ho
+Phì-mí	Picomètre
+Chûng-koet 2010-ngièn Sông-hói Sṳ-kie Pok-lám-fi	Exposition universelle de 2010
+Ngiù-ngiuk	Viande bovine
+Carlisle, Cumbria	Carlisle (Cumbria)
+Sandomierz	Sandomierz
+Ngit-tèu-kông	Rayonnement solaire
+Khwon-kûan-tsiet	Hanche
+Fûn-kî-hon-khiûn	Mycobacterium
+Chàu-yòng-sṳ	Shaoyang
+Phìn-tûng-yen	Comté de Pingtung
+Chông-fa-sṳ	Changhua
+Chông-phìn-sṳ	Zhangping
+Chông-kâ-kie-sṳ	Zhangjiajie
+Tsàu-ôn-yen	Xian de Zhao'an
+Chau-phìn-yen	Xian de Zhaoping
+Chṳ Sṳ̀n-kûng	Koxinga
+Tsṳn-fò-yen	Xian de Zhenghe
+Chin-siong-khî	District de Zhengxiang
+Chṳ́n-hói-khî (Nèn-pô-sṳ)	District de Zhenhai
+Tsà-yùng-yen	Xian de Zherong
+Chûng-fò-khî	Chungho
+Chûng-kông-yen	Xian de Zhongjiang
+Chung-sân-yen	Xian de Zhongshan
+Tsû-nèn-yen	Xian de Zhouning
+Chon-hiuk	Zhuanxu
+Chu-chû-sṳ	Zhuzhou
+Nàm-sâ-khî	District de Nansha
+Kûng-tshun	Décimètre
+McGill Thai-ho̍k	Université McGill
+Sâm-fòng Ńg-ti	Les trois Augustes et les cinq Empereurs
+Sanok	Sanok
+Tsṳ́-kîm-yen	Xian de Zijin
+Chhṳ-liù-chiáng-khî	District de Ziliujing
+Mâ-tshâ	Char
+Milton Keynes	Milton Keynes
+Â-mî-tshu̍k	Amis
+Ên-tién	Grâce (christianisme)
+Hiong-sàng-khî	District de Xiangcheng (Zhangzhou)
+Hî-lìn-tên-khî	Borough londonien de Hillingdon
+Chṳ̂-hîn-sṳ	Zixing
+Chṳ̂-yòng-sṳ	Ziyang
+Chṳ̂-ngièn-yen	Xian de Ziyuan
+Sṳ̀n-chhùng	Imago
+Chang Thien-chṳ́ Fat-sa Kie-son-kî Thôn-chhèn Só-mèu	Tomographie par émission de positons
+Przemyśl	Przemyśl
+Chhiòn-khiû Sàng-sṳ	Ville mondiale
+Pî-mí	Femtomètre
+Burnley	Burnley
+Tûng Lùn-tûn, Tûng Khôi-phú-sén	East London
+Sat-mû-ngí-ki-ha	Deuxième livre de Samuel
+Li̍t-thoi-chṳ-ha	Deuxième livre des Chroniques
+Lie̍t-vòng-ki-ha	Deuxième livre des Rois
+Biała Podlaska	Biała Podlaska
+Pet-hói-sṳ	Beihai (Guangxi)
+Mafikeng	Mahikeng
+Mí-sâ-yên Khiùn-tó	Visayas
+Lò-pô-ôn-vòng	Roboam
+Slough	Slough
+Thì-mô-thai	Timothée d'Éphèse
+Chho̍k-sṳ̂-lia̍p	Centromère
+Tûng-hò, Néu-yok-sṳ	East River (New York)
+Chhêu-fông-hìn	Hypercube
+Sêm-mî-làn-chû	Negeri Sembilan
+Brzeg	Brzeg
+Fidel Valdez Ramos	Fidel V. Ramos
+Łomża	Łomża
+Siong-thâm-sṳ	Xiangtan
+Thûng-tshu̍k	Dong (ethnie)
+Pak-fo Kûng-sṳ̂	Grand magasin
+Thòi-vân Ngièn-tshu-mìn	Autochtones de Taïwan
+騷靈現象	Poltergeist
+Tha̍t-vat-ngì-tshu̍k	Daur
+Na̍p-sî-tshu̍k	Naxi
+Outaouais	Outaouais (Québec)
+Kuî-é	Tortue
+Pak-sâ-sat	Balthazar (roi)
+Tshièn-pí	Avant-bras
+Yî-set-lie̍t Vòng-koet	Royaume d'Israël
+Tshòn-fì Yâ-lu-sat-lâng Yun-thung	Back to Jerusalem
+Sîn-sân-sṳ	Johor Bahru
+Khiu-kîm-sân Vân	Baie de San Francisco
+Li Mâ-teu	Matteo Ricci
+Tshài Yîn-vùn	Tsai Ing-wen
+Chełm	Chełm
+Pha̍k-ngìn	Blanc (humain)
+Â-ha̍p-vòng	Achab (roi)
+Suwałki	Suwałki
+Ngì-làn-yen	Comté de Yilan
+Sî-làn-ngî	Zélandais
+Epe	Epe (Gueldre)
+Maidenhead	Maidenhead
+Chû Khiet-lùn	Jay Chou
+Winburg	Winburg
+Kiú-liùng	Kowloon
+Nâ-pô-nì-tha̍t	Nabonide
+Kiap-kông-yen	Xian de Jiajiang
+Hâ-phú-yen	Xian de Xiapu
+Ngie-mí-li-ôn Lò-mâ-nok-ngî	Émilien-romagnol
+Sîn-pet-sṳ	Nouveau Taipei
+Hî-sî-kâ-vòng	Ézéchias
+Thòi-chûng-sṳ	Taichung
+IPhone 4S	IPhone 4s
+Jędrzejów	Jędrzejów
+Fâ-lièn-yen	Comté d'Hualien
+Kîm-mùn-yen	Jinmen
+Thòi-tûng-yen	Comté de Taitung
+Sîn-chuk-sṳ	Hsinchu
+Kâ-ngi-sṳ	Chiayi
+Kî-lùng-sṳ	Keelung
+Pet-thèu-khî (Thòi-pet-sṳ)	District de Beitou
+Thai-ôn-khî (Thòi-pet-sṳ)	District de Daan
+Sṳ-lìm-khî (Thòi-pet-sṳ)	District de Shilin
+Busko-Zdrój	Busko-Zdrój
+Àu-thai-li-â Ngièn	Dollar australien
+Thùng-lû-yen	Xian de Tonglu
+Fuk-tshîn-sṳ	Fuqing
+Mò Chhiang-li ke Thung-vu̍t	Religion et alimentation
+Nyèn-sân-khî	District de Yanshan
+Kroonstad	Kroonstad
+Chṳ́-khiâu-khiùn	District de Cau Giay
+Ngo̍k-thòng-khî	District de Yuetang
+Hon-ho̍k	Sinologie
+Thai-thùng-khî (Thòi-pet-sṳ)	District de Datong
+Nàm-kóng-khî (Thòi-pet-sṳ)	District de Nangang
+Nui-fù-khî (Thòi-pet-sṳ)	District de Neihu
+Tshiùng-sân-khî (Thòi-pet-sṳ)	District de Songshan (Taipei)
+Van-fà-khî (Thòi-pet-sṳ)	District de Wanhua
+Vùn-sân-khî (Thòi-pet-sṳ)	District de Wenshan
+Sin-ngi-khî (Thòi-pet-sṳ)	District de Xinyi
+Tsûng-sân-khî (Thòi-pet-sṳ)	District de Zhongshan (Taipei)
+Yî-pó-sṳ	Ipoh
+Ná-pô-pha-lâ-sâ-ngì	Nabopolassar
+Â-pí-ngâ-vòng	Abijam
+Sûn N̂g	Royaume de Wu
+Pha̍k-chhu̍k	Bai (ethnie)
+Pińczów	Pińczów
+Aalten	Aalten
+Xuxa	Xuxa
+Hajnówka	Hajnówka
+Phiâng-sân-sîn-khî	Nouveau district de Pingshan
+Chàu-tûng-yen	Xian de Shaodong
+Lai-phú-yen	Xian de Lipu
+Lubartów	Lubartów
+Hâu-kông-khî	District de Haojiang
+Yòng-sân-yen	Xian de Yangshan
+Kông-mìn-sîn-khî	Nouveau district de Guangming
+Montréal-tó	Île de Montréal
+IPhone 3GS	IPhone 3GS
+IPhone 4	IPhone 4
+IPhone 3G	IPhone 3G
+Alan Dawa Dolma	Alan Dawa Dolma
+Tûng-Chìn	Dynastie Jin de l'Est
+Mâ-lòi-sî-â Hòng-khûng	Malaysia Airlines
+Lì-tshu̍k	Li (ethnie)
+Chûng-sî-khî (Hiông-kóng)	Central and Western
+Mí-nâ-hien-vòng	Menahem (Roi d'Israël)
+Â-ha̍p-chhia-vòng (Yî-set-lie̍t)	Ochozias (Israël)
+Â-ha̍p-chhia-vòng (Yù-thai)	Ochozias (Juda)
+Yok-làn-vòng (Yù-thai)	Joram (Juda)
+Â-sat-li-ngâ	Ozias
+Peter Nalitch	Peter Nalitch
+Yâ-lò-pô-ôn yit-sṳ	Jéroboam Ier
+Am-li-vòng	Omri
+Nâ-tap-vòng	Nadab
+Pâ-sâ-vòng	Baasa
+Yâ-fu-vòng	Jéhu
+Yok-sî-â-vòng	Josias
+Yok-â-sṳ̂-vòng (Yù-thai)	Joas (Juda)
+Sîm-li-vòng	Zimri
+Yâ-lò-pô-ôn ngi-sṳ	Jéroboam II
+Yî-vi-mí-lò-tha̍t	Amel-Marduk
+Â-mâ-chhia-vòng	Amasias
+Yî-sṳ̂-pô-sat-vòng	Ishboshet
+N̂g Chok-tùng	Goh Chok Tong
+Â-sat-vòng	Asa (Juda)
+Â-mùn-vòng	Amon (Juda)
+Chong Koet-yùng（Chong Fat-chûng）	Leslie Cheung
+Lí Tên-Fî	Lee Teng-hui
+Yî-lâ-vòng	Éla
+Yok-ngâ-kin-vòng	Joaqim (roi de Juda)
+Hò-se-â-vòng	Osée (roi)
+Yok-ngâ-kîn-vòng	Joachin (roi de Juda)
+Biłgoraj	Biłgoraj
+Chhî Chai-Phit	Philip Jaisohn
+Puławy	Puławy
+Chuk Hon	Royaume de Shu
+Chhâu Ngùi	Royaume de Wei
+Abitibi-Témiscamingue	Abitibi-Témiscamingue
+Staszów	Staszów
+Mò-tóng-sit	Sans étiquette
+Iwakuni-sṳ	Iwakuni
+Soi-ha-tshu̍k	Saisiyat (ethnie)
+Kâu-thûng kûng-khí	Mode de transport
+Phok Hièn-yún	Pak Hon-yong
+Sat-kâ-li-ngâ-vòng	Zacharie (roi d'Israël)
+Yok-ha̍p-sṳ̂-vòng	Joachaz (Israël)
+Fùng Siù-chhiòn	Hong Xiuquan
+Yok-â-sṳ̂-vòng (Yî-set-lie̍t)	Joas (Israël)
+Yok-làn-vòng (Yî-set-lie̍t)	Joram (Israël)
+Pí-kâ-vòng	Peqah
+Sâ-liùng-vòng	Shallum
+Pí-kâ-hot-vòng	Peqahya
+Khiu Sṳ̀n-thûng	Shing-Tung Yau
+Fùng Puk-kím Kiê	Faisan doré
+Grajewo	Grajewo
+Sat-lâ-tshu̍k	Salar (ethnie)
+Yok-ha̍p-sṳ-vòng	Joachaz (Juda)
+Sîn-tiam-khî	Xindian
+Łapy	Łapy (ville)
+Chhiâng-pa̍k-kông-khî	District de Qingbaijiang
+瑤族	Yao (peuple d'Asie)
+Thú-sàng-khî	Tucheng
+Sîn-chông-khî	Hsinchuang
+Hagi-sṳ	Hagi
+Wong Hi-zi	Wang Xizhi
+Meu-nàm-khî	District de Maonan
+Chûng-chhiû-chiet	Fête de la mi-automne
+Nài-lî-kak-li-sâ-ngì	Nériglissar
+Fùng-theu	Haricot azuki
+Łuków	Łuków
+Łęczna	Łęczna
+Świdnik	Świdnik
+Pô-sṳ̂ Ti-koet	Achéménides
+Nagato-sṳ	Nagato (ville)
+Sî-lìm-yen	Xian de Xilin
+Mâ-thai-fuk-yîm	Évangile selon Matthieu
+Sṳ̍p-sṳ-ka	Croix (christianisme)
+Â-chû Hòng-khûng X	AirAsia X
+Â-chû Hòng-khûng	AirAsia
+Yî-fut-só-sû	Épître aux Éphésiens
+Sòng-tet-sṳ	Changde
+Yit-yòng-sṳ	Yiyang
+Chhim-chû-sṳ	Chenzhou
+Tshî Kông-khí	Xu Guangqi
+Súi-nèn-sṳ	Suining
+Nui-kông-sṳ	Neijiang
+Tha̍t-chû-sṳ	Dazhou
+Ngá-ôn-sṳ	Ya'an
+10000	10 000 (nombre)
+Fú-kûa	Momordica charantia
+Fún-fùng-set	Rose (couleur)
+Nâ-sat-le̍t	Nazareth
+Yî-tshu̍k	Yi (ethnie)
+Mî-koet Kûng-lî-fi Chhâ-fi	American Board of Commissioners for Foreign Missions
+Â-thâ-li-ngâ	Athalie
+Augustów	Augustów
+Windsor, Berkshire	Windsor (Angleterre)
+Kô Khô-kî	Techniques de pointe
+Tai Tet-sâng	Hudson Taylor
+Hòn Hòn	Han Han
+Tczew	Tczew
+Hâ-nì-tshu̍k	Hani
+Thòi-nàm-yen	Comté de Tainan
+Fù-chṳ-mìn-sṳ Kî-chhòng	Aéroport international de Tân Sơn Nhất
+Hien-thoi Accent	Hyundai Accent
+Hien-thoi Sonata	Hyundai Sonata
+Hien-thoi Elantra	Hyundai Elantra
+Hien-thoi Equus	Hyundai Equus
+Vû-tsṳ-phe̍t-khiet-chhu̍k	Ouzbeks
+Hien-thoi Genesis Coupé	Hyundai Genesis Coupe
+Thap-kit-khiet-tshu̍k	Tadjiks
+Wal-Mart Kûng-sṳ̂	Walmart
+緋彈个婭里婭	Hidan no Aria
+Yùn-tôn yun-son	Cloud computing
+Ńg-sùn-chiet Yun-thung	Pentecôtisme
+Liu̍k-theu	Haricot mungo
+Chêu-siên-chhu̍k	Coréens
+Khúa-ngì-khiet-tsṳ-tshu̍k	Kirghizes
+Burgo de Osma-Ciudad de Osma	El Burgo de Osma
+Sông-hói Ha̍p-tsok Tsû-tsṳt	Organisation de coopération de Shanghai
+Yì Kit-chùn	Yu Kil-chun
+Reus	Reus
+San Esteban de Gormaz	San Esteban de Gormaz
+Hien-thoi Santa Fe	Hyundai Santa Fe
+Yî-ho̍k-yen	Faculté de médecine
+Het-mien Phî-lù	Petite Spatule
+Sṳ̀n-chheu-fi	Assemblées de Dieu
+Phok Chhùng-yòng	Park Jung-yang
+Fâ-tû-khî	District de Huadu
+Sâ-â-nàm	Shah Alam
+Kit-lùng-po Koet-chi Kî-chhòng	Aéroport international de Kuala Lumpur
+Ngiu̍k-Sân	Yu Shan
+Hōfu-sṳ	Hōfu
+Thai-yí-sân	Île de Lantau
+Starogard Gdański	Starogard Gdański
+Het-tsat-tshu̍k	Hezhen
+Sîn-chhèu	Dynastie Xin
+Mauricie	Mauricie
+Strzelce Opolskie	Strzelce Opolskie
+Hò-làn Tâi-thi Sat-khiet-sêm-ngî	Bas saxon des Pays-Bas
+Yîn-kô-khî	Yingge
+Vû-yìn	Muscidae
+Tha̍t-mâ-thai	Dalmatie
+Witwatersrand Thai-ho̍k	Université du Witwatersrand
+Pat-phu-khî	District de Babu
+Ôn-fa-yen	Xian d'Anhua
+Hò-tûng-sṳ	District de Ha Dong
+Sîn-chîn-yen	Xian de Xinjin
+Mâ-lî-sûn	Robert Morrison
+Mùng-sân-yen	Xian de Mengshan
+Vú-fûng-hiông	District de Wufeng
+Pat-lî-khî	Bali (New Taipei)
+Pán-khièu-khî	Panchiao
+Kung-liàu-khî	Gongliao
+Kîm-sân-khî	Jinshan
+Nà-khiéu-khî	Linkou
+Lù-chû-khî	Luzhou (New Taipei)
+Phiâng-lìm-khî	Pinglin
+Phìn-hâi-khî	Pingxi
+Lui-fông-khî	Ruifang
+Sâm-chhùng-khî	Sanchong
+Sâm-hia̍p-khî	Sanxia
+Sâm-chṳ-khî	Sanzhi
+Chhṳ̂m-hâng-khî	Shenkeng
+Sa̍k-tàng-khî	Shiding
+Sa̍k-mùn-khî	Shimen
+Su-nà-khî	Shulin
+Thai-sân-khî	Taishan (New Taipei)
+Thâm-súi	Tamsui
+Van-lî-khî	Wanli (New Taipei)
+Ńg-kú-khî	Wugu
+Sip-chṳ-khî	Xizhi
+Yún-fò-khî	Yonghe
+Fû-lùn-pi-ngì-sṳ	Hulunbuir
+Ngo̍k-vûn-khiet-tshu̍k Tshṳ-tshṳ-khî	Bannière autonome d'Evenk
+Ǹg-chiu-sṳ	Wuzhou
+Fòng-sàng-kóng-sṳ	Fangchenggang
+Khîm-chiu-sṳ	Qinzhou
+Kui-kóng-sṳ	Guigang
+Ngiu̍k-lìm-sṳ	Yulin (Guangxi)
+Pak-set-sṳ	Baise (Chine)
+Fo-chiu-sṳ	Hezhou
+Hò-chhṳ̀-sṳ	Hechi
+Lòi-pîn-sṳ	Laibin
+Fuk-thièn-khî	District de Futian
+Chhùng-chó-sṳ	Chongzuo
+Lùng-fi-yen	Xian de Longhui
+Thú-kâ-tshu̍k	Tujias
+Lai-vân-khî	District de Liwan
+Hîn-nèn-khî	District de Xingning
+Siau-sân-khî	District de Xiaoshan
+Fûng-khôi-yen	Xian de Fengkai
+Dewetsdorp	Dewetsdorp
+Sîn-kie	Nouveaux Territoires
+Khôi-phìn-sṳ	Kaiping
+Tsit-sa̍k-sân Pó-ôn-tshu̍k Tûng-hiông-tshu̍k Sat-lâ-tshu̍k Tshṳ-tshṳ-yen	Xian autonome bonan, dongxiang et salar de Jishishan
+Mo-yi	Commerce
+Kô-mìn-khî	District de Gaoming
+Saam-zi-gang	Classique des Trois Caractères
+Thí-lîn-sṳ	Liling
+Kędzierzyn-Koźle	Kędzierzyn-Koźle
+Kóng-hon-sṳ	Guanghan
+Meu-yen	Xian de Mao
+Ôn-hiông-yen	Xian d'Anxiang
+Ôn-hâi-yen	Xian d'Anxi
+Duiven	Duiven
+Yo̍k-ho̍k	Pharmacie
+Chhiâng-yòng-khî	District de Qingyang
+Fi-yòng-khî	District de Huiyang
+Kóng-tó-yen	Préfecture de Hiroshima
+Thu̍k-liùng-tshu̍k	Derung
+Tseu-tshu̍k	Tsou
+IPhone (Thi-yit thoi)	IPhone (1re génération)
+Ye̍t-nàm-ngî sṳ-mû	Quốc ngữ
+Sîn Pâ-pí-lùn Vòng-koet	Empire néo-babylonien
+Fuk-tín-sṳ	Fuding
+Fung-sân-sṳ	Fengshan
+Khîm-nàm-khî	District de Qinnan
+Kien-yòng-sṳ	Jianyang (Fujian)
+Shūnan-sṳ	Shūnan
+Skarżysko-Kamienna	Skarżysko-Kamienna
+Longás	Longás
+Kô-tá-ha̍p-lû-sṳ	Kota Bharu
+Sú-chiuk-khiéu-phiang	Syndrome pieds-mains-bouche
+Kông-phú	Spectre (terminologie)
+Chhṳ̂m-súi-phu-khî	Sham Shui Po (district)
+Mielec	Mielec
+Yùn-siau-yen	Xian de Yunxiao
+客家	Hakka
+Wejherowo	Wejherowo
+Pu-yî-chhu̍k	Buyei
+Mí-yi-yen	Xian de Miyi
+Nâ-po-yen	Xian de Napo
+Ngì-làn-sṳ	Yilan (ville)
+Ńg-fù Sṳ̍p-liuk-koet	Seize Royaumes
+Néu-yok Tû-fi-khî	Grand New York
+歷峯雧團	Richemont (entreprise)
+Ng̀-tshon-sṳ	Wuchuan
+Lanaudière	Lanaudière
+Thap-lùn-ti-nò-ngî	Tarentin
+Vòng Sîm-lìn	Cyndi Wang
+Chhṳ̀n Kâ-fà	Ella Chen
+Lo̍k-chhîn-sṳ	Yueqing
+Eu-hói-khî	District d'Ouhai
+Mâ-kûng-sṳ	Magong
+Tshu-theu-fú	Tofu puant
+Làn-yí	Lanyu
+Mèu-li̍t-sṳ	Miaoli
+2009-ngièn sṳ-kie yun-thung-fi	Jeux mondiaux de 2009
+Thai-ngâ-tshu̍k	Atayal
+Joy	Joy (groupe musical)
+Liu̍k-tó-hiông	Île Verte (Taïwan)
+Lu̍k-kóng-tsṳ́n	Lukang
+Pu-nùng-tshu̍k	Bunun
+Liùng-vân-khî	District de Longwan
+Lu̍k-sàng-khî	District de Lucheng
+Phìn-yòng-yen	Xian de Pingyang
+Yún-kâ-yen	Xian de Yongjia
+Thung-thèu-yen	Xian de Dongtou
+Chhṳ̀-hâi-sṳ	Cixi (Zhejiang)
+Thèu-sàng-tsṳ́n	Toucheng
+Pî-nàm-tshu̍k	Puyuma
+Kông-sân-tsṳ́n	Gangshan
+Tha̍t-ngu-tshu̍k	Da'o
+Mâ-hâi	George Leslie Mackay
+Mî-nùng-tsṳ́n	Meinong
+Theui-waan Thin-get Lin-mang	Union pour la solidarité de Taïwan
+Thai-lû-kok Koet-kâ Kûng-yèn	Parc national de Taroko
+Khén-tên Koet-kâ Kûng-yèn	Parc national de Kenting
+Lie̍t-yí-hiông	Lieyu
+Ngô-mì-hiông	Emei (Taïwan)
+Yòng-mìn-sân Koet-kâ Kûng-yèn	Yangmingshan
+Hak-kâ chhoi	Cuisine des Hakkas
+Wong Gaa-khi	Wong Ka-kui
+Phìn-fông Kûng-lî	Kilomètre carré
+Liòng Kuet-hiùng	Leung Kwok-Hung
+Thòi-vân Kî-tuk-kau	Christianisme à Taïwan
+Kôn-yîm-hiông	Guanyin (Taïwan)
+Fâ-lièn-sṳ	Hualien
+Shuì-ôn-sṳ	Rui'an
+Fung-fa-sṳ	Fenghua
+Phìn-tûng-sṳ	Pingtung
+Thòi-tûng-sṳ	Taitung
+Chùng-chṳ́	Zongzi
+Thòi-fûng Mo̍k-Là-Khiet (2009-ngièn)	Typhon Morakot (2009)
+Thòi-pet Tshia̍p-yun	Métro de Taipei
+Chhòn-yùng Hòng-khûng	EVA Air
+Kôn-yîm	Guanyin
+Nàm-thèu-sṳ	Nantou
+Phài-vân-tshu̍k	Paiwan
+Thòi-vân nàm-tó ngî-ngièn	Langues formosanes
+Lìm-pâ Se-pâu	Lymphocyte
+Phài-vân-ngî	Paiwan (langue)
+Thai-ngâ-ngî	Atayal (langue)
+Lû-khái-tshu̍k	Rukai
+Tseu-ngî	Tsou (langue)
+Pî-nàm-ngî	Puyuma (langue)
+Soi-ha-ngî	Saisiyat (langue)
+Hak-kâ thú-lèu	Tulou du Fujian
+100000	100 000 (nombre)
+Kô-sîn-shì	Ku (empereur)
+Jarosław	Jarosław
+Tûng-khî (Hiông-kóng)	Eastern
+Gaspésie–Îles-de-la-Madeleine	Gaspésie–Îles-de-la-Madeleine
+Pok-lò-yen	Xian de Boluo
+Ostrowiec Świętokrzyski	Ostrowiec Świętokrzyski
+Sa̍k-fûng-khî	District de Shifeng
+Tshiâ-tshu̍k	She
+Sîn-kâ-po Koet-li̍p Thai-ho̍k	Université nationale de Singapour
+Sên-sán	Production
+Chojnice	Chojnice
+Bronckhorst	Bronckhorst
+Thi-kip-sṳ	Ville-préfecture
+Mine-sṳ	Mine (Yamaguchi)
+Mì-fûn-ho̍k	Différentielle
+Tûng-hiông-tshu̍k	Dongxiang (ethnie)
+Lâ-fú-tshu̍k	Lahu
+Włodawa	Włodawa
+Starachowice	Starachowice
+Stalowa Wola	Stalowa Wola
+Chat-ho̍k Pok-sṳ	Philosophiæ doctor
+Lì-tó-khî	Islands District
+Ermelo	Ermelo (Pays-Bas)
+Thông-phûng	Apidae
+Tshûng-shîn-yen	Préfecture d'Okinawa
+Tshòng-lo̍k-sṳ	Changle
+Yí-fù-khî	District de Yuhu
+Sâm-súi-khî	District de Sanshui
+Nàm-thin-sṳ	Nam Định
+Montpellier Thai-ho̍k	Université de Montpellier
+Końskie	Końskie
+Luceni	Luceni
+Fà-khièu	Diaspora chinoise
+Kien-nèn-yen	Xian de Jianning
+Lô-kông-khî	District de Luogang
+Madrid Chhṳ-chhṳ Thai-ho̍k	Université autonome de Madrid
+Tshṳ-tshṳ-chû	Préfecture autonome
+Medway	Medway
+Pó-ôn-khî	District de Bao'an
+Pet-liù-sṳ	Beiliu
+Nysa, Pô-làn	Nysa (Pologne)
+Belver de Cinca	Belver de Cinca
+Pó-ôn-chhu̍k	Bonan
+Culemborg	Culemborg
+Kôan-tan-sṳ	Kuantan
+Sokółka	Sokółka (ville)
+Thâu-thông-shì	Yao (empereur)
+Hikari-sṳ	Hikari (Yamaguchi)
+Krosno	Krosno
+Kûng-lî	Kilomètre
+Almarza	Almarza
+Aldealices	Aldealices
+Aldealafuente	Aldealafuente
+Alentisque	Alentisque
+Adradas	Adradas
+Alconaba	Alconaba
+Abejar	Abejar
+Aldealpozo	Aldealpozo
+Alcubilla de las Peñas	Alcubilla de las Peñas
+Aldealseñor	Aldealseñor
+Alcubilla de Avellaneda	Alcubilla de Avellaneda
+Covaleda	Covaleda
+Almazul	Almazul
+Arcos de Jalón	Arcos de Jalón
+Aldehuela de Periáñez	Aldehuela de Periáñez
+Almenar de Soria	Almenar de Soria
+Duruelo de la Sierra	Duruelo de la Sierra
+Shâu-sân-sṳ	Shaoshan
+Tai-tshu̍k	Dai (ethnie)
+Mùn-pâ-tshu̍k	Monba
+Kudamatsu-sṳ	Kudamatsu
+Kiong-tshu̍k	Qiangs
+Afrikaner-ngìn	Afrikaners
+Yîn-koet-ngìn	Britanniques
+Ngá-tshu̍k	Wa (ethnie)
+Brummen	Brummen
+Fû-yûng-sṳ	Seremban
+Jasło	Jasło
+Â-chhông-chhu̍k	Achang
+Bielsk Podlaski	Bielsk Podlaski
+Beuningen	Beuningen (Gueldre)
+Thú-tshu̍k	Tu (ethnie)
+Pân-kap	Pigeon roussard
+Súi-tshu̍k	Sui (ethnie)
+Nyet-láu-tshu̍k	Gelao
+Kín-phó-tshu̍k	Jingpo
+Lo̍k-pâ-tshu̍k	Lhoba
+Li̍t-siuk-tshu̍k	Lisu
+Siên-pî-chhu̍k	Xianbei
+Sanyo-Onoda-sṳ	San'yō-Onoda
+Billingham	Billingham
+Pin-kông-khî	District de Binjiang
+Pet-khî (Hiông-kóng)	North District
+Mô-nàm-tshu̍k	Maonan
+Nu-tshu̍k	Nu (ethnie)
+Mu̍k-láu-tshu̍k	Mulao
+Sî-sûng-pán-na̍p Thài-tshu̍k Tshṳ-tshṳ-chû	Préfecture autonome dai de Xishuangbanna
+Ngièn-lóng-khî	Yuen Long (district)
+Kôn-thòng-khî	Kwun Tong (district)
+Khwûi-tshiâng-khî	Kwai Tsing (district)
+Phù-mí-tshu̍k	Pumi
+Thai-pu-khî	Tai Po (district)
+Tet-ngo-tshu̍k	De'ang
+Vòng-thai-siên-khî	Wong Tai Sin (district)
+Tshiên-vân-khî	Tsuen Wan (district)
+Pu-lóng-chhu̍k	Blang
+Pok-pha̍k-yen	Xian de Bobai
+Chhîn-sîn-yen	Xian de Qingxin
+Pâ-thìn-khiùn	District de Ba Dinh
+Bracknell Sêm-lìm	Bracknell Forest
+Mìn-chú Chin-phu-tóng	Parti démocrate progressiste (Taïwan)
+Tomaszów Lubelski	Tomaszów Lubelski
+Liú-kông-yen	Xian de Liujiang
+Thiên-hò-khî	District de Tianhe
+Po-thèu-khî	District de Potou
+Hàng-thung Chok-ngia̍p Ne-thúng	Système d'exploitation mobile
+Hrubieszów	Hrubieszów
+Liùng-mùn-yen	Xian de Longmen
+Hói-tshong-khî	District de Haicang
+Pet Québec Thi-khî	Nord-du-Québec
+Montérégie	Montérégie
+Druten	Druten
+Nàm-hiùng-sṳ	Nanxiong
+Hói-nàm-fa	Hainanais
+Tshiùng-thâu Mèu-tshu̍k Tshṳ-tshṳ-yen	Xian autonome miao de Songtao
+Chhièn-Liòng	Liang antérieur
+Liú-sàng-yen	Xian de Liucheng
+Sun-tet-khî	District de Shunde
+Dębica	Dębica
+Fân-nyî-khî	District de Panyu
+Québec-ngìn Tóng	Parti québécois
+Grahamstown	Grahamstown
+Cape Town Thai-ho̍k	Université du Cap
+Phìn-lo̍k-yen	Xian de Pingle
+Kui-phìn-sṳ	Guiping
+Sasolburg	Sasolburg
+Tûng-sân-yen	Xian de Dongshan
+Hò-thòng-khî	District de Hetang
+Si̍p-mî-khî	District de Jimei
+Ǹg-fûng-khî	District de Yufeng
+Daniele Suzuki	Daniele Suzuki
+Kraśnik	Kraśnik
+Dęblin	Dęblin
+Radzyń Podlaski	Radzyń Podlaski
+Thûn-mùn-khî	Tuen Mun (district)
+Kiú-liùng-sàng-khî	Kowloon City (district)
+Nàm-khî (Hiông-kóng)	Southern (district)
+Vân-chái-khî	Wan Chai (district)
+Prudnik	Prudnik
+Villanueva de Sigena	Villanueva de Sigena
+Tân-vi	Unité
+Tûng-Thiet-Sien	Ligne du Réseau Est (MTR)
+Tseung Kwan O Line	Ligne Tseung Kwan O (MTR)
+Stockton-on-Tees	Stockton-on-Tees
+Kóng-nèn-yen	Xian de Guangning
+Sî-Liòng	Liang occidental
+Wokingham	Wokingham
+Fûng-hâi-khî	District de Fengxi
+Kô-lò-sî	Chônai
+Lò-fù-khî	District de Luohu
+Yàm-thièn-khî	District de Yantian
+Khiâm-nàm Pu-yî-tshu̍k Mèu-tshu̍k Tshṳ-tshṳ-chû	Préfecture autonome buyei et miao de Qiannan
+Lìm-ha Fì-tshu̍k Tshṳ-tshṳ-chû	Préfecture autonome hui de Linxia
+Liùng-kông-khî	District de Longgang (Shenzhen)
+Graaff-Reinet	Graaff-Reinet
+Orania	Orania
+Fu-yòng-sṳ	Fuyang (Zhejiang)
+Yì-yâu-sṳ	Yuyao
+Â-pa Chhong-chhu̍k Kiông-chhu̍k Chhṳ-chhṳ-chû	Préfecture autonome tibétaine et qiang d'Aba
+Welkom	Welkom
+Vú-mîn-yen	Xian de Wuming
+Hoedspruit	Hoedspruit
+Lìm-ôn-sṳ	Lin'an (Zhejiang)
+Hói-tsû-khî	District de Haizhu
+Ye̍t-siù-khî	District de Yuexiu
+Vryheid	Vryheid
+Swellendam	Swellendam
+Kwun-lò-sṳ	Miluo
+Vòng-pu-khî	District de Huangpu (Guangdong)
+Nàm-hói-khî	District de Nanhai
+Sin-nî-sṳ	Xinyi (Guangdong)
+Lùng-ôn-yen	Xian de Long'an
+Tû-kông-yén-sṳ	Dujiangyan
+Mâ-sân-yen	Xian de Mashan
+Sîn-fi-khî	District de Xinhui
+Tshiùng-fa-sṳ	Conghua
+Lièn-sân Chong-chhu̍k Yâu-chhu̍k Chhṳ-chhṳ-yen	Xian autonome zhuang et yao de Lianshan
+Lo̍k-tshông-sṳ	Lechang
+Lièn-chiu-sṳ	Lianzhou
+Kô-yêu-sṳ	Gaoyao
+Fû-yûng-khî	District de Furong
+Hîn-nèn-sṳ	Xingning
+Ho̍k-sân-sṳ	Heshan (Guangdong)
+Yòng-chhûn-sṳ	Yangchun
+Mo̍k-li̍t Tha̍t-ngá Tha̍t-vat-ngì-tshu̍k Tshṳ-tshṳ-khì	Bannière autonome daur de Morin Dawa
+Thùng-ôn-khî	District de Tong'an
+Liu̍k-fûng-sṳ	Lufeng
+Thòi-kông-khî	District de Taijiang
+Liùng-hói-sṳ	Longhai
+Sa̍k-sṳ̂-sṳ	Shishi
+Siông-ôn-khî	District de Xiang'an
+Mên-hêu-yen	Xian de Minhou
+Lìm-siong-sṳ	Linxiang
+Liù-yòng-sṳ	Liuyang
+Lói-yòng-sṳ	Leiyang
+Tsàu-vú-sṳ	Shaowu
+Hói-shù-khî	District de Haishu
+Sa-fi Mìn-tsú Lièn-sien	Ligue des sociaux-démocrates de Hong Kong
+Kien-tet-sṳ	Jiande
+Phî-yen	Xian de Pi
+Sîn-tû-khî	District de Xindu
+Phìn-siông-sṳ	Pingxiang (Guangxi)
+Nî-chiu-sṳ	Yizhou
+Tshîn-hói-khî	District de Chenghai
+Yîn-tet-sṳ	Yingde
+Sṳ̍p-fong-sṳ	Shifang
+Vi	Estomac
+Tshông-sân-khî	District de Cangshan
+Chhông-ǹg-yen	Xian de Cangwu
+Liùng-hâ	Nephropidae
+Kî-nok-tshu̍k	Jino
+Chhém-hâi-sṳ	Cenxi
+Ngo̍k-lùn-tshùn-tshu̍k	Oroqen
+Chhà-lîn-yen	Xian de Chaling
+Shèn-sàng-khî	District de Chancheng
+Chhòng-sâ-yen	Xian de Changsha
+Tshòng-thai-yen	Xian de Changtai
+Tshòng-tin-yen	Xian de Changting
+Chhòng-chû-khî	District de Changzhou
+Tshèu-ôn-yen	Xian de Chao'an
+Chaudière-Appalaches	Chaudière-Appalaches
+Sî-Chû	Période des Zhou de l'Ouest
+Liông (Nàm-chhèu)	Dynastie Liang
+Sṳ̀n-Hòn	Cheng Han
+Sàng-phu Mèu-chhu̍k Chhṳ-chhṳ-yen	Xian autonome miao de Chengbu
+Sàng-siong-khî	District de Chengxiang
+Tshak-kham-khî	District de Chikan
+Chhùng-chû-sṳ	Chongzhou
+Sùn-ôn-yen	Xian de Chun'an
+Lí-sàng-khî	District de Licheng (Quanzhou)
+Pet-ngan Thi-khî (Québec)	Côte-Nord
+Mí-nàm-kâ-pó-ngìn	Minangkabau
+Néu-yok-kóng	Port de New York
+Tha̍k-é	Dizi
+Su-nèn-yen	Xian de Shouning
+Sâ-vân-khî	District de Shawan
+Thûng-chhôn-khî	District de Tongchuan
+Sṳ-chûng-khî (Lo̍k-Sân-sṳ)	District de Shizhong (Leshan)
+Mâ-piên Yì-chhu̍k Chhṳ-chhṳ-yen	Xian autonome yi de Mabian
+Thai-phû-yen	Xian de Dabu
+Thai-fa Yâu-chhu̍k Chhṳ-chhṳ-yen	Xian autonome yao de Dahua
+Tân-yit kón-lî-khî	Autorité unitaire
+Kú-thièn-yen	Xian de Gutian
+Tet-pó-yen	Xian de Debao
+Tet-fa-yen	Xian de Dehua
+Hiông-kóng Thit-sṳ-nì Lo̍k-yèn Thu-ká-khî	Hong Kong Disneyland Resort
+Tet-khin-yen	Xian de Deqing (Guangdong)
+Tí-chhu̍k	Di (groupe ethnique)
+Fi-sàng-khî	District de Huicheng
+Chiáng-ngân-yen	Xian de Jingyan
+Fài-si̍p-yen	Xian de Huaiji
+Khien-vì-yen	Xian de Qianwei
+Ńg-thûng-khiàu-khî	District de Wutongqiao
+Kông-hói-khî	District de Jianghai
+Khì-yen	Xian de Qu
+Sun-khin-khî	District de Shunqing
+Kô-phiàng-khî	District de Gaoping
+Mu̍k-chhôn-yen	Xian de Muchuan
+Liú-pet-khî	District de Liubei
+Liú-nàm-khî	District de Liunan
+Thien-pha̍k-yen	Xian de Dianbai
+Sông-lìm-yen	Xian de Shanglin
+Thâm-thòng-khî	District de Tantang
+Mòi-yen	Xian de Mei (Guangdong)
+Chṳ̂-yòng-khî	District de Ziyang
+Sâm-kông Thûng-chhu̍k Chhṳ-chhṳ-yen	Xian autonome dong de Sanjiang
+Na̍p-hâi-khî	District de Naxi
+Mièn-chuk-sṳ	Mianzhu
+Lièn-sàng-yen	Xian de Liancheng
+Kô-chiu-sṳ	Gaozhou
+Khiûng-lôi-sṳ	Qionglai
+Si-fi-sṳ	Sihui
+Ngièu-phìn-yen	Xian de Raoping
+Lùi-chiu-sṳ	Leizhou
+Sun-tshông-yen	Xian de Shunchang
+Lò-ngièn-yen	Xian de Luoyuan
+Phîn-nàm-yen	Xian de Pingnan (Fujian)
+Phìn-thâm-yen	Xian de Pingtan
+Nàm-ôn-sṳ	Nan'an
+Àu-choi Fôn	Jabiru d'Afrique
+Thia̍p-chhái-khî	District de Diecai
+Ya̍k-sân-khî	District de Dieshan
+Tín-sàng-khî	District de Dingcheng
+Tín-fù-khî	District de Dinghu
+Chhîn-sàng-khî	District de Qingcheng
+Tûng-khî (Pan-kî-fâ-sṳ)	District est de Panzhihua
+Tûng-hîn-sṳ	Dongxing
+Tûng-ngièn-yen	Xian de Dongyuan
+Kî-chhòng	Aéroport
+Téu-mùn-khî	District de Doumen
+Liu̍k-chhôn-yen	Xian de Luchuan
+Tû-ôn Yâu-chhu̍k Chhṳ-chhṳ-yen	Xian autonome yao de Du'an
+Tôn-chiu-khî	District de Duanzhou
+Tsen-zi-wun	Classique des Mille Caractères
+Ha̍p-phû-yen	Xian de Hepu
+Yen	Xian (subdivision administrative)
+Lò-kông-yen	Xian de Luojiang
+Thèn-yen	Xian de Teng
+Nàm-Liòng	Liang méridional
+Fûng-sun-yen	Xian de Fengshun
+Siong-sân-yen	Xian de Xiangshan
+Ngiûn-chû-khî	District de Yinzhou (Ningbo)
+Kông-pet-khî (Nèn-pô-sṳ)	District de Jiangbei (Ningbo)
+Nèn-hói-yen (Chet-kông-sén)	Xian de Ninghai
+Kông-kòn-khî	District de Jianggan
+Ngò-mì-sân-sṳ	Emeishan
+Siù-yí-khî	District de Xiuyu
+Yún-tshûn-yen	Xian de Yongchun
+Chàu-yòng-yen	Xian de Shaoyang
+Sa̍k-kú-khî	District de Shigu
+Tsiau-sàng-khî	District de Jiaocheng
+Sien-yù-yen	Xian de Xianyou
+Fên-sân-yen	Xian de Hengshan (Hunan)
+Yèn-phìn-khî	District de Yanping
+Sîn-lò-khî	District de Xinluo
+Phú-sàng-yen	Xian de Pucheng (Fujian)
+Sâm-ngièn-khî	District de Sanyuan
+Ngièn-fung-khî	District de Yanfeng
+Hâm-kông-khî	District de Hanjiang (Putian)
+Fûng-tshe̍t-khî	District de Fengze
+Lai-sàng-khî	District de Licheng (Putian)
+Sông-hông-yen	Xian de Shanghang
+Tshiùng-hâi-yen	Xian de Songxi
+Fên-nàm-yen	Xian de Hengnan
+Vú-phìn-yen	Xian de Wuping
+Fên-tûng-yen	Xian de Hengdong
+Nàm-tshìn-yen	Xian de Nanjing
+Khî-tûng-yen	Xian de Qidong
+Lù-siung-khî	District de Lusong
+Kâ-vò-yen	Xian de Jiahe
+Sû-sien-khî	District de Suxian
+Thâu-ngièn-yen	Xian de Taoyuan (Hunan)
+Liùng-fù-khî	District de Longhu
+Sông-chhṳ̍t-yen	Xian de Sangzhi
+Het-sân-khî	District de Heshan (Yiyang)
+Kông-sàng-khî	District de Jiangcheng
+Phûng-kông-khî	District de Pengjiang
+Yòng-sî-yen	Xian de Yangxi
+Hon-su-yen	Xian de Hanshou
+Sa̍k-mùn-yen	Xian de Shimen
+Lìm-lí-yen	Xian de Linli
+Lìm-vú-yen	Xian de Linwu
+Kui-yòng-yen	Xian de Guiyang
+Yòng-tûng-yen	Xian de Yangdong
+Hiông-chû-khî	District de Xiangzhou
+Liùng-mâ-thâm-khî	District de Longmatan
+Ngiùn-hói-khî	District de Yinhai
+Vú-siên-yen	Xian de Wuxuan
+Kóng-nàm-khî (Kui-kóng-sṳ)	District de Gangnan
+Yùng-yen (Chhṳ-kung-sṳ)	Xian de Rong (Sichuan)
+Meu-kóng-khî	District de Maogang
+Kîm-phìn-khî	District de Jinping
+Yùng-yen	Xian de Rong (Guangxi)
+Lû-yen	Xian de Lu
+Siong-sân-khî	District de Xiangshan (Guilin)
+Chin-yòng-khî	District de Jingyang
+Ket-sî-yen	Xian de Jiexi
+Siù-fûng-khî	District de Xiufeng
+Thièn-yòng-yen	Xian de Tianyang
+Chhìn-sî-yen	Xian de Jingxi
+Yún-fuk-yen	Xian de Yongfu
+Thièn-tûng-yen	Xian de Tiandong
+Kiûng-sàng Yâu-chhu̍k Chhṳ-chhṳ-yen	Xian autonome yao de Gongcheng
+Kung-chiáng-khî	District de Gongjing
+Mòi-kông-khî	District de Meijiang
+Hîn-pîn-khî	District de Xingbin
+Siong-khiâu-khî	District de Xiangqiao
+Hîn-ngia̍p-yen	Xian de Xingye
+Kú-nìn-yen	Xian de Gulin
+Lìn-yùn-yen	Xian de Lingyun
+Lò-sàng Mu-láu-chhu̍k Chhṳ-chhṳ-yen	Xian autonome mulao de Luocheng
+Yàm-piên-yen	Xian de Yanbian
+Lìm-kui-yen	Xian de Lingui
+Ket-tûng-yen	Xian de Jiedong
+Sî-khî (Pan-kî-fâ-sṳ)	District ouest de Panzhihua
+Kon-yòng-yen	Xian de Guanyang
+Kîm-sàng-kông-khî	District de Jinchengjiang
+Kóng-héu-khî	District de Gangkou
+Phû-pet-yen	Xian de Pubei
+Ngiu̍k-chiu-khî	District de Yuzhou
+Yùng-ôn-yen	Xian de Rong'an
+Lìn-chhôn-yen	Xian de Lingchuan (Guangxi)
+Chhiòn-chiu-yen	Xian de Quanzhou
+Van-siu-khî	District de Wanxiu
+Khîm-pet-khî	District de Qinbei
+Sîn-fûng-yen	Xian de Xinfeng (Guangdong)
+Fò-phìn-yen	Xian de Heping
+Sé-kiok-lî	Lavement des pieds
+Kîm-vân-khî	District de Jinwan
+Liùng-sṳn-kok-chhu̍k Chhṳ-chhṳ-yen	Xian autonome de diverses nationalités de Longsheng
+Sîn-sàng-yen	Xian de Xincheng
+Thiet-sân-kóng-khî	District de Tieshangang
+Siong-chiu-yen	Xian de Xiangzhou
+Kîm-siu Yâu-chhu̍k Chhṳ-chhṳ-yen	Xian autonome yao de Jinxiu
+Lùng-lìn Kok-chhu̍k Chhṳ-chhṳ-yen	Xian autonome de diverses nationalités de Longlin
+Chhiâng-siù-khî	District de Qingxiu
+Chhit-sên-khî	District de Qixing
+Thièn-lìm-yen	Xian de Tianlin
+Liòng-khin-khî	District de Liangqing
+Phìn-nàm-yen	Xian de Pingnan (Guangxi)
+Hói-sàng-khî	District de Haicheng
+Phìn-kó-yen	Xian de Pingguo
+Yung-nèn-khî	District de Yongning
+Fòng-sàng-khî	District de Fangcheng
+Sông-sṳ̂-yen	Xian de Shangsi
+Lìn-sân-yen	Xian de Lingshan
+Lu̍k-tshài-yen	Xian de Luzhai
+Hîn-ôn-yen	Xian de Xing'an
+Phû-kông-yen	Xian de Pujiang (Sichuan)
+Kîm-thòng-yen	Xian de Jintang
+Vûn-kông-khî	District de Wenjiang
+Phìn-yén-yen	Xian de Pingyuan (Guangdong)
+Hói-fûng-yen	Xian de Haifeng
+Lièn-nàm Yâu-chhu̍k Chhṳ-chhṳ-yen	Xian autonome yao de Liannan
+Liùng-tshôn-yen	Xian de Longchuan (Guangdong)
+Liu̍k-hò-yen	Xian de Luhe
+Vú-hêu-khî	District de Wuhou
+Liùng-chhièn-yi̍t-khî	District de Longquanyi
+Chiau-liang-yen	Xian de Jiaoling
+Kông-chiu-khî	District de Jiangzhou
+Yu-kông-khî	District de Youjiang
+Ha̍p-sân-sṳ	Heshan (Guangxi)
+Kîm-ngiù-khî	District de Jinniu
+Kím-kông-khî	District de Jinjiang
+Phàng-chû-sṳ	Pengzhou
+Kông-tûng-khî (Nèn-pô-sṳ)	District de Jiangdong (Ningbo)
+Hâ-sàng-khî	District de Xiacheng
+Kiúng-shú-khî	District de Gongshu
+Yì-hông-khî	District de Yuhang
+Sông-sàng-khî	District de Shangcheng
+Lo̍k-ngia̍p-yen	Xian de Leye
+Sân-sî Sṳ-sa	Sontay
+Windsor lâu Maidenhead	Windsor and Maidenhead
+Mà-tsông-khî	District de Mazhang
+Ńg-fà-yen	Xian de Wuhua
+Súi-hâi-yen	Xian de Suixi (Guangdong)
+Sui-nèn-yen	Xian de Suining (Hunan)
+Tshî-vùn-yen	Xian de Xuwen
+Fuk-ôn-sṳ	Fu'an
+Nàm-àu-yen	Xian de Nan'ao
+Chîn-sṳ-sṳ	Jinshi
+Liâm-kông-sṳ	Lianjiang
+Mên-tshîn-yen	Xian de Minqing
+Hâ-sân-khî	District de Xiashan
+Vung-ngièn-yen	Xian de Wengyuan
+Fa-chiu-sṳ	Huazhou
+Kien-eu-sṳ	Jian'ou
+Mâ-mî-khî	District de Mawei
+Yún-thai-yen	Xian de Yongtai
+Nèn-hiông-yen	Xian de Ningxiang
+Liùng-vùn-khî	District de Longwen
+Sṳ-mìn-khî	District de Siming
+Yí-fâ-khî	District de Yuhua (Changsha)
+Ngiên-kông-sṳ	Yuanjiang (Hunan)
+Fi-tûng-yen	Xian de Huidong (Guangdong)
+Siong-thâm-yen	Xian de Xiangtan
+Phìn-fò-yen	Xian de Pinghe
+Thai-nèn-yen	Xian de Taining
+Kông-tshe̍t-yen	Xian de Guangze
+Yún-ôn-sṳ	Yong'an
+Thí-ngoi Mo̍k-yòng-ha̍p	Oxygénation par membrane extra-corporelle
+Lìm Tan	Lin Dan
+分類:Tet-koet	Catégorie:Allemagne
+分類:Yi-thai-li	Catégorie:Italie
+分類:Kâ-nâ-thai	Catégorie:Canada
+分類:Sî-pân-ngà	Catégorie:Espagne
+分類:Chûng-koet	Catégorie:Chine
+分類:Ngi̍t-pún	Catégorie:Japon
+分類:Àu-thai-li-â	Catégorie:Australie
+分類:Yin-thu	Catégorie:Inde
+分類:Yî-set-lie̍t	Catégorie:Israël
+分類:Nàm-fî	Catégorie:Afrique du Sud
+Thiên-sái (Hiông-kóng)	The Cullinan Towers
+Redcar and Cleveland	Redcar et Cleveland
+分類:Yin-thu-nì-sî-â	Catégorie:Indonésie
+分類:Pâ-kî-sṳ̂-thán	Catégorie:Pakistan
+分類:Pô-làn	Catégorie:Pologne
+分類:Sîn-kâ-po	Catégorie:Singapour
+分類:Hòn-koet	Catégorie:Corée du Sud
+分類:Thai-koet	Catégorie:Thaïlande
+分類:Ye̍t-nàm	Catégorie:Viêt Nam
+分類:Phú-nen-lui	Catégorie:Mammifère
+分類:Tiâu	Catégorie:Oiseau
+分類:Chhṳ̍t-vu̍t	Catégorie:Plante
+分類:Vu̍t-lí-ho̍k	Catégorie:Physique
+分類:Chhṳ-yèn Khô-ho̍k	Catégorie:Sciences naturelles
+分類:Sâng-vu̍t-ho̍k	Catégorie:Biologie
+分類:Fa-ho̍k	Catégorie:Chimie
+分類:Li̍t-sṳ́	Catégorie:Histoire
+分類:Thi-lî	Catégorie:Géographie
+分類:Sa-fi	Catégorie:Société
+分類:Chûng-kau	Catégorie:Religion
+分類:Thí-yuk	Catégorie:Sport
+分類:Khô-ho̍k	Catégorie:Sciences
+分類:Lièn-ha̍p-koet	Catégorie:Organisation des Nations unies
+分類:Êu-chû Lièn-mèn	Catégorie:Union européenne
+分類:Kien-chuk-vu̍t	Catégorie:Bâtiment
+分類:Thûng-sin	Catégorie:Communication
+分類:Thi-khiù	Catégorie:Terre
+Chhièn-Chhîn	Qin antérieur
+Sî Berkshire	West Berkshire
+Hiông-kóng Thiet-lu Yû-han Kûng-sṳ̂	MTR Corporation
+Thai-mo-sân	Tai Mo Shan
+Pet-Liòng	Liang septentrional
+Chhièn-Chhàu	Zhao antérieur
+Zuera	Zuera
+Langa del Castillo	Langa del Castillo
+Contamina	Contamina
+Louis Trichardt	Louis Trichardt (ville)
+Abiego	Abiego
+Abanto	Abanto
+Tson-sa̍k-sân Tshàm	Diamond Hill (MTR)
+Yî-lien-chióng	Prix Stanislas Julien
+Kú Lò-mâ	Rome antique
+La Fueva	La Fueva
+Ibanag-ngî	Ibanag
+Sân-thi-mâ-lî-ngî	Mari des montagnes
+Tsui-heu ke Sṳ́m-phan	Jour du jugement
+Greenwich Thai-ho̍k	Université de Greenwich
+Middelburg, Mpumalanga-sén	Middelburg (Mpumalanga)
+Yok-hon-nì-sṳ̂-páu Thai-ho̍k	Université de Johannesburg
+Sat-mû-ngí-ki-song	Premier livre de Samuel
+分類:Chet-ho̍k	Catégorie:Philosophie
+分類:Fu̍t-kau	Catégorie:Bouddhisme
+分類:Kî-tuk-kau	Catégorie:Christianisme
+分類:Yù-thai-kau	Catégorie:Judaïsme
+Sià-ok Sṳn-kîn	Bible vicieuse
+Kôn-thòng Chhàm(KWT)	Kwun Tong (MTR)
+Ên-tiâu	Aigle
+Kiú-liùng Chhàm (Hiông-kóng)	Kowloon Station
+Yî-kín-vân	Discovery Bay
+Ngùi Pó-lò	Paul Wei
+Heu-Liòng	Liang postérieur (386-403)
+Heu-Chhàu	Zhao postérieur
+Bochotnica	Bochotnica
+Ngi̍t-pún Khûn-chhùng Ki	La Femme insecte
+Chiông-Kiûn-Àu	Tseung Kwan O
+Chûng-koet Ngî-ngièn	Chinois parlé
+分類:Hàng-sên	Catégorie:Planète
+分類:Vùn-fa	Catégorie:Culture
+分類:Ngìn-vùn Khô-ho̍k	Catégorie:Sciences humaines et sociales
+Nàm-tshông Thiet-lu Tshàm（Hiông-kóng）	Nam Cheong (MTR)
+Gurrea de Gállego	Religion à Cuba
+Chṳ́-set	Pourpre
+Notre-Dame-du-Mont-Carmel, Québec	Notre-Dame-du-Mont-Carmel
+Hiông (Thòi-vân)	Kecamatan
+Ap-è	Canard
+Lù-tshṳ̀	Cormoran
+分類:Yên-yèn	Catégorie:Acteur
+模板:Tl	Modèle:M
+模板:Userbox	Modèle:BUtilisateur
+模板:Wikipedialang	Modèle:Wikipedialang
+分類:Koet-kâ	Catégorie:Pays
+Wikipedia:Kón-lî-yèn	Wikipédia:Administrateur
+分類:Chûng-fà Mìn-chhu̍k	Catégorie:Groupe ethnique de Chine
+分類:Ngìn-vu̍t	Catégorie:Personnalité
+分類:Mìn-chhu̍k	Catégorie:Groupe ethnique
+Wikipedia:Hàng-tsṳn-yèn	Wikipédia:Bureaucrate
+Wikipedia:IP chhà-fûng li-ngoi-chá	Wikipédia:Exemption de blocage d'IP
+Wikipedia:Kî-hi-ngìn	Wikipédia:Bot
+分類:Sṳ̀-kiên	Catégorie:Temps
+分類:Chhṳ-yèn	Catégorie:Nature
+分類:Kûng-chhàng	Catégorie:Ingénierie
+分類:Yî-ho̍k	Catégorie:Médecine
+分類:Chṳn-chṳ	Catégorie:Politique
+分類:Kau-yuk	Catégorie:Éducation
+分類:Kông-ho̍k	Catégorie:Optique
+Âi-khi̍p	Égypte
+分類:Chat-ho̍k-kâ	Catégorie:Philosophe
+模板:Bot	Modèle:Bot
+Kâ-nâ-thai	Canada
+分類:Hiûng-ngà-li	Catégorie:Hongrie
+分類:Hî-lia̍p	Catégorie:Grèce
+分類:Lâ-thot-vì-â	Catégorie:Lettonie
+分類:Yù-hi	Catégorie:Jeu
+Thiên-koet	Ciel (religion)
+分類:Êu-chû koet-kâ	Catégorie:Pays d'Europe
+分類:Êu-chû	Catégorie:Europe
+模板:Documentation	Modèle:Documentation
+Wikipedia:Yung-fu	Aide:Statuts des utilisateurs
+Pok-sṳ	Docteur (titre)
+Wikipedia:Sa-khî	Wikipédia:Accueil de la communauté
+分類:Wikipedians by language	Catégorie:Wikipédiens par langue
+Sṳ̀n Chhai-kî	Sung Jae-ki
+Khi-néu Kî-chhòng	Plate-forme de correspondance aéroportuaire
+Khî-ngia̍p	Entreprise
+Ngiuk-yèn	Boulette de viande
+模板:Softredirect	Modèle:Redirection douce
+模板:Delete	Modèle:Suppression Immédiate
+分類:Kî-su̍t	Catégorie:Technologie
+分類:Ngî-ngièn	Catégorie:Langue
+Wikipedia:Chhóng-kien Sîn Thiàu-muk	Aide:Comment créer un article
+分類:含有損壞文件鏈接嘅頁面	Catégorie:Page avec des liens de fichiers brisés
+模板:Navbox	Modèle:Méta palette de navigation
+Thoi-chhú	Kangourou
+Pak-ha̍p-fâ	Lys
+模板:!	Modèle:!
+模板:!-	Modèle:!-
+模板:Tnavbar	Modèle:Tnavbar
+模板:Unicode	Modèle:UCode
+模板:Smallcaps	Modèle:Petites capitales
+模板:Small	Modèle:Petit
+模板:Nowrap	Modèle:Nobr
+分類:Fî-chû	Catégorie:Afrique
+分類:Chhṳ-yù Pâng-sén	Catégorie:État-Libre
+分類:Tûng Khôi-phú-sén	Catégorie:Cap-Oriental
+分類:Gauteng-sén	Catégorie:Gauteng
+分類:KwaZulu-Natal-sén	Catégorie:KwaZulu-Natal
+分類:Mpumalanga-sén	Catégorie:Mpumalanga
+分類:Pet Khôi-phú-sén	Catégorie:Cap-du-Nord
+分類:Sṳn-kîn	Catégorie:Bible
+分類:Limpopo-sén	Catégorie:Limpopo
+分類:Sî Khôi-phú-sén	Catégorie:Cap-Occidental
+分類:Sî-pet-sén	Catégorie:Nord-Ouest (Afrique du Sud)
+分類:Si	Catégorie:Livre
+模板:Pâ-phe̍t	Modèle:Boîte Babel
+模板:Reflist	Modèle:Références
+模板:Stub	Modèle:Ébauche
+模板:User ca-1	Modèle:Utilisateur ca-1
+模板:User de	Modèle:Utilisateur de
+模板:User de-1	Modèle:Utilisateur de-1
+模板:User en-3	Modèle:Utilisateur en-3
+模板:User en-1	Modèle:Utilisateur en-1
+模板:User en-2	Modèle:Utilisateur en-2
+模板:User en-4	Modèle:Utilisateur en-4
+模板:User en-0	Modèle:Utilisateur en-0
+模板:User en	Modèle:Utilisateur en
+模板:User de-2	Modèle:Utilisateur de-2
+分類:Yî-chhiu	Catégorie:Univers
+模板:User fr-2	Modèle:Utilisateur fr-2
+模板:User ja-1	Modèle:Utilisateur ja-1
+模板:User fr	Modèle:Utilisateur fr
+分類:Khûn-chhùng	Catégorie:Insecte
+分類:Â-chû	Catégorie:Asie
+分類:Chṳ-li	Catégorie:Chili
+分類:Sok-lî-â-sén	Catégorie:Province de Soria
+分類:Nàm-mî-chû	Catégorie:Amérique du Sud
+分類:Khà-sṳ̂-tì-li-â lâu Lòi-ngong	Catégorie:Castille-et-León
+分類:Mâ-lòi-sî-â	Catégorie:Malaisie
+分類:Sṳ̍t-phín	Catégorie:Aliment
+模板:Mod	Modèle:Mod
+模板:SIL	Modèle:Lien ISO 639-3
+模板:User es-2	Modèle:Utilisateur es-2
+模板:Fôn-ngiàng	Modèle:Bienvenue nouveau
+分類:Thiàu-mi-liau	Catégorie:Condiment
+分類:Chû-chṳt	Catégorie:Organisation
+分類:Ngî-ngièn-ho̍k	Catégorie:Linguistique
+模板:ITA	Modèle:Italie
+模板:非洲行政區劃	Modèle:Palette Pays d'Afrique
+模板:SVK	Modèle:Slovaquie
+模板:Infobox Country	Modèle:Infobox Pays
+模板:Documentation/docname	Modèle:Documentation/docname
+模板:TUR	Modèle:Turquie
+分類:User en-4	Catégorie:Utilisateur en-4
+分類:User en	Catégorie:Utilisateur en
+分類:User zh	Catégorie:Utilisateur zh
+分類:User zh-N	Catégorie:Utilisateur zh-M
+分類:User en-2	Catégorie:Utilisateur en-2
+模板:User zh	Modèle:Utilisateur zh
+模板:Cite web	Modèle:Lien web
+分類:Hòng-khûng	Catégorie:Transport aérien
+模板:Country data	Modèle:Country data
+分類:Yím-sṳ̍t	Catégorie:Alimentation
+模板:Fong-wui	Modèle:Palette Points cardinaux
+模板:BS3	Modèle:BS3
+模板:IPA	Modèle:Prononciation API
+分類:Chṳn-chṳ Ngìn-lui	Catégorie:Personnalité politique
+分類:Mî-chû	Catégorie:Amérique
+模板:其他	Modèle:Voir homonymes
+分類:Language user templates	Catégorie:Langue pour les boîtes utilisateurs
+模板:User language-N	Modèle:Babel field M
+Wikipedia:GNU自由文檔協議證書	Wikipédia:Licence de documentation libre GNU
+模板:Topicon	Modèle:Icône de titre
+模板:大洋洲行政區劃	Modèle:Palette Pays d'Océanie
+分類:Vùn-ho̍k-kâ	Catégorie:Écrivain
+分類:Kiûn-sṳ	Catégorie:Armée
+分類:Thai-ho̍k	Catégorie:Université
+模板:Country data Malaysia	Modèle:Country data Malaisie
+模板:Lang-he	Modèle:Lang-he
+分類:Sṳ-kie Pok-lám-fi	Catégorie:Exposition internationale
+分類:Chûng-fà Ngìn-mìn Khiung-fò-koet Chú-sit	Catégorie:Président de la République populaire de Chine
+模板:Documentation subpage	Modèle:Sous-page de documentation
+分類:Fu̍k-tsông	Catégorie:Moine bouddhique
+模板:FIN	Modèle:Finlande
+模板:Purge	Modèle:Purger le cache
+模板:Lang-de	Modèle:Lang-de
+模板:DNK	Modèle:Danemark
+模板:Provinces of China	Modèle:Palette Subdivisions de la Chine
+模板:Userpage	Modèle:Page personnelle
+模板:DEU	Modèle:Allemagne
+模板:SWE	Modèle:Suède
+模板:User language-4	Modèle:Babel field 4
+分類:Ye̍t-nàm kî-chhòng	Catégorie:Aéroport au Viêt Nam
+Kiet-tshòng	Côlon
+分類:Kûng-sṳ̂	Catégorie:Entreprise
+模板:User fr-3	Modèle:Utilisateur fr-3
+模板:JPN	Modèle:Japon
+模板:MKD	Modèle:République de Macédoine
+模板:LTU	Modèle:Lituanie
+分類:Sṳ-chhòng	Catégorie:Marché
+Mô-li-ngìn	Maoris (Nouvelle-Zélande)
+模板:Disambig	Modèle:Homonymie
+分類:Hàng-thung Thien-fa	Catégorie:Téléphone mobile
+模板:User nan	Modèle:Utilisateur zh-min-nan
+模板:User nan-1	Modèle:Utilisateur zh-min-nan-1
+模板:GRC	Modèle:Grèce
+模板:Lang-grc	Modèle:Lang-grc
+模板:CZE	Modèle:République tchèque
+模板:Lang-en	Modèle:Lang-en
+分類:Chhòn-ngiam-phiang	Catégorie:Maladie infectieuse
+分類:Sîn-kau	Catégorie:Protestantisme
+模板:GBR	Modèle:Royaume-Uni
+模板:SVN	Modèle:Slovénie
+模板:FRA	Modèle:France
+模板:Hiông-kóng Hàng-tsṳn Khî-va̍k	Modèle:Palette District de Hong Kong
+模板:User pt-2	Modèle:Utilisateur pt-2
+分類:Kâ-li-sî-â	Catégorie:Galice
+模板:歐洲行政區劃	Modèle:Palette Pays d'Europe
+分類:User yue	Catégorie:Utilisateur zh-yue
+分類:User fr	Catégorie:Utilisateur fr
+分類:User ja	Catégorie:Utilisateur ja
+分類:User pt	Catégorie:Utilisateur pt
+分類:User nl-3	Catégorie:Utilisateur nl-3
+分類:User fr-2	Catégorie:Utilisateur fr-2
+分類:User ja-2	Catégorie:Utilisateur ja-2
+分類:User ko-N	Catégorie:Utilisateur ko-M
+分類:User fr-N	Catégorie:Utilisateur fr-M
+分類:Vùn-sṳ	Catégorie:Système d'écriture
+分類:Tho-kau	Catégorie:Taoïsme
+分類:User ca	Catégorie:Utilisateur ca
+分類:User ca-1	Catégorie:Utilisateur ca-1
+分類:User de	Catégorie:Utilisateur de
+分類:User de-2	Catégorie:Utilisateur de-2
+分類:User de-N	Catégorie:Utilisateur de-M
+分類:User en-3	Catégorie:Utilisateur en-3
+分類:User en-N	Catégorie:Utilisateur en-M
+分類:User es	Catégorie:Utilisateur es
+分類:User es-2	Catégorie:Utilisateur es-2
+分類:User es-N	Catégorie:Utilisateur es-M
+分類:Hiông-kóng Thi-lî	Catégorie:Géographie de Hong Kong
+模板:Lang-lv	Modèle:Lang-lv
+分類:Yî-set-lie̍t kiûn-vòng	Catégorie:Roi d'Israël
+分類:Yù-thai kiûn-vòng	Catégorie:Roi de Juda
+分類:Kí-hò-ho̍k	Catégorie:Géométrie
+模板:Ye̍t-nàm	Modèle:Palette Divisions administratives du Viêt Nam
+分類:User ja-1	Catégorie:Utilisateur ja-1
+分類:User ko	Catégorie:Utilisateur ko
+Hà-mà	Crapaud
+模板:Lang-vi	Modèle:Lang-vi
+分類:Lièn-ha̍p-koet Pi-sû-chóng	Catégorie:Secrétaire général de l'ONU
+分類:Hói-yòng	Catégorie:Mer
+分類:Ido-ngî	Catégorie:Ido
+模板:LUX	Modèle:Luxembourg
+分類:Thai-yòng-ne	Catégorie:Système solaire
+分類:Kóng-tûng-sén	Catégorie:Guangdong
+分類:Fuk-kian	Catégorie:Fujian
+分類:Koet-chi Chû-chṳt	Catégorie:Organisation internationale
+分類:Fat-mìn-kâ	Catégorie:Inventeur
+分類:Yím-liau	Catégorie:Boisson
+分類:User nan-1	Catégorie:Utilisateur zh-min-nan-1
+分類:User nan-2	Catégorie:Utilisateur zh-min-nan-2
+分類:User nan-3	Catégorie:Utilisateur zh-min-nan-3
+分類:User nan-N	Catégorie:Utilisateur zh-min-nan-M
+分類:Mî-koet Koet-kâ Kûng-yèn	Catégorie:Parc national des États-Unis
+分類:Kô-tén Kau-yuk	Catégorie:Enseignement supérieur
+模板:!w	Modèle:!wrap
+分類:Thi-hìn	Catégorie:Modelé
+分類:Pâ-lùn-sî-â Chhṳ-chhṳ-khî	Catégorie:Communauté valencienne
+模板:User ja-2	Modèle:Utilisateur ja-2
+分類:Thiên-chú-kau	Catégorie:Catholicisme
+分類:User yue-N	Catégorie:Utilisateur zh-yue-M
+分類:Yîm-ngo̍k-kâ	Catégorie:Musicien
+模板:Lang	Modèle:Langue
+分類:Fa-kâ	Catégorie:Peintre
+分類:Yin-thu chûng-kau	Catégorie:Religion en Inde
+分類:Ho̍k-su̍t	Catégorie:Académie
+模板:.w	Modèle:•wrap
+分類:Ngìn-lui	Catégorie:Humain
+模板:CYP	Modèle:Chypre
+分類:Yin-thu Thi-lî	Catégorie:Géographie de l'Inde
+分類:Sông-ngia̍p	Catégorie:Commerce
+分類:Fap-koet fòng-ti	Catégorie:Empereur des Français
+模板:EST	Modèle:Estonie
+模板:AUT	Modèle:Autriche
+分類:Meu-khô	Catégorie:Felidae
+分類:Kâ-le̍t-pí-hói	Catégorie:Mer des Caraïbes
+分類:Thòi-vân Thi-lî	Catégorie:Géographie de Taïwan
+模板:User zh-3	Modèle:Utilisateur zh-3
+模板:User zh-4	Modèle:Utilisateur zh-4
+分類:Nì-pok Thi-lî	Catégorie:Géographie du Népal
+分類:Thai-khûng-ngìn	Catégorie:Astronaute
+分類:Chûng-fà Mìn-tshu̍k Tshṳ-tshṳ-chû	Catégorie:Préfecture autonome de la République populaire de Chine
+分類:Khî-ngia̍p-kâ	Catégorie:Personnalité du monde des affaires
+分類:Fî-li̍t-pîn	Catégorie:Philippines
+分類:User nl	Catégorie:Utilisateur nl
+分類:User zh-1	Catégorie:Utilisateur zh-1
+分類:User zh-4	Catégorie:Utilisateur zh-4
+分類:User zh-3	Catégorie:Utilisateur zh-3
+分類:User zh-2	Catégorie:Utilisateur zh-2
+分類:Yin-thu kiûn-chú	Catégorie:Dirigeant du monde indien
+分類:Ho̍k-vi	Catégorie:Titre universitaire
+分類:Pô-sṳ̂ koet-vòng	Catégorie:Roi de Perse
+分類:Kîm-yùng	Catégorie:Finance
+分類:Chûng-fà mìn-koet tsúng-thúng	Catégorie:Président de la République de Chine
+分類:Thien-sṳ	Catégorie:Télévision
+分類:Chhòn-kau-sṳ	Catégorie:Missionnaire
+分類:Hói-hia̍p	Catégorie:Détroit
+粵語	Cantonais
+分類:Yin-Êu Ngî-ne	Catégorie:Langue indo-européenne
+分類:Kî-chhòng	Catégorie:Aéroport
+分類:Fa-ho̍k ngièn-su	Catégorie:Élément chimique
+分類:Khô-ho̍k-kâ	Catégorie:Scientifique
+分類:Pâ-kî-sṳ̂-thán Thi-lî	Catégorie:Géographie du Pakistan
+分類:Kî-tuk-kau lî-ngì	Catégorie:Culte et liturgie chrétiens
+分類:Nì-pok	Catégorie:Népal
+分類:Thòi-vân	Catégorie:Taïwan
+分類:Chûng-koet chhèu-thoi	Catégorie:Dynastie chinoise
+分類:Pet-mî-chû koet-kâ	Catégorie:Pays d'Amérique du Nord
+分類:Sṳ-tshòi	Catégorie:Légume
+分類:Súi-kó	Catégorie:Fruit alimentaire
+分類:Khiu-yok Sṳn-kîn	Catégorie:Ancien Testament
+分類:Pok-vu̍t-kón	Catégorie:Musée
+分類:Hì-hèu	Catégorie:Climat
+分類:Â-chû Thi-lî	Catégorie:Géographie de l'Asie
+分類:Ngìn-lui-ho̍k	Catégorie:Anthropologie
+分類:Thai-khûng Chhàm	Catégorie:Station spatiale
+分類:Fap-koet Thai-ho̍k	Catégorie:Université française
+模板:ESP	Modèle:Espagne
+分類:Thung-vu̍t	Catégorie:Animal
+分類:Chit-chhûi Thung-vu̍t	Catégorie:Vertébré
+分類:Ngî-yîm-ho̍k	Catégorie:Phonétique
+分類:Hòng-khûng Kûng-sṳ̂	Catégorie:Compagnie aérienne
+分類:Ngìn-khièn	Catégorie:Droits fondamentaux
+分類:Mìn-tshu̍k	Catégorie:Peuple
+分類:Ngo̍k-hi	Catégorie:Instrument de musique
+分類:Ngî-ne	Catégorie:Famille de langues
+分類:Hon-sṳ	Catégorie:Sinogramme
+分類:Pó-sa̍k	Catégorie:Gemme
+分類:Koet-kâ Kûng-yèn	Catégorie:Parc national
+分類:Hi-siong-ho̍k	Catégorie:Météorologie
+分類:Chûng-mî-chû	Catégorie:Amérique centrale
+分類:Fî-kîm-su̍k	Catégorie:Non-métal
+分類:Hiông-kóng	Catégorie:Hong Kong
+分類:Kóng-sî-sén	Catégorie:Guangxi
+分類:Yên-liau	Catégorie:Carburant
+分類:Sông-hói	Catégorie:Shanghai
+分類:Ngiuk-lui	Catégorie:Viande
+分類:Yo̍k-ho̍k	Catégorie:Pharmacie
+分類:Sú-tû	Catégorie:Capitale de pays
+分類:Nàm-Â	Catégorie:Monde indien
+分類:Kham-thap-pu-lî-â	Catégorie:Cantabrie
+分類:Â-sṳ̂-thù-lî-â-sṳ̂-sén	Catégorie:Asturies
+分類:Kîm-su̍k	Catégorie:Métal
+分類:Thòi-pet-sṳ	Catégorie:Taipei
+分類:Lò-màn Ngî-chhu̍k	Catégorie:Langue romane
+分類:Kâu-thûng	Catégorie:Transport
+分類:Ngiên-kiu	Catégorie:Recherche scientifique
+分類:Thông-lui	Catégorie:Glucide
+分類:Fòng-ti	Catégorie:Empereur
+分類:Nàm-tó ngî-hì	Catégorie:Langue austronésienne
+分類:Pet-mî-chû	Catégorie:Amérique du Nord
+分類:Si-chhòng	Catégorie:Tibet
+分類:Sú-ho̍k-kâ	Catégorie:Mathématicien
+分類:Vu̍t-lî ho̍k-kâ	Catégorie:Physicien
+分類:Kîn-chi ho̍k-kâ	Catégorie:Économiste
+分類:Mìn-tsú	Catégorie:Démocratie
+分類:Kî-tuk-kau Li̍t-sṳ́	Catégorie:Histoire du christianisme
+分類:Àu-mûn	Catégorie:Macao
+分類:Hàng-sên-ne	Catégorie:Système planétaire
+分類:Thòi-vân ngî-ngièn	Catégorie:Langue de Taïwan
+分類:Thòi-vân Koet-kâ Kûng-yèn	Catégorie:Parc national de Taïwan
+分類:Khiù-lui Yun-thung	Catégorie:Jeu de balle et ballon
+分類:Ngiùn-hòng	Catégorie:Banque
+Fu̍k-vu	Service (économie)
+分類:Chûng-fà Ngìn-mìn Khiung-fò-koet	Catégorie:République populaire de Chine
+分類:Kâ-thai-lò-nì-â	Catégorie:Catalogne
+Kap-kut-vùn	Écriture ossécaille
+分類:Khien-không	Catégorie:Santé
+分類:User zh-classical-2	Catégorie:Utilisateur zh-classical-2
+模板:Lang-pl	Modèle:Lang-pl
+Trojany	Trojany (Mazovie)
+分類:Â-chû koet-kâ	Catégorie:Pays d'Asie
+分類:Mî-chû koet-kâ	Catégorie:Pays d'Amérique
+模板:Chûng-fà Mìn-chhu̍k	Modèle:Palette Ethnies de Chine
+模板:User nan-2	Modèle:Utilisateur zh-min-nan-2
+模板:MLT	Modèle:Malte
+模板:Lang-roa	Modèle:Lang-roa
+分類:Hak-kâ	Catégorie:Hakka
+分類:Kûng-yèn	Catégorie:Parc ou jardin public
+分類:Chûng-sî-khî (Hiông-kóng)	Catégorie:Central and Western
+分類:Thòi-vân ngièn-tshu-mìn ngî-ngièn	Catégorie:Langue formosane
+分類:Si-chhòng Thi-lî	Catégorie:Géographie du Tibet
+分類:Nui-mùng-kú Tshṳ-tshṳ-khî	Catégorie:Mongolie-Intérieure
+分類:Koet-tsi kîn-tsi tsû-tsṳt	Catégorie:Organisation internationale à vocation économique
+分類:Lâ-tên Mî-chû	Catégorie:Amérique latine
+分類:Chúng-chhu̍k	Catégorie:Race humaine
+分類:Mîn-ngî	Catégorie:Min
+分類:Chûng-fà Mìn-koet	Catégorie:République de Chine
+分類:Siak-khiet-kau	Catégorie:Sikhisme
+模板:BEL	Modèle:Belgique
+分類:Kú-thoi chhu̍k-khiùn	Catégorie:Peuple ancien
+分類:Vùi-sṳ̂-khà-sén	Catégorie:Province de Huesca
+分類:Thap-là-kô-na̍p-sén	Catégorie:Province de Tarragone
+分類:Pâ-set-lò-nâ-sén	Catégorie:Province de Barcelone
+分類:Pâ-lùn-sî-â-sén	Catégorie:Province de Valence
+分類:Chûng-kau-ho̍k	Catégorie:Science des religions
+分類:Thòi-vàn Ngièn-chhu-mìn	Catégorie:Peuple de Taïwan
+分類:User hak	Catégorie:Utilisateur hak
+分類:Thien-fa	Catégorie:Téléphonie
+模板:TPE	Modèle:Taipei chinois
+分類:Ngân-set	Catégorie:Couleur
+分類:Â-là-kung	Catégorie:Aragon
+分類:User cdo	Catégorie:Utilisateur cdo
+分類:User zh-min-dong-N	Catégorie:Utilisateur cdo-M
+分類:Tseu-mìn	Catégorie:Éclairage
+分類:Phòng-châ-phú	Catégorie:Pendjab
+模板:Chûng-fà Mìn-koet Hàng-chṳn Khî-va̍k	Modèle:Palette Administration territoriale de Taïwan
+分類:Lie̍t-yî-tha̍t-sén	Catégorie:Province de Lérida
+甲型流感病毒H7N9亞型	Influenzavirus A sous-type H7N9
+分類:Sat-là-kô-sat-sén	Catégorie:Province de Saragosse
+模板:HUN	Modèle:Hongrie
+模板:Yin-thu-nì-sî-â	Modèle:Palette Provinces d'Indonésie
+分類:User hak-2	Catégorie:Utilisateur hak-2
+Vòng-phûng	Guêpe
+模板:Kóng-sî Hàng-chṳn Khî-va̍k	Modèle:Palette Guangxi
+模板:Kóng-tûng Hàng-chṳn Khî-va̍k	Modèle:Palette Guangdong
+分類:User en-1	Catégorie:Utilisateur en-1
+分類:User de-1	Catégorie:Utilisateur de-1
+Li̍t-thoi-chṳ-song	Premier livre des Chroniques
+Liû-khiû Khiùn-tó	Îles Ryūkyū
+模板:User ru-3	Modèle:Utilisateur ru-3
+模板:User nl-3	Modèle:Utilisateur nl-3
+模板:Sîn-pet-sṳ	Modèle:Palette District de New Taipei
+模板:Si-chhôn Hàng-chṳn Khî-va̍k	Modèle:Palette Sichuan
+2013-ngièn Lù-sân Thi-chṳ́n	Séisme de 2013 au Sichuan
+Yòng-ya̍p-é	Rhopalocères
+Chûng-koet Chhèu-thoi	Chronologie des dynasties chinoises
+Ngiên-kiu-só	Graduate school
+模板:Style/IPA	Modèle:Style/IPA
+模板:Style/yid	Modèle:Style/yid
+模板:Ping	Modèle:Notif
+IPhone 5S	IPhone 5s
+IPhone 5C	IPhone 5c
+Sûng-kú Lô-siên	Double-hélice
+Yun Hyon-seok	Yun Hyon-seok
+特殊:最近更改	Spécial:Modifications récentes
+馬來西亞航空17號班機空難	Vol 17 Malaysia Airlines

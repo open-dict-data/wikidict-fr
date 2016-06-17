@@ -1,0 +1,2790 @@
+Afrika	Afrique
+Jabaan	Japon
+Ameerikada koonfureed	Amérique du Sud
+Norway	Norvège
+Ingiriiska	Angleterre
+Skotland	Écosse
+Waalis	Pays de Galles
+Waqooyiga Ayrland	Irlande du Nord
+Ireland	Irlande (pays)
+Hungaria	Hongrie
+Isbania	Espagne
+Mareykanka	États-Unis
+Beljim	Belgique
+Luksemburg	Luxembourg (pays)
+Koon	Univers
+Dhul	Terre
+Nolosha	Vie
+Biniaadan	Homo sapiens
+George Washington	George Washington
+Finland	Finlande
+Iswiidhan	Suède
+Denmark	Danemark
+Boland	Pologne
+Lithuaniya	Lituanie
+Talyaaniga	Italie
+Iswisarland	Suisse
+Austriya	Autriche
+Giriig	Grèce
+Turkiga	Turquie
+Bortuqaal	Portugal
+Yurub	Europe
+Aasiya	Asie
+Woqooyiga Ameerika	Amérique du Nord
+Antiarktis	Antarctique
+Wikipedia	Wikipédia
+Holland	Pays-Bas
+New York	New York
+Washington D.C	Washington (district de Columbia)
+Baarliin	Berlin
+Los Angeles	Los Angeles
+Boeing	Boeing
+Kumbuyuutar	Ordinateur
+Jineefa	Genève
+Internet	Internet
+Barack Obama	Barack Obama
+Uruguay	Uruguay
+London	Londres
+Qaahiro	Le Caire
+Baariis	Paris
+Android	Android
+Google	Google
+Meksiko	Mexique
+Badweynta Atlaantik	Océan Atlantique
+Badweynta Baasifik	Océan Pacifique
+Kalifornia	Californie
+Isniin	Lundi
+Janaayo	Janvier
+Febraayo	Février
+Maarso	Mars (mois)
+Farraare	Mars (planète)
+Kiinya	Kenya
+Itoobiya	Éthiopie
+Gaana	Ghana
+Abriil	Avril
+May	Mai
+Juun	Juin
+Luuliyo	Juillet
+Agoosto	Août
+Sebteembar	Septembre
+Oktoobar	Octobre
+Nofeembar	Novembre
+Diseembar	Décembre
+Talaado	Mardi
+Arbaco	Mercredi
+Khamiis	Jeudi
+Jimco	Vendredi
+Sabti	Samedi
+Axad	Dimanche
+Libaax	Lion
+Faransiiska	France
+Esberanto	Espéranto
+Ey	Chien
+Midowga boqortooyada Britan	Royaume-Uni
+Yaanyuur	Chat
+Shiinaha	Chine
+Af-Faransiis	Français
+Malaay	Poisson
+Khamri	Boisson alcoolisée
+Barasiil	Brésil
+François Hollande	François Hollande
+Ruushka	Russie
+Nibiri	Cetacea
+Labajibaarane	Carré
+Bad	Mer
+Bada madaw	Mer Noire
+Pi Sumad xisaabeed	Pi
+Cambe	Mangue
+Wiki	Wiki
+Toronto	Toronto
+Alabama	Alabama
+São Paulo	São Paulo
+São Paulo (Gobol)	État de São Paulo
+Wikimedia	Wikimedia Foundation
+Jimmy Wales	Jimmy Wales
+Ingiriis	English
+Jarmalka	Allemagne
+Belarus	Biélorussie
+Af-Jarmal	Allemand
+Island	Islande
+Estoniya	Estonie
+David Cameron	David Cameron
+Raage	Saturne (planète)
+Chocolate	Chocolat
+Dagaalada	Guerre
+Kow	1 (nombre)
+Labo	2 (nombre)
+Sadax	3 (nombre)
+Afar (lambar)	4 (nombre)
+Shan	5 (nombre)
+0	Zéro
+George W. Bush	George W. Bush
+Laydi	Rectangle
+Latfiya	Lettonie
+Ukrain	Ukraine
+Jamhuuriyadda Tashik	République tchèque
+Islofaakiya	Slovaquie
+Isloveeniya	Slovénie
+Moldofa	Moldavie
+Romania	Roumanie
+Bulgaria	Bulgarie
+Roma	Rome
+Jamhuriyada Makedonia	Macédoine (pays)
+Albania	Albanie
+Griinland	Groenland
+Kroatia	Croatie
+Bosniya	Bosnie-Herzégovine
+Aserbiijaan	Azerbaïdjan
+Andorra	Andorre
+Jasiirada Qabrus	Chypre (pays)
+Joorjiya	Géorgie (pays)
+Kasakhstan	Kazakhstan
+Malta	Malte
+Monako	Monaco
+Montenegro	Monténégro
+Faatikan	Vatican
+San Marino	Saint-Marin
+Boroksel	Ville de Bruxelles
+Kuuba	Cuba
+Belise	Belize
+Barbados	Barbade
+Indunisiya	Indonésie
+Wolfgang Amadeus Mozart	Wolfgang Amadeus Mozart
+Af-Turki	Turc
+Koonfur Afrika	Afrique du Sud
+Aljeeriya	Algérie
+Usbekistan	Ouzbékistan
+Biyo	Eau
+Alwaax	Bois
+Telefishin	Télévision
+Claude Monet	Claude Monet
+Diego Velázquez	Diego Vélasquez
+Jili	Chili
+El Greco	El Greco
+Ciise	Jésus-Christ
+Dusaa	Mercure (planète)
+Taariikh	Histoire
+Apple Inc	Apple
+Waxaraxir	Vénus (planète)
+Jaceyl	Amour
+Cirjeex	Jupiter (planète)
+Uraano	Uranus (planète)
+Nicolas Sarkozy	Nicolas Sarkozy
+Nebtuun	Neptune (planète)
+Xiddigis	Astronomie
+Singabuur	Singapour
+Saynis	Science
+Buluuto	Pluton (planète naine)
+Liechtenstein	Liechtenstein
+Ciyaaraha	Sport
+Adolf Hitler	Adolf Hitler
+Facebook	Facebook
+Julian Assange	Julian Assange
+Dagaalkii koowaad	Première Guerre mondiale
+Dagaalkii Labaad ee Aduunka	Seconde Guerre mondiale
+Goorsheegto	Horloge
+Linux	Linux
+Xisaab	Mathématiques
+Af-Laatiin	Latin
+Baxrayn	Bahreïn
+Armania	Arménie
+Seerbiya	Serbie
+Bil	Lune
+Istanbuul	Istanbul
+Australia	Australie
+Fiisigis	Physique
+Arjantiina	Argentine
+Isgaarsiinta	Télécommunications
+Peru	Pérou
+Bayoloji	Biologie
+Waqooyiga Kuuriya	Corée du Nord
+Kambodiya	Cambodge
+Qur'aan	Coran
+Diinsoor (xayawaan)	Dinosaure
+Islaam	Islam
+Ljubljana	Ljubljana
+World Wide Web	World Wide Web
+Naag	Femme
+Gabay	Poésie
+Chernobyl	Catastrophe nucléaire de Tchernobyl
+Milan	Milan
+Torino	Turin
+Liin dhanaan	Citron
+Moos	Banane
+Ubax	Fleur
+Magaalo	Ville
+Napoleon Bonaparte	Napoléon Ier
+Xidig	Étoile
+Qorax	Soleil
+Cir	Ciel
+Tuulo	Village
+Ooshiyaaniya	Océanie
+Bahda Midaysay Qoraxdu	Système solaire
+Ilig	Dent
+Hydrogen	Hydrogène
+Hiliyaam	Hélium
+Ilik	Dent humaine
+Cadaab	Enfer
+Wikimedia Commons	Wikimedia Commons
+Liithiyaam	Lithium
+Beriiliyaam	Béryllium
+Buug	Livre (document)
+Maalin	Jour
+Bariga Timor	Timor oriental
+Sanad	Année (calendrier)
+Qarni	Siècle
+Oslo	Oslo
+Lissabon	Lisbonne
+Dubay	Dubaï (émirat)
+Lionel Messi	Lionel Messi
+Booron	Bore
+Versailles	Versailles
+Kaarboon	Carbone
+Nitrojiin	Azote
+Ogsajiin	Oxygène
+FC Internazionale Milano	FC Internazionale Milano
+Meere	Planète
+Muusig	Musique
+Moskow	Moscou
+Foloriin	Fluor
+Af-Taliyaani	Italien
+Niyoon	Néon
+Saint Petersburg	Saint-Pétersbourg
+Jad	Tchad
+Sodhiyaam	Sodium
+Woqooyi	Nord
+Magniisiyaam	Magnésium
+Alumiiniyaam	Aluminium
+New Zealand	Nouvelle-Zélande
+Koonfur	Sud
+Hindiya	Inde
+Silikoon	Silicium
+Faransiyaam	Francium
+Tuvalu	Tuvalu
+Fosforos	Phosphore
+Xadiid	Fer
+Galbeed	Ouest
+Salfar	Soufre
+Bari (Jiho)	Est
+Jasiiradaha Solomon	Salomon (pays)
+Koloriin	Chlore
+Koofurta Holland	Hollande-Méridionale
+Balau	Palaos
+Aargon	Argon
+Nawru	Nauru
+Firefox	Mozilla Firefox
+Waqooyiga Holland	Hollande-Septentrionale
+Botashiyaam	Potassium
+Zeeland	Zélande
+Kaalshiyaam	Calcium
+Flevoland	Flevoland
+Lead	Plomb
+Jasiirada Marshall	Îles Marshall
+Kiribati	Kiribati
+Mongolia	Mongolie
+Fiji	Fidji
+Iskaandhiyaam	Scandium
+Titaaniyaam	Titane
+Fanansuwela	Venezuela
+Jinkis Khan	Gengis Khan
+Fanadhiyaam	Vanadium
+Koroomiyaam	Chrome
+Faras	Cheval
+Amistardam	Amsterdam
+Hub	Arme
+Xayawaan	Animal
+Surinam	Suriname
+Manganiis	Manganèse
+Paraguay	Paraguay
+Guyana	Guyana
+Fan	Art
+Ikwadoor	Équateur (pays)
+Reheniyaam	Rhénium
+Kolombiya	Colombie
+Kobalti	Cobalt
+Tungsten	Tungstène
+Nikel	Nickel
+Boliifia	Bolivie
+Osmiyaam	Osmium
+Groningen	Groningue (province)
+Kober	Cuivre
+Beer	Plante
+Sinki	Zinc
+Leonardo da Vinci	Léonard de Vinci
+Boqoshaa	Fungi
+Jamayka	Jamaïque
+Friesland	Frise (province)
+Drenthe	Drenthe
+Overijssel	Overijssel
+Guatemala	Guatemala
+Gelderland	Gueldre (province)
+Utrecht	Utrecht (province)
+Bahamas	Bahamas
+Dooro	Gallus gallus domesticus
+Antigua iyo Barbuda	Antigua-et-Barbuda
+Hawaay	Hawaï
+Dominika	Dominique (pays)
+Doofaar	Porc
+Haiti	Haïti
+El Salfador	Salvador
+Iiraan	Iran
+Ciraaq	Irak
+Xikmad	Sagesse
+Kosta Rika	Costa Rica
+Israaiil	Israël
+Magaalada Utrecht	Utrecht
+Banama	Panama
+Yemen	Yémen
+Virus	Virus
+Urdun	Jordanie
+Nikaragua	Nicaragua
+Florida	Floride
+Qargistan	Kirghizistan
+Kuwayt	Koweït
+Laos	Laos
+Lubnaan	Liban
+Jasiirada Maldiif	Maldives
+Ameerika	Amérique
+Lo'	Bos taurus
+Malaysiya	Malaisie
+Burma	Birmanie
+Nebal	Népal
+Cumaan	Oman
+Bakistaan	Pakistan
+Qatar	Qatar
+Ciyaarta Teeniska	Tennis
+Sacuudi Carabiya	Arabie saoudite
+Siri Lanka	Sri Lanka
+Suuriya	Syrie
+Gaaliyaam	Gallium
+Tadsjikistan	Tadjikistan
+Pokemon	Pokémon
+Taywan	Taïwan
+YouTube	YouTube
+Jermaaniyaam	Germanium
+Tayland	Thaïlande
+Tareen	Train
+Aarsenik	Arsenic
+Turkmenistan	Turkménistan
+Seleniyaam	Sélénium
+Iridiyaam	Iridium
+Imaaraatka Carabta	Émirats arabes unis
+Boromiin	Brome
+Balatiniyaam	Platine
+Fiyetnam	Viêt Nam
+Charlie Chaplin	Charlie Chaplin
+Koonfur Kuuriya	Corée du Sud
+Kiribtoon	Krypton
+Afgaanistan	Afghanistan
+Gangnam Style	Gangnam Style
+Rubiidhiyaam	Rubidium
+Dahab	Or
+Kanaalka Suweys	Canal de Suez
+Bangladesh	Bangladesh
+Maali	Mali
+Sokrades	Socrate
+Angola	Angola
+Butaan	Bhoutan
+Twitter	Twitter
+Barunay	Brunei
+Tansaaniya	Tanzanie
+Meerkuri	Mercure (chimie)
+Roald Amundsen	Roald Amundsen
+Harry Mulisch	Harry Mulisch
+Filibiin	Philippines
+Jamhuuriyadda Bartamaha Afrika	République centrafricaine
+Cirifka Koonfur	Pôle Sud
+Cirifka waqooyi	Pôle Nord
+Isxaaq Newton	Isaac Newton
+Albert Einstein	Albert Einstein
+Istoroontiyaam	Strontium
+Itriyaam	Yttrium
+Bismuth	Bismuth
+Jaale	Jaune
+Togo	Togo
+Tunisiya	Tunisie
+Saambiya	Zambie
+Simbaabwi	Zimbabwe
+Beijing	Pékin
+Koonfur Suudaan	Soudan du Sud
+Benin	Bénin
+Botswana	Botswana
+Burkina Faso	Burkina Faso
+Burundi	Burundi
+Komoros	Comores (pays)
+Jamhuuriyadda Kongo	République du Congo
+Jamhuuriyada Dimuqaraadiga Kongo	République démocratique du Congo
+Jabuuti	Djibouti
+Boloniyaam	Polonium
+Ikweetiga Guinea	Guinée équatoriale
+Eratareya	Érythrée
+New Delhi	New Delhi
+Astatiin	Astate
+Gabon	Gabon
+Mahatma Gandhi	Mohandas Karamchand Gandhi
+Gambia	Gambie
+Guinea	Guinée
+Guinea-Bissau	Guinée-Bissau
+Xeebta Foolmaroodi	Côte d'Ivoire
+Kamiruun	Cameroun
+Kab Ferde	Cap-Vert
+Lesotho	Lesotho
+Liberia	Liberia
+Libiya	Libye
+Madagaskar	Madagascar
+Malaawi	Malawi
+Mauritania	Mauritanie
+Mauritius	Maurice (pays)
+Marooko	Maroc
+Musanbiig	Mozambique
+Nambiya	Namibie
+Nayjar	Niger
+Nayjeeriya	Nigeria
+Yugandha	Ouganda
+Ruwanda	Rwanda
+Sirkooniyaam	Zirconium
+Sao Tome iyo Prinsipe	Sao Tomé-et-Principe
+Sinigaal	Sénégal
+Seyshelles	Seychelles
+Sierra Leone	Sierra Leone
+Soomaaliya	Somalie
+Niyobiyaam	Niobium
+Julius Caesar	Jules César
+Suudaan	Soudan
+Swasiland	Swaziland
+Qaansa Roobaad	Arc-en-ciel
+Molybdenum	Molybdène
+Teknetiyaam	Technétium
+Qaramada Midoobay	Organisation des Nations unies
+Juquraafi	Géographie
+Wadno	Cœur
+Maskax	Cerveau
+Maqaar	Peau
+Midab	Couleur
+Rutheniyaam	Ruthénium
+Roodhiyaam	Rhodium
+Baluug	Bleu
+Baladiyaam	Palladium (chimie)
+Naxaas	Argent
+Kaadmiyaam	Cadmium
+Limburg	Province de Limbourg (Pays-Bas)
+Tin (curiye)	Étain
+Antimony	Antimoine
+Teluriyaam	Tellure
+Waqooyiga Brabant	Brabant-Septentrional
+Aaydhiin	Iode
+Siinoon	Xénon
+Kaasiyaam	Césium
+Baariyaam	Baryum
+Haafniyaam	Hafnium
+Aktiiniyaam	Actinium
+Tantalum	Tantale (chimie)
+Bill Clinton	Bill Clinton
+Raadhiyaam	Radium
+Raadhoon	Radon
+Lorraine	Lorraine
+Buerto Riko	Porto Rico
+Niedersachsen	Basse-Saxe
+Lombardia	Lombardie
+Qudus	Jérusalem
+Rutherfordium	Rutherfordium
+Dubniyaam	Dubnium
+Siiborgiyaam	Seaborgium
+Badweynta Hindiya	Océan Indien
+Kosofo	Kosovo
+Badda Karabiya	Mer des Caraïbes
+Bohriyaam	Bohrium
+Hasiyaam	Hassium
+Meitneriyaam	Meitnérium
+Darmstadtiyaam	Darmstadtium
+Roentgeniyaam	Roentgenium
+Dortmund	Dortmund
+Ununtriyaam	Ununtrium
+Lifermoriyaam	Livermorium
+Ununoktiyaam	Ununoctium
+Maastricht	Maastricht
+Jiilaal	Hiver
+Gu	Printemps
+Xagaa	Été
+Dayr	Automne
+Sadaam Xuseen	Saddam Hussein
+Usaama bin Laadin	Oussama ben Laden
+Caarcaaro	Araneae
+Miro	Fruit (botanique)
+Lacagta	Monnaie
+Xasharaad	Insecte
+Faladimir Lenin	Vladimir Ilitch Lénine
+Uetersen	Uetersen
+Augustus Octavian	Auguste
+Microsoft Windows	Microsoft Windows
+Jibraltaar	Gibraltar
+Nokia	Nokia
+Baabuur	Automobile
+Juventus FC	Juventus Football Club
+Texas	Texas
+Bruno Mars	Bruno Mars
+Sasiiliya	Sicile
+Sardiiniya	Sardaigne
+Fuuqbax	Maladie de Crohn
+Buenos Aires	Buenos Aires
+Tokyo	Tokyo
+Barcelona	Barcelone
+Abidjan	Abidjan
+Minnesota	Minnesota
+Baqdaad	Bagdad
+Isuduwaha Waqtiga Caalamiga	Temps universel coordonné
+AC Milan	Associazione Calcio Milan
+Buuri	Tabac
+Internet Explorer	Internet Explorer
+Sigaar	Cigarette
+Nayl armistaroong	Neil Armstrong
+Maxamed Faarax	Mohamed Farah
+München	Munich
+Fiyena	Vienne (Autriche)
+Kobanhaygan	Copenhague
+Stockholm	Stockholm
+Helsinki	Helsinki
+Dublin	Dublin
+Bratislava	Bratislava
+Budapest	Budapest
+Frankfurt	Francfort-sur-le-Main
+Lanthanum	Lanthane
+Kitaabka quduska	Bible
+Phnom Penh	Phnom Penh
+Ho Chi Minh City	Hô-Chi-Minh-Ville
+Luteetiyaam	Lutécium
+Mida Rumeed Kaniisada Ciise	Véritable Jésus Église
+Ingiriis (luqad)	Anglais
+Bangkok	Bangkok
+Dong Hoi	Đồng Hới
+Concepción	Concepción (Chili)
+Franck Ribéry	Franck Ribéry
+Ottawa	Ottawa
+Dayaxa Cirjeex	Satellites naturels de Jupiter
+Juba	Djouba
+Końskowola	Końskowola
+Dar es Salaam	Dar es Salam
+Khartuum	Khartoum
+Dayaxa raage	Satellites naturels de Saturne
+2000	2000
+2003	2003
+2002	2002
+2001	2001
+2012	2012
+2011	2011
+2010	2010
+2009	2009
+2013	2013
+2014	2014
+2008	2008
+2004	2004
+2005	2005
+2006	2006
+2007	2007
+1900	1900
+1901	1901
+Charles De Gaulle	Charles de Gaulle
+1906	1906
+1908	1908
+1909	1909
+1992	1992
+1991	1991
+1990	1990
+1993	1993
+1994	1994
+1995	1995
+1996	1996
+1910	1910
+1911	1911
+1912	1912
+1913	1913
+1914	1914
+1997	1997
+1998	1998
+1999	1999
+1918	1918
+Cunto	Nourriture
+Mas	Serpentes
+Dayaxa docay	Satellites naturels de Neptune
+Dashiishe	1er janvier
+1920	1920
+1919	1919
+1921	1921
+Georges Pompidou	Georges Pompidou
+Malmö	Malmö
+Birmingham	Birmingham
+Microsoft	Microsoft
+Borotoon	Proton
+Kurów	Kurów
+Kimisteri	Chimie
+Robin van Persie	Robin van Persie
+27	27
+1989	1989
+1988	1988
+1987	1987
+1986	1986
+1985	1985
+1984	1984
+1983	1983
+1982	1982
+1981	1981
+1980	1980
+Muqdisho	Mogadiscio
+Sana'a	Sanaa
+1970	1970
+1971	1971
+1972	1972
+1973	1973
+1974	1974
+1975	1975
+1976	1976
+1977	1977
+1978	1978
+1979	1979
+1969	1969
+18 Abriil	18 avril
+25 Abriil	25 avril
+26 Abriil	26 avril
+Dayax	Satellite naturel
+Kristian Wulff	Christian Wulff
+15 Meey	15 mai
+SSC Napoli	SSC Naples
+1968	1968
+1967	1967
+1966	1966
+1965	1965
+1964	1964
+27 Juun	27 juin
+Kubadda Cagta	Football
+AS Roma	Associazione Sportiva Roma
+1963	1963
+Holokost	Shoah
+1962	1962
+Michael Jackson	Michael Jackson
+Bogota	Bogota
+29 Diseembar	29 décembre
+Quito	Quito
+Adhi	Chèvre
+21 Oktoobar	21 octobre
+Paramaribo	Paramaribo
+Wiil	Garçon
+Gabar	Fille
+Kanbera	Canberra
+Sydney	Sydney
+Cagaar	Vert
+Gaduud	Rouge
+Perth	Perth (Australie-Occidentale)
+Galbeed Australia (gobol)	Australie-Occidentale
+New South Wales	Nouvelle-Galles du Sud
+Wabiga Niil	Nil
+Jini	Djinn
+Wabiga Nijer	Niger (fleuve)
+Rabat	Rabat
+Algiers	Alger
+Tunis	Tunis
+Triboli	Tripoli (Libye)
+Rede Globo	Rede Globo
+Jabuuti (magaalo)	Djibouti (ville)
+Tahraan	Téhéran
+Addis Abeba	Addis-Abeba
+Ankara	Ankara
+Asmara	Asmara
+Nijamiina	N'Djaména
+Niamey	Niamey
+Nawakshot	Nouakchott
+1961	1961
+Bamako	Bamako
+Belgaraad	Belgrade
+Dakar	Dakar
+Banjul	Banjul
+Konakri	Conakry
+Bissau	Bissau
+Category:Template	Catégorie:Espace Modèle
+Monrofia	Monrovia
+Braia	Praia
+1960	1960
+Akara	Accra
+Dimishiq	Damas
+Yamoussoukro	Yamoussoukro
+Faransiis Guyana	Guyane
+Ougadougou	Ouagadougou
+Freetown	Freetown
+Abuja	Abuja
+Lome	Lomé
+Borto-Novo	Porto-Novo
+Yawunde	Yaoundé
+Malabo	Malabo
+Librefille	Libreville
+Bangui	Bangui
+Kinshasa	Kinshasa
+Barasafille	Brazzaville
+Bujumbura	Bujumbura
+Kigali	Kigali
+Dodoma	Dodoma
+Nayroobi	Nairobi
+Lilongwe	Lilongwe
+Lusaka	Lusaka
+Qorax madoobaad	Éclipse solaire
+Mabuto	Maputo
+Kambaala	Kampala
+Luanda	Luanda
+Moroni	Moroni (Comores)
+Mabane	Mbabane
+Maseru	Maseru
+Dugsi	École
+Antananarifo	Antananarivo
+Jaamacad	Université
+Gaborone	Gaborone
+Harare	Harare
+Pretoria	Pretoria
+Bort Lois	Port-Louis (Maurice)
+Sao Tome	São Tomé (ville)
+Windhoek	Windhoek
+Wikipedia:Bacaadka	Wikipédia:Bac à sable
+Fiktoria	Victoria (Seychelles)
+Guri	Maison
+Kombuyuuterka Dhabta	Ordinateur portable
+Computer Hardware	Matériel informatique
+Aljebra	Algèbre
+Webiyada	Rivière
+Osasko	Osasco (Brésil)
+Garoonka ee Dong Hoi	Aéroport de Đồng Hới
+Curitiba	Curitiba
+Pangea	Pangée
+Keyn	Forêt
+Anne Frank	Anne Frank
+Shilin Soomaali	Shilling somalien
+Confucius	Confucius
+Category:Taariikhda Ciraaq	Catégorie:Histoire de l'Irak
+Corbin Bleu	Corbin Bleu
+Category:Xisaab	Catégorie:Mathématiques
+Jasiiradaha Feroe	Îles Féroé
+Maxamed Morsi	Mohamed Morsi
+Euro	Euro
+Bada Dhexe	Mer Méditerranée
+Masiixiyad	Christianisme
+Windows 8	Windows 8
+Template:Dalalka Aasiya	Modèle:Palette Pays d'Asie
+Bariis	Riz
+Céline Dion	Céline Dion
+Qaaradaha	Continent
+Adelaide	Adélaïde (Australie)
+Shimbir	Oiseau
+Bilaha	Mois
+Mustafa Kemal Atatürk	Mustafa Kemal Atatürk
+1948	1948
+Jeejniya	Tchétchénie
+1949	1949
+Garoosni	Grozny
+Huang Xianfan	Huang Xianfan
+1956	1956
+1941	1941
+1945	1945
+1958	1958
+1926	1926
+1947	1947
+1944	1944
+1952	1952
+Bill Gates	Bill Gates
+Encyclopedia	Encyclopédie
+DVD	DVD
+Bogga Hore	Wikipédia:Accueil principal
+CPU	Processeur
+1959	1959
+Template:Maqaal Cusub	Modèle:Bon article
+Dhesibel	Décibel
+Kubadda Koleyga	Basket-ball
+Kab town	Le Cap
+Bada Qaswiin	Mer Caspienne
+Harta Fiktooriya	Lac Victoria
+Harada malaawi	Lac Malawi
+Salvador Dalí	Salvador Dalí
+Finsent van Gogh	Vincent van Gogh
+Hokusai	Hokusai
+Mishelangelo	Michel-Ange
+Bablo bekaso	Pablo Picasso
+Rembrandt van Rijn	Rembrandt
+Eminem	Eminem
+Bas	Autobus
+Baabiyloon	Babylone
+Katalooniya	Catalogne
+Samarqanda	Samarcande
+Bukhaara	Boukhara
+Mekka	La Mecque
+Che Guvara	Che Guevara
+Mao Zedong	Mao Zedong
+Kabul	Kaboul
+Luqada Tamil-ka	Tamoul
+Filasoofiyada	Philosophie
+50 Cent	50 Cent
+Dr. Dre	Dr. Dre
+Snoop Dogg	Snoop Dogg
+Shaax	Thé
+Tupac Shakur	Tupac Shakur
+Xidig-dhul	Erinaceinae
+1507	1507
+Shuuciyad	Communisme
+Amadeyo afogadro	Nombre d'Avogadro
+Liberalinimo	Libéralisme
+Wadan	Pays
+Qaran	Nation
+Jow Bayden	Joe Biden
+Hillary Clinton	Hillary Clinton
+Dabaal	Natation
+Category:Xiddigis	Catégorie:Astronomie
+1542	1542
+1543	1543
+Jaan Jaak Rosoo	Jean-Jacques Rousseau
+Saxaara	Sahara
+Hambeegar	Hamburger
+Shaydaanka	Diable
+1606	1606
+Maktabad	Bibliothèque
+FC Barcelona	FC Barcelone (football)
+Midowga afrika	Union africaine
+Siyaasadda,	Politique
+Jaamacada Carabta	Ligue arabe
+Dimoqraadi	Démocratie
+Hay'ada laanqayrta cas	Mouvement international de la Croix-Rouge et du Croissant-Rouge
+Gaashaanbuurta NATO	Organisation du traité de l'Atlantique Nord
+Qin Shi Huang	Qin Shi Huang
+Bariga Dhexe	Moyen-Orient
+Jamhuriyadda	République
+Hantiwadaag	Socialisme
+Dowlad	État
+Xisbi	Parti politique
+Kilimanjaaro	Kilimandjaro
+Kristoffer Kolombus	Christophe Colomb
+Rixlaat Ibn Batuuta	Ibn Battûta
+Kanaalka Banama	Canal de Panama
+Dheg	Oreille
+San	Nez
+Muruq	Muscle
+Hees	Chanson
+Kaneeco	Culicidae
+Libaax Badeed	Requin
+Geel	Camelus
+Naasley	Mammifère
+Maroodi	Éléphant
+Quraansho	Fourmi
+Shini	Abeille
+Software	Logiciel
+Af-Holandees	Néerlandais
+DNA	Acide désoxyribonucléique
+Nuucyada dhirta	Espèce
+Hooyo	Mère
+Aabe	Père
+Waalid	Parent (famille)
+Gaadiidka Dadweynaha	Transport
+Debian	Debian
+1669	1669
+1670	1670
+1671	1671
+1672	1672
+1673	1673
+1674	1674
+1675	1675
+1676	1676
+1677	1677
+1678	1678
+1679	1679
+1680	1680
+1856	1856
+Af-Ruush	Russe
+Faladimir Putin	Vladimir Poutine
+Dastuur	Constitution
+Dalalka Kommonwels	Commonwealth of Nations
+OPEC	Organisation des pays exportateurs de pétrole
+Rooti	Pain
+UNESCO	Organisation des Nations unies pour l'éducation, la science et la culture
+Baaqa Caalamiga ee Xuquuqda Aadanaha	Déclaration universelle des droits de l'homme
+1796	1796
+1797	1797
+1899	1889
+Sawaaxili	Swahili
+1893	1893
+Unug	Cellule (biologie)
+Dhiig	Sang
+Qolfoof	Squelette
+Sambab	Poumon
+Hab Neefsi	Appareil respiratoire
+Habdhiska Taranka	Système reproducteur
+Af-Romani	Roumain
+Roob	Pluie
+Dhulgariir	Séisme
+Ibn Siinaa	Avicenne
+Nelson Mandela	Nelson Mandela
+Martin Luther King,	Martin Luther King
+Ensiim	Enzyme
+Borotiin	Protéine
+Daad	Inondation
+Tsunami	Tsunami
+Fulkaano	Volcan
+Caad	Nuage
+Tirignoometeri	Trigonométrie
+Joomitiri	Géométrie
+Qarnigii 2aad	IIe siècle
+Qarnigii 1aad	Ier siècle
+Dhaqaale	Sciences économiques
+Warshad	Industrie
+Farta laatiinka	Alphabet latin
+Suugaan	Littérature
+Category:Faransiiska	Catégorie:France
+Category:Muusig	Catégorie:Musique
+Kun Habeen Iyo Habeen	Les Mille et Une Nuits
+Category:Suugaanta	Catégorie:Littérature
+Category:Gabayada	Catégorie:Poésie
+Waxbarasho	Éducation
+Qoys	Famille
+Hugo Chavez	Hugo Chávez
+Nin	Homme
+Guur	Mariage
+Midab Takoor	Racisme
+Adoon	Esclavage
+Dagaal Sokeeye	Guerre civile
+Cumar	Omar ibn al-Khattâb
+Suldaan Suleymaan kan 1aad	Soliman le Magnifique
+Bun	Café
+Caano	Lait
+Buur	Montagne
+Salaaxudiin al-Ayyuubi	Saladin
+Karaaji	Karachi
+Riyaal Madrid	Real Madrid Club de Fútbol
+Dagaalkii qaboobaa	Guerre froide
+Seoul	Séoul
+Tomas Edison	Thomas Edison
+Michael Faraday	Michael Faraday
+Internet protocol	Internet Protocol
+HTML	Hypertext Markup Language
+Af-Iswiidhan	Suédois
+Muxamed bin Muuse al-Khwarizmī	Al-Khwârizmî
+Karl Marx	Karl Marx
+Nabi Muuse C.S.	Moïse
+Aqoon	Connaissance
+Naas	Sein
+Atom	Atome
+Ileys	Lumière
+Af Giriig	Grec
+Operating system	Système d'exploitation
+Naf	Âme
+Af-Faarsi	Persan
+Diin	Religion
+Nabi Ibraahiim C.S.	Abraham
+Saladh	Salade (mets)
+Yuhuuda	Judaïsme
+Af-Hebrow	Hébreu
+Ibn Khalduun	Ibn Khaldoun
+Beer (xubin)	Foie
+Bakeyle	Lapin
+Cilminafsi	Psychologie
+Badweyn	Océan
+Gootama buuda	Siddhartha Gautama
+Muxamed	Mahomet
+BBC	British Broadcasting Corporation
+Shahrukh Khan	Shahrukh Khan
+Al-Ghazaali	Al-Ghazâlî
+Gerald Ford	Gerald Ford
+Shiica	Chiisme
+Suufi	Soufisme
+Carab	Langue (anatomie humaine)
+Chelsea FC	Chelsea Football Club
+Arsenal F.C.	Arsenal Football Club
+Ganac	Pancréas
+Qolfoofta Dadka	Squelette humain
+Qoor	Cou
+Af	Bouche
+Sakaar	Torse
+Elizabeth II	Élisabeth II
+Caajiska	Fatigue (physiologie)
+Schiphol	Aéroport d'Amsterdam-Schiphol
+Haarlem	Haarlem
+Ronald Reagan	Ronald Reagan
+Af-Zulu	Zoulou
+Foosto	Tonneau (récipient)
+Sabool	Pauvreté
+Gordon Brown	Gordon Brown
+Jadwalka Curiyayaasha	Tableau périodique des éléments
+Robert Mugabe	Robert Mugabe
+Xamaam(Shinbir)	Columbidae
+Bakteeri	Bacteria
+Geed	Arbre
+Canab	Raisin
+Malab	Miel
+Hilib	Viande
+Barandho	Pomme de terre
+Sonkor	Sucre
+Khudaar	Légume
+Robot	Robot
+Makiinad	Machine
+Saxaafad	Journalisme
+Taleefoon	Téléphone
+Dhaqan	Culture
+RNA	Acide ribonucléique
+Xidigisyahan	Astronome
+Habdhiska Wareega Dhiiga	Appareil cardiovasculaire
+Mindhicirka weyn	Gros intestin
+Mindhicirka yar	Intestin grêle
+Ibn Haytham	Alhazen
+Isku dhis	Composé chimique
+Sharci dajinta	Pouvoir législatif
+Windows 7	Windows 7
+Boqolleey	Pourcentage
+Windows Vista	Windows Vista
+Fidel Castaro	Fidel Castro
+Category:Barasiil	Catégorie:Brésil
+Tamar	Énergie
+Abala-abalayn bayoloji	Classification scientifique des espèces
+Awood	Force (physique)
+Cufisjiidad	Gravitation
+Cuf	Masse
+Bir	Métal
+Hawo	Gaz
+Dareere	Liquide
+Adke	État solide
+Bushkuleeti	Bicyclette
+Markab	Navire
+Beeraha	Agriculture
+Cudbi	Coton
+Tiknolajiga nano	Nanotechnologie
+Xaansho	Papier
+Bac	Matière plastique
+Bed	Aire (géométrie)
+Lambar	Nombre
+Kiilogaraam	Kilogramme
+Cristiano Ronaldo	Cristiano Ronaldo
+Mitir	Mètre
+Ilbiriqsi	Seconde (temps)
+Galley	Maïs
+Kelvinka	Kelvin
+Dalalka	Liste des pays du monde
+Ludwik Lejzer Zamenhof	Ludwik Lejzer Zamenhof
+Mesobotaamiya	Mésopotamie
+Buti	Ursidae
+Britney Spears	Britney Spears
+Habdhiska Dheefshiidka	Digestion
+Habka Samayska Cuntada	Photosynthèse
+Kansar	Cancer
+Boqortooyo	Roi
+Qamadi	Blé
+Kalandar	Calendrier
+Dhagool	Surdité
+Cudur	Maladie
+Niikotiin	Nicotine
+Malaariyo	Paludisme
+Cunto xumida	Malnutrition
+Benseliin	Pénicilline
+Nantes	Nantes
+AIDS	Syndrome d'immunodéficience acquise
+Sokorow	Diabète sucré
+Template:Location map Yemen	Modèle:Géolocalisation/Yémen
+Mona Lisa	La Joconde
+Horgale (Fiisikis)	Système international d'unités
+Burj Khalifa	Burj Khalifa
+Gidaarka Shiinaha	Grande Muraille
+Abyoone	Entier relatif
+Kubad	Sphère
+Dawladii Cabaasiyiinta	Califat abbasside
+Dawlada Cosmaniya	Empire ottoman
+Koronto	Électricité
+Seef	Épée
+Pawlo Kuwelho	Paulo Coelho
+Stephan El Shaarawy	Stephan El Shaarawy
+Liin	Orange (fruit)
+Af-Soomaali	Somali
+Aljaziira	Aljazeera
+Hal-xeraale	Casse-tête
+Carabi	Arabe
+Xorta ah	Œuvre libre
+Baar	Arecaceae
+Dollar	Dollar
+Ra'iisul wasaare	Premier ministre
+Araga	Optique
+Calan	Drapeau
+Qalin Qori	Crayon
+Saabaan	Meuble
+Template:Location map Sudan	Modèle:Géolocalisation/Soudan
+Template:Location map Eritrea	Modèle:Géolocalisation/Érythrée
+Template:Location map Ethiopia	Modèle:Géolocalisation/Éthiopie
+Template:Location map Djibouti	Modèle:Géolocalisation/Djibouti
+Template:Location map Somalia	Modèle:Géolocalisation/Somalie
+Template:Location map Nigeria	Modèle:Géolocalisation/Nigeria
+Template:Location map Uganda	Modèle:Géolocalisation/Ouganda
+Geri	Girafe
+Faruur	Lèvre
+Shaarbo	Moustache
+Midowga Sofiyet	Union des républiques socialistes soviétiques
+Qolofta kore ee Dhulka	Croûte terrestre
+Lil Wayne	Lil Wayne
+FC Bayern München	Bayern Munich
+Queen	Queen
+Kanye West	Kanye West
+Saableyda feeraha	Cage thoracique
+Huguri	Gorge (anatomie)
+Wikipedia:Maqaallo Xul Ah	Wikipédia:Articles de qualité
+Maalmaha	Lumière du jour
+Aduunka	Monde (univers)
+Wikipedia:Goob	Wikipédia:Le Bistro
+Nanjing	Nankin
+Mayotte	Mayotte
+Goobo	Cercle
+Cesc Fàbregas	Cesc Fàbregas
+Mobile	Téléphone mobile
+Goronyo	Autruche d'Afrique
+Kuuriya	Corée
+Manchester	Manchester
+1000	1000
+999	999
+Yeey	Canis lupus
+1955	1955
+1954	1954
+1953	1953
+1951	1951
+1950	1950
+1946	1946
+1943	1943
+1942	1942
+1940	1940
+1939	1939
+1938	1938
+1937	1937
+1936	1936
+Manchester United FC	Manchester United Football Club
+1935	1935
+1934	1934
+Axdiga Cusub	Nouveau Testament
+Qafqaas	Caucase
+Sagaal	9 (nombre)
+Dabaqaroof	Scorpiones
+Koobka Adduunka	Coupe du monde de football
+Boolo	Pélican
+Macdin Alkaliini ah	Métal alcalin
+Macdin dhuleed ah	Métal alcalino-terreux
+Rafael Correa	Rafael Correa
+Transitional Metal	Métal de transition
+Bir la Mood	Métalloïde
+Bir Ma Ahe	Non-métal
+Guruubka 17	Halogène
+Neefta Gobta	Gaz noble
+5	5
+4	4
+3	3
+2	2
+Buqarest	Bucarest
+Louvre	Musée du Louvre
+Motorhead	Motörhead
+Dameer	Âne commun
+Wikipedia:Maqaal Cusub	Wikipédia:Bons contenus
+6	6
+Axdigii Hore	Ancien Testament
+Saddax-xagal	Triangle
+Lady Gaga	Lady Gaga
+Luqada Hindo Yurub	Langues indo-européennes
+Breinigerberg	Breinigerberg
+Muammar Qadaafi	Mouammar Kadhafi
+Shabeel	Tigre
+Francesco Totti	Francesco Totti
+PSY	Psy (chanteur)
+Nissan	Nissan
+Booyad	Camion-citerne
+Walhade	Pendule (physique)
+Samsung	Groupe Samsung
+Skandinafiyen	Scandinavie
+Aruba	Aruba
+Smartphone	Smartphone
+Shidaal	Pétrole
+Isuduwe Habka Juqraafiga	Coordonnées géographiques
+Banki	Banque
+1	1
+10	10
+20	20
+30	30
+Abkhazia	Abkhazie
+40	40
+9	9
+7	7
+8	8
+Todoba	7 (nombre)
+Sideed	8 (nombre)
+Todobaad	Semaine
+Deero	Cervidae
+Baraf	Glace
+Toon	Ail cultivé
+Musée d'Orsay	Musée d'Orsay
+Anthroboloji	Anthropologie
+Badacas	Mer Rouge
+13	13
+Koonfur Ossetia	Ossétie du Sud
+Ulan Bator	Oulan-Bator
+51	51
+Jasiirad	Île
+Cad	Blanc
+Madaw	Noir
+37	37
+900	900
+Lordi	Lordi
+Basal	Oignon
+Lix	6 (nombre)
+700	700
+Yaanyo	Tomate
+George H. W. Bush	George H. W. Bush
+68	68
+89	89
+11	11
+Quang Binh	Province de Quảng Bình
+Entrena	Entrena
+Dhulbare	Équateur terrestre
+NASA	National Aeronautics and Space Administration
+Benito Mussolini	Benito Mussolini
+15	15
+14	14
+17	17
+500	500
+150	150
+Qaamuus	Dictionnaire
+Bermuda	Bermudes
+Madax	Tête (anatomie)
+Wellington	Wellington
+23	23
+800	800
+Heesta qaranka	Hymne national
+42	42
+Afarta jiho	Point cardinal
+18	18
+Nuurad	Calcaire
+19	19
+16	16
+21	21
+26	26
+41	41
+32	32
+33	33
+Falastiin	Palestine
+Valletta	La Valette
+200	200
+38	38
+43	43
+39	39
+24	24
+79	79
+61	61
+104	104
+29	29
+102	102
+100	100
+Haramcad	Guépard
+Afarta xilli	Saison
+101	101
+105	105
+108	108
+Dhuxul Dhagax	Charbon
+22	22
+46	46
+25	25
+153	153
+156	156
+31	31
+28	28
+Liverpool	Liverpool
+85	85
+88	88
+76	76
+54	54
+60	60
+47	47
+Guumees	Strigiformes
+Nederlaan Antiilis	Antilles néerlandaises
+Bahda Bisada	Felidae
+Ambeer	Ampère
+Isotope	Isotope
+Göteborg	Göteborg
+Culeys	Poids
+Geed Timir	Phoenix dactylifera
+Burris	Marteau (outil)
+Racibórz	Racibórz
+Odense	Odense
+Kobe Bryant	Kobe Bryant
+Luqadaha Berberiga	Langues berbères
+600	600
+400	400
+300	300
+Tilburg	Tilbourg
+Dayax gacmeed	Satellite artificiel
+Horseed FC	Horsed Football Club
+Taylor Swift	Taylor Swift
+Khaalid bin Waliid	Khalid ibn al-Walid
+Bariga Afrika	Afrique de l'Est
+Fiat	Fiat
+Bartamaha Ameerika	Amérique centrale
+Af-Cafari	Afar (langue)
+Magrib	Maghreb
+Amxaari	Amharique
+36)	36
+Tin	Poil
+Wareeg	Périmètre
+Portal:Af-maal	Portail:Langues
+Dhicis	Fausse couche
+Dhar	Textile
+Kacdoonka masar	Révolution égyptienne de 2011
+Willis Tower	Willis Tower
+Kacbada	Kaaba
+Beatriks	Beatrix (reine des Pays-Bas)
+Isuzu	Isuzu
+Dublad	Entonnoir
+159	159
+107	107
+103	103
+152	152
+240	240
+197	197
+70	70
+Duqa	Maire
+81	81
+69	69
+87	87
+65	65
+66	66
+67	67
+55	55
+34	34
+44	44
+35	35
+64	64
+151	151
+155	155
+50	50
+260	260
+45	45
+49	49
+230	230
+Zhengzhou	Zhengzhou
+154	154
+52	52
+82	82
+84	84
+73	73
+72	72
+62	62
+71	71
+75	75
+74	74
+83	83
+78	78
+77	77
+90	90
+80	80
+91	91
+190	190
+109	109
+53	53
+270	270
+Madaxweyne	Président
+63	63
+86	86
+401	401
+99	99
+98	98
+110	110
+137	137
+138	138
+140	140
+130	130
+210	210
+220	220
+Dell	Dell
+180	180
+158	158
+157	157
+106)	106
+48	48
+97	97
+Yuumbi	Istiophoridae
+56	56
+93	93
+Alofi	Alofi (Niue)
+57	57
+Jamestown	Jamestown (Sainte-Hélène)
+Walaal	Fratrie
+170	170
+171	171
+172	172
+58	58
+59	59
+139	139
+134	134
+135	135
+96)	96
+92	92
+133	133
+176	176
+131	131
+Fowdo	Anarchie
+Jasiirad Dhuleedka Carabta	Arabie
+250	250
+280	280
+290	290
+Mindi	Couteau
+Masaajid	Mosquée
+Akon	Akon
+Dumnad	Dominos (jeu)
+174	174
+International Standard Book Number	International Standard Book Number
+132	132
+178	178
+Luqadaha Tashaadiga	Langues tchadiques
+Drake	Drake (chanteur)
+Luqadaha Kushiitiga	Langues couchitiques
+Afguri	Dialecte
+95	95
+94	94
+257	257
+Biriq	Foudre
+Gacan	Main
+Luqadaha Omotik	Langues omotiques
+Af-Oromo	Oromo (langue)
+Caleen	Feuille
+Jilaa	Acteur
+Niue	Niue
+Luqadaha Semitiga	Langues sémitiques
+Justin Bieber	Justin Bieber
+Xusni Mubaarak	Hosni Moubarak
+Af-Tigrinya	Tigrigna
+Af-Tigre	Tigré (langue)
+Dhululubo	Cylindre
+Subag	Beurre
+Yaasir Carafaat	Yasser Arafat
+Fara-ka hadal	Langue des signes
+136	136
+Injiil	Évangiles
+Alexander Graham Bell	Alexander Graham Bell
+Tasmaniya	Tasmanie
+Rotterdam	Rotterdam
+Saabuun	Savon
+Cabdillahi ibn Cabdi al Mudalib	'Abdullah ibn 'Abdil-Mouttalib
+Mošovce	Mošovce
+Zeyd Binu Xaaritha	Zayd ibn Harithah
+Shakira	Shakira
+Jaamacadda Oxford	Université d'Oxford
+Maxamuud Axmadinajaad	Mahmoud Ahmadinejad
+CD	Disque compact
+Al-Qaacida	Al-Qaïda
+Maxamed Al-faatex	Mehmed II
+Jeer	Hippopotamus amphibius
+Far	Doigt
+Furaat	Euphrate
+Gacanka Faarsiga	Golfe Persique
+Cilmiga bulshada	Sciences humaines et sociales
+Somaliland	Somaliland
+Ciida sanadka cusub	Jour de l'an
+Babaay	Papayer
+Brisbane	Brisbane
+Fiitamiin	Vitamine
+Towraad	Torah
+Koonfur Joorjiya iyo Koonfurta Jasiiradaha Sanwij	Géorgie du Sud-et-les Îles Sandwich du Sud
+Maahmaah	Proverbe
+Noemi	Noemi (chanteuse)
+Website	Site web
+Ido	Ido
+Sumeer	Sumer
+Kolonbo	Colombo
+Dariishad	Fenêtre
+Medina	Médine
+Akkadiyaan	Akkadien
+Booliis	Police (institution)
+UEFA	Union des associations européennes de football
+Tigris	Tigre (fleuve)
+Koonfur Australia (gobol)	Australie-Méridionale
+Baarlamaan	Parlement
+Maatar	Matière
+Jaamacadda Cambridge	Université de Cambridge
+Fulinta (Dawlad)	Pouvoir exécutif
+Hurdo	Sommeil
+Neefta	Asthme
+Doon	Bateau
+Queensland	Queensland
+Mohammed ali Clay,	Mohamed Ali (boxe anglaise)
+Beyoncé Knowles	Beyoncé
+Urur	Ensemble
+Siligo	Siligo
+Riyo	Rêve
+Bur	Farine
+Dhigaha	Longitude
+Kimikal dibusocod	Réaction chimique
+Den Haag	La Haye
+Goriila	Gorille
+Daylight saving time	Heure d'été
+Daanta galbeed	Cisjordanie
+Maraykanka assalkoodii	Amérindiens
+Siinaa	Sinaï
+Albaab	Porte (architecture)
+Rihanna	Rihanna
+Hargab Doofaar	Grippe porcine
+Cinjo	Ongle
+Ugaadhsi	Chasse
+Toshiro Mifune	Toshirō Mifune
+Waji	Visage
+Aleksander Fileming	Alexander Fleming
+Musmaar	Clou
+Nabi Suleymaan C.S.	Salomon (Bible)
+Yahoo	Yahoo!
+AK-47	AK-47
+Mowjad	Onde
+Dhexroor	Diamètre
+Bare	Instituteur
+Internet Movie Database	Internet Movie Database
+Dalai Lama	Dalaï-lama
+Jilib (xubin)	Genou
+ISO 4217	ISO 4217
+Tomas hobis	Thomas Hobbes
+Campora San Giovanni	Campora San Giovanni
+Jirjiroole	Chamaeleonidae
+Cusmaan bin Cafaan	Othmân ibn Affân
+Jaandi	Alliage
+Nafto	Gazole
+Qare	Pastèque
+Toban iyo shan	15 (nombre)
+Rikter Cabir	Magnitude d'un séisme
+Xamaas	Hamas
+Ruhollah Khomeini	Rouhollah Khomeini
+Rajab Dayib Erdogaan	Recep Tayyip Erdoğan
+Mug	Volume
+Jamaal Cabdinaasir	Gamal Abdel Nasser
+Bluetooth	Bluetooth
+Cali	Ali ibn Abi Talib
+Marinka Gaza	Bande de Gaza
+Radio Studio 54 Network	Radio Studio 54 Network
+Cabitaan	Boisson
+Qoori	Plage
+Qabaal	Ellipse (mathématiques)
+Hobart	Hobart
+Dayax Gacmeed	Véhicule spatial
+Doorashada	Élection
+Iskudhufasho	Multiplication
+Saxaraha Galbeed	République arabe sahraouie démocratique
+.et	.et
+Geeska Afrika	Corne de l'Afrique
+Lisa Gerrard	Lisa Gerrard
+Nabi Yaxye C.S.	Jean le Baptiste
+Jennifer Lopez	Jennifer Lopez
+Faraq	Soustraction
+Breda (Netherlands)	Bréda
+Shuban	Diarrhée
+Nancy	Nancy
+Honiara	Honiara
+PH	Potentiel hydrogène
+Asiyriya	Assyrie
+Qardhaas	Losange
+Xayla Siilaasi	Haïlé Sélassié Ier
+Xalab	Alep
+Big Ben	Big Ben
+Dhererka Mowjadda	Longueur d'onde
+Nabi Daa'uud C.S.	David (Bible)
+Borussia Dortmund	BV 09 Borussia Dortmund
+Xidido	Racine (botanique)
+Mole	Mole (unité)
+Frank Lampard	Frank Lampard
+Qallal	Épilepsie
+Baqal	Mulet
+Garaam	Gramme
+Shahaadah	Chahada
+Gacanka Cadmeed	Golfe d'Aden
+Beeraha laalaada	Jardins suspendus de Babylone
+Maas	Meuse (fleuve)
+Khadiija binti Khuweylad	Khadija bint Khuwaylid
+Waraabe	Hyaenidae
+Sariir	Lit (mobilier)
+Madaxwayne kuxigeen	Vice-président
+Cilmibaadhis	Recherche scientifique
+Faaranhaayt	Degré Fahrenheit
+Dhuldaaqsiin	Savane
+Dhogor	Laine
+Toobin	Cône (géométrie)
+Daliban	Taliban
+MP3	MPEG-1/2 Audio Layer 3
+Ismaamulka Falastiin	Autorité palestinienne
+.ke	.ke
+Fernando Torres	Fernando Torres
+Gar	Barbe
+Nabi	Prophète
+Derbi	Mur
+SMS	Short Message Service
+Yaxaas	Crocodylidae
+Majladda Time	Time (magazine)
+Dhedig	Femelle
+Farabadne	Chilopoda
+Amedeo Avogadro	Amedeo Avogadro
+Shambay	Felis silvestris
+Federaalka	État fédéral
+Sedex Geesoodka Bermuda	Triangle des Bermudes
+Arjen Robben	Arjen Robben
+Xamid Karzai	Hamid Karzai
+Lab	Mâle (biologie)
+Rey mysterio	Rey Mysterio
+Dayax madoobaad	Éclipse lunaire
+Taxane	Matrice (mathématiques)
+Kayene	Cayenne
+John Cena	John Cena
+Waran	Lance
+Dadqalato	Anthropophagie
+Busbus	Varicelle
+Provinces of Argentina	Provinces de l'Argentine
+Dekad	Port
+Garoonka Diyaaradaha ee Bole	Aéroport international de Bole
+Dadka Berberiga	Berbères
+Afganbi	Coup d'État
+Burcad Badeed	Piraterie
+RSS	RSS
+Lacagta Meherka	Dot
+Barbaroole	Parallélogramme
+Leeb	Flèche (arme)
+Chris Paul	Chris Paul
+Awood Socota	Énergie cinétique
+Koor	Trapèze
+Qaanso	Arc (arme)
+Amiibada	Amoeba
+Zlatan Ibrahimović	Zlatan Ibrahimović
+GSM	Global System for Mobile Communications
+Dhaban	Joue
+Saint-Denis	Saint-Denis (La Réunion)
+Arsène Wenger	Arsène Wenger
+Baabiylooniya	Babylone (royaume)
+Muslim	Musulman
+Warqadda aqoonsiga	Carte d'identité
+Template:Commonscat	Modèle:Commonscat
+Qoorgooye	Méningite
+399	399
+Iidi Amiin Daada	Idi Amin Dada
+Kayseri	Kayseri
+CNN	Cable News Network
+Drogbaa	Didier Drogba
+Dhakhaatiirta Bilaaxuduudaa	Médecins sans frontières
+Abwaan	Poète
+Manchester city	Manchester City Football Club
+Ilaahay	Comté de Troms
+John Dramani Mahama	John Dramani Mahama
+Luqada Masaarida	Égyptien ancien
+Anatooliya	Anatolie
+Nabi Ciise	'Īsā
+Cudurka Ebola	Maladie à virus Ebola
+Template:Taxobox	Modèle:Taxobox
+Carly Rae Jepsen	Carly Rae Jepsen
+Toyota	Toyota
+Osmose	Osmose
+Af-Hawsa	Haoussa
+Saxan	Assiette (vaisselle)
+Mwai Kibaki	Mwai Kibaki
+Jalaal Daalabaani	Jalal Talabani
+Ismaaciil Cumar Geelle	Ismaïl Omar Guelleh
+Nuur Al-Maliki	Nouri al-Maliki
+Dileita Maxamed Dileita	Dileita Mohamed Dileita
+Mark Rutte	Mark Rutte
+Cumar Cabdirashiid Cali Sharmaarke	Omar Abdirashid Ali Shermarke
+Axmed Dafutoglu	Ahmet Davutoğlu
+Robinho	Robinho
+Bada Carbeed	Mer d'Arabie
+Dhircun	Herbivore
+Calanka Denmark	Drapeau du Danemark
+Jay-Z	Jay-Z
+Caroog	Conque
+Yuusuf Alqardaawi	Youssef al-Qaradâwî
+Sahel	Sahel
+Henry Kissinger	Henry Kissinger
+Abu Hurayra	Abu Huraira
+Flums	Flums
+Nabi Aadam C.S.	Adam
+Diego Milito	Diego Milito
+Ilmo adeer	Cousin (famille)
+Shumac	Bougie
+Wikipedia:Sharaxaada Maqaalada Xulka Ah	Wikipédia:Articles de qualité/Propositions
+Wikipedia:Sharaxaada Maqaalada Cusub	Wikipédia:Bons articles/Propositions
+Dhalo	Bouteille
+Raqay	Tamarinier
+Shabeelada Tamil	Tigres de libération de l'Îlam tamoul
+Qaangaadh	Adulte
+Enjerneer	Ingénieur
+Gacanka Caqaba	Golfe d'Aqaba
+KwaZulu-Natal Province	KwaZulu-Natal
+Hilibcun	Carnivore (régime alimentaire)
+AFC Ajax	Ajax Amsterdam
+Qaado	Cuillère
+VOIP	Voix sur IP
+Jibriil	Gabriel (archange)
+Astaamayn	Ponctuation
+Taksi	Taxi
+Soqotra	Socotra
+Timor	Timor
+Almere	Almere
+Xoor-dubbur	Mouffette
+Dooli	Mus musculus
+Suul	Pouce (anatomie)
+Mesut ozil	Mesut Özil
+Turki	Turcs (peuple)
+Ukun	Œuf (cuisine)
+HyperText	Hypertexte
+Xeeb	Côte (géographie)
+Ibb	Ibb
+Lobamba	Lobamba
+Walxaha	Période du tableau périodique
+Magarete2	Margrethe II
+Calanka jabuuti	Drapeau de Djibouti
+Xareed	Eau douce
+Calanka Suudaan	Drapeau du Soudan
+Daanyeer	Hominoidea
+Sodium Hydroxide	Hydroxyde de sodium
+Xoolo	Bétail
+Cirid	Gencive
+Chalcogen	Chalcogène
+Tufaax	Pommier
+Shakaal	Hypoténuse
+Biniktojiin	Pnictogène
+Lambedusa	Lampedusa
+Manuel Neuer	Manuel Neuer
+Jalmad	Bouilloire
+Eris	Éris (homonymie)
+Wiz Khalifa	Wiz Khalifa
+Agool	Pellicule (dermatologie)
+Barfasoor	Professeur (titre)
+Massari	Massari
+Maydhax	Xylème
+Dhax kujir	Pays sans accès à la mer
+Andalus	Al-Andalus
+Sako	Zakât
+Dhadhan	Goût
+ICAO	Organisation de l'aviation civile internationale
+.so	.so
+Western Cape Province	Cap-Occidental
+Mario Balotelli	Mario Balotelli
+Qiiq	Fumée
+Eastern Cape Province	Cap-Oriental
+Cerebellum	Cervelet
+Haaruun Alrashiid	Hâroun ar-Rachîd
+Kaftan	Blague
+Funaanad	Tee-shirt
+Tangent	Tangente (géométrie)
+Niisaabuur	Nishapur
+Khilaafada Islaamka	Califat
+Cadan	Aden
+Het Wilhelmus	Wilhelmus van Nassouwe
+Universidade Federal de Minas Gerais	Université fédérale du Minas Gerais
+Mpumalanga Province	Mpumalanga
+Northern Cape Province	Cap-du-Nord
+Mamawdsaw	Mamoudzou
+Gauteng Province	Gauteng
+Cagaarshow	Ictère
+Du gamla, Du fria	Du gamla, du fria
+Shaydaanimo	Satanisme théiste
+Limpopo Province	Limpopo (province)
+LG	LG Group
+Ogaden	Ogaden
+Alexandre Pato	Alexandre Pato
+Wabiga Jubba	Jubba
+Qooleey	Pigeon voyageur
+Wabiga Shabeelle	Chébéli
+Masago	Capelan
+Marsho	Engrenage
+Zain Bikha	Zain Bihkha
+Saynab bint Khuzayma	Zaynab bint Khouzayma
+Nabi Yuusuf	Joseph (fils de Jacob)
+One Direction	One Direction
+Mille	Solvant
+Ajay Devgan	Ajay Devgan
+Herpesviruses	Herpesviridae
+Degmo	District
+Tomahok (gantaal)	BGM-109 Tomahawk
+Dambas	Cendre
+Eduard Douwes Dekker	Multatuli
+Yuusuf Islaam	Cat Stevens
+Kiyaawe	Clé (outil)
+Awood Kaydsan	Énergie potentielle
+Chris Brown	Chris Brown
+Universidade Estadual de Feira de Santana	Université d'État de Feira de Santana
+Aadan Cabdulle Cusmaan	Aden Abdullah Osman Daar
+Saylac	Zeilah
+Anopheles	Anophèle
+Malawad	Rectum
+Universidade Federal da Bahia	Université fédérale de Bahia
+Centro Federal de Educação Tecnológica de Minas Gerais	Centre fédéral d'éducation technologique du Minas Gerais
+Calanka Soomaaliya	Drapeau de la Somalie
+Dhuuso	Flatulence
+Free State Province	État-Libre
+Maqal	Ouïe
+Oorfane	Orphelinat
+Ubuc	Tronc (anatomie)
+Meles Zenawi	Meles Zenawi
+Nicki Minaj	Nicki Minaj
+Wahaabi	Wahhabisme
+Diffusion	Diffusion de la matière
+DDT	Dichlorodiphényltrichloroéthane
+Cadnaan Oktaar	Adnan Oktar
+Dheddin	Arbre à myrrhe
+Ibrahim Affelay	Ibrahim Afellay
+Angry Birds	Angry Birds
+Daango	Pop-corn
+Qalin	Stylo
+Aadaan	Adhan
+Usher	Usher
+Hummaag noqod	Réflexion (physique)
+North West Province	Nord-Ouest (Afrique du Sud)
+Lelystad	Lelystad
+Midabada Asaasiga	Couleur primaire
+Isnidaamis	Gale
+Daaf	Conjonctivite
+Abkow	Aïeul
+CAF	Confédération africaine de football
+Hargeysa	Hargeisa
+Nabiyada Islaamka	Prophètes de l'islam
+Xijaas	Hedjaz
+Filibs	Philips
+Kaliber	Calibre (arme à feu)
+Geed Hindi	Margousier
+Jidh	Corps (biologie)
+Qosol	Rire
+Nektar	Nectar (botanique)
+Mount kenya	Mont Kenya
+Uunsi	Encens (résine oliban)
+Jomo Kenyatta	Jomo Kenyatta
+Gacan (Joomitiri)	Rayon (géométrie)
+Centimetre	Centimètre
+Millimeter	Millimètre
+Baadiye	Campagne
+Fasuul Cabdalla Maxamed	Fazul Abdullah Mohammed
+Portal:Taariikh	Portail:Histoire
+Hunguriga neefta	Trachée
+Bowdo	Fémur
+Qaamo-qashiir	Oreillons
+Tiirarka Islaamka	Piliers de l'islam
+Fanaan	Chanteur
+Huulaaku Khan	Houlagou Khan
+Wadan soo kobcooyo	Pays en développement
+Dhuxul	Charbon de bois
+Shansho	Tibia
+Saac (faah faahin)	Montre (horlogerie)
+Soon	Saoum
+Alchemist(Buug)	L'Alchimiste
+The Notorious B.I.G.	The Notorious B.I.G.
+Sanab	Statue
+Saadiyom bicarbonate	Bicarbonate de sodium
+Nabi Ayuub C.S.	Job (Bible)
+Fatima bint Muxamed	Fatima Zahra
+Baras	Vitiligo
+Sumad xisaabed	Table des symboles mathématiques
+Daan	Mâchoire
+Ricir	Vertèbre
+Qol	Salle
+Dhado	Hygrométrie
+Curiye	Élément
+Mucaawiye bin Abii Sufyaan	Muʿawiya Ier
+Xasan Nasrallaah	Hassan Nasrallah
+Mahathir Bin Maxamed	Mahathir ibn Mohamad
+Bidaar	Alopécie
+Aafda tahriibka	Trafic d'êtres humains
+KLM	KLM Royal Dutch Airlines
+Johan Rudolph Thorbecke	Johan Rudolf Thorbecke
+Gabareey-maanyo	Sirène
+Mitsubishi	Mitsubishi
+Cashuura	Achoura
+Tamaashiir	Craie
+Memory card	Carte mémoire
+Daxal	Rouille (oxyde)
+Will.i.am	Will.i.am
+Saxaro	Fumier
+Gaamur	Goudron
+UFC	Ultimate Fighting Championship
+Pitbull	Pitbull (rappeur)
+Aayad	Aya (islam)
+Tariikhda Shiikh Axmed Yaasiin	Ahmed Yassine
+Saxaabi	Sahaba
+Gows	Molaire (dent)
+Shanbal	Cymbale
+Harar	Harar
+Dhismaha websiteka	Conception de site web
+Golcas	Gazelle
+Abuu Xaniifa	Abû Hanîfa
+Ammonium	Ammonium
+Session Initiation Protocol	Session Initiation Protocol
+Salafiya	Salafisme
+Berbera	Berbera
+Botka internetka	Bot informatique
+Bergen op Zoom	Berg-op-Zoom
+Mengista Xayle Maryam	Mengistu Haile Mariam
+Mowliidka Nebiga	Mawlid
+Ciraaqi Diinaar	Dinar irakien
+Adenoviridae	Adenoviridae
+Daniel arap Moi	Daniel arap Moi
+Nabi Huud	Houd
+Ne-Yo	Ne-Yo
+Sin	Hanche
+Rajab	Rajab
+Axmed Binu Xambal	Ahmad Ibn Hanbal
+Peso (Arjantiina)	Peso argentin
+Yamanta Koonfureed	République démocratique populaire du Yémen
+Assur	Assur (ville)
+Decimetre	Décimètre
+Sean paul	Sean Paul
+Calanka somaliland	Drapeau du Somaliland
+Soomaali Galbeed	Région Somali
+Shilin Kiinyaati	Shilling kényan
+Astaannta Qaranka ee Soomaaliya	Armoiries de la Somalie
+Astaannta Qaranka ee Imaaraatka	Armoiries des Émirats arabes unis
+Velupillai Prabhakaran	Velupillai Prabhakaran
+Federaaliisim	Fédéralisme
+Biomolikule	Biomolécule
+Nabi Alyasac C.S.	Élisée
+Birr	Birr
+Jaad	Khat (botanique)
+Cows	Gazon
+S-block	Éléments du bloc s
+Dab Damis	Fourgon d'incendie
+SliTaz	SliTaz
+Kung fu	Kung-fu (terme)
+Maxamed Siyaad Barre	Mahamed Siyaad Barre
+Salo	Salo (Finlande)
+Ívi Adámou	Ívi Adámou
+Cafar	Afars
+Saliid Macsaro	Huile de sésame
+Cumar Mukhtaar	Omar al-Mokhtar
+Flo Rida	Flo Rida
+Eden Hazard	Eden Hazard
+T.I.	T.I.
+Budhcad badeeda geeska afrika	Piraterie autour de la Corne de l'Afrique
+Ayaan Xirsi Cali	Ayaan Hirsi Ali
+P-block	Éléments du bloc p
+D-block	Éléments du bloc d
+F-block	Éléments du bloc f
+Cabdullaahi Yuusuf Axmed	Abdullahi Yusuf Ahmed
+Ururka Dawladaha aan la aqoonsan Wali	Organisation des nations et des peuples non représentés
+Darawal	Chauffeur de maître
+Addimo-yaqaan	Orthopédie
+Dhul (dhulka lagu socdo)	Plancher
+Faysal Bin Cabdil Caziiz	Fayçal ben Abdelaziz al-Saoud
+Wadar	Somme (arithmétique)
+Qormo saynis	Notation scientifique
+C.H	BC
+Adam Levine	Adam Levine
+Al-Faatixa	Al-Fatiha
+Al-Baqara	Al-Baqara
+Hogaamiye Kooxeed	Seigneur de guerre
+T-pain	T-Pain
+Anggun	Anggun
+Carlos the Jackal	Ilich Ramírez Sánchez
+Fatima	Fatima
+Mombaaso	Mombasa
+Alexa Internet	Alexa (Internet)
+Sheekh Xasan Albanaa	Hassan el-Banna
+Daariq ibn Ziyaad	Tariq ibn Ziyad
+Seed	Tendon
+Al-Ikhlas	Al-Ikhlas
+Suurad	Sourate
+Xadiis	Hadîth
+Sunna	Sunna
+Allaah	Allah
+Salaad	Salat (islam)
+Xaj	Hajj
+Malag	Ange
+Astaannta Qaranka ee Kolombiya	Armoiries de la Colombie
+Xisbiga shacabka iyo xoriyada Holalnd	Parti populaire libéral et démocrate
+Qeshm	Qeshm
+Bukhaari	Mouhammad al-Boukhârî
+Dadka Soomaaliyeed	Somalis
+Dagaalkii sokeeye ee Soomaaliya	Guerre civile somalienne
+Jason Derulo	Jason Derülo
+Macrakadii Ceyn Jaaluut	Bataille d'Aïn Djalout
+Iskugeyn	Plus
+Akkad	Akkad
+FIFA	Fédération internationale de football association
+Iman model	Iman (mannequin)
+Amina bint Wahb	Amina bint Wahb
+Xafsa bint Cumar	Hafsa bint Omar
+Laf	Os
+Wayne Rooney	Wayne Rooney
+Al Hudaydah	Al Hudaydah
+Sucuud Alshureym	Saoud Shuraim
+Sheekh Shariif Axmed	Sharif Sheikh Ahmed
+Kismaayo	Kismaayo
+Beydaan	Badamier
+R. Kelly	R. Kelly
+Fool	Incisive
+Lacey Duvalle	Lacey Duvalle
+Geed Walaayo	Épine de Jérusalem
+Saaxil	Saaxil
+Dhul Udug	Pays de Pount
+Bakool	Bakool
+Nabi Yacquub C.S.	Jacob
+Mariana Ximenes	Mariana Ximenes
+Zubeyr bin Cawaam R.C	Zubayr ibn al-Awwam
+Imaam Nawawi	Al-Nawawi
+Imaamu Shaafici	Ash-Shâfi'î
+Demba Ba	Demba Ba
+Xasan Guuleed Abtidoon	Hassan Gouled Aptidon
+K'naan	K'Naan
+Greyson Chance	Greyson Chance
+Cabdul-Qadir Jilani	Abd al Qadir al-Jilani
+Cabdi Bile Cabdi	Abdi Bile
+Cabdiqaasim Salaad Xassan	Abdiqasim Salad Hassan
+Cabdirashiid Cali Sharma'arke	Abdirashid Ali Shermarke
+Al-Shabaab	Al-Shabbaab
+Booc	Calotropis
+Al Mahwit	Al Mahwit
+Al Mukalla	Al Mukalla
+Sheekh Yaasir Al-Xabiib	Yasser al-Habib
+Imaam Maalik	Mâlik ibn Anas
+Cody Simpson	Cody Simpson
+Sh. Cabduraxmaan Alsudeys	Abdul Rahman Ibn Abdul Aziz Al-Sudais
+Madfac	Obus
+Dagaalkii xoraynta ogaden	Guerre de l'Ogaden
+Oromo	Oromos
+Ibn Nafiis	Ibn Nafis
+Xasan Sheekh Maxamuud	Hassan Sheikh Mohamoud
+Rodolfo Graziani	Rodolfo Graziani
+Maxamed Faarax Caydiid	Mohamed Farrah Aidid
+Biyo baxa deg dega ah	Éjaculation précoce
+Dhulka Talyaaniga ee Soomaaliya	Somalie italienne
+Saytuun	Psidium
+Trey songz	Trey Songz
+Macawiis	Sarong
+Nuuraddin Faarax	Nuruddin Farah
+Compaq	Compaq
+Nabi Saalax	Sâlih
+Unimog	Mercedes-Benz Unimog
+Lufthansa Duulimaadkii 181	Vol 181 Lufthansa
+Nabi Idriis	Idris (prophète)
+Tooreey	Lame (coutellerie)
+Boosaaso	Bosasso
+Dowladda federaalka kumeelgaarka	Gouvernement fédéral de transition
+Axmed Deedat	Ahmed Deedat
+Nabi Dulkifli	Dhul Kifl
+Abu Bakr	Abou Bakr As-Siddiq
+Abuu Sufyaan	Abu Sufyan ibn Harb
+Imaam Axmed Guray	Ahmed Ibn Ibrahim Al-Ghazi
+IHH	İnsani Yardım Vakfı
+Dun	Enfilade
+Daahir Rayaale Kaahin	Dahir Riyale Kahin
+Timo Soini	Timo Soini
+Cali maxamed Geedi	Ali Mohamed Gedi
+Iskuqaybin	Divide
+Marek Grechuta	Marek Grechuta
+Jeddah	Djeddah
+Shukaansi	Parade nuptiale
+Sacad bin Abii Waqaas	Sa`d ibn Abi Waqqas
+Axmed Maxamed Maxamuud (Siilaanyo)	Ahmed M. Mahamoud Silanyo
+Afdhere Jama	Afdhere Jama
+Afgooye	Afgooye
+Afmadow	Afmadow
+Xulka Qaranka Soomaaliya	Équipe de Somalie de football
+Woqooyi bari	Province nord-orientale (province du Kenya)
+Cabdullaahi bin Cabbaas	Abdullah ibn Abbas
+Masjid al-Aqsa	Mosquée al-Aqsa
+Dadka Tigriga	Tigréens
+Computer Engineering	Génie informatique
+Masjid al-Xaram	Masjid al-Haram
+Karl Wolf	Karl Wolf
+Taabici	Tabi‘un
+Caluula	Calula
+Nuur Xasan Xuseen	Nour Hassan Hussein
+Astaanta Calanka Soomaaliya	Soomaaliyeey toosoo
+Pitty	Pitty
+Amxaaro	Amharas
+Ta'izz	Ta'izz
+Murgacasho	Entorse (médecine)
+Calooleey	Tripes
+Maxamed Xaaji Ibraahim Cigaal	Mohamed Ibrahim Egal
+Aamina	Amina
+Dibi	Bœuf (animal)
+Paramore	Paramore
+Tuur	Cyphose
+Lafdhabar	Colonne vertébrale
+Luís Carlos Almeida da Cunha	Nani
+Paris Saint-Germain FC	Paris Saint-Germain Football Club
+Ahlu sunno waljamaaca	Sunnisme
+Puntland	Pount (Somalie)
+Qureysh	Quraych
+Masjidka Nabiga	Masjid al-Nabawi
+Dagaalkii uxud	Bataille de Uhud
+Sambuus	Samoussa
+Imaam Mujtahid Sheykhul-Islaam	Ibn Taymiyya
+Bilaal ibn Ribaax	Bilal ibn Rabah
+Fiat 124	Fiat 124
+Busteejo	Gare routière
+Galatasaray SK	Galatasaray Spor Kulübü (football)
+IGAD	Autorité intergouvernementale pour le développement
+Astaanta Calanka Jabuuti	Djibouti (hymne national)
+Baydhabo	Baidoa
+G-Spot	Point G
+Xiriirka Soomaaliyeed ee Kubadda Cagta	Fédération de Somalie de football
+Naxariis iyo Nabadgelyo Korkiisa Ha Ahaato	Formule d'eulogie en islam
+Sayid Maxamed Cabdulle Xassan	Mohammed Abdullah Hassan
+Salmaan Alfaarisi	Salman le Perse
+Sheekh Maxamed Naasiruddiin Al-Albaani	Muhammad Nassiruddine al Albani
+Bayt al-Faqih	Bait al Faqih
+Baskin-Robbins	Baskin-Robbins
+Haparanda	Haparanda
+Xarardheere	Harardhere
+Galinsoor	Galinsoor
+Baraawe	Brava (Somalie)
+Oday	Old Man
+Aakhiro	Vie après la mort
+Maxamed Cusman Jawaari	Mohamed Osman Jawari
+Jowhar	Jowhar
+Shimbiris	Shimbiris
+Marka	Merka
+Biciid	Oryx
+Hiiraan	Hiiraan
+Astaannta Qaranka ee somaliland	Armoiries du Somaliland
+Dhulka Biritishka ee Soomaaliya	Somalie britannique
+Nabi Isxaaq C.S.	Isaac
+Soomaaliweyn	Grande Somalie
+Zamenhof	Zamenhof
+Xidid	Vaisseau
+Shabeellaha Dhexe	Shabeellaha Dhexe
+Cabdi Faarax Shirdoon	Abdi Farah Shirdon
+Hanti maguurto	Bien immobilier
+Maktabadda Dadweynaha ee Minneapolis	Bibliothèque publique de Minneapolis
+Carta	Arta (Djibouti)
+Liiska dalalka dad ahaan	Liste des pays par population
+Godol	Lactation
+Jaamacada Banaadir	Université du Benadir
+Jaamacada Muqdisho	Université de Mogadiscio
+Mr. Lordi	Mr. Lordi
+Bari (Gobol)	Bari (Somalie)
+Wajeer	Wajir
+Adult Film Database	Adult Film Database
+Cali Mahdi Maxamed	Ali Mahdi Mohamed
+Midowga Maxkamadaha Islaamiga	Union des tribunaux islamiques
+Somaliland shilling	Shilling du Somaliland
+Taleefoonada fiilada	Téléphonie fixe
+UNICEF	Fonds des Nations unies pour l'enfance
+Behra	Beira (mammifère)
+Godeey	Gode (Éthiopie)
+Abuu Cubeydah Caamir ibn Jaraax	Abu Ubayda ibn al-Djarrah
+Sanaag	Sanaag
+Jigjiga	Djidjiga
+Centro Federal de Educação Tecnológica Celso Suckow da Fonseca	Centre fédéral d'éducation technologique Celso Suckow da Fonseca
+Garoonka Diyaaradaha ee Da Nang	Aéroport international de Đà Nẵng
+Cirbadii dhimashada	Leiurus quinquestriatus
+Nansi Ajram	Nancy Ajram
+Nashiido	Nasheed
+Qaasim bin Muxamed	Qasim ibn Mouhammed
+Azania	Côte d'Ajan
+Awdal	Awdal
+Ayuub Daa'uud	Ayub Daud
+Baardheere	Bardera
+Baki	Baki (ville)
+Banaadir	Banaadir
+Baargaal	Bargal
+Bari	Bari (homonymie)
+Baay	Bay (Somalie)
+Sedjibeke	Cube
+Beledweyne	Beledweyne
+Garoowe	Garowe
+Derg	Derg
+Kilometer	Kilomètre
+Xaawo	Ève
+Soor	Farine de maïs
+Web feed	Flux Web
+YouPorn	YouPorn
+Liiska magaalooyinka adduunka dad ahaan	Liste des villes par population
+Guraag	Gouragués
+Gaarisa	Garissa
+Eurobeat	Eurobeat
+Sool	Sool (Somalie)
+York University	Université York
+Buurta Xira	Grotte de Hira
+Gedo	Gedo
+Gaalkacyo	Gaal Kacyo
+Togdheer	Togdheer
+Goobogali	Questionnaire à choix multiples
+Galguduud	Galguduud
+Woqooyi Galbeed	Woqooyi Galbeed
+Shabeellaha Hoose	Shabeellaha Hoose
+Mudug	Mudug
+Jubbada Hoose	Jubbada Hoose
+Saxiixu Muslim	Sahih Muslim
+Boorama	Borama
+Taran	Produit (mathématiques)
+Reoviruses	Reoviridae
+Matoor	Moteur (homonymie)
+Wikipedia:Caawinaad	Aide:Sommaire
+Miraha Mucjisada	Fruit miracle
+Pontifícia Universidade Católica de Minas Gerais	Université pontificale catholique du Minas Gerais
+Galmudug	Galmudug
+Canjeelo	Injera
+Pornhub	PornHub
+USC	Congrès de la Somalie unie
+Sunanka Abii Daawuud	Sunan Abi Dawood
+Dawladii Mamaaliikta	Mamelouk
+Poxviruses	Poxviridae
+Digri	Dhikr
+Burco	Burao
+Ajdjadajd	Jubaland
+Mandheera	Mandera
+Cadaad	Acacia Sénégal
+Doorashooyinka Soomaaliya	Élections en Somalie
+Qabaa'ilka Soomaaliya	Démographie de la Somalie
+Gadabuursi	Gadabuursi
+Sagaaro	Madoqua piacentinii
+Sheekh Aways	Hassan Dahir Aweys
+Nabi Shuceyb	Chou‘ayb
+Buuhoodle	Buuhoodle
+Hobyo	Hobyo
+Jamaame	Jamaame
+Galdogob	Galdogob
+Feerfeer	Ferfer
+Xaafuun	Hafun
+Buurhakaba	Buur Hakaba
+Eyl	Eyl
+Saxiixul Bukhaari	Sahih al-Bukhari
+Shiilaabo	Shilavo
+Abuu Dar Alghafaari	Abu Dhar Al-Ghifari
+Calool	Estomac
+Senary	Système sénaire
+Jubbada Dhexe	Jubbada Dhexe
+Nugaal	Nugaal
+Internet Adult Film Database	Internet Adult Film Database
+Ceres	Cérès
+Lambar Tubaxan	Système trinaire
+Dagaalkii (2006–2009)	Guerre en Somalie (2006-2009)
+Ciidamada Qalabka Sida ee Masaarida	Forces armées égyptiennes
+Milme	Soluté
+Daallo Airlines	Daallo Airlines
+Garoonka Diyaaradaha ee Aadan Cadde	Aéroport international de Mogadiscio
+Liverpool FC	Liverpool Football Club
+Xariiqanta Cagaaran	Ligne verte (Israël)
+Duurjoog	Humbug (album)
+Tusbax	Misbaha
+Raas Caseyr	Cap Gardafui
+Sacad bin Zeyd	Saïd ibn Zayd
+GCompris	GCompris
+Mucaad Bin Jabal	Muadh ibn Jabal
+Jacfar Bin Abii Daalib	Djafar ibn Abi Talib
+Siyaasadda Soomaaliya	Politique en Somalie
+Saynab bint Muxamed	Zaynab bint Mouhammed
+Ciise (qabiil)	Issas (peuple)
+Wikipedia:Safaarad	Wikipédia:Ambassade
+Dhoobley	Dhobley
+Naafto	Diesel
+U qeybin	Division
+Samuel Eto'o	Samuel Eto'o
+RedTube	RedTube
+Shabiixa	Shabiha
+Maakhir	Maakhir
+Ra'iisul wasaarayaashii Soomaaliya	Premiers ministres de la Somalie
+Qurac	Acacia tortilis
+Agnes Monica	Agnes Monica
+Sabuur	Zabur
+Farta Cismaaniya	Osmanya
+Pornopedia	Pornopedia
+Mustafa Maxamed	Mustafa Mohamed
+Ibn Mandhuur	Ibn Manzûr
+Category:Jarmal	Catégorie:Allemagne
+Category:Talyaaniga	Catégorie:Italie
+Category:Qaramada Midoobey ee Maraykanka	Catégorie:États-Unis
+Category:Ruushka	Catégorie:Russie
+Category:Midowga boqortooyada Britan	Catégorie:Royaume-Uni
+Category:Isbania	Catégorie:Espagne
+Category:Shiinaha	Catégorie:Chine
+Category:Hindiya	Catégorie:Inde
+Category:Sucuudiga	Catégorie:Arabie saoudite
+Category:Turki	Catégorie:Turquie
+Category:Koonfur Afrika	Catégorie:Afrique du Sud
+Category:Masar	Catégorie:Égypte
+Category:Iiraan	Catégorie:Iran
+Category:Arjantiina	Catégorie:Argentine
+Category:Afqaanistan	Catégorie:Afghanistan
+Category:Austriya	Catégorie:Autriche
+Category:Itoobiya	Catégorie:Éthiopie
+Category:Ciraaq	Catégorie:Irak
+Category:Nederland	Catégorie:Pays-Bas
+Category:Bakistaan	Catégorie:Pakistan
+Category:Boland	Catégorie:Pologne
+Category:Bortuqaal	Catégorie:Portugal
+Category:Suudaan	Catégorie:Soudan
+Category:Iswisarland	Catégorie:Suisse
+Category:Fiyetnam	Catégorie:Viêt Nam
+Category:Shimbir	Catégorie:Oiseau
+Category:Fiisikis	Catégorie:Physique
+Category:Bayoloji	Catégorie:Biologie
+Category:Kimisteri	Catégorie:Chimie
+Category:Taariikh	Catégorie:Histoire
+Category:Juqraafi	Catégorie:Géographie
+Category:Diin	Catégorie:Religion
+Category:Ciyaaraha	Catégorie:Sport
+Category:Saynis	Catégorie:Sciences
+SYL	Ligue de la jeunesse somalie
+Category:Isgaadhsiin	Catégorie:Communication
+Jamhuuriyadda Dimuqraadiga Soomaaliya	République démocratique somalie
+Dhaqaallaha Soomaaliya	Économie de la Somalie
+Jabhadda Wadaniga Xoreynta Ogaadeenya)	Front national de libération de l'Ogaden
+Bolol	Mérule pleureuse
+Ciidamada Midowga Afrika	Mission de l'Union africaine en Somalie
+Cabdiraxmaan bin Cawf	Abd ar-Rahmân ibn `Awf
+Dalxa bin Cubeydilah R.C.	Talha ibn Ubayd Allah
+International Rescue Committee	International Rescue Committee
+Ras kambooni	Ras Kamboni
+Luqmaan Alxakiim	Luqman
+Waqtiga Bariga Afrika	Heure d'Afrique orientale
+Cabdiweli Maxamed Cali	Abdiweli Mohamed Ali
+SNM	Somali National Movement
+Laas Geel	Laas Geel
+Riyaalu Saalixiin	Les Jardins des Vertueux
+Xisbiga talada ee dalka jabuuti RPP	Rassemblement populaire pour le progrès
+Sheekh Mukhtaar Abu-Zubeyr	Mokhtar Ali Zubeyr
+Elman FC	Elman Football Club
+Nabi Luud C.S.	Lût
+Muxaram	Mouharram
+Category:Filasoofiyada	Catégorie:Philosophie
+Category:Cilminafsi	Catégorie:Psychologie
+Category:Masiixiyad	Catégorie:Christianisme
+Category:Islaam	Catégorie:Islam
+Goronyo soomaaliyeed	Struthio molybdophanes
+Dafo	Aigle
+PornoTube	PornoTube
+Badh	Un demi
+May 2013	Mai 2013
+10-ka saxaabi ee Janada loogu bishaareeyay iyagoo nool	Al-'Achara al-Moubachiroûna bi al-Janna
+Digaagad	Poule
+Diig	Coq
+Suxufi Ibraahim	Feuillets d'Ibrahim
+Jaamacadda Roma Tre	Université de Rome III
+Ruqiya bint Muxamed	Ruqayya bint Mouhammed
+Kobra	Cobra
+Xaasaska Nebi Muxamed	Épouses de Mahomet
+Saldanadii Cadal	Adal
+Umm Kaltuum bint Muxamed	Oumm Koulthoum bint Mouhammed
+Nabi Yuunus C.S.	Jonas
+Dad	Peuple
+Xiriirka Soomaaliyeed ee Kubadda koleyga	Équipe de Somalie de basket-ball
+Abdal-Xamiid Kishk	Abd al-Hamid Kichk
+Universidade do Estado de Minas Gerais	Universidade do Estado de Minas Gerais
+Ciidanka Soomaaliya	Forces armées somaliennes
+Nuur ibn Mujaahid	Nur ibn al-Wazir Mujahid
+Cayn	Ayn (Somalie)
+Khaatumo state	Khatumo
+Dastuurka Soomaaliya	Constitution de la Somalie
+Bianca Castanho	Bianca Castanho
+Mareer	Cordia sinensis
+Sheekh Aaden Maxamed Nuur	Adan Mohamed Nuur Madobe
+Maher Zain	Maher Zain
+Cabdi Shakuur Sheekh Xassan Farax	Abdi Shakur Sheikh Hassan
+Cali Cabdi faarax	Ali Abdi Farah
+Boqor Najaashi	Ashama ibn Abjar
+Jaamacada Urdun Ee Culuumta Iyo Teknoloojiyada	Université jordanienne des sciences et de la technologie
+Laan	Branche (botanique)
+Category:Dhaqan	Catégorie:Culture
+Category:Tobaneeyada sano	Catégorie:Décennie
+Category:Sanad	Catégorie:Année
+Category:Qaaradaha	Catégorie:Continent
+Buulo mareer	Buulo Mareer
+Dolo	Dolo (Éthiopie)
+Degmooyinka arjentiin	Organisation territoriale de l'Argentine
+Edmond Debeaumarché	Edmond Debeaumarché
+Radio Muqdisho	Radio Mogadisho
+Fiat 682 N3	Fiat 682
+Doorashada Madaxtinimada Soomaaliya, 2012	Élection présidentielle somalienne de 2012
+Hibo nuura	Hibo Nuura
+Paolla Oliveira	Paola Oliveira
+Portal:Cilmi Fallag	Portail:Astronomie
+Portal:Juqraafi	Portail:Géographie
+Neef	Maladie respiratoire
+Gunbur	Pyramide
+Jano	Paradis
+Liiska Xisbiyada Siyaasadda Soomaaliya	Partis politiques de la Somalie
+Xudun	Xudun
+Quljeed	Quljeed
+Turunbo	Tambûr
+Ibraahim bin Muxamed	Ibrahim Ibn Muhammad
+Tiro	Comte
+Jaamacada Burco	Université de Burao
+Jaamacada Kismaayo	Université de Kismaayo
+Anna Rita Del Piano	Anna Rita Del Piano
+Category:Wikipedia bots	Catégorie:Bot Wikipédia
+Dagaal Dhaqameedka shiineeska	Arts martiaux chinois
+Portal:Bulsho	Portail:Société
+Cufka atamka	Masse atomique
+Wikipedia:Su'aal/Hordhac	Wikipédia:Oracle
+Wikipedia:Graphics Lab	Wikipédia:Atelier graphique
+Template:Wikipedialang	Modèle:Wikipedialang
+Category:Wadamada	Catégorie:Pays
+Wikipedia:Maamulka	Wikipédia:Administrateur
+Category:Shaqsiyadaad	Catégorie:Personnalité
+Wikipedia:Requests for adminship	Wikipédia:Candidature au statut d'administrateur
+Wikipedia:Bots	Wikipédia:Bot
+Category:Amin	Catégorie:Temps
+Category:Internet	Catégorie:Internet
+Category:Siyaasad	Catégorie:Politique
+Category:Waxbarasho	Catégorie:Éducation
+Category:Araga	Catégorie:Optique
+Category:Fan	Catégorie:Art
+Masar	Égypte
+Category:Filasoofiyaasha	Catégorie:Philosophe
+Category:Doorashooyinka	Catégorie:Élection
+Template:Bot	Modèle:Bot
+Kanada	Canada
+Category:Denmark	Catégorie:Danemark
+Category:Giriig	Catégorie:Grèce
+Category:Iswiidhan	Catégorie:Suède
+Category:Islofaakiya	Catégorie:Slovaquie
+Wikipedia:Copyright	Wikipédia:Droit d'auteur
+Wikipedia:Ku saabsan	Wikipédia:À propos
+Category:Microsoft	Catégorie:Microsoft
+Portal:Saynis	Portail:Sciences
+Wikipedia:Ogaysiiska Maamulka	Wikipédia:Bulletin des administrateurs
+Template:Flagicon	Modèle:Drapeau
+Category:Wadamada Yurub	Catégorie:Pays d'Europe
+Category:Yurub	Catégorie:Europe
+Wikipedia:Bogga Isticmaalaha	Aide:Page utilisateur
+Portal:Dhacdooyinka Hadda	Portail:Actualité
+Template:Documentation	Modèle:Documentation
+Category:Delete	Catégorie:Wikipédia:Suppression
+Wikipedia:Ilaalinta badelka	Wikipédia:Protection
+Wikipedia:Albaabka bulshada	Wikipédia:Accueil de la communauté
+Category:Luqadaha wikipediyaasha	Catégorie:Wikipédiens par langue
+Wikipedia:Shan walxood	Wikipédia:Principes fondateurs
+Wikipedia:Userboxes	Wikipédia:Boîte Utilisateur
+Wikipedia:Saxiix	Aide:Signature
+Sung Jae-ki	Sung Jae-ki
+Caa'isha binti Abiibakar	Aïcha
+Android software development	Android SDK
+Ganacsi	Entreprise
+Instituto Federal da Bahia	École polytechnique fédérale de Bahia
+Template:Softredirect	Modèle:Redirection douce
+Template:Tirtir	Modèle:Suppression Immédiate
+Category:Teknooloji	Catégorie:Technologie
+Category:Afafka	Catégorie:Langue
+Category:Kalandar	Catégorie:Calendrier
+Category:Wikipedia	Catégorie:Wikipédia
+Wikipedia:Masuul la'aan guud	Wikipédia:Avertissements généraux
+Category:Pages with broken file links	Catégorie:Page avec des liens de fichiers brisés
+Wikipedia:Tirakoob	Wikipédia:Statistiques
+Wikipedia:Xeerka Wiki	Wikipédia:Politique de confidentialité
+Template:Navbox	Modèle:Méta palette de navigation
+Template:Xaqiiq	Modèle:Citation nécessaire
+Portal:Siiro	Portail:Biographie
+Template:!	Modèle:!
+Template:Tnavbar	Modèle:Tnavbar
+Template:Clear	Modèle:Clr
+Template:Nowrap	Modèle:Nobr
+Millan	Solution (chimie)
+Wikipedia:Maqaalada aan u baahan laheen	Wikipédia:Articles vitaux
+Category:Afrika	Catégorie:Afrique
+Category:Elektaroonig	Catégorie:Électronique
+Category:Kitaabka quduska	Catégorie:Bible
+Category:Buugta	Catégorie:Livre
+Category:Bilaha	Catégorie:Mois
+Template:Babel	Modèle:Boîte Babel
+Template:Reflist	Modèle:Références
+Category:Isbitaal	Catégorie:Centre hospitalier
+Wikipedia:Soo bandhigida xogta	Wikipédia:Citez vos sources
+Template:Digniin	Modèle:Avertissement
+Template:Gumud	Modèle:Ébauche
+Template:User ar-1	Modèle:Utilisateur ar-1
+Template:See also	Modèle:Article connexe
+Template:User da-2	Modèle:Utilisateur da-2
+Template:User da	Modèle:Utilisateur da
+Template:User de	Modèle:Utilisateur de
+Template:User de-1	Modèle:Utilisateur de-1
+Template:User es	Modèle:Utilisateur es
+Template:User de-3	Modèle:Utilisateur de-3
+Template:User en-3	Modèle:Utilisateur en-3
+Template:User en-1	Modèle:Utilisateur en-1
+Template:User en-2	Modèle:Utilisateur en-2
+Template:User en-4	Modèle:Utilisateur en-4
+Template:User fi	Modèle:Utilisateur fi
+Template:User en-0	Modèle:Utilisateur en-0
+Template:User en	Modèle:Utilisateur en
+Template:User de-2	Modèle:Utilisateur de-2
+Template:User fi-1	Modèle:Utilisateur fi-1
+Template:User fr-1	Modèle:Utilisateur fr-1
+Template:User sk	Modèle:Utilisateur sk
+Template:User fr-2	Modèle:Utilisateur fr-2
+Template:User ja	Modèle:Utilisateur ja
+Template:User ja-1	Modèle:Utilisateur ja-1
+Template:User fr	Modèle:Utilisateur fr
+Category:Aasiya	Catégorie:Asie
+Category:Jili	Catégorie:Chili
+Category:Ameerikada koonfureed	Catégorie:Amérique du Sud
+Template:Mod	Modèle:Mod
+Template:User es-2	Modèle:Utilisateur es-2
+Template:Country data Belgium	Modèle:Country data Belgique
+Category:Maalmaha usbuuca	Catégorie:Jour de la semaine
+Template:Navy/core	Modèle:Marine de guerre/callback
+Category:Bogga Hore	Catégorie:Wikipédia:Accueil principal
+Template:Country data Ethiopia	Modèle:Country data Éthiopie
+Template:Country data Cuba	Modèle:Country data Cuba
+Template:Country data Kenya	Modèle:Country data Kenya
+Template:Country data Denmark	Modèle:Country data Danemark
+Template:Country data Bosnia and Herzegovina	Modèle:Country data Bosnie-Herzégovine
+Template:Number of defined parameters	Modèle:Nombre de paramètres définis
+Template:Country data Norway	Modèle:Country data Norvège
+Template:Country data Argentina	Modèle:Country data Argentine
+Template:Country showdata	Modèle:Country showdata
+Template:Image label	Modèle:Image label
+Template:Country data Mexico	Modèle:Country data Mexique
+Template:Country data Saudi Arabia	Modèle:Country data Arabie saoudite
+Template:Dalalka Afrika	Modèle:Palette Pays d'Afrique
+Template:Country data Iraq	Modèle:Country data Irak
+Template:Country data United Arab Emirates	Modèle:Country data Émirats arabes unis
+Template:Kutaal	Modèle:Localisation ville
+Template:Country data Australia	Modèle:Country data Australie
+Template:Navigation templates	Modèle:Palette Modèles navigationnels
+Template:Infobox Xooga Dalka Soomaaliyeed	Modèle:Infobox Armée
+Template:Country data Austria	Modèle:Country data Autriche
+Template:Country data Nepal	Modèle:Country data Népal
+Template:Country data Finland	Modèle:Country data Finlande
+Wikipedia:Tutorial (Wikipedia links)	Wikipédia:Liens internes
+Template:Country data Netherlands	Modèle:Country data Pays-Bas
+Template:Maqaal Xul Ah	Modèle:Article de qualité
+Template:Country data Russian Federation	Modèle:Country data Russie
+Category:Gaana	Catégorie:Ghana
+Category:User en	Catégorie:Utilisateur en
+Category:User en-2	Catégorie:Utilisateur en-2
+Template:Navy	Modèle:Marine de guerre
+Template:User eo	Modèle:Utilisateur eo
+Template:User zh	Modèle:Utilisateur zh
+Category:Farta	Catégorie:Alphabet
+Template:Template other	Modèle:Template other
+Template:Country data Italy	Modèle:Country data Italie
+Template:Country data	Modèle:Country data
+Template:Infobox Dhacdo	Modèle:Infobox Événement
+Template:Pp-template	Modèle:Protection
+Template:Min	Modèle:Min
+Category:Astaannta Qaranka	Catégorie:Blason
+Category:Beeraha	Catégorie:Agriculture
+Template:Maamulka	Modèle:Admin
+Category:Dowladaha	Catégorie:État
+Category:Bahda Midaysay Qoraxdu	Catégorie:Planète du système solaire
+Template:Country data Soviet Union	Modèle:Country data Union soviétique
+Template:Country data India	Modèle:Country data Inde
+Category:Falastiin	Catégorie:Palestine
+Category:Language user templates	Catégorie:Langue pour les boîtes utilisateurs
+Template:Navbox subgroup	Modèle:Méta palette de navigation sous-groupe
+Template:Farac	Modèle:Infobox Groupe ethnique
+Template:Category redirect	Modèle:Catégorie redirigée
+Template:Macluumaad Qof Madax Ah	Modèle:Infobox Politicien
+Template:Border	Modèle:Bordure
+Template:Country data Turkey	Modèle:Country data Turquie
+Category:Qoraaga	Catégorie:Écrivain
+Category:Jaamacadaha	Catégorie:Université
+Wikipedia:Maxaan akoon usamaynayaa	Aide:Compte utilisateur
+Template:Country data Nigeria	Modèle:Country data Nigeria
+Template:Hidden begin	Modèle:Boîte déroulante/début
+Template:Country data Malaysia	Modèle:Country data Malaisie
+Template:User pt-1	Modèle:Utilisateur pt-1
+Template:Infobox planet	Modèle:Infobox Planète
+Template:User nl	Modèle:Utilisateur nl
+Template:Infobox website	Modèle:Infobox Site web
+Template:Image label end	Modèle:Image label fin
+Template:Documentation subpage	Modèle:Sous-page de documentation
+Template:Infobox number	Modèle:Infobox Nombre
+Category:Dekedaha	Catégorie:Port
+Template:Lang-la	Modèle:Lang-la
+Template:Macluumaad askariga	Modèle:Infobox Personnalité militaire
+Template:User	Modèle:U
+Template:References	Modèle:À sourcer
+Template:Jadwal	Modèle:Prettyinfobox
+Template:Infobox former country	Modèle:Infobox Ancienne entité territoriale
+Template:1	Modèle:Médaille d'or
+Template:Infobox Political post	Modèle:Infobox Poste politique
+Template:Kaydka wadahadalka	Modèle:Archive de discussion
+Portal:Fiisikis	Portail:Physique
+Template:User de-0	Modèle:Utilisateur de-0
+Template:Usbuuc	Modèle:Palette Jours de la semaine
+Template:User fr-0	Modèle:Utilisateur fr-0
+Template:Country data West Germany	Modèle:Country data Allemagne de l'Ouest
+Template:Hooyga Maqaalada	Modèle:Browsebar
+Template:Hidden end	Modèle:Boîte déroulante/fin
+Category:Booliis	Catégorie:Police
+Template:Country data Comoros	Modèle:Country data Comores
+Template:User sandbox	Modèle:Utilisateur brouillon
+Template:High-risk	Modèle:Inclusion
+Template:Country data Qadar	Modèle:Country data Qatar
+Template:Country data Ukrain	Modèle:Country data Ukraine
+Template:Country data Pakistan	Modèle:Country data Pakistan
+Template:User pt-0	Modèle:Utilisateur pt-0
+Template:Higgaad	Modèle:Orthographe
+Template:User pt-3	Modèle:Utilisateur pt-3
+Template:User pt-2	Modèle:Utilisateur pt-2
+Category:User sk	Catégorie:Utilisateur sk
+Category:User eo	Catégorie:Utilisateur eo
+Category:User ja	Catégorie:Utilisateur ja
+Category:User da-2	Catégorie:Utilisateur da-2
+Template:Correct title	Modèle:Titre incorrect
+Category:User ar	Catégorie:Utilisateur ar
+Category:Jasiirad	Catégorie:Île
+Category:User da	Catégorie:Utilisateur da
+Category:User sk-N	Catégorie:Utilisateur sk-M
+Category:User de	Catégorie:Utilisateur de
+Category:User fi	Catégorie:Utilisateur fi
+Category:Nabiyada Islaamka	Catégorie:Prophète de l'islam
+Template:Country data Burundi	Modèle:Country data Burundi
+Template:Country data Germany	Modèle:Country data Allemagne
+Template:Country data UK	Modèle:Country data Royaume-Uni
+Template:Lambarada	Modèle:Palette Notion de nombre
+Category:User ja-1	Catégorie:Utilisateur ja-1
+Category:User ko	Catégorie:Utilisateur ko
+Template:Macluumaad	Modèle:Information
+Template:Gobollada Soomaaliya	Modèle:Palette Régions et États de facto contestés de Somalie
+Wikipedia:Babel	Wikipédia:Babel
+Template:Help contents back	Modèle:Retour au sommaire de l'aide
+Category:Abwaanada	Catégorie:Poète
+Category:Badaha	Catégorie:Mer
+Template:No2	Modèle:Non2
+Category:Ingiriiska	Catégorie:Angleterre
+Category:Taariikhda Soomaaliya	Catégorie:Histoire de la Somalie
+Leilani Leeane	Leilani Leeane
+Template:Country data Brazil	Modèle:Country data Brésil
+Template:Yes2	Modèle:Oui2
+Category:Ururada caalamiga ah	Catégorie:Organisation internationale
+Template:Siyaasadda Soomaaliya	Modèle:PolitiqueSomalie
+Category:Gobolada Soomaaliya	Catégorie:Région de Somalie
+Category:Juquraafiga Soomaaliya	Catégorie:Géographie de la Somalie
+Template:Country data Somaliland	Modèle:Country data Somaliland
+Category:Madaxda Soomaaliya	Catégorie:Président de Somalie
+Category:Wadamada Afrika	Catégorie:Pays d'Afrique
+Template:User da-3	Modèle:Utilisateur da-3
+Template:User pt-4	Modèle:Utilisateur pt-4
+Category:1542	Catégorie:1542
+Fenerbahce SK	Fenerbahçe Spor Kulübü (football)
+Template:Country data United States	Modèle:Country data États-Unis
+Universidade Federal do Recôncavo da Bahia	Université fédérale de Recôncavo da Bahia
+Category:Farshaxanka	Catégorie:Peintre
+Wikipedia:Xeerka adeegsiga sawirada	Wikipédia:Règles d'utilisation des images
+Template:Raadiyoow	Modèle:Infobox Radio
+Category:Dhirta	Catégorie:Arbre
+Portal:Hiddaha iyo Dhaqanka	Portail:Culture
+Portal:Baayooloji	Portail:Biologie
+Template:Mashquul	Modèle:Wikibreak débordé
+Category:Juquraafiga Hindiya	Catégorie:Géographie de l'Inde
+Category:Jilaaga	Catégorie:Actrice
+Category:Jabuuti	Catégorie:Djibouti
+Category:Ereteriya	Catégorie:Érythrée
+Category:Kiinya	Catégorie:Kenya
+Category:Komoros	Catégorie:Union des Comores
+Category:Libiya	Catégorie:Libye
+Category:Diinta Soomaaliya	Catégorie:Religion en Somalie
+Category:Dhaqaalaha Soomaaliya	Catégorie:Économie de la Somalie
+Category:Lacagta	Catégorie:Monnaie
+Category:Webiyada	Catégorie:Rivière
+Category:Juquraafiga Jabuuti	Catégorie:Géographie de Djibouti
+Template:User pt	Modèle:Utilisateur pt
+Category:Holland	Catégorie:Hollande
+Category:Soomaaliya	Catégorie:Somalie
+Category:Webiyada Soomaaliya	Catégorie:Cours d'eau de Somalie
+Category:Juquraafiga Yemen	Catégorie:Géographie du Yémen
+Category:Magaalooyinka Yemen	Catégorie:Ville du Yémen
+Template:Maanta	Modèle:Calendrier aujourd'hui
+Template:Country data Djibouti	Modèle:Country data Djibouti
+Category:User nl	Catégorie:Utilisateur nl
+Category:Hay'ada laanqayrta cas	Catégorie:Croix-Rouge
+Template:Country data Federated States of Micronesia	Modèle:Country data Micronésie
+Template:Navbar-header	Modèle:Tnavbar-header
+Category:Diffusion	Catégorie:Diffusion
+Category:Suuriya	Catégorie:Syrie
+Category:Qarniyada	Catégorie:Siècle
+Category:Qarnigii 16aad	Catégorie:XVIe siècle
+Category:Qooriyada	Catégorie:Plage
+Category:Filasoofiyaasha Jarmalka	Catégorie:Philosophe allemand
+Category:Harraha Afrika	Catégorie:Lac d'Afrique
+Category:Madaxda Faransiiska	Catégorie:Président de la République française
+Category:Madaxda Iiraan	Catégorie:Président d'Iran
+Category:Norway	Catégorie:Norvège
+Category:Yemen	Catégorie:Yémen
+Category:Malaay	Catégorie:Poisson
+Category:Mutolojiyada	Catégorie:Mythologie
+Category:Qaamuus	Catégorie:Dictionnaire
+Category:Axdiga Cusub	Catégorie:Nouveau Testament
+Category:Ilko	Catégorie:Dent
+Category:Wikimedia	Catégorie:Wikimedia
+Category:Radio	Catégorie:Radio
+Category:Xayawaan	Catégorie:Animal
+Category:Jamhuriyadda	Catégorie:République
+Category:Muqdisho	Catégorie:Mogadiscio
+Category:Jilaaga barasiiliyanka	Catégorie:Actrice brésilienne
+Category:Bartamaha Ameerika	Catégorie:Amérique centrale
+Category:Caasimadaha	Catégorie:Capitale de pays
+Category:Magaalooyinka Hindiya	Catégorie:Ville de l'Inde
+Category:Isgaarsiinta	Catégorie:Télécommunications
+Category:Gaadiidka	Catégorie:Transport
+Category:Ameerikada waqooyi	Catégorie:Amérique du Nord
+Category:Harraha	Catégorie:Lac
+Category:Saxaabada	Catégorie:Sahaba
+Category:Calamada	Catégorie:Drapeau
+Template:Macluumaad luqadda	Modèle:Infobox Langue
+Category:Dimoqraadi	Catégorie:Démocratie
+Kaaroot	Carotte
+Category:Caasimadaha afrika	Catégorie:Capitale d'Afrique
+Template:Gobolada Soomaaliya	Modèle:Palette Régions de Somalie
+Category:Komunistiyaasha Jarmalka	Catégorie:Communiste allemand
+Category:Magaalooyinka Soomaaliya	Catégorie:Ville de Somalie
+Category:Magaalooyinka Jabuuti	Catégorie:Ville de Djibouti
+Category:Guurka	Catégorie:Mariage
+Template:So	Modèle:So
+Category:Lahjadaha looga hadlo Soomaaliya	Catégorie:Langue de Somalie
+Category:Caasimadaha yurub	Catégorie:Capitale européenne
+Category:Somaliland	Catégorie:Somaliland
+Template:Country data Puntland	Modèle:Country data Pount
+Template:H:title	Modèle:H:title
+Category:Caafimaadka	Catégorie:Santé
+Template:Country data Canada	Modèle:Country data Canada
+Template:Coord/display/inline,title	Modèle:Coord/display/inline,title
+Template:Flag	Modèle:Pays
+Template:Country data Malawi	Modèle:Country data Malawi
+Template:Country data South Yemen	Modèle:Country data République démocratique populaire du Yémen
+Template:Country data Uganda	Modèle:Country data Ouganda
+Template:Country data Yemen	Modèle:Country data Yémen
+Template:Lang-pl	Modèle:Lang-pl
+Category:Buuraha Soomaaliya	Catégorie:Montagne de Somalie
+The Narrative	The Narrative
+Portal:Xisaab	Portail:Mathématiques
+Trojany	Trojany (Mazovie)
+Category:Wadamada Aasiya	Catégorie:Pays d'Asie
+Template:Jawiga	Modèle:Palette Temps (météorologie)
+Category:Wikipedia uncategorized templates	Catégorie:Modèle à catégoriser
+Portal:Siyaasadda	Portail:Politique
+Portal:Qaynuun	Portail:Droit
+Category:Abidjan	Catégorie:Abidjan
+Tiirarka Iimaanka	Foi musulmane
+Category:Antananarifo	Catégorie:Antananarivo
+Lug (xubin)	Jambe
+Category:Bamako	Catégorie:Bamako
+Template:Colonne	Modèle:Multicol
+Eray bixin	Terminologie
+Category:Esperanto	Catégorie:Espéranto
+Template:Lang-sv	Modèle:Lang-sv
+Khilaafadii Umawiyiinta	Omeyyades
+Portal:Kimistari	Portail:Chimie
+Category:Linux	Catégorie:Linux
+Category:Soomaali Galbeed	Catégorie:Région Somali
+Category:Siyaasada Soomaaliya	Catégorie:Politique en Somalie
+Category:Komunistiyaasha	Catégorie:Communiste
+Category:Qiyaasaha Masaafooyinka	Catégorie:Unité de longueur
+Category:Midabada	Catégorie:Couleur
+Category:Triboli	Catégorie:Tripoli
+Category:Jaamacadaha Soomaaliya	Catégorie:Université somalienne
+Category:User nl-4	Catégorie:Utilisateur nl-4
+Template:Country data Somalia	Modèle:Country data Somalie
+Template:Image label begin	Modèle:Image label début
+Category:Magaalooyinka Soomaali Galbeed	Catégorie:Ville de la région Somali
+Category:Suuradaha Qur'aanka	Catégorie:Sourate
+Template:Tirada Maqaalada Cusub	Modèle:Nombre de bons articles
+Category:User en-1	Catégorie:Utilisateur en-1
+Category:Saabaan	Catégorie:Meuble
+Category:Gacamada caalamka	Catégorie:Golfe
+Template:Turjumid	Modèle:Traduction incomplète
+Portal:Caafimaad	Portail:Médecine
+Template:Afarta xilli	Modèle:Palette Saison
+Template:User nl-3	Modèle:Utilisateur nl-3
+Template:Madaxweyneyaashii Soomaaliya	Modèle:Palette Président somalien
+Template:Wayback	Modèle:Lien mort archive
+Template:IPA-it	Modèle:API-it
+Portal:Soomaaliya	Portail:Somalie
+Template:Efn	Modèle:Efn
+Gobolka Saylac iyo Lughaya	État de Saylac et Lughaya
+Parvoviruses	Parvoviridae
+Wikipedia:Editnotice	Wikipédia:Notice d'édition
+Template:Qoraal qarsoon	Modèle:Section déroulante début
+Adnan Januzaj	Adnan Januzaj
+Gobolada Soomaaliya	Régions de Somalie
+Barkhad Cabdi	Barkhad Abdi
+Special:RecentChanges	Spécial:Modifications récentes
+Aqriste	Lecteur
+Kaniisad	Église
+Category:Wabiyada Afrika	Catégorie:Cours d'eau d'Afrique
